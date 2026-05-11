@@ -11,7 +11,17 @@ document (8).pdf
 articles/data/
 compounds/data/
 test-data/
+reviews/
 data/
+
+# One-off scripts and design notes (local only)
+/merge_kb.py
+/articles/TRIAGE_NOISE_FILTERING_2026_05_01.md
+/articles/review_example.txt
+/articles/CHANGES_self_reported_grading.md
+
+# Arweave key material
+Arweave-Cli/arweave-keyfile-*.json
 
 # Embedded / copied Python environments
 agent/

@@ -59,6 +59,7 @@ def classify_claim_raw(client: OpenAI, model: str, claim: str) -> str:
                 model=model,
                 max_tokens=MAX_CLASSIFIER_TOKENS,
                 temperature=0,
+                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": claim},

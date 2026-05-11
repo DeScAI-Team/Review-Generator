@@ -44,6 +44,7 @@ TEXT:
                 model=MODEL,
                 max_tokens=1024,
                 temperature=0,
+                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
                 messages=[{"role": "user", "content": prompt}],
             )
             content = response.choices[0].message.content

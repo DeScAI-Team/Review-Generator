@@ -311,6 +311,7 @@ async def _verdict_fallback(
             ],
             max_tokens=32,
             temperature=0.0,
+            extra_body={"chat_template_kwargs": {"enable_thinking": False}},
         )
         raw = (resp.choices[0].message.content or "").strip().lower().strip(".")
         if raw in VALID_VERDICTS:
@@ -336,6 +337,7 @@ async def _rationale_fallback(
             ],
             max_tokens=128,
             temperature=0.0,
+            extra_body={"chat_template_kwargs": {"enable_thinking": False}},
         )
         raw = (resp.choices[0].message.content or "").strip()
         if raw and len(raw) > 5:
@@ -395,6 +397,7 @@ async def validate_claim(
                     response_format={"type": "json_object"},
                     max_tokens=current_max_tokens,
                     temperature=0.0,
+                    extra_body={"chat_template_kwargs": {"enable_thinking": False}},
                 )
                 content = response.choices[0].message.content
                 raw = (content or "").strip()

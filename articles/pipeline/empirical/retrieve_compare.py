@@ -40,10 +40,12 @@ EMPIRICAL_UNREFERENCED_TAGS: frozenset[str] = frozenset(
     {"Causal", "Correlational", "Mechanistic", "Performance"}
 )
 
-SELF_REPORTED_SEMANTIC: frozenset[str] = frozenset({"abstract", "result"})
+SELF_REPORTED_SEMANTIC: frozenset[str] = frozenset({"abstract", "result", "discussion"})
 SELF_REPORTED_FACT_TAGS: frozenset[str] = frozenset(
-    {"Observational", "Measurement", "Causal", "Comparative", "Correlational"}
+    {"Observational", "Measurement", "Causal", "Comparative",
+     "Correlational", "Methodological", "Benchmark", "Performance"}
 )
+_SELF_REPORTED_CLAIM_TYPES: frozenset[str] = frozenset({"Fact", "Interpretation", "Result", "Assertion"})
 
 _METHOD_HEADING_HINTS: frozenset[str] = frozenset([
     "method", "materials", "protocol", "husbandry", "toxicity",
@@ -52,7 +54,11 @@ _METHOD_HEADING_HINTS: frozenset[str] = frozenset([
 ])
 _RESULT_HEADING_HINTS: frozenset[str] = frozenset([
     "result", "finding", "efficacy", "differentially expressed",
-    "enrichment", "transcriptomic",
+    "enrichment", "transcriptomic", "vs.", "versus", "control",
+    "treated", "exposed", "induced", "affected",
+])
+_DISCUSSION_HEADING_HINTS: frozenset[str] = frozenset([
+    "discussion", "interpretation", "implications", "conclusion",
 ])
 _ABSTRACT_HEADING_HINTS: frozenset[str] = frozenset(["abstract", "key messages"])
 
@@ -378,6 +384,7 @@ def _llm_json_call(
                 "model": MODEL,
                 "max_tokens": max_tokens,
                 "temperature": 0,
+                "extra_body": {"chat_template_kwargs": {"enable_thinking": False}},
                 "messages": [
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_content},
@@ -455,24 +462,39 @@ def _effective_semantic_category(rec: dict[str, Any]) -> str:
         return "method"
     if any(kw in heading for kw in _RESULT_HEADING_HINTS):
         return "result"
+    if any(kw in heading for kw in _DISCUSSION_HEADING_HINTS):
+        return "discussion"
     return sem or "other"
 
 
 def _is_self_reported_fact_claim(rec: dict[str, Any]) -> bool:
-    """Primary findings stated in abstract/results without inline external cites."""
+    """Primary findings stated in abstract/results/discussion.
+
+    Matches when the claim is in a self-reported section AND either:
+      - has matching empirical tags, OR
+      - has an allowed claim_type with no tags (KB didn't populate them)
+    """
     sem = _effective_semantic_category(rec)
     if sem not in SELF_REPORTED_SEMANTIC:
         return False
-    if str(rec.get("claim_type") or "").strip() != "Fact":
+    ct = str(rec.get("claim_type") or "").strip()
+    if ct and ct not in _SELF_REPORTED_CLAIM_TYPES:
         return False
     tags = _tags_for_claim(rec)
-    return bool(tags & SELF_REPORTED_FACT_TAGS)
+    if tags:
+        return bool(tags & SELF_REPORTED_FACT_TAGS)
+    return ct in _SELF_REPORTED_CLAIM_TYPES
 
 
 def _is_self_reported_method_claim(rec: dict[str, Any]) -> bool:
-    """Protocol/procedure claims from method sections — no external citation expected."""
+    """Protocol/procedure claims from method/result/discussion sections."""
     sem = _effective_semantic_category(rec)
-    return sem == "method"
+    if sem == "method":
+        return True
+    if sem in ("result", "discussion"):
+        tags = _tags_for_claim(rec)
+        return "Methodological" in tags if tags else False
+    return False
 
 
 def _self_reported_summary(rec: dict[str, Any], *, skip_llm: bool, method: bool = False) -> str:
@@ -935,6 +957,14 @@ def enrich_triaged(
             truncate_abstract=500,
             verdicts=verdicts,
         )
+
+        if grade in ("unsupported", "unreferenced") and (
+            _is_self_reported_fact_claim(rec) or _is_self_reported_method_claim(rec)
+        ):
+            is_method = _is_self_reported_method_claim(rec)
+            grade = "self_reported_method" if is_method else "self_reported"
+            summary = _self_reported_summary(rec, skip_llm=False, method=is_method)
+
         rec["evidence_grade"] = grade
         rec["evidence_summary"] = summary
 

@@ -1,87 +1,104 @@
-# Step 5 — Claim classification (JSONL enricher)
+# Articles Pipeline
 
-This step takes **validated claims** from step 4 and adds **semantic claim-type tags** using the same local vLLM (OpenAI-compatible chat API) as the rest of the pipeline. Each input record is copied through unchanged, with three new fields that hold up to three allowlisted tags in fixed slots.
+This folder contains the full claim extraction and evidence review pipeline for empirical research papers. All scripts live under `pipeline/` and are driven end-to-end by `run_pipe2.py` at the repo root.
 
-## What it does
+## Pipeline overview (13 steps)
 
-- Reads JSONL where each line is one claim object (typically `claim-extract-test/validated_claims.jsonl`).
-- For each record, sends **only** the `claim` string to the model. No chunk text, section headings, or validator fields are included in the user message.
-- Uses the **entire** contents of [`prompts/claim_classification_prompt_v4 (1).md`](prompts/claim_classification_prompt_v4%20(1).md) as the **system** message (classifier instructions). That file is the single source of truth for both instructions and the official tag list.
-- Parses the model reply as whitespace-separated tokens, keeps tokens that appear **exactly** in the tag list from the prompt (no typo correction), preserves order, deduplicates (first occurrence wins), and keeps at most **three** tags.
-- Writes JSONL where each line is the **original object** plus `claim_classification_1`, `claim_classification_2`, and `claim_classification_3`.
+| Step | Script | Input | Output |
+|------|--------|-------|--------|
+| 1 | `pipeline/claim-extract/spacy_test.py` | `text_knowledge_base.jsonl` | `test_output_tagged.jsonl` |
+| 2 | `pipeline/claim-extract/LLM_extract.py` | `test_output_tagged.jsonl` | `final_claims_for_audit.jsonl` |
+| 3 | `pipeline/claim-extract/claim_validator.py` | `final_claims_for_audit.jsonl` | `validated_claims.jsonl` |
+| 4 | `pipeline/classify_claims.py` | `validated_claims.jsonl` | `classified_claims.jsonl` |
+| 5 | `pipeline/group.py` | `classified_claims.jsonl` | `grouped.json` |
+| 6 | `pipeline/empirical/triage.py` | `grouped.json` | `triaged.json` |
+| 7 | `pipeline/empirical/retrieve_compare.py` | `triaged.json` + KB + `full.md` | `retrieve_compare_llm.json` |
+| 8 | `pipeline/empirical/prep.py` | `retrieve_compare_llm.json` | `prepped_evidence.json` |
+| 9 | `pipeline/empirical/review.py` | `prepped_evidence.json` | `review.json` |
+| 10 | `pipeline/empirical/originality_check.py` | KB + `full.md` | `originality.json` (patches `review.json`) |
+| 11 | `pipeline/empirical/screener.py` | `full.md` + caches | `screener.json` (patches `review.json`) |
+| 12 | `pipeline/empirical/score.py` | `review.json` + all intermediates | `review.json` (final scores + composite) |
+| 13 | `pipeline/empirical/evidence-doc.py` | `review.json` + intermediates | `evidence_audit.md` |
+
+Steps 1–5 extract, validate, classify, and group claims. Steps 6–13 (the **empirical evidence pipeline**) grade those claims against cited references, assess originality, screen the full document, compute unified scores, and produce an audit trail. See [`pipeline/empirical/PIPELINE.md`](pipeline/empirical/PIPELINE.md) for detailed documentation of steps 6–13.
 
 ## Prerequisites
 
-- `openai` and `python-dotenv` (same as steps 3–4).
-- A reachable vLLM (or compatible) server; see the root [README.md](../README.md) for base URL and model configuration.
+- Python 3.10+
+- `openai`, `python-dotenv` (LLM steps)
+- `docling`, `spacy`, `transformers` (PDF chunking and tagging — step 0 / `add_data.py`)
+- A reachable vLLM (or OpenAI-compatible) server; see the root [README.md](../README.md) for base URL and model configuration.
 
-## Run
+## Running
 
 From the **repository root**:
 
 ```bash
-python claim-classifier/classify_claims.py
+python run_pipe2.py                  # full run (steps 1-13)
+python run_pipe2.py --from-step 4    # resume from classify
+python run_pipe2.py --from-step 6    # triage onward (empirical pipeline)
+python run_pipe2.py --from-step 12   # unified scoring + evidence audit
+python run_pipe2.py --skip-llm       # skip LLM evidence grading
 ```
 
-Defaults:
+`run_pipe2.py` expects a pre-existing `text_knowledge_base.jsonl` (produced by `pipeline/claim-extract/add_data.py` or copied manually). Use `--model` to override the vLLM model name.
 
-- **Input:** `claim-extract-test/validated_claims.jsonl`
-- **Output:** `claim-classifier/classified_claims.jsonl` (parent directory is created if needed)
+## Directory layout
 
-Override paths:
-
-```bash
-python claim-classifier/classify_claims.py --input path/to/in.jsonl --output path/to/out.jsonl
+```
+articles/
+├── pipeline/
+│   ├── claim-extract/        Steps 1-3: spaCy tagging, LLM extraction, validation
+│   │   ├── add_data.py       PDF → text_knowledge_base.jsonl (step 0)
+│   │   ├── spacy_test.py
+│   │   ├── LLM_extract.py
+│   │   └── claim_validator.py
+│   ├── classify_claims.py    Step 4: semantic claim-type tags
+│   ├── group.py              Step 5: group by scoring dimension
+│   ├── prep.py               Legacy prep (claim narratives only)
+│   ├── review.py             Legacy review (claim-only rationales)
+│   ├── read-paper.py         Standalone PDF reader
+│   ├── classify-paper.py     Standalone paper classifier
+│   ├── journal-article.py    Journal-article helper
+│   ├── mappings.json         Dimension definitions, tag index, weights, rubrics
+│   └── empirical/            Steps 6-13: evidence grading pipeline
+│       ├── PIPELINE.md       Detailed docs for empirical stages
+│       ├── triage.py
+│       ├── retrieve_compare.py
+│       ├── prep.py
+│       ├── review.py
+│       ├── originality_check.py
+│       ├── screener.py
+│       ├── score.py
+│       ├── evidence-doc.py
+│       ├── empirical-pipe.py  Standalone empirical driver (steps/ + output/ layout)
+│       └── prompts/           LLM prompt templates for each empirical stage
+├── prompts/                   Shared prompts (classification, verdict fallbacks, etc.)
+└── data/                      Per-paper run folders (gitignored)
 ```
 
-Processing is **sequential** (one claim per request). Progress is printed every 25 classified claims.
+## Configuration
 
-## Environment variables
-
-Loaded from `.env` in the repo root (same pattern as other pipeline scripts).
+All LLM steps share the same environment variables. Set via `.env` in the repo root.
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `VLLM_BASE_URL` | `http://localhost:8000/v1` | OpenAI-compatible API base URL |
+| `VLLM_BASE_URL` | `http://localhost:8000/v1` | vLLM OpenAI API base URL |
 | `VLLM_API_KEY` | `none` | API key if required by the server |
-| `CLASSIFIER_MODEL` | value of `VALIDATOR_MODEL`, else `mixtral-8x7b-instruct` | Model id for classification |
-| `VALIDATOR_MODEL` | `mixtral-8x7b-instruct` | Used as fallback when `CLASSIFIER_MODEL` is unset |
+| `VALIDATOR_MODEL` | `mixtral-8x7b-instruct` | Model id used across all LLM steps |
+| `CLASSIFIER_MODEL` | (same as `VALIDATOR_MODEL`) | Optional override for step 4 |
+| `VALIDATOR_CONCURRENCY` | `15` | Max concurrent validation requests (step 3) |
 
-## Output schema
+## Key outputs
 
-Each output line is the input object with these keys **always** present:
-
-| Key | Type | Meaning |
-|-----|------|--------|
-| `claim_classification_1` | JSON array of 0 or 1 string | First tag after filtering, or `[]` |
-| `claim_classification_2` | JSON array of 0 or 1 string | Second distinct tag, or `[]` |
-| `claim_classification_3` | JSON array of 0 or 1 string | Third distinct tag, or `[]` |
-
-Example (two tags):
-
-```json
-{
-  "claim": "…",
-  "verdict": "supported",
-  "claim_classification_1": ["Hypothesis"],
-  "claim_classification_2": ["Benchmark"],
-  "claim_classification_3": []
-}
-```
-
-If `claim` is missing or empty, the script **does not** call the model; all three classification fields are `[]`.
-
-If the API fails after retries, the raw model text is treated as empty, so all three fields are `[]` for that line (the rest of the record is still written).
-
-## Tags and strict labels
-
-Allowed tags are parsed at runtime from the `Tags:` block in the prompt markdown. Any token from the model that is not an **exact** match is dropped. Downstream tooling should rely on these strings as stable labels.
-
-## Next step — grouping and LLM narratives (optional)
-
-Classified JSONL can be grouped by scoring dimension and enriched with a one-line `claim_narrative` per record using [`articles/pipeline/group.py`](../pipeline/group.py) and [`articles/pipeline/prep.py`](../pipeline/prep.py). `group.py` drops known bogus placeholder claims (e.g. “No scientific claims identified in the text.”) before grouping, and sets each dimension’s **`score`** to **verdict support ratio × (mean `relevancy_score` raised to γ, default √)** so background-heavy groups are penalized less than a raw product, then **shrinks toward 0.5** when the group has few members (`SCORE_SHRINK_PRIOR` and optional `RELEVANCY_BLEND_EXPONENT` in code; see root [README.md](../README.md) **Grouping & narratives**).
+| File | Description |
+|------|-------------|
+| `review.json` | Final structured review: per-dimension scores, `composite_score`, rationales, review statement |
+| `overview.json` | Plain-language companion (when LLM overview is enabled in `score.py`) |
+| `evidence_audit.md` | Human-readable audit trail: provenance, scores, claim/citation trace, screener quotes, originality |
 
 ## Related documentation
 
-- Pipeline overview and steps 1–7: [README.md](../README.md)
+- Root pipeline overview and vLLM config: [README.md](../README.md)
+- Empirical evidence pipeline details: [pipeline/empirical/PIPELINE.md](pipeline/empirical/PIPELINE.md)
 - Cluster / full-run notes: [RUN_FULL_PIPELINE.md](../RUN_FULL_PIPELINE.md)
