@@ -19,8 +19,11 @@ articles/article_uploader/__pycache__
 
 # data
 articles/data/*
+!articles/data/.gitkeep
 compounds/data/*
+!compounds/data/.gitkeep
 proposals/data/*
+!proposals/data/.gitkeep
 reviews/ 
 test-data/ 
 
