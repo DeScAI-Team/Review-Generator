@@ -1,24 +1,55 @@
 import {upload, retrieve} from './arweaveService.js';
 import fs from 'fs';
 
-//Command Line Arguments From User
-const testFile = process.argv[2];
-const outputFile = process.argv[3];
+/**
+ * Usage:
+ *   node arweaveServiceCLI.js <filePath> [--out <downloadPath>] [--tag name=value ...]
+ * Legacy: node arweaveServiceCLI.js <filePath> <downloadPath>  (same as --out <downloadPath>)
+ */
+function parseArgs(argv) {
+  const tokens = argv.slice(2);
+  const tags = [];
+  let outPath = null;
+  const positionals = [];
+  for (let i = 0; i < tokens.length; i++) {
+    const t = tokens[i];
+    if (t === '--out' && i + 1 < tokens.length) {
+      outPath = tokens[++i];
+      continue;
+    }
+    if (t === '--tag' && i + 1 < tokens.length) {
+      const raw = tokens[++i];
+      const eq = raw.indexOf('=');
+      if (eq > 0) {
+        tags.push({ name: raw.slice(0, eq), value: raw.slice(eq + 1) });
+      }
+      continue;
+    }
+    if (!t.startsWith('-')) {
+      positionals.push(t);
+    }
+  }
+  let filePath = positionals[0] ?? null;
+  if (!outPath && positionals.length >= 2) {
+    outPath = positionals[1];
+  }
+  return { filePath, outPath, tags };
+}
 
-//If Command Line Arguments Not Written
-if(!testFile){
-  console.error('Error: Please provide a test file (and download path if desired) as argument.');
+const { filePath, outPath: outputFile, tags } = parseArgs(process.argv);
+
+if(!filePath){
+  console.error('Error: Please provide a file path. Optional: --out <path> [--tag name=value ...]');
   process.exit(1);
 }
 
 async function runTest(){
   console.log('--- Starting Upload ---');
-  const uploadInfo = await upload(testFile);
+  const uploadInfo = await upload(filePath, { tags });
   
   if (uploadInfo.success) {
     console.log(`File is live at: ${uploadInfo.webUrl}`);
     
-    //Write (if argument given)
     if(outputFile){
       console.log('\n--- Starting Retrieval ---');
       const download = await retrieve(uploadInfo.txId);
@@ -33,6 +64,8 @@ async function runTest(){
         });
       }
     }
+  } else {
+    process.exit(1);
   }
 }
 

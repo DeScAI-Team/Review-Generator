@@ -204,6 +204,44 @@ def classify_article_type(
     return "empirical"
 
 
+def _scale_review_scores_0_to_100_inplace(data: dict) -> None:
+    """Multiply composite_score and each category score by 100 (0-1 to 0-100). Mutates data."""
+    cs = data.get("composite_score")
+    if isinstance(cs, (int, float)):
+        data["composite_score"] = float(cs) * 100.0
+
+    cats = data.get("categories")
+    if not isinstance(cats, dict):
+        return
+    for cat in cats.values():
+        if not isinstance(cat, dict):
+            continue
+        sc = cat.get("score")
+        if isinstance(sc, (int, float)):
+            cat["score"] = float(sc) * 100.0
+
+
+def scale_article_output_scores_to_percent(output_dir: Path) -> None:
+    """Scale review.json and overview.json scores from 0-1 to 0-100 before upload."""
+    for name in ("review.json", "overview.json"):
+        path = output_dir / name
+        if not path.is_file():
+            continue
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            print(f"  ! Warning: could not parse {path}: {e}", file=sys.stderr)
+            continue
+        if not isinstance(data, dict):
+            continue
+        _scale_review_scores_0_to_100_inplace(data)
+        path.write_text(
+            json.dumps(data, indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8",
+        )
+        print(f"  Scaled scores 0-1 -> 0-100: {path.name}")
+
+
 def route_to_pipeline(
     article_type: str,
     work_dir: Path,
@@ -533,6 +571,7 @@ Examples:
                 print(f"  ! Warning: No output directory found at {upload_output_dir}")
                 print(f"    Skipping upload step.")
             else:
+                scale_article_output_scores_to_percent(upload_output_dir)
                 # Import uploader module
                 try:
                     sys.path.insert(0, str(_REPO_ROOT / "articles"))

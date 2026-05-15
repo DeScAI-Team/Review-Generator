@@ -7,7 +7,8 @@ For each named compound, reads pump-science/data/<compound>/:
                            the discover.py label-filter bugfix, unrelated labels are excluded here)
   - prepared_*_agent.json → KEGG longevity pathway flags and pathway name samples
   - units_tagged.jsonl   → mechanism/pathway-context tagged units
-  - *-review.json        → review_statement, scientific_grounding score and rationale, risk rationale
+  - *-review.json        → under ``<repo>/reviews/compounds/<compound>/`` by default:
+                           ``research_name``, ``review_statement``, category scores (0–100) and rationales
 
 Cross-references (no LLM):
   - KEGG longevity pathway overlap: which flags are True across 2+ compounds
@@ -243,7 +244,12 @@ def _extract_mechanism_units(tagged_rows: list[dict[str, Any]]) -> list[dict[str
     return out
 
 
-def _extract_compound_evidence(compound: str, data_dir: Path) -> dict[str, Any]:
+def _extract_compound_evidence(
+    compound: str,
+    data_dir: Path,
+    *,
+    reviews_root: Path | None = None,
+) -> dict[str, Any]:
     """Assemble all interaction-relevant evidence for one compound from its data directory."""
     ev: dict[str, Any] = {
         "compound_name": compound,
@@ -257,11 +263,14 @@ def _extract_compound_evidence(compound: str, data_dir: Path) -> dict[str, Any]:
         return ev
 
     # ---- Review JSON ----
-    # Reviews are now in reviews/<compound>/ at repo root instead of data/<compound>/
+    # Default: repo/reviews/compounds/<compound>/ ; override with reviews_root for multi-session layouts.
     # Use the same safe name transformation as review.py line 177
-    reviews_root = data_dir.parent.parent.parent / "reviews"
+    if reviews_root is not None:
+        root = Path(reviews_root).expanduser().resolve()
+    else:
+        root = data_dir.parent.parent.parent / "reviews" / "compounds"
     safe_compound = re.sub(r'[<>:"/\\|?*]', "_", compound).strip()
-    review_dir = reviews_root / safe_compound
+    review_dir = root / safe_compound
     review_path = _find_latest(review_dir, "*-review.json") if review_dir.exists() else None
     if review_path:
         review = _load_json(review_path)
@@ -447,6 +456,15 @@ def main() -> int:
         metavar="DIR",
         help=f"Root directory containing per-compound data folders (default: {_DATA_DIR}).",
     )
+    ap.add_argument(
+        "--reviews-root",
+        default=None,
+        metavar="DIR",
+        help=(
+            "Directory under which per-compound review folders live "
+            "(each ``<safe_compound>/*-review.json``). Default: ``<repo>/reviews/compounds``."
+        ),
+    )
     args = ap.parse_args()
 
     if len(args.compounds) < 2:
@@ -455,6 +473,10 @@ def main() -> int:
 
     data_root = Path(args.data_dir).resolve() if args.data_dir else _DATA_DIR
 
+    reviews_root_opt: Path | None = None
+    if args.reviews_root:
+        reviews_root_opt = Path(args.reviews_root).expanduser().resolve()
+
     print(f"Compounds: {', '.join(args.compounds)}", file=sys.stderr)
 
     compounds_evidence: dict[str, dict[str, Any]] = {}
@@ -462,7 +484,9 @@ def main() -> int:
         compound = raw_name.strip()
         data_dir = data_root / _safe_dir_name(compound)
         print(f"  [{compound}] {data_dir}", file=sys.stderr)
-        compounds_evidence[compound] = _extract_compound_evidence(compound, data_dir)
+        compounds_evidence[compound] = _extract_compound_evidence(
+            compound, data_dir, reviews_root=reviews_root_opt,
+        )
         warnings = compounds_evidence[compound].get("warnings", [])
         for w in warnings:
             print(f"    WARN: {w}", file=sys.stderr)

@@ -1,0 +1,23 @@
+{
+  "name": "molecule-dataroom-crawler",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cli": "tsx src/cli.ts",
+    "projects": "tsx src/cli.ts projects",
+    "dataroom": "tsx src/cli.ts dataroom",
+    "hash": "tsx src/cli.ts hash",
+    "profile": "tsx src/cli.ts profile",
+    "profiles": "tsx src/cli.ts profiles",
+    "orchestrate-profiles": "tsx src/cli.ts orchestrate-profiles",
+    "data-bundle": "tsx src/cli.ts data-bundle"
+  },
+  "packageManager": "pnpm@10.29.2",
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "dotenv": "^16.4.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

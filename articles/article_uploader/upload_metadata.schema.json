@@ -127,7 +127,8 @@
         "url": "https://arweave.net/abc123XYZ-_456defGHI789jklMNO012pqrSTU034vwx",
         "tags": [
           {"name": "doctype", "value": "evidence"},
-          {"name": "platform", "value": ""},
+          {"name": "platform", "value": "ResearchHub"},
+          {"name": "category", "value": "Article"},
           {"name": "research_name", "value": "Study Name"},
           {"name": "review_date", "value": "2026-05-14"}
         ]
@@ -138,7 +139,8 @@
         "descai_url": "https://descai.net/review/def456ABC-_789ghiJKL012mnoQRS345tuvWXY678zab",
         "tags": [
           {"name": "doctype", "value": "review"},
-          {"name": "platform", "value": ""},
+          {"name": "platform", "value": "ResearchHub"},
+          {"name": "category", "value": "Article"},
           {"name": "research_name", "value": "Study Name"},
           {"name": "review_date", "value": "2026-05-14"}
         ]
@@ -148,7 +150,8 @@
         "url": "https://arweave.net/ghi789MNO-_012pqrSTU345vwxYZA678bcDEF901hij",
         "tags": [
           {"name": "doctype", "value": "overview"},
-          {"name": "platform", "value": ""},
+          {"name": "platform", "value": "ResearchHub"},
+          {"name": "category", "value": "Article"},
           {"name": "research_name", "value": "Study Name"},
           {"name": "review_date", "value": "2026-05-14"}
         ]

@@ -20,8 +20,11 @@ Reads the JSON output of ``interactions.py`` and calls the LLM four times:
    Receives a compact bundle (all three paragraphs + scores + combination metadata).
    Produces the final ``review_statement`` paragraph.
 
-Output is written as ``<input_dir>/<combination>-combo-review.json``, or to a path
-supplied via ``-o``.
+Output is written as ``<repo>/reviews/compounds/<combination>/<combination>-combo-review.json``
+by default, or to a path supplied via ``-o``. The JSON shape matches article ``overview.json``
+(fewer fields): ``research_name``, ``review_date``, ``composite_score`` (0–100),
+``review_statement`` (with a ``Compound(s): …`` prefix), and ``categories`` with
+percent scores (0–100) plus rationales.
 
 Usage:
   python review-multiple.py pump-science/data/omipa-ginse-uroli.json
@@ -298,8 +301,8 @@ def _build_statement_ctx(
 
 def _default_output_path(in_path: Path, combination_name: str) -> Path:
     safe = re.sub(r'[<>:"/\\|?*]', "_", combination_name).strip().replace(" ", "-")[:80]
-    # Output to reviews/<combination>/ instead of data/
-    reviews_dir = REPO_ROOT.parent / "reviews" / safe
+    # Output to reviews/compounds/<combination>/ instead of data/
+    reviews_dir = REPO_ROOT.parent / "reviews" / "compounds" / safe
     reviews_dir.mkdir(parents=True, exist_ok=True)
     return reviews_dir / f"{safe}-combo-review.json"
 
@@ -311,6 +314,58 @@ def _avg_score(bundle: dict, field: str) -> float | None:
         if ev.get(field) is not None
     ]
     return round(sum(scores) / len(scores), 4) if scores else None
+
+
+def _fraction_to_percent(value: float | None) -> float | None:
+    """Scores from bundles are 0–1; overview-style output uses 0–100."""
+    if value is None:
+        return None
+    v = float(value)
+    if v <= 1.0:
+        v *= 100.0
+    return round(v, 2)
+
+
+def _compound_subject_line(names: list[str]) -> str:
+    if not names:
+        return "Compound(s): (unknown)."
+    if len(names) == 1:
+        return f"Compound(s): {names[0]}."
+    if len(names) == 2:
+        return f"Compound(s): {names[0]} and {names[1]}."
+    return "Compound(s): " + ", ".join(names[:-1]) + f", and {names[-1]}."
+
+
+def _compat_signal_preamble(bundle: dict) -> str:
+    xref = bundle.get("cross_reference") or {}
+    sp = xref.get("shared_pathways") or []
+    em = xref.get("explicit_mentions") or []
+    if not isinstance(sp, list):
+        sp = []
+    if not isinstance(em, list):
+        em = []
+    if sp:
+        sp_part = "Shared KEGG longevity pathway flags (hypothesis-level overlap): " + ", ".join(str(x) for x in sp) + ". "
+    else:
+        sp_part = "No shared KEGG longevity pathway flags between compounds. "
+    return sp_part + f"Explicit name-token mentions of partner compounds in SPL/mechanism text: {len(em)}. "
+
+
+def _compatibility_percent_score(bundle: dict) -> float:
+    xref = bundle.get("cross_reference") or {}
+    sp = xref.get("shared_pathways") or []
+    em = xref.get("explicit_mentions") or []
+    n_sp = len(sp) if isinstance(sp, list) else 0
+    n_em = len(em) if isinstance(em, list) else 0
+    raw = 100.0 - (n_sp * 14.0 + n_em * 12.0)
+    return round(max(42.0, min(100.0, raw)), 2)
+
+
+def _mean_of_numbers(values: list[float | None]) -> float | None:
+    nums = [v for v in values if v is not None]
+    if not nums:
+        return None
+    return round(sum(nums) / len(nums), 2)
 
 
 # ---------------------------------------------------------------------------
@@ -336,7 +391,7 @@ def main() -> int:
         type=Path,
         default=None,
         metavar="PATH",
-        help="Output JSON path (default: <bundle_dir>/<combination>-combo-review.json).",
+        help="Output JSON path (default: <repo>/reviews/compounds/<combination>/<combination>-combo-review.json).",
     )
     parser.add_argument(
         "--model",
@@ -443,29 +498,36 @@ def main() -> int:
     )
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
+    sg_pct = _fraction_to_percent(_avg_score(bundle, "scientific_grounding_score"))
+    risk_pct = _fraction_to_percent(_avg_score(bundle, "risk_score"))
+    compat_pct = _compatibility_percent_score(bundle)
+    compat_rationale = _compat_signal_preamble(bundle) + (compat_text or "").strip()
+
+    composite = _mean_of_numbers([sg_pct, risk_pct, compat_pct])
+
+    subject = _compound_subject_line(compound_names)
+    stmt = (review_statement or "").strip()
+    review_statement_out = f"{subject} {stmt}".strip() if stmt else subject
+
     review = {
-        "combination_name": combination_name,
+        "research_name": combination_name,
         "review_date": review_date,
-        "compounds": compound_names,
-        "review_statement": review_statement,
+        "composite_score": composite,
+        "review_statement": review_statement_out,
         "categories": {
             "scientific_grounding": {
-                "score": _avg_score(bundle, "scientific_grounding_score"),
+                "score": sg_pct,
                 "rationale": grounding_text,
             },
             "risk_assessment": {
-                "score": _avg_score(bundle, "risk_score"),
+                "score": risk_pct,
                 "rationale": risk_text,
             },
             "compatibility": {
-                "shared_pathways": (bundle.get("cross_reference") or {}).get("shared_pathways") or [],
-                "explicit_mention_count": len(
-                    (bundle.get("cross_reference") or {}).get("explicit_mentions") or []
-                ),
-                "rationale": compat_text,
+                "score": compat_pct,
+                "rationale": compat_rationale,
             },
         },
-        "evidence_bundle": str(in_path),
     }
 
     with out_path.open("w", encoding="utf-8") as fh:

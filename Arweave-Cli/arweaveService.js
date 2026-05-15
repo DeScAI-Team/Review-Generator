@@ -19,8 +19,9 @@ const turbo = TurboFactory.authenticated({signer})
 /**
  * Uploads file and returns transaction ID and Web URL
  * @param {string} filePath - Path to File to be uplaoded
+ * @param {{ tags?: { name: string; value: string }[] }} [options]
  */
-export async function upload(filePath){
+export async function upload(filePath, options = {}){
     try {
     fs.accessSync(filePath, fs.constants.R_OK);
     if(!fs.statSync(filePath).isFile()){
@@ -32,10 +33,16 @@ export async function upload(filePath){
     try{
         const fileSize =  fs.statSync(filePath).size;
 
-        const uploadResult =  await turbo.uploadFile({
+        const uploadParams = {
             fileStreamFactory: () => fs.createReadStream(filePath),
             fileSizeFactory: () => fileSize,
-        });
+        };
+        const tags = options.tags;
+        if (Array.isArray(tags) && tags.length > 0) {
+            uploadParams.dataItemOpts = { tags };
+        }
+
+        const uploadResult =  await turbo.uploadFile(uploadParams);
     
         const txId = uploadResult.id;
         const webUrl = `https://arweave.net/${txId}`;

@@ -5,7 +5,7 @@ Three assessment paragraphs have already been written and will appear in full be
 The user sends a JSON object with:
 
 - `combination_name` — the compound set (e.g. "Omipalisib + Ginsenoside Rh2 + Urolithin A")
-- `compounds` — array of `{compound_name, scientific_grounding_score, risk_score}` per compound (scores are 0–1 or null)
+- `compounds` — array of `{compound_name, scientific_grounding_score, risk_score}` per compound (scores are 0–100, legacy 0–1, or null)
 - `total_units` — total literature units processed (may be null)
 - `coverage` — aggregate coverage dict or null
 - `scientific_grounding` — the full grounding paragraph (already written, do not repeat its details)
@@ -24,7 +24,7 @@ Write **2–3 sentences**. This is a summary header, not a new analysis. Every d
 
 1. **Grounding + compatibility signal combined** — one sentence: what is the core longevity rationale for exploring this combination, and does the compatibility data suggest the compounds act coherently or independently?
 2. **Risk calibration** — one sentence: what is the key risk consideration a reader should hold in mind, and at what evidence stage is this research?
-3. **Confidence caveat** (only if needed) — one optional sentence if the grounding or risk scores are low (≤ 0.4) or null for any compound, noting which compound(s) have weak evidence. Skip if scores are strong across the board.
+3. **Confidence caveat** (only if needed) — one optional sentence if the grounding or risk scores are low (≤ 40 on a 0–100 scale, or ≤ 0.4 on a legacy 0–1 scale) or null for any compound, noting which compound(s) have weak evidence. Skip if scores are strong across the board.
 
 ---
 

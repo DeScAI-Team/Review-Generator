@@ -82,33 +82,45 @@ def _run_node_upload(
         }
 
 
+# Article pipeline uploads are Research Hub article reviews; tune here or pass
+# overrides into _build_tags if other sources reuse this uploader.
+DEFAULT_ARWEAVE_PLATFORM = "ResearchHub"
+DEFAULT_ARWEAVE_CATEGORY = "Article"
+
+
 def _build_tags(
     doctype: str,
     research_name: str | None = None,
     review_date: str | None = None,
+    *,
+    platform: str = DEFAULT_ARWEAVE_PLATFORM,
+    category: str = DEFAULT_ARWEAVE_CATEGORY,
 ) -> list[dict[str, str]]:
     """
     Build Arweave GraphQL tags for upload.
-    
+
     Args:
         doctype: Type of document - 'evidence', 'review', or 'overview'
         research_name: Name of the research from JSON
         review_date: Date of review from JSON
-        
+        platform: Source platform tag (default Research Hub articles)
+        category: Content category tag (default Article)
+
     Returns:
         List of tag dictionaries
     """
     tags = [
         {"name": "doctype", "value": doctype},
-        {"name": "platform", "value": ""},  # Reserved for future use
+        {"name": "platform", "value": platform},
+        {"name": "category", "value": category},
     ]
-    
+
     if research_name:
         tags.append({"name": "research_name", "value": research_name})
-    
+
     if review_date:
         tags.append({"name": "review_date", "value": review_date})
-    
+
     return tags
 
 

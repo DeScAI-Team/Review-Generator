@@ -712,7 +712,7 @@ def generate_review_statement(
 ) -> str:
     context = json.dumps(
         {
-            "proposal_name": review_obj.get("proposal_name", ""),
+            "proposal_name": review_obj.get("research_name", ""),
             "composite_score": review_obj.get("composite_score", 0),
             "categories": {
                 k: {"score": v.get("score"), "rationale": v.get("rationale", "")}
@@ -753,6 +753,10 @@ def main() -> None:
     parser.add_argument(
         "--skip-openalex", action="store_true",
         help="Skip OpenAlex search (use cached results if available)",
+    )
+    parser.add_argument(
+        "--skip-upload", action="store_true",
+        help="Skip Arweave upload after review generation",
     )
     args = parser.parse_args()
 
@@ -910,7 +914,7 @@ def main() -> None:
     composite = round(composite_raw * 100)
 
     review_obj: dict[str, Any] = {
-        "proposal_name": title,
+        "research_name": title,
         "review_date": date.today().strftime("%B %d, %Y"),
         "composite_score": composite,
         "review_statement": "",
@@ -971,6 +975,37 @@ def main() -> None:
     audit_path = output_dir / "evidence_audit.md"
     audit_path.write_text(audit_text, encoding="utf-8")
     print(f"  Evidence audit: {audit_path}", file=stderr)
+
+    # Build overview.json (frontend-compatible subset of review.json)
+    overview_obj: dict[str, Any] = {
+        "research_name": review_obj["research_name"],
+        "review_date": review_obj["review_date"],
+        "composite_score": review_obj["composite_score"],
+        "review_statement": review_obj["review_statement"],
+        "categories": {
+            k: {key: v[key] for key in ("score", "rationale") if key in v}
+            for k, v in review_obj.get("categories", {}).items()
+            if isinstance(v, dict)
+        },
+    }
+    overview_path = output_dir / "overview.json"
+    overview_path.write_text(
+        json.dumps(overview_obj, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    print(f"  Overview: {overview_path}", file=stderr)
+
+    # Upload to Arweave
+    if not args.skip_upload:
+        sys.path.insert(0, str(_BASE.parent))
+        from uploader import run_upload_sequence  # noqa: E402
+
+        print("\n=== Upload ===", file=stderr)
+        upload_result = run_upload_sequence(output_dir=output_dir)
+        if upload_result.get("success"):
+            print("  Upload complete.", file=stderr)
+        else:
+            print(f"  Upload failed: {upload_result.get('error', 'unknown')}", file=stderr)
 
     print(f"\n  PIPELINE COMPLETE — composite score: {composite}/100", file=stderr)
 

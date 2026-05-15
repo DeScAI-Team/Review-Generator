@@ -105,7 +105,7 @@ def build_evidence_doc(
 ) -> str:
     lines: list[str] = []
 
-    name = review.get("proposal_name", review.get("research_name", "?"))
+    name = review.get("research_name", review.get("proposal_name", "?"))
     review_date = review.get("review_date", "?")
     composite = review.get("composite_score")
     comp_s = str(composite) if composite is not None else "?"

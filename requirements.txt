@@ -17,3 +17,5 @@ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0
 # PyTorch is required by Docling/transformers; usually installed as a dependency of
 # docling. For GPU builds, follow https://pytorch.org if you need a specific CUDA wheel.
 requests>=2.31.0,<3
+python-dateutil>=2.8.2
+beautifulsoup4>=4.12.0

@@ -1,0 +1,53 @@
+﻿{
+  "tokenId": "44",
+  "fileCount": 3,
+  "publicExtractableCount": 1,
+  "files": [
+    {
+      "did": "did:odf:fed015ca2a44311451f7b33cc422ab73ef4a34d9562acd26fec8041984d77673522a7",
+      "path": "/graphsurfer.mov",
+      "version": 1,
+      "contentType": "video/quicktime",
+      "accessLevel": "PUBLIC",
+      "description": null,
+      "tags": [],
+      "categories": [],
+      "downloadUrl": "https://s3.us-west-2.amazonaws.com/repo.prod.stg.kamu.dev.us-west-2/fed015ca2a44311451f7b33cc422ab73ef4a34d9562acd26fec8041984d77673522a7/data/f1620138c30ac418029e16bfedcc7c0aa2e5ada241a450527674381907c30e75c2b35?x-id=GetObject&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAW3MD6Y7TYWUYXUOI%2F20260515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260515T014200Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4225c16a95e56e035809bcc39826d66007e2ffc34c1bd37404a14b687c169e0a&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCImkln0iJBWtYuD1bHlQI16LgZh%2BhmGXZWwHE%2FBMaS%2FgIhAPXAwo0Qc5dVVlUuGLL07xtd%2BuFq6x9tU%2FYi3a5ct0l%2BKoAFCGsQABoMNDcxMTEyNTMzOTkxIgzGNQ5p7BsKVonorhUq3QSre0zczKqQoUaxdJYN8olrVMjjE5GObj5%2FfMdw9M8FTQdYWa76h80v%2BpvLbNVqc4YHRznSeTM8rK%2B2XTgFFivexCWsBAaRUJhpY3R%2FecCFtpEfH0%2FAe8lzsLayqQJ2iagyoeh1S13RwTIZ0qLoZuA6u2%2BmvYZ4lZAmczgtjSIKymsOPcSirrpZ5tG%2F2j9%2F0gV7OQhtyctj85mAKDxR5uO%2FyJofC0VQ7UfS4cqOtOaYkBVrwXcVp81OTOjqOZTFHP6OMwpgkhQKGdOwEeJ0oMG8SNFo%2FWzdcTGQMTBIC7dchuNJyV4n6JeUUXiMOPzF7n45s4EWT5G7rDnL%2FzAMEQKA%2F0hc3QU6ulzDEU%2BG1jj4t0hSHT7dgISP%2Fj%2Fg4eP93DalHISHDcIVCL7R12GcLBzFK1MwOgvWpituQEl9whx09dLCtdMHNpzuIX2yeN7vZq%2FAYh%2Bm5EQ9I6hQjuudzfpM1ANiBzNxrQLtjJVHMsHeYXqprWt%2BLL0n9Tx%2FB8xi1Bv5f1Xe4RSrPuwQ1rUlqJWrTGUyB4XnUeJZJly0P%2FAwPe2jI63Cn4%2BBMBbVlXt0tGbvt6CqfYU5rUqfEhrsEudnQmMz6l9xuEK9OCxY37kRm%2FSzSxnBGLR%2F7ds2svNJQrCiHzacOzXQJl%2BvOMTv%2FkWk66C7pIssyUpEa7VmzG7darWPUdeEwZZKUppvaJZKmLYAfvTHhiJZltq8Tu76modzUdK9Fvco%2Fa%2B9owFEnv8DyRVY7K62jOSB0orUOyhTTUy39962Zo4rufxVcX4EH5hURWO7aIDL5%2BerDMRnbDDI8pnQBjqXAbWahYTchcT6I8AePf9i2GXdcgO%2FzAi2uJWgDuTR3enFpr4z%2FNyi59w3oU9kUS0BlkR2i%2F0dQNScUDjbXPsi%2BGIQ5LkzZHSV6ZxiZgJuzY7WolRZS4jzgIn7w5pFE1FqbbF5u10wNzYduGvkhzDFyI%2BsyfNmxN5m3ez8QVdVkTorFPdrrSavrP07gkm77ld7soM8Qph1quc%3D"
+    },
+    {
+      "did": "did:odf:fed01965f2b38a07fa78460028f46beb6befb66d08cdd4565c42e095c730d3cbfebbd",
+      "path": "/hypgensmall.mp4",
+      "version": 1,
+      "contentType": "video/mp4",
+      "accessLevel": "PUBLIC",
+      "description": null,
+      "tags": [],
+      "categories": [],
+      "downloadUrl": "https://s3.us-west-2.amazonaws.com/repo.prod.stg.kamu.dev.us-west-2/fed01965f2b38a07fa78460028f46beb6befb66d08cdd4565c42e095c730d3cbfebbd/data/f162074ea6c63d4c518368eeae9982b3523919840f01fa6600c1e505ccf21a0628a50?x-id=GetObject&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAW3MD6Y7TYWUYXUOI%2F20260515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260515T014200Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7a2e0ab65b4c6d3bcd17ce140071fae8c6d22538413856c933ef034403a542e2&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCImkln0iJBWtYuD1bHlQI16LgZh%2BhmGXZWwHE%2FBMaS%2FgIhAPXAwo0Qc5dVVlUuGLL07xtd%2BuFq6x9tU%2FYi3a5ct0l%2BKoAFCGsQABoMNDcxMTEyNTMzOTkxIgzGNQ5p7BsKVonorhUq3QSre0zczKqQoUaxdJYN8olrVMjjE5GObj5%2FfMdw9M8FTQdYWa76h80v%2BpvLbNVqc4YHRznSeTM8rK%2B2XTgFFivexCWsBAaRUJhpY3R%2FecCFtpEfH0%2FAe8lzsLayqQJ2iagyoeh1S13RwTIZ0qLoZuA6u2%2BmvYZ4lZAmczgtjSIKymsOPcSirrpZ5tG%2F2j9%2F0gV7OQhtyctj85mAKDxR5uO%2FyJofC0VQ7UfS4cqOtOaYkBVrwXcVp81OTOjqOZTFHP6OMwpgkhQKGdOwEeJ0oMG8SNFo%2FWzdcTGQMTBIC7dchuNJyV4n6JeUUXiMOPzF7n45s4EWT5G7rDnL%2FzAMEQKA%2F0hc3QU6ulzDEU%2BG1jj4t0hSHT7dgISP%2Fj%2Fg4eP93DalHISHDcIVCL7R12GcLBzFK1MwOgvWpituQEl9whx09dLCtdMHNpzuIX2yeN7vZq%2FAYh%2Bm5EQ9I6hQjuudzfpM1ANiBzNxrQLtjJVHMsHeYXqprWt%2BLL0n9Tx%2FB8xi1Bv5f1Xe4RSrPuwQ1rUlqJWrTGUyB4XnUeJZJly0P%2FAwPe2jI63Cn4%2BBMBbVlXt0tGbvt6CqfYU5rUqfEhrsEudnQmMz6l9xuEK9OCxY37kRm%2FSzSxnBGLR%2F7ds2svNJQrCiHzacOzXQJl%2BvOMTv%2FkWk66C7pIssyUpEa7VmzG7darWPUdeEwZZKUppvaJZKmLYAfvTHhiJZltq8Tu76modzUdK9Fvco%2Fa%2B9owFEnv8DyRVY7K62jOSB0orUOyhTTUy39962Zo4rufxVcX4EH5hURWO7aIDL5%2BerDMRnbDDI8pnQBjqXAbWahYTchcT6I8AePf9i2GXdcgO%2FzAi2uJWgDuTR3enFpr4z%2FNyi59w3oU9kUS0BlkR2i%2F0dQNScUDjbXPsi%2BGIQ5LkzZHSV6ZxiZgJuzY7WolRZS4jzgIn7w5pFE1FqbbF5u10wNzYduGvkhzDFyI%2BsyfNmxN5m3ez8QVdVkTorFPdrrSavrP07gkm77ld7soM8Qph1quc%3D"
+    },
+    {
+      "did": "did:odf:fed01f736391a4629c625ce6130ddb096e23f29f349a89dfde6e8a1b7d2e939253588",
+      "path": "/surfing-the-scientific-ocean-introducing-graphsurfer.pdf",
+      "version": 1,
+      "contentType": "application/pdf",
+      "accessLevel": "PUBLIC",
+      "description": null,
+      "tags": [],
+      "categories": [],
+      "downloadUrl": "https://s3.us-west-2.amazonaws.com/repo.prod.stg.kamu.dev.us-west-2/fed01f736391a4629c625ce6130ddb096e23f29f349a89dfde6e8a1b7d2e939253588/data/f162054aea5896e6c62fc78df502c44ca03705289ab5efc9d1ae797f994e485a5ad83?x-id=GetObject&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAW3MD6Y7TYWUYXUOI%2F20260515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260515T014200Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c4ccaeb8beb0bc9d596adacb82cad8c21cdb787c12c531c275e30edc70b17c8f&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCImkln0iJBWtYuD1bHlQI16LgZh%2BhmGXZWwHE%2FBMaS%2FgIhAPXAwo0Qc5dVVlUuGLL07xtd%2BuFq6x9tU%2FYi3a5ct0l%2BKoAFCGsQABoMNDcxMTEyNTMzOTkxIgzGNQ5p7BsKVonorhUq3QSre0zczKqQoUaxdJYN8olrVMjjE5GObj5%2FfMdw9M8FTQdYWa76h80v%2BpvLbNVqc4YHRznSeTM8rK%2B2XTgFFivexCWsBAaRUJhpY3R%2FecCFtpEfH0%2FAe8lzsLayqQJ2iagyoeh1S13RwTIZ0qLoZuA6u2%2BmvYZ4lZAmczgtjSIKymsOPcSirrpZ5tG%2F2j9%2F0gV7OQhtyctj85mAKDxR5uO%2FyJofC0VQ7UfS4cqOtOaYkBVrwXcVp81OTOjqOZTFHP6OMwpgkhQKGdOwEeJ0oMG8SNFo%2FWzdcTGQMTBIC7dchuNJyV4n6JeUUXiMOPzF7n45s4EWT5G7rDnL%2FzAMEQKA%2F0hc3QU6ulzDEU%2BG1jj4t0hSHT7dgISP%2Fj%2Fg4eP93DalHISHDcIVCL7R12GcLBzFK1MwOgvWpituQEl9whx09dLCtdMHNpzuIX2yeN7vZq%2FAYh%2Bm5EQ9I6hQjuudzfpM1ANiBzNxrQLtjJVHMsHeYXqprWt%2BLL0n9Tx%2FB8xi1Bv5f1Xe4RSrPuwQ1rUlqJWrTGUyB4XnUeJZJly0P%2FAwPe2jI63Cn4%2BBMBbVlXt0tGbvt6CqfYU5rUqfEhrsEudnQmMz6l9xuEK9OCxY37kRm%2FSzSxnBGLR%2F7ds2svNJQrCiHzacOzXQJl%2BvOMTv%2FkWk66C7pIssyUpEa7VmzG7darWPUdeEwZZKUppvaJZKmLYAfvTHhiJZltq8Tu76modzUdK9Fvco%2Fa%2B9owFEnv8DyRVY7K62jOSB0orUOyhTTUy39962Zo4rufxVcX4EH5hURWO7aIDL5%2BerDMRnbDDI8pnQBjqXAbWahYTchcT6I8AePf9i2GXdcgO%2FzAi2uJWgDuTR3enFpr4z%2FNyi59w3oU9kUS0BlkR2i%2F0dQNScUDjbXPsi%2BGIQ5LkzZHSV6ZxiZgJuzY7WolRZS4jzgIn7w5pFE1FqbbF5u10wNzYduGvkhzDFyI%2BsyfNmxN5m3ez8QVdVkTorFPdrrSavrP07gkm77ld7soM8Qph1quc%3D"
+    }
+  ],
+  "publicExtractable": [
+    {
+      "did": "did:odf:fed01f736391a4629c625ce6130ddb096e23f29f349a89dfde6e8a1b7d2e939253588",
+      "path": "/surfing-the-scientific-ocean-introducing-graphsurfer.pdf",
+      "version": 1,
+      "contentType": "application/pdf",
+      "accessLevel": "PUBLIC",
+      "description": null,
+      "tags": [],
+      "categories": [],
+      "downloadUrl": "https://s3.us-west-2.amazonaws.com/repo.prod.stg.kamu.dev.us-west-2/fed01f736391a4629c625ce6130ddb096e23f29f349a89dfde6e8a1b7d2e939253588/data/f162054aea5896e6c62fc78df502c44ca03705289ab5efc9d1ae797f994e485a5ad83?x-id=GetObject&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAW3MD6Y7TYWUYXUOI%2F20260515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260515T014200Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c4ccaeb8beb0bc9d596adacb82cad8c21cdb787c12c531c275e30edc70b17c8f&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCImkln0iJBWtYuD1bHlQI16LgZh%2BhmGXZWwHE%2FBMaS%2FgIhAPXAwo0Qc5dVVlUuGLL07xtd%2BuFq6x9tU%2FYi3a5ct0l%2BKoAFCGsQABoMNDcxMTEyNTMzOTkxIgzGNQ5p7BsKVonorhUq3QSre0zczKqQoUaxdJYN8olrVMjjE5GObj5%2FfMdw9M8FTQdYWa76h80v%2BpvLbNVqc4YHRznSeTM8rK%2B2XTgFFivexCWsBAaRUJhpY3R%2FecCFtpEfH0%2FAe8lzsLayqQJ2iagyoeh1S13RwTIZ0qLoZuA6u2%2BmvYZ4lZAmczgtjSIKymsOPcSirrpZ5tG%2F2j9%2F0gV7OQhtyctj85mAKDxR5uO%2FyJofC0VQ7UfS4cqOtOaYkBVrwXcVp81OTOjqOZTFHP6OMwpgkhQKGdOwEeJ0oMG8SNFo%2FWzdcTGQMTBIC7dchuNJyV4n6JeUUXiMOPzF7n45s4EWT5G7rDnL%2FzAMEQKA%2F0hc3QU6ulzDEU%2BG1jj4t0hSHT7dgISP%2Fj%2Fg4eP93DalHISHDcIVCL7R12GcLBzFK1MwOgvWpituQEl9whx09dLCtdMHNpzuIX2yeN7vZq%2FAYh%2Bm5EQ9I6hQjuudzfpM1ANiBzNxrQLtjJVHMsHeYXqprWt%2BLL0n9Tx%2FB8xi1Bv5f1Xe4RSrPuwQ1rUlqJWrTGUyB4XnUeJZJly0P%2FAwPe2jI63Cn4%2BBMBbVlXt0tGbvt6CqfYU5rUqfEhrsEudnQmMz6l9xuEK9OCxY37kRm%2FSzSxnBGLR%2F7ds2svNJQrCiHzacOzXQJl%2BvOMTv%2FkWk66C7pIssyUpEa7VmzG7darWPUdeEwZZKUppvaJZKmLYAfvTHhiJZltq8Tu76modzUdK9Fvco%2Fa%2B9owFEnv8DyRVY7K62jOSB0orUOyhTTUy39962Zo4rufxVcX4EH5hURWO7aIDL5%2BerDMRnbDDI8pnQBjqXAbWahYTchcT6I8AePf9i2GXdcgO%2FzAi2uJWgDuTR3enFpr4z%2FNyi59w3oU9kUS0BlkR2i%2F0dQNScUDjbXPsi%2BGIQ5LkzZHSV6ZxiZgJuzY7WolRZS4jzgIn7w5pFE1FqbbF5u10wNzYduGvkhzDFyI%2BsyfNmxN5m3ez8QVdVkTorFPdrrSavrP07gkm77ld7soM8Qph1quc%3D"
+    }
+  ]
+}

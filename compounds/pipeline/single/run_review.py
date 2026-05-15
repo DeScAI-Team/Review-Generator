@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 """Run the full pump-science review pipeline for a single compound.
 
-Steps (all outputs go to pump-science/data/<compound>/):
+Steps (artifacts under ``compounds/data/<compound>/`` unless noted):
   1. discover.py   → report_<UTC>.json
   2. prepare.py    → prepared_report_<stem>_agent.json
   3. list.py       → units.jsonl
   4. tag.py        → units_tagged.jsonl
   5. group_by_stance.py → grouped_by_stance.json
-  6. review.py     → <Compound>-review.json
+  6. review.py     → ``*-review.json`` (default: ``<repo>/reviews/compounds/<Compound>/``; override with ``--review-output``)
+  7. evidence-doc.py → ``evidence_audit.md`` in compound data dir (skipped with ``--skip-evidence-audit``)
 
 Usage:
   python run_review.py --compound Doxycycline
   python run_review.py --compound Metformin --model my-model-id
   python run_review.py --compound Doxycycline --skip-risk
   python run_review.py --compound Doxycycline --skip-discover
+  python run_review.py --compound Omipalisib --skip-evidence-audit --review-output path/to/Omipalisib-review.json
 """
 from __future__ import annotations
 
@@ -84,6 +86,18 @@ def main() -> int:
             "in the compound data directory."
         ),
     )
+    ap.add_argument(
+        "--skip-evidence-audit",
+        action="store_true",
+        help="Skip step 7 (evidence-doc.py). Use when a parent orchestrator runs audits at the end.",
+    )
+    ap.add_argument(
+        "--review-output",
+        type=Path,
+        default=None,
+        metavar="PATH",
+        help="Forward to review.py as ``-o`` (custom *-review.json path).",
+    )
     args = ap.parse_args()
 
     compound = args.compound.strip()
@@ -91,6 +105,11 @@ def main() -> int:
     compound_dir.mkdir(parents=True, exist_ok=True)
 
     py = sys.executable
+    do_evidence = not args.skip_evidence_audit
+    n_steps = 6 + (1 if do_evidence else 0)
+
+    def lab(step: int) -> str:
+        return f"{step}/{n_steps}"
 
     # ------------------------------------------------------------------
     # Step 1: Discover
@@ -108,12 +127,12 @@ def main() -> int:
             )
             return 1
         report_path = candidates[0]
-        print(f"\n[1/6 discover] Skipped — using existing report: {report_path}", flush=True)
+        print(f"\n[{lab(1)} discover] Skipped — using existing report: {report_path}", flush=True)
     else:
         ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%SZ")
         report_path = compound_dir / f"report_{ts}.json"
         _run(
-            "1/6 discover",
+            f"{lab(1)} discover",
             [py, _PUMP_SCIENCE_DIR / "discover.py", "--compound", compound, "--output", report_path],
         )
 
@@ -121,13 +140,13 @@ def main() -> int:
     # Step 2: Prepare (agent format, written beside the report file)
     # ------------------------------------------------------------------
     _run(
-        "2/6 prepare",
+        f"{lab(2)} prepare",
         [py, _PUMP_SCIENCE_DIR / "prepare.py", str(report_path), "--format", "agent"],
     )
     # prepare.py names the output: prepared_<report_stem>_agent.json
     prepared_path = compound_dir / f"prepared_{report_path.stem}_agent.json"
     if not prepared_path.exists():
-        print(f"\n[2/6 prepare] ERROR: expected output not found: {prepared_path}", file=sys.stderr)
+        print(f"\n[{lab(2)} prepare] ERROR: expected output not found: {prepared_path}", file=sys.stderr)
         return 1
 
     # ------------------------------------------------------------------
@@ -135,7 +154,7 @@ def main() -> int:
     # ------------------------------------------------------------------
     units_path = compound_dir / "units.jsonl"
     _run(
-        "3/6 list",
+        f"{lab(3)} list",
         [py, _PUMP_SCIENCE_DIR / "list.py", str(prepared_path), "-o", str(units_path)],
     )
 
@@ -151,13 +170,13 @@ def main() -> int:
         tag_cmd.append("--skip-risk")
     if args.model:
         tag_cmd += ["--model", args.model]
-    _run("4/6 tag", tag_cmd)
+    _run(f"{lab(4)} tag", tag_cmd)
 
     # ------------------------------------------------------------------
     # Step 5: Group by stance
     # ------------------------------------------------------------------
     _run(
-        "5/6 group",
+        f"{lab(5)} group",
         [py, _PUMP_SCIENCE_DIR / "group_by_stance.py", str(tagged_path)],
     )
     grouped_path = compound_dir / "grouped_by_stance.json"
@@ -170,15 +189,37 @@ def main() -> int:
     ]
     if args.model:
         review_cmd += ["--model", args.model]
-    _run("6/6 review", review_cmd)
+    if args.review_output is not None:
+        review_cmd += ["-o", str(args.review_output.expanduser().resolve())]
+    _run(f"{lab(6)} review", review_cmd)
 
-    # Derive the review output path the same way review.py does.
+    repo_root = _DATA_DIR.parent.parent
     safe_name = re.sub(r'[<>:"/\\|?*]', "_", compound).strip()
-    reviews_root = _DATA_DIR.parent / "reviews"
-    review_path = reviews_root / safe_name / f"{safe_name}-review.json"
+    if args.review_output is not None:
+        review_path = args.review_output.expanduser().resolve()
+    else:
+        review_path = repo_root / "reviews" / "compounds" / safe_name / f"{safe_name}-review.json"
+
+    if do_evidence:
+        evidence_script = _PUMP_SCIENCE_DIR.parent / "evidence-doc.py"
+        evidence_cmd = [
+            py,
+            evidence_script,
+            "-d",
+            str(compound_dir),
+            "-o",
+            str(compound_dir / "evidence_audit.md"),
+        ]
+        if review_path.is_file():
+            evidence_cmd.extend(["--review", str(review_path)])
+        _run(f"{lab(7)} evidence audit", evidence_cmd)
 
     print(f"\nPipeline complete.", flush=True)
     print(f"Review: {review_path}", flush=True)
+    if do_evidence:
+        print(f"Evidence audit: {compound_dir / 'evidence_audit.md'}", flush=True)
+    else:
+        print("Evidence audit: (skipped — run evidence-doc.py later)", flush=True)
     print(f"Intermediate files in: {compound_dir}", flush=True)
     return 0
 

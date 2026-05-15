@@ -1,21 +1,40 @@
-# Secrets and local config
+# Secrets and local config (any directory)
 .env
+.env.*
+!.env.example
+!**/.env.example
+
+# Arweave wallet keyfiles (any path)
+arweave-keyfile-*.json
+
+# Dependencies
+node_modules/
+
+# PDFs
+*.pdf
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+*.egg-info/
+.eggs/
+
+# OS noise
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
 # venv
-agent/ 
+agent/
 
 # cache
-.cursor/ 
-__pycache__/
-articles/pipeline/__pycache__
-articles/pipeline/claim-extract/__pycache__
-articles/pipeline/empirical/__pycache__
-articles/pipeline/Protocol-pre_results/__pycache__
-articles/pipeline/Theoretical-narrative/__pycache__
-compounds/__pycache__
-compounds/pipeline/single/__pycache__
-proposals/pipeline/__pycache__
-articles/article_uploader/__pycache__
+.cursor/
 
 # data
 articles/data/*
@@ -24,30 +43,27 @@ compounds/data/*
 !compounds/data/.gitkeep
 proposals/data/*
 !proposals/data/.gitkeep
-reviews/ 
-test-data/ 
+reviews/
+test-data/
+crawlers/output/*
+!crawlers/output/.gitkeep
+DAOs/molecule/output/*
+!DAOs/molecule/output/.gitkeep
 
 # internal docs
 articles/CHANGES_self_reported_grading.md
 articles/review_example.txt
 articles/TRIAGE_NOISE_FILTERING_2026_05_01.md
 compounds/test_trio.ps1
-debug-c060aa.log 
-debug-dca913.log 
+debug-c060aa.log
+debug-dca913.log
 
 # random stuff
 merge_kb.py
-report.json 
+report.json
 RUN_FULL_PIPELINE.md
 run_pipe2.py
+ocr-test.py
+pape-manual.py
 
-# arweave stuff
-Arweave-Cli/node_modules/
-Arweave-Cli/.env
-Arweave-Cli/aweave-keyfile-va7LFY_zmPWTFVCgJpgadZ-AS3wAZ4pmQSeF3LYnG7w.json
-Arweave-Cli/upload_reciept.json
-articles/article_uploader/node_modules/
 articles/article_uploader/test.txt
-
-
-

@@ -71,6 +71,13 @@ def main() -> int:
         metavar="PATH",
         help=f"Receipt JSON path (default: Arweave-Cli/{RECEIPT_NAME})",
     )
+    parser.add_argument(
+        "--tag",
+        action="append",
+        default=[],
+        metavar="NAME=VALUE",
+        help="Arweave data item tag (repeatable). Passed to arweaveServiceCLI.js.",
+    )
     args = parser.parse_args()
     file_arg = args.file
 

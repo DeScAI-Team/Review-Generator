@@ -12,8 +12,10 @@ Reads the output of ``group_by_stance.py`` and calls the LLM three times:
    coverage from the nearest prepared_report_*.json in the compound directory);
    produces the ``review_statement`` paragraph.
 
-Output is written as ``<compound_dir>/<compound_name>-review.json``, or to a path
-supplied via ``-o``.
+Output is written as ``<repo>/reviews/compounds/<compound>/<compound>-review.json`` by default,
+or to a path supplied via ``-o``. The JSON matches article ``overview.json`` (subset of fields):
+``research_name``, ``review_date``, ``composite_score`` (0–100), ``review_statement`` (with a
+``Compound(s): …`` prefix), and ``categories`` with percent scores and rationales.
 """
 
 from __future__ import annotations
@@ -173,10 +175,30 @@ def call_llm(client: OpenAI, model: str, system_prompt: str, user_content: str) 
     return ""
 
 
+def _fraction_to_percent(value: float | None) -> float | None:
+    """Stance-derived scores are 0–1; overview-style output uses 0–100."""
+    if value is None:
+        return None
+    v = float(value)
+    if v <= 1.0:
+        v *= 100.0
+    return round(v, 2)
+
+
+def _compound_subject_line(names: list[str]) -> str:
+    if not names:
+        return "Compound(s): (unknown)."
+    if len(names) == 1:
+        return f"Compound(s): {names[0]}."
+    if len(names) == 2:
+        return f"Compound(s): {names[0]} and {names[1]}."
+    return "Compound(s): " + ", ".join(names[:-1]) + f", and {names[-1]}."
+
+
 def default_output_path(grouped_input: Path, compound_name: str) -> Path:
     safe = re.sub(r'[<>:"/\\|?*]', "_", compound_name).strip()
-    # Output to reviews/<compound>/ instead of data/<compound>/
-    reviews_dir = REPO_ROOT.parent / "reviews" / safe
+    # Output to reviews/compounds/<compound>/ (not under data/<compound>/).
+    reviews_dir = REPO_ROOT.parent / "reviews" / "compounds" / safe
     reviews_dir.mkdir(parents=True, exist_ok=True)
     return reviews_dir / f"{safe}-review.json"
 
@@ -273,7 +295,7 @@ def main() -> int:
         type=Path,
         default=None,
         metavar="PATH",
-        help="Output JSON path (default: <compound_dir>/<compound_name>-review.json).",
+        help="Output JSON path (default: <repo>/reviews/compounds/<compound>/<compound>-review.json).",
     )
     parser.add_argument(
         "--model",
@@ -372,6 +394,19 @@ def main() -> int:
     scores = grouped.get("scores", {})
     grounding_score = scores.get("scientific_grounding", {}).get("score")
     risk_score = scores.get("aggregate_risk", {}).get("score")
+    sg_pct = _fraction_to_percent(grounding_score)
+    risk_pct = _fraction_to_percent(risk_score)
+    composite = None
+    if sg_pct is not None and risk_pct is not None:
+        composite = round((sg_pct + risk_pct) / 2, 2)
+    elif sg_pct is not None:
+        composite = sg_pct
+    elif risk_pct is not None:
+        composite = risk_pct
+
+    subject = _compound_subject_line([compound_name])
+    stmt = (review_statement or "").strip()
+    review_statement_out = f"{subject} {stmt}".strip() if stmt else subject
 
     out_path: Path = (
         args.output.expanduser().resolve()
@@ -381,16 +416,17 @@ def main() -> int:
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     review = {
-        "compound_name": compound_name,
+        "research_name": compound_name,
         "review_date": review_date,
-        "review_statement": review_statement,
+        "composite_score": composite,
+        "review_statement": review_statement_out,
         "categories": {
             "scientific_grounding": {
-                "score": grounding_score,
+                "score": sg_pct,
                 "rationale": grounding_text,
             },
             "risk_assessment": {
-                "score": risk_score,
+                "score": risk_pct,
                 "rationale": risk_text,
             },
         },
