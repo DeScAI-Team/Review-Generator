@@ -16,14 +16,20 @@ pip install -r requirements.txt
 
 ## Pipeline at a glance
 
+Run the full chain with **`orchestrate.py`** (single compound) or **`pipeline/single/run_review.py --compound <name>`**:
+
 ```
-discover.py  →  report_<UTC>.json
-prepare.py   →  prepared_<stem>_agent.json
-list.py      →  units.jsonl
-tag.py       →  units_tagged.jsonl
-group_by_stance.py  →  grouped_by_stance.json
-review.py    →  <Compound>-review.json
+discover.py              →  report_<UTC>.json
+prepare.py               →  prepared_<stem>_agent.json
+list.py                  →  units.jsonl
+tag.py                   →  units_tagged.jsonl
+group_by_stance.py       →  grouped_by_stance.json
+openalex_risk_search.py  →  openalex_risk_context.json   (supplemental safety literature; step 5b)
+review.py                →  <Compound>-review.json
+evidence-doc.py          →  evidence_audit.md
 ```
+
+`openalex_risk_search.py` supplements curated SPL/FAERS/caution excerpts for the risk LLM pass; it does not replace tagging or `aggregate_risk` scoring. Skip with `--skip-openalex-risk` on `run_review.py` or `orchestrate.py`.
 
 Each step is offline from the previous one — you can re-run any stage without re-fetching upstream data.
 

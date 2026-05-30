@@ -1,0 +1,2123 @@
+{
+  "scientific_rigor": {
+    "score": 0.8152,
+    "evidence_grade_distribution": {
+      "self_reported": 2,
+      "self_reported_method": 4,
+      "unreferenced": 8
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Fact",
+          "claim": "Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Comparative"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "90 hits were analyzed, and 15 compounds were confirmed active in primary mitoROS assays.",
+          "chunk_id": 4,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current screening progress includes:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The 'Current screening progress' section explicitly states that 90 hits were analyzed and 15 compounds were confirmed active in primary mitoROS assays, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim '90 hits were analyzed, and 15 compounds were confirmed active in primary mitoROS assays.' in the Current screening progress includes: section. This claim was deemed supported (The 'Current screening progress' section explicitly states that 90 hits were analyzed and 15 compounds were confirmed active in primary mitoROS assays, directly matching the claim.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Cellular assays demonstrated IC50 values in the target range.",
+          "chunk_id": 4,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current screening progress includes:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The 'Current screening progress' section explicitly states that cellular assays demonstrated IC50 values in the target range, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Cellular assays demonstrated IC50 values in the target range.' in the Current screening progress includes: section. This claim was deemed supported (The 'Current screening progress' section explicitly states that cellular assays demonstrated IC50 values in the target range, directly confirming the claim.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+          "chunk_id": 8,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Mechanistic"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serve as validation tools.",
+          "chunk_id": 4,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current screening progress includes:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The provided text explicitly lists 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serving as validation tools' under the current screening progress section.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "methodological",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serve as validation tools.' in the Current screening progress includes: section. This claim was deemed supported (The provided text explicitly lists 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serving as validation tools' under the current screening progress section.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "contextual": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Core Idea' section explicitly states that mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.' in the The Science section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "P110, the parent peptide compound, has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that P110 has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'P110, the parent peptide compound, has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that P110 has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation",
+          "chunk_id": 0,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Fission Bio Project Announcement",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation' in the Fission Bio Project Announcement section. This claim was deemed supported (The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.",
+          "chunk_id": 0,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Fission Bio Project Announcement",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.",
+          "relevancy_score": 1.0,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.' in the Fission Bio Project Announcement section. This claim was deemed supported (The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Most current approaches either target downstream symptoms or broadly suppress immune function.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Most current approaches either target downstream symptoms or broadly suppress immune function.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The study prioritizes blood-brain barrier permeability and drug-like properties during the virtual screening of 48 billion compounds.",
+          "chunk_id": 4,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current screening progress includes:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the virtual screening of 48 billion compounds prioritized blood-brain barrier permeability and drug-like properties.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The study prioritizes blood-brain barrier permeability and drug-like properties during the virtual screening of 48 billion compounds.' in the Current screening progress includes: section. This claim was deemed supported (The text explicitly states that the virtual screening of 48 billion compounds prioritized blood-brain barrier permeability and drug-like properties.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as very relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Causal"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Comparative"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "90 hits were analyzed, and 15 compounds were confirmed active in primary mitoROS assays.",
+        "chunk_id": 4,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current screening progress includes:",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Current screening progress' section explicitly states that 90 hits were analyzed and 15 compounds were confirmed active in primary mitoROS assays, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim '90 hits were analyzed, and 15 compounds were confirmed active in primary mitoROS assays.' in the Current screening progress includes: section. This claim was deemed supported (The 'Current screening progress' section explicitly states that 90 hits were analyzed and 15 compounds were confirmed active in primary mitoROS assays, directly matching the claim.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Cellular assays demonstrated IC50 values in the target range.",
+        "chunk_id": 4,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current screening progress includes:",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Current screening progress' section explicitly states that cellular assays demonstrated IC50 values in the target range, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Cellular assays demonstrated IC50 values in the target range.' in the Current screening progress includes: section. This claim was deemed supported (The 'Current screening progress' section explicitly states that cellular assays demonstrated IC50 values in the target range, directly confirming the claim.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+        "chunk_id": 8,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serve as validation tools.",
+        "chunk_id": 4,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current screening progress includes:",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly lists 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serving as validation tools' under the current screening progress section.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "methodological",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serve as validation tools.' in the Current screening progress includes: section. This claim was deemed supported (The provided text explicitly lists 'Functional readouts including ROS production, DRP1 translocation, and mitochondrial membrane potential serving as validation tools' under the current screening progress section.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Core Idea' section explicitly states that mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions, directly supporting the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that mitochondrial dysfunction and fragmentation play central roles in neurodegenerative diseases and chronic inflammatory conditions, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.' in the The Science section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "P110, the parent peptide compound, has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that P110 has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'P110, the parent peptide compound, has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that P110 has shown efficacy in validated mouse models of ALS, Huntington's disease, Alzheimer's disease, Parkinson's disease, stroke, and cardiac ischemia, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation",
+        "chunk_id": 0,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Fission Bio Project Announcement",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation' in the Fission Bio Project Announcement section. This claim was deemed supported (The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.",
+        "chunk_id": 0,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Fission Bio Project Announcement",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.' in the Fission Bio Project Announcement section. This claim was deemed supported (The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Most current approaches either target downstream symptoms or broadly suppress immune function.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Most current approaches either target downstream symptoms or broadly suppress immune function.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study prioritizes blood-brain barrier permeability and drug-like properties during the virtual screening of 48 billion compounds.",
+        "chunk_id": 4,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current screening progress includes:",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the virtual screening of 48 billion compounds prioritized blood-brain barrier permeability and drug-like properties.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The study prioritizes blood-brain barrier permeability and drug-like properties during the virtual screening of 48 billion compounds.' in the Current screening progress includes: section. This claim was deemed supported (The text explicitly states that the virtual screening of 48 billion compounds prioritized blood-brain barrier permeability and drug-like properties.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as very relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 14,
+      "empirical": 5,
+      "methodological": 1,
+      "boilerplate_method": 0,
+      "contextual": 3,
+      "aspirational": 5,
+      "noise": 0
+    }
+  },
+  "originality": {
+    "score": 0.7423,
+    "evidence_grade_distribution": {
+      "unreferenced": 6
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Comparative"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.' in the The Science section. This claim was deemed supported (The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation",
+          "chunk_id": 0,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Fission Bio Project Announcement",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation' in the Fission Bio Project Announcement section. This claim was deemed supported (The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.",
+          "chunk_id": 0,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Fission Bio Project Announcement",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.",
+          "relevancy_score": 1.0,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.' in the Fission Bio Project Announcement section. This claim was deemed supported (The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Most current approaches either target downstream symptoms or broadly suppress immune function.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Most current approaches either target downstream symptoms or broadly suppress immune function.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "This clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.",
+          "chunk_id": 5,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.' in the Current Status section. This claim was deemed supported (The text explicitly states that the clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Assertion",
+        "claim": "This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Comparative"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.' in the The Science section. This claim was deemed supported (The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation",
+        "chunk_id": 0,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Fission Bio Project Announcement",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Targeting Mitochondrial Dysfunction to Treat Neurodegeneration and Chronic Inflammation' in the Fission Bio Project Announcement section. This claim was deemed supported (The document explicitly states that Fission Bio is developing inhibitors to block pathological mitochondrial fission, directly targeting the mechanism linking mitochondrial dysfunction to neurodegeneration and chronic inflammation.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.",
+        "chunk_id": 0,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Fission Bio Project Announcement",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio is developing a novel class of small molecule inhibitors that selectively block pathological mitochondrial fission, addressing a fundamental mechanism linking chronic inflammation to neurodegeneration and age-related disease.' in the Fission Bio Project Announcement section. This claim was deemed supported (The claim is directly supported by the project announcement, which explicitly states Fission Bio is developing small molecule inhibitors to block pathological mitochondrial fission and address the link between inflammation and neurodegeneration.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Most current approaches either target downstream symptoms or broadly suppress immune function.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Most current approaches either target downstream symptoms or broadly suppress immune function.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that most current approaches target downstream symptoms or broadly suppress immune function, contrasting this with Fission Bio's novel mechanism.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, enabling broad clinical and commercial applications across multiple disease areas.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that the platform encompasses brain-penetrant, peripheral, and tissue-specific compounds, directly supporting the claim regarding broad applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "This clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.",
+        "chunk_id": 5,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.' in the Current Status section. This claim was deemed supported (The text explicitly states that the clean freedom-to-operate pathway is built on de novo chemical scaffolds with no background IP restrictions.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 6,
+      "empirical": 1,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 5,
+      "noise": 0
+    }
+  },
+  "evidential_strength": {
+    "score": 0.8068,
+    "evidence_grade_distribution": {
+      "unreferenced": 7,
+      "self_reported": 3,
+      "self_reported_method": 1
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing the cascade of cellular damage without compromising normal immune signaling.",
+          "chunk_id": 1,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing cellular damage cascades without compromising normal immune signaling.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Mechanistic"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing the cascade of cellular damage without compromising normal immune signaling.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing cellular damage cascades without compromising normal immune signaling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The lead compounds inhibit the pathological interaction between dynamin-related protein 1 (DRP1) and mitochondrial receptor FIS1.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Science' section explicitly states that lead compounds inhibit the pathological interaction between DRP1 and FIS1 by blocking their binding site, directly supporting the claim.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Causal"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The lead compounds inhibit the pathological interaction between dynamin-related protein 1 (DRP1) and mitochondrial receptor FIS1.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that lead compounds inhibit the pathological interaction between DRP1 and FIS1 by blocking their binding site, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased reactive oxygen species (ROS) production, bioenergetic failure, and downstream cell death and inflammatory cascades.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Science' section explicitly states that excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased ROS, bioenergetic failure, and downstream cell death and inflammatory cascades, directly matching the claim.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Causal"
+          ],
+          "claim_classification_2": [
+            "Mechanistic"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased reactive oxygen species (ROS) production, bioenergetic failure, and downstream cell death and inflammatory cascades.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased ROS, bioenergetic failure, and downstream cell death and inflammatory cascades, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "By selectively blocking this protein-protein interaction at the SWAG (switch I-adjacent groove) binding site on DRP1, Fission Bio's compounds preserve mitochondrial function and interrupt disease progression without inhibiting normal immune responses.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Fission Bio's compounds selectively block the DRP1-FIS1 interaction at the SWAG binding site, preserving mitochondrial function and interrupting disease progression without inhibiting normal immune responses.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Mechanistic"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'By selectively blocking this protein-protein interaction at the SWAG (switch I-adjacent groove) binding site on DRP1, Fission Bio's compounds preserve mitochondrial function and interrupt disease progression without inhibiting normal immune responses.' in the The Science section. This claim was deemed supported (The text explicitly states that Fission Bio's compounds selectively block the DRP1-FIS1 interaction at the SWAG binding site, preserving mitochondrial function and interrupting disease progression without inhibiting normal immune responses.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Comparative"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.' in the The Science section. This claim was deemed supported (The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that published studies show inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Causal"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that published studies show inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo",
+          "chunk_id": 3,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Comparative"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+          "chunk_id": 8,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Mechanistic"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Ongoing optimization is directed toward achieving sub-10 µM potency.",
+          "chunk_id": 4,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current screening progress includes:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that cellular assays are demonstrating IC50 values in the target range, with ongoing optimization specifically directed toward sub-10 µM potency.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Benchmark"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Ongoing optimization is directed toward achieving sub-10 µM potency.' in the Current screening progress includes: section. This claim was deemed supported (The text explicitly states that cellular assays are demonstrating IC50 values in the target range, with ongoing optimization specifically directed toward sub-10 µM potency.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant",
+          "chunk_id": 7,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Mechanistic"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Assertion",
+        "claim": "Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing the cascade of cellular damage without compromising normal immune signaling.",
+        "chunk_id": 1,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing cellular damage cascades without compromising normal immune signaling.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing the cascade of cellular damage without compromising normal immune signaling.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that Fission Bio takes a different path by preserving mitochondrial integrity at its source, preventing cellular damage cascades without compromising normal immune signaling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "The lead compounds inhibit the pathological interaction between dynamin-related protein 1 (DRP1) and mitochondrial receptor FIS1.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Science' section explicitly states that lead compounds inhibit the pathological interaction between DRP1 and FIS1 by blocking their binding site, directly supporting the claim.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Causal"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The lead compounds inhibit the pathological interaction between dynamin-related protein 1 (DRP1) and mitochondrial receptor FIS1.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that lead compounds inhibit the pathological interaction between DRP1 and FIS1 by blocking their binding site, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased reactive oxygen species (ROS) production, bioenergetic failure, and downstream cell death and inflammatory cascades.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Science' section explicitly states that excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased ROS, bioenergetic failure, and downstream cell death and inflammatory cascades, directly matching the claim.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Causal"
+        ],
+        "claim_classification_2": [
+          "Mechanistic"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased reactive oxygen species (ROS) production, bioenergetic failure, and downstream cell death and inflammatory cascades.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that excessive DRP1-FIS1 interaction drives mitochondrial fragmentation, leading to increased ROS, bioenergetic failure, and downstream cell death and inflammatory cascades, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "By selectively blocking this protein-protein interaction at the SWAG (switch I-adjacent groove) binding site on DRP1, Fission Bio's compounds preserve mitochondrial function and interrupt disease progression without inhibiting normal immune responses.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Fission Bio's compounds selectively block the DRP1-FIS1 interaction at the SWAG binding site, preserving mitochondrial function and interrupting disease progression without inhibiting normal immune responses.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [
+          "Causal"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'By selectively blocking this protein-protein interaction at the SWAG (switch I-adjacent groove) binding site on DRP1, Fission Bio's compounds preserve mitochondrial function and interrupt disease progression without inhibiting normal immune responses.' in the The Science section. This claim was deemed supported (The text explicitly states that Fission Bio's compounds selectively block the DRP1-FIS1 interaction at the SWAG binding site, preserving mitochondrial function and interrupting disease progression without inhibiting normal immune responses.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Comparative"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'This represents a fundamentally different approach compared to NLRP3 inflammasome inhibitors and other anti-inflammatory strategies that carry long-term immunosuppression risks.' in the The Science section. This claim was deemed supported (The text explicitly states that the approach is fundamentally different from NLRP3 inhibitors and other anti-inflammatory strategies due to the lack of long-term immunosuppression risks.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Causal"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction that is reversed by P110 treatment' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that patient-derived iPSCs from neurodegenerative conditions exhibit mitochondrial dysfunction reversed by P110 treatment.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that published studies show inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Causal"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that published studies show inhibiting mitochondrial fragmentation via P110 reduces neurodegeneration, slows ALS progression, and reverses bioenergetic failure and cognitive decline.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo",
+        "chunk_id": 3,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Comparative"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Early small molecule mimetics such as SC9 show comparable efficacy to P110 in vitro and in vivo' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that early small molecule mimetics like SC9 show comparable efficacy to P110 in both in vitro and in vivo settings.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+        "chunk_id": 8,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology for CNS applications.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Ongoing optimization is directed toward achieving sub-10 µM potency.",
+        "chunk_id": 4,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current screening progress includes:",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that cellular assays are demonstrating IC50 values in the target range, with ongoing optimization specifically directed toward sub-10 µM potency.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Benchmark"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Ongoing optimization is directed toward achieving sub-10 µM potency.' in the Current screening progress includes: section. This claim was deemed supported (The text explicitly states that cellular assays are demonstrating IC50 values in the target range, with ongoing optimization specifically directed toward sub-10 µM potency.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant",
+        "chunk_id": 7,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant' in the The Opportunity section. This claim was deemed supported (The text explicitly states that Fission Bio's DRP1-FIS1 inhibition targets mitochondrial dysfunction and chronic inflammation without long-term immunosuppression risks, while offering brain-penetrant pharmacology.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 11,
+      "empirical": 9,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 2,
+      "noise": 0
+    }
+  },
+  "team_credibility": {
+    "score": 0.5703,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [
+        {
+          "claim_type": "Fact",
+          "claim": "The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.",
+          "chunk_id": 2,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.' in the The Science section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "aspirational": []
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.",
+        "chunk_id": 2,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program originated from the P110 peptide platform developed at Stanford University, which has demonstrated efficacy across 11 disease models.' in the The Science section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states the program originated from the P110 peptide platform at Stanford and lists efficacy across 11 disease models, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 1,
+      "aspirational": 0,
+      "noise": 0
+    }
+  },
+  "execution_credibility": {
+    "score": 0.6887,
+    "evidence_grade_distribution": {
+      "unreferenced": 4
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.",
+          "chunk_id": 5,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The document explicitly states that composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Roadmap"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.' in the Current Status section. This claim was deemed supported (The document explicitly states that composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.",
+          "chunk_id": 5,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Prescriptive"
+          ],
+          "claim_classification_2": [
+            "Roadmap"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.' in the Current Status section. This claim was deemed supported (The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The program is advancing through critical development milestones including completion of new compound synthesis and secondary screening by November 2025, hit-to-lead optimization and IP filings for novel scaffolds in Q1 2026, and in vivo validation in ALS, Huntington's disease, and Alzheimer's disease iPSC-derived models by mid-2026.",
+          "chunk_id": 6,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Next Steps",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Next Steps' section explicitly lists the completion of synthesis and screening by November 2025, hit-to-lead optimization and IP filings in Q1 2026, and in vivo validation in ALS, Huntington's, and Alzheimer's iPSC models by mid-2026.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Roadmap"
+          ],
+          "claim_classification_2": [
+            "Milestone"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program is advancing through critical development milestones including completion of new compound synthesis and secondary screening by November 2025, hit-to-lead optimization and IP filings for novel scaffolds in Q1 2026, and in vivo validation in ALS, Huntington's disease, and Alzheimer's disease iPSC-derived models by mid-2026.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly lists the completion of synthesis and screening by November 2025, hit-to-lead optimization and IP filings in Q1 2026, and in vivo validation in ALS, Huntington's, and Alzheimer's iPSC models by mid-2026.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.",
+          "chunk_id": 6,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Next Steps",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_2": [
+            "Roadmap"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.",
+        "chunk_id": 5,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The document explicitly states that composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.' in the Current Status section. This claim was deemed supported (The document explicitly states that composition of matter patents are planned for novel DRP1FIS1 inhibitor scaffolds following hit-to-lead optimization.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.",
+        "chunk_id": 5,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.' in the Current Status section. This claim was deemed supported (The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The program is advancing through critical development milestones including completion of new compound synthesis and secondary screening by November 2025, hit-to-lead optimization and IP filings for novel scaffolds in Q1 2026, and in vivo validation in ALS, Huntington's disease, and Alzheimer's disease iPSC-derived models by mid-2026.",
+        "chunk_id": 6,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Next Steps",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Next Steps' section explicitly lists the completion of synthesis and screening by November 2025, hit-to-lead optimization and IP filings in Q1 2026, and in vivo validation in ALS, Huntington's, and Alzheimer's iPSC models by mid-2026.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "Milestone"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The program is advancing through critical development milestones including completion of new compound synthesis and secondary screening by November 2025, hit-to-lead optimization and IP filings for novel scaffolds in Q1 2026, and in vivo validation in ALS, Huntington's disease, and Alzheimer's disease iPSC-derived models by mid-2026.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly lists the completion of synthesis and screening by November 2025, hit-to-lead optimization and IP filings in Q1 2026, and in vivo validation in ALS, Huntington's, and Alzheimer's iPSC models by mid-2026.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.",
+        "chunk_id": 6,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Next Steps",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 5,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 4,
+      "noise": 1
+    }
+  },
+  "cross_cutting": {
+    "score": 0.5703,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.",
+          "chunk_id": 5,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Prescriptive"
+          ],
+          "claim_classification_2": [
+            "Roadmap"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.' in the Current Status section. This claim was deemed supported (The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.",
+        "chunk_id": 5,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The IP strategy will cover three distinct classes: brain-penetrant inhibitors for CNS indications, peripheral inhibitors for systemic applications, and tissue-restricted compounds for localized use in organs such as the eye and gut.' in the Current Status section. This claim was deemed supported (The text explicitly states that the IP strategy covers three distinct classes: brain-penetrant inhibitors for CNS, peripheral inhibitors for systemic applications, and tissue-restricted compounds for organs like the eye and gut.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  },
+  "governance_accountability": {
+    "score": 0.5791,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.",
+          "chunk_id": 6,
+          "doc_name": "mity-fission-bio-labs-report",
+          "category": "MITY",
+          "section_heading": "Next Steps",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_2": [
+            "Roadmap"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.",
+        "chunk_id": 6,
+        "doc_name": "mity-fission-bio-labs-report",
+        "category": "MITY",
+        "section_heading": "Next Steps",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "mity-fission-bio-labs-report presents the claim 'The initial regulatory strategy targets ALS as the lead indication, enabling potential orphan drug designation, with plans to follow the standard FDA IND pathway after completion of lead optimization, in vivo efficacy studies, and safety profiling.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states the initial regulatory strategy targets ALS as the lead indication for orphan drug designation and outlines the plan to follow the standard FDA IND pathway after lead optimization, in vivo efficacy studies, and safety profiling.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  }
+}

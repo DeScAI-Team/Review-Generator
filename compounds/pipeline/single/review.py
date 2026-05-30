@@ -5,8 +5,8 @@ Reads the output of ``group_by_stance.py`` and calls the LLM three times:
 
 1. ``prompts/pump-science-scientific-grounding-evaluation.md`` — receives ``supports_exploration``
    members; produces the ``scientific_grounding`` paragraph.
-2. ``prompts/pump-science-risk-statement-evaluation.md`` — receives ``raises_caution`` +
-   ``risk_information`` members; produces the ``risk`` paragraph.
+2. ``prompts/pump-science-risk-statement-evaluation.md`` — receives curated risk excerpts plus
+   optional ``openalex_risk_context.json`` supplement; produces the ``risk`` paragraph.
 3. ``prompts/pump-science-review-statement-evaluation.md`` — receives a compact context bundle
    (the two paragraphs above + quantitative metadata from grouped_by_stance.json +
    coverage from the nearest prepared_report_*.json in the compound directory);
@@ -28,6 +28,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 
 try:
     from dotenv import load_dotenv
@@ -88,6 +89,10 @@ VLLM_API_KEY = os.environ.get("VLLM_API_KEY", "none")
 MAX_RETRIES = 4
 MAX_REVIEWER_TOKENS = max(256, int(os.environ.get("REVIEWER_MAX_TOKENS", "2048")))
 
+# When aggregate_risk from tagged units is null — limited safety evidence, not "low risk".
+DEFAULT_RISK_SCORE_PCT = 25.0
+OPENALEX_RISK_FILENAME = "openalex_risk_context.json"
+
 _END_THINK_MARKERS = (
     "</think>",
     "</think>",
@@ -134,6 +139,10 @@ def call_llm(client: OpenAI, model: str, system_prompt: str, user_content: str) 
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": user_content},
     ]
+    extra_body = {
+        "top_k": -1,
+        "chat_template_kwargs": {"enable_thinking": False},
+    }
 
     def _complete() -> object:
         kw: dict[str, object] = dict(
@@ -146,7 +155,7 @@ def call_llm(client: OpenAI, model: str, system_prompt: str, user_content: str) 
             messages=messages,
         )
         try:
-            return client.chat.completions.create(**kw, extra_body={"top_k": -1})
+            return client.chat.completions.create(**kw, extra_body=extra_body)
         except TypeError:
             return client.chat.completions.create(**kw)
 
@@ -183,6 +192,20 @@ def _fraction_to_percent(value: float | None) -> float | None:
     if v <= 1.0:
         v *= 100.0
     return round(v, 2)
+
+
+def _composite_score(
+    scientific_grounding_pct: float | None,
+    risk_assessment_pct: float | None,
+) -> float | None:
+    """Higher is better: average grounding with inverted risk (low risk → high contribution)."""
+    if scientific_grounding_pct is not None and risk_assessment_pct is not None:
+        return round((scientific_grounding_pct + (100.0 - risk_assessment_pct)) / 2.0, 2)
+    if scientific_grounding_pct is not None:
+        return scientific_grounding_pct
+    if risk_assessment_pct is not None:
+        return round(100.0 - risk_assessment_pct, 2)
+    return None
 
 
 def _compound_subject_line(names: list[str]) -> str:
@@ -238,6 +261,72 @@ def load_prepared_report_context(compound_dir: Path) -> dict:
         return {"coverage": None, "report_timestamp": None}
 
 
+def load_supplemental_openalex_risk(compound_dir: Path) -> dict[str, Any]:
+    """Load openalex_risk_context.json if present (supplemental, not primary)."""
+    path = compound_dir / OPENALEX_RISK_FILENAME
+    if not path.is_file():
+        return {"present": False, "search_terms": [], "findings": []}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"  [WARN] Could not read {path.name}: {exc}", file=sys.stderr)
+        return {"present": False, "search_terms": [], "findings": []}
+    findings_raw = data.get("risk_findings") or []
+    findings: list[dict[str, Any]] = []
+    for f in findings_raw:
+        if not isinstance(f, dict):
+            continue
+        excerpts = f.get("excerpts") or []
+        if not excerpts:
+            continue
+        findings.append({
+            "title": f.get("title"),
+            "year": f.get("year"),
+            "doi": f.get("doi"),
+            "openalex_id": f.get("openalex_id"),
+            "excerpts": excerpts,
+        })
+    return {
+        "present": bool(findings),
+        "search_terms": data.get("search_terms") or [],
+        "findings": findings,
+    }
+
+
+def build_grounding_payload(
+    compound_name: str,
+    curated_support_excerpts: list[dict[str, Any]],
+    prepared_ctx: dict,
+) -> dict[str, Any]:
+    return {
+        "compound_name": compound_name,
+        "coverage": prepared_ctx.get("coverage"),
+        "report_timestamp": prepared_ctx.get("report_timestamp"),
+        "curated_support_excerpts": curated_support_excerpts,
+    }
+
+
+def build_risk_payload(
+    compound_name: str,
+    curated_risk_excerpts: list[dict[str, Any]],
+    supplemental_openalex_risk: dict[str, Any],
+    prepared_ctx: dict,
+    risk_pct: float,
+    aggregate_risk_source: str,
+) -> dict[str, Any]:
+    return {
+        "compound_name": compound_name,
+        "coverage": prepared_ctx.get("coverage"),
+        "report_timestamp": prepared_ctx.get("report_timestamp"),
+        "curated_risk_excerpts": curated_risk_excerpts,
+        "supplemental_openalex_risk": supplemental_openalex_risk,
+        "score_context": {
+            "aggregate_risk_score_0_100": risk_pct,
+            "aggregate_risk_source": aggregate_risk_source,
+        },
+    }
+
+
 def build_statement_context(
     compound_name: str,
     grouped: dict,
@@ -249,25 +338,21 @@ def build_statement_context(
     scores = grouped.get("scores", {}).get("scientific_grounding", {})
     by_stance = grouped.get("by_stance", {})
 
-    tag_counts = {
-        stance: by_stance.get(stance, {}).get("count", 0)
-        for stance in (
-            "supports_exploration",
-            "raises_caution",
-            "risk_information",
-            "mixed_or_unclear",
-            "context_only",
-            "unmapped",
-        )
+    evidence_summary = {
+        "supporting_findings": by_stance.get("supports_exploration", {}).get("count", 0),
+        "cautionary_findings": by_stance.get("raises_caution", {}).get("count", 0),
+        "safety_label_excerpts": by_stance.get("risk_information", {}).get("count", 0),
+        "mixed_or_unclear": by_stance.get("mixed_or_unclear", {}).get("count", 0),
+        "context_only": by_stance.get("context_only", {}).get("count", 0),
+        "total_sources_reviewed": grouped.get("total_units", 0),
     }
-    tag_counts["total"] = grouped.get("total_units", sum(tag_counts.values()))
 
     return {
         "compound_name": compound_name,
         "scientific_grounding": grounding_text,
         "risk": risk_text,
         "scientific_grounding_score": scores.get("score"),
-        "tag_counts": tag_counts,
+        "evidence_summary": evidence_summary,
         "coverage": prepared_ctx.get("coverage"),
         "report_timestamp": prepared_ctx.get("report_timestamp"),
     }
@@ -349,33 +434,47 @@ def main() -> int:
         ["TAGGER_MODEL", "CLASSIFIER_MODEL", "VALIDATOR_MODEL"]
     )
 
-    print("  [1/3] Generating scientific_grounding...", file=sys.stderr)
-    if supports:
-        grounding_text = call_llm(
-            client,
-            model,
-            grounding_prompt,
-            json.dumps(supports, ensure_ascii=False),
-        )
-    else:
-        grounding_text = (
-            "No units tagged supports_exploration were present in this grouped file; "
-            "scientific grounding cannot be assessed from this bundle."
+    compound_dir = in_path.parent
+    supplemental_oa = load_supplemental_openalex_risk(compound_dir)
+    if supplemental_oa.get("present"):
+        print(
+            f"  supplemental OpenAlex risk: {len(supplemental_oa.get('findings', []))} work(s) with excerpts",
+            file=sys.stderr,
         )
 
-    print("  [2/3] Generating risk statement...", file=sys.stderr)
-    if risk_members:
-        risk_text = call_llm(
-            client,
-            model,
-            risk_prompt,
-            json.dumps(risk_members, ensure_ascii=False),
-        )
+    print("  [1/3] Generating scientific_grounding...", file=sys.stderr)
+    grounding_payload = build_grounding_payload(compound_name, supports, prepared_ctx)
+    grounding_text = call_llm(
+        client,
+        model,
+        grounding_prompt,
+        json.dumps(grounding_payload, ensure_ascii=False),
+    )
+
+    scores = grouped.get("scores", {})
+    risk_score = scores.get("aggregate_risk", {}).get("score")
+    risk_pct = _fraction_to_percent(risk_score)
+    if risk_pct is None:
+        risk_pct = DEFAULT_RISK_SCORE_PCT
+        aggregate_risk_source = "default_uncertainty"
     else:
-        risk_text = (
-            "No units tagged raises_caution or risk_information were present in this "
-            "grouped file; risk cannot be assessed from this bundle."
-        )
+        aggregate_risk_source = "tagged_units"
+
+    print("  [2/3] Generating risk statement...", file=sys.stderr)
+    risk_payload = build_risk_payload(
+        compound_name,
+        risk_members,
+        supplemental_oa,
+        prepared_ctx,
+        risk_pct,
+        aggregate_risk_source,
+    )
+    risk_text = call_llm(
+        client,
+        model,
+        risk_prompt,
+        json.dumps(risk_payload, ensure_ascii=False),
+    )
 
     print("  [3/3] Generating review_statement...", file=sys.stderr)
     statement_ctx = build_statement_context(
@@ -391,18 +490,9 @@ def main() -> int:
     _now = datetime.now(timezone.utc)
     review_date = f"{_now.strftime('%B')} {_now.day}, {_now.year}"
 
-    scores = grouped.get("scores", {})
     grounding_score = scores.get("scientific_grounding", {}).get("score")
-    risk_score = scores.get("aggregate_risk", {}).get("score")
     sg_pct = _fraction_to_percent(grounding_score)
-    risk_pct = _fraction_to_percent(risk_score)
-    composite = None
-    if sg_pct is not None and risk_pct is not None:
-        composite = round((sg_pct + risk_pct) / 2, 2)
-    elif sg_pct is not None:
-        composite = sg_pct
-    elif risk_pct is not None:
-        composite = risk_pct
+    composite = _composite_score(sg_pct, risk_pct)
 
     subject = _compound_subject_line([compound_name])
     stmt = (review_statement or "").strip()

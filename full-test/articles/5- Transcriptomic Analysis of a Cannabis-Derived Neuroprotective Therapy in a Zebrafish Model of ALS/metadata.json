@@ -1,0 +1,8 @@
+{
+  "pdf": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\5- Transcriptomic Analysis of a Cannabis-Derived Neuroprotective Therapy in a Zebrafish Model of ALS.pdf",
+  "output_folder": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\5- Transcriptomic Analysis of a Cannabis-Derived Neuroprotective Therapy in a Zebrafish Model of ALS",
+  "model": "nanonets/Nanonets-OCR2-3B",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "pages": 24,
+  "render_scale": 2.0
+}

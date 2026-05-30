@@ -1,0 +1,1277 @@
+{
+  "governance_accountability": {
+    "score": 0.838,
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "boilerplate_method": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Establish DUNA governing principles incorporating VITA-FAST governance mechanisms",
+          "chunk_id": 18,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Implementation",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The Implementation section explicitly lists 'Establish DUNA governing principles incorporating VITA-FAST governance mechanisms' as a specific task under Phase 1.",
+          "relevancy_score": 0.45,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "boilerplate_method"
+        }
+      ],
+      "contextual": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Token holders are DAO members with governance voice but no automatic equity rights.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under 'Categorical Separation' that 'DUNA = Membership: Token holders are DAO members with governance voice but no automatic equity rights', directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        }
+      ],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Establish a dual-entity structure for VITA-FAST comprising (1) VitaFast DUNA as the community governance layer with membership for VITA-FAST token holders conferred by operation of the Charter and Association Agreement of VitaFast DUNA and (2) VitaFast LLC as the operating company, enabling compliant equity financing, IP commercialization, and streamlined operations while preserving decentralized token holder governance.",
+          "chunk_id": 0,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VFDP-16 VITA-FAST: From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "semantic_category": "abstract",
+          "verdict": "supported",
+          "rationale": "The text explicitly describes the proposed dual-entity structure, detailing VitaFast DUNA for governance and VitaFast LLC for operations, matching the claim's components and objectives.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "Affiliation"
+          ],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The DUNA will enter into an agreement with a third party (yet to be defined) to act as its ministerial agent for limited operational and clerical functions, ensuring the DUNA can take limited actions in the real world without centralizing control.",
+          "chunk_id": 1,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Teaser",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The Teaser section explicitly states that the DUNA will enter an agreement with a third party to act as a ministerial agent for limited functions, ensuring real-world actions without centralizing control.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Decentralization"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "this proposal seeks approval to establish a dual-entity operational structure",
+          "chunk_id": 2,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Summary",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The Summary section explicitly states the proposal seeks approval to establish a dual-entity operational structure, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Coordinates governance and community decision-making",
+          "chunk_id": 3,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 1: VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The summary explicitly states that Entity 1 (VitaFast DUNA) coordinates governance and community decision-making.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Does NOT hold treasury (avoids securities classification concerns)",
+          "chunk_id": 3,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 1: VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The summary explicitly states that Entity 1 (VitaFast DUNA) does not hold the treasury, specifically to avoid securities classification concerns, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Oversight over Ministerial Agent's Activities",
+          "chunk_id": 3,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 1: VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The summary explicitly states that Entity 1 (VitaFast DUNA) provides oversight over the Ministerial Agent's Activities as part of its operational structure.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The dual-entity structure positions VITA-FAST to pursue equity financing from strategic investors, pharmaceutical companies, and longevity-focused funds while maintaining community governance.",
+          "chunk_id": 6,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The Motivation section explicitly states that the dual-entity structure positions VITA-FAST to pursue equity financing from strategic investors while maintaining community governance, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The DUNA serves as the community coordination layer-a legally recognized wrapper that provides liability protection for token holders while enabling decentralized governance.",
+          "chunk_id": 7,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "1. VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the text in section [1. VitaFast DUNA], which explicitly states the DUNA's purpose as a community coordination layer providing liability protection and enabling decentralized governance.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "LegalRegulatory"
+          ],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Agreement will be entered into with a third party (yet to be defined) purely for ministerial services (e.g., appointing counsel, disbursing approved funds, record-keeping, reporting) under DUNA oversight.",
+          "chunk_id": 8,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Key Characteristics:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the 'Ministerial Agent' key characteristic in the provided text, which explicitly states the agreement will be entered into with a third party for ministerial services under DUNA oversight.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Coordinate governance processes and community decision-making",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The claim is explicitly supported by the 'DUNA Responsibilities' section, which lists 'Coordinate governance processes and community decision-making' as a primary duty.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Provide formal membership structure for VITA-FAST token holders (automatic upon token holding)",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the 'DUNA Responsibilities' section, which explicitly states the responsibility to 'Provide formal membership structure for VITA-FAST token holders (automatic upon token holding).'",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Execute governance decisions that don't require treasury operations",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The claim is explicitly listed under DUNA Responsibilities as a core function. The text confirms DUNA executes governance decisions specifically when they do not require treasury operations.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Maintain alignment between community governance and LLC operations",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly lists 'Maintain alignment between community governance and LLC operations' as a specific responsibility of DUNA, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Report to token holders on governance matters",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The claim is explicitly supported by the 'DUNA Responsibilities' section, which lists 'Report to token holders on governance matters' as a specific duty.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "This structure preserves token-holder governance through the DUNA while ensuring the LLC operates under clear, traditional manager control for legal, tax, and commercial purposes.",
+          "chunk_id": 12,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "LLC Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the structure preserves token-holder governance through the DUNA while ensuring the LLC operates under clear, traditional manager control for legal, tax, and commercial purposes.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "On-chain transparency maintained through regular reporting",
+          "chunk_id": 14,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "4. Treasury Transfer to LLC",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The section '4. Treasury Transfer to LLC' explicitly states that on-chain transparency is maintained through regular reporting.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Accountability"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Token holders must voluntarily lock tokens, complete KYC/AML verification, apply for contributor equity, and sign an AIPP Agreement to participate.",
+          "chunk_id": 16,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Community Member Route:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly outlines the Community Member Route, requiring token locking, KYC/AML, application for contributor equity, and signing an AIPP Agreement. This matches the claim exactly.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Align DUNA governance processes with VITA-FAST Snapshot",
+          "chunk_id": 19,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Phase 2: Operational Integration (30-60 days post-formation)",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly lists 'Align DUNA governance processes with VITA-FAST Snapshot' as a specific task within Phase 2 of the operational integration plan.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Confirmation will be reported in Discord and on VITA-FAST governance channels.",
+          "chunk_id": 20,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Phase 3: Ongoing Operations",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The execution section explicitly states that confirmation of the multisig coordination and entity formation will be reported in Discord and on VITA-FAST governance channels.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Accountability"
+          ],
+          "claim_classification_2": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Commercialization Enabled: LLC provides clear counterparty for pharma partnerships and sublicenses research IP.",
+          "chunk_id": 21,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Benefits",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The Benefits section explicitly states that the LLC enables commercialization by providing a clear counterparty for pharma partnerships and sublicensing research IP. This directly supports the claim.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "This proposal is consistent with: VDP-111 (VITA-FAST Governance): Token holder authority preserved via DUNA; LLC executes treasury decisions",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Alignment with Existing Framework' section explicitly states the proposal is consistent with VDP-111, detailing that token holder authority is preserved via DUNA while the LLC executes treasury decisions.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Assignment Agreements: LLC manages sublicensing rights per Newcastle University agreements",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Alignment with Existing Framework' section explicitly states that the LLC manages sublicensing rights per Newcastle University agreements, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "FAM Membership Agreement: Token holder rights and governance participation maintained via DUNA",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Alignment with Existing Framework' section explicitly states that the FAM Membership Agreement maintains token holder rights and governance participation via DUNA, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [
+      {
+        "claim_type": "Assertion",
+        "claim": "The Coin-to-Company model solves the tension between enabling broad community participation/decentralized governance and avoiding securities compliance obligations through categorical separation of tokens (utility instruments) and equity (securities).",
+        "chunk_id": 5,
+        "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+        "category": "VITA-FAST",
+        "section_heading": "Motivation",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states the C2C solution solves the tension via categorical separation, defining tokens as utility instruments and equity as securities issued through compliant exemptions.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_3": []
+      }
+    ],
+    "stats": {
+      "total": 26,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 1,
+      "contextual": 1,
+      "aspirational": 23,
+      "noise": 1
+    }
+  },
+  "team_credibility": {
+    "score": 0.7326,
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Establish a dual-entity structure for VITA-FAST comprising (1) VitaFast DUNA as the community governance layer with membership for VITA-FAST token holders conferred by operation of the Charter and Association Agreement of VitaFast DUNA and (2) VitaFast LLC as the operating company, enabling compliant equity financing, IP commercialization, and streamlined operations while preserving decentralized token holder governance.",
+          "chunk_id": 0,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VFDP-16 VITA-FAST: From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "semantic_category": "abstract",
+          "verdict": "supported",
+          "rationale": "The text explicitly describes the proposed dual-entity structure, detailing VitaFast DUNA for governance and VitaFast LLC for operations, matching the claim's components and objectives.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "Affiliation"
+          ],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The dual-entity structure positions VITA-FAST to pursue equity financing from strategic investors, pharmaceutical companies, and longevity-focused funds while maintaining community governance.",
+          "chunk_id": 6,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The Motivation section explicitly states that the dual-entity structure positions VITA-FAST to pursue equity financing from strategic investors while maintaining community governance, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "VitaFast LLC is the operating company-conducting all business activities, holding license to IP and treasury, generating revenue, and enabling equity issuance through compliant securities exemptions.",
+          "chunk_id": 10,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "2. VitaFast LLC (Operating Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is explicitly stated in the 'Purpose' section of the provided text, which defines VitaFast LLC's role in conducting business, holding IP/treasury, and enabling equity issuance.",
+          "relevancy_score": 1.0,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The study involves a Newcastle autophagy program that generates research IP, which is licensed perpetually and worldwide with full ownership of developed products retained by the licensee.",
+          "chunk_id": 11,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Key Characteristics:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states VitaFast LLC holds a perpetual, worldwide, sublicensable license to develop and commercialize research IP arising from the Newcastle autophagy program, with full ownership of developed products.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "ResourceAlignment"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Neuro Longevity LLC, which is managed by Oliver Armitage (a core lead for the VITA-FAST project), will be designated as the sole manager of VitaFast LLC.",
+          "chunk_id": 12,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "LLC Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Neuro Longevity LLC, managed by Oliver Armitage, will be designated as the sole manager of VitaFast LLC.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "ResourceAlignment"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Assignment Agreements: LLC manages sublicensing rights per Newcastle University agreements",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Alignment with Existing Framework' section explicitly states that the LLC manages sublicensing rights per Newcastle University agreements, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [],
+    "stats": {
+      "total": 6,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 6,
+      "noise": 0
+    }
+  },
+  "financial_integrity": {
+    "score": 0.7384,
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Provides liability protection for VITA-FAST token holders",
+          "chunk_id": 3,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 1: VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The summary explicitly states that Entity 1 (VitaFast DUNA) is a Wyoming Decentralized Unincorporated Nonprofit Association designed to provide liability protection for VITA-FAST token holders.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Membership for VITA-FAST token holders conferred by operation of the Charter and Association Agreement for the DUNA upon qualifying participation through holding the VitaFast token",
+          "chunk_id": 3,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 1: VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The Summary explicitly states that membership for VITA-FAST token holders is conferred by the Charter and Association Agreement for the DUNA upon qualifying participation through holding the token.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Provide formal membership structure for VITA-FAST token holders (automatic upon token holding)",
+          "chunk_id": 9,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "DUNA Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the 'DUNA Responsibilities' section, which explicitly states the responsibility to 'Provide formal membership structure for VITA-FAST token holders (automatic upon token holding).'",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_2": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The study involves a Newcastle autophagy program that generates research IP, which is licensed perpetually and worldwide with full ownership of developed products retained by the licensee.",
+          "chunk_id": 11,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Key Characteristics:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states VitaFast LLC holds a perpetual, worldwide, sublicensable license to develop and commercialize research IP arising from the Newcastle autophagy program, with full ownership of developed products.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "ResourceAlignment"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Neuro Longevity LLC, which is managed by Oliver Armitage (a core lead for the VITA-FAST project), will be designated as the sole manager of VitaFast LLC.",
+          "chunk_id": 12,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "LLC Responsibilities:",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Neuro Longevity LLC, managed by Oliver Armitage, will be designated as the sole manager of VitaFast LLC.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Affiliation"
+          ],
+          "claim_classification_2": [
+            "ResourceAlignment"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Funds derived from IP-NFT fractionalization and token sales",
+          "chunk_id": 14,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "4. Treasury Transfer to LLC",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The section '4. Treasury Transfer to LLC' explicitly states that funds transferred to the LLC are derived from IP-NFT fractionalization and token sales, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "FundingSource"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Funds remain dedicated to VITA-FAST purposes per Whitepaper and Assignment Agreements",
+          "chunk_id": 14,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "4. Treasury Transfer to LLC",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The section '4. Treasury Transfer to LLC' explicitly states that funds remain dedicated to VITA-FAST purposes per the Whitepaper and Assignment Agreements, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "FundingSource"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Token holders must voluntarily lock tokens, complete KYC/AML verification, apply for contributor equity, and sign an AIPP Agreement to participate.",
+          "chunk_id": 16,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Community Member Route:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly outlines the Community Member Route, requiring token locking, KYC/AML, application for contributor equity, and signing an AIPP Agreement. This matches the claim exactly.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "IncentiveStructure"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [],
+    "stats": {
+      "total": 8,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 8,
+      "noise": 0
+    }
+  },
+  "scientific_rigor": {
+    "score": 0.8368,
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "The dual-entity structure enables entity-level taxation, thereby avoiding pass-through complexity.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the dual-entity structure 'Enables entity-level taxation (avoiding pass-through complexity)' within the Regulatory Context section.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical"
+        }
+      ],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [
+        {
+          "claim_type": "Assertion",
+          "claim": "The dual-entity structure enabled by Wyoming's DUNA Act and Delaware's LLC framework permits for-profit activities while maintaining a nonprofit governance layer.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the dual-entity structure permits for-profit activities while maintaining a nonprofit governance layer, directly supporting the claim.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "Background"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The dual-entity structure positions tokens to avoid securities classification.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the dual-entity structure positions tokens to avoid securities classification by separating utility instruments from equity securities.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The dual-entity structure provides legal existence and liability protection for the organization.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the dual-entity structure 'Provides legal existence and liability protection' within the Regulatory Context section.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The DUNA and LLC have distinct legal purposes and rights.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under 'Categorical Separation' that the DUNA and LLC have distinct legal purposes and rights, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Token holders are DAO members with governance voice but no automatic equity rights.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under 'Categorical Separation' that 'DUNA = Membership: Token holders are DAO members with governance voice but no automatic equity rights', directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "GovernanceStructure"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Shareholders hold equity with economic rights via separate agreements.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under 'Categorical Separation' that the LLC represents ownership where shareholders hold equity with economic rights via separate agreements.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Tokens are classified as utility/commodity rather than securities.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under 'Categorical Separation' that 'Tokens ≠ Securities' and that the utility/commodity classification is maintained.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Equity is issued only through compliant exemptions.",
+          "chunk_id": 13,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "VitaFast LLC - Operating Layer",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states under the 'Categorical Separation' section that equity is issued only through compliant exemptions, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Token locking enables cryptographic identity for shareholder voting and dividend distributions, commitment signaling that demonstrates alignment, and eligibility to petition for equity through compliant pathways.",
+          "chunk_id": 17,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Investor Route:",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that token locking enables cryptographic identity for shareholder voting and dividend distributions, commitment signaling, and eligibility to petition for equity through compliant pathways.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual"
+        }
+      ],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "This structure implements the C2C framework's categorical separation: tokens remain utility instruments for community membership, while equity flows through the LLC via established exemptions.",
+          "chunk_id": 4,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Entity 2: VitaFast LLC (Operating Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the structure implements the C2C framework's categorical separation, defining tokens as utility instruments for community membership and equity as securities flowing through the LLC via exemptions.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Previous approaches including ICOs, SAFTs, and 'sufficient decentralization' theories have proven inadequate for enabling broad community participation and decentralized governance without triggering securities compliance obligations.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that previous approaches like ICOs, SAFTs, and 'sufficient decentralization' theories have proven inadequate for solving the tension between community participation and securities compliance.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The same person can be both a DAO member and a shareholder through distinct pathways within the Coin-to-Company model.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the Coin-to-Company model allows dual participation where the same person can be both a DAO member and a shareholder through distinct, documented agreements.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The DUNA serves as the community coordination layer-a legally recognized wrapper that provides liability protection for token holders while enabling decentralized governance.",
+          "chunk_id": 7,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "1. VitaFast DUNA (Community Layer)",
+          "semantic_category": "other",
+          "verdict": "supported",
+          "rationale": "The claim is directly supported by the text in section [1. VitaFast DUNA], which explicitly states the DUNA's purpose as a community coordination layer providing liability protection and enabling decentralized governance.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "LegalRegulatory"
+          ],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "LLC treasury enables traditional banking relationships for operational needs",
+          "chunk_id": 14,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "4. Treasury Transfer to LLC",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The section '4. Treasury Transfer to LLC' explicitly states that the LLC treasury enables traditional banking relationships for operational needs, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "C2C Model: Implements categorical separation of tokens (utility) and equity (securities)",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Benefits' section explicitly states that tokens remain utility while equity flows through established exemptions. The 'Alignment' section confirms the proposal implements the C2C Model with this specific categorical separation.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [],
+    "stats": {
+      "total": 16,
+      "empirical": 1,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 9,
+      "aspirational": 6,
+      "noise": 0
+    }
+  },
+  "originality": {
+    "score": 0.5703,
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Previous approaches including ICOs, SAFTs, and 'sufficient decentralization' theories have proven inadequate for enabling broad community participation and decentralized governance without triggering securities compliance obligations.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that previous approaches like ICOs, SAFTs, and 'sufficient decentralization' theories have proven inadequate for solving the tension between community participation and securities compliance.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  },
+  "evidential_strength": {
+    "score": 0.5703,
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "The dual-entity structure enables entity-level taxation, thereby avoiding pass-through complexity.",
+          "chunk_id": 5,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Motivation",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the dual-entity structure 'Enables entity-level taxation (avoiding pass-through complexity)' within the Regulatory Context section.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Definitional"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical"
+        }
+      ],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [],
+      "aspirational": []
+    },
+    "noise": [],
+    "stats": {
+      "total": 1,
+      "empirical": 1,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 0,
+      "noise": 0
+    }
+  },
+  "execution_credibility": {
+    "score": 0.5703,
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "boilerplate_method": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "VITA-FAST Whitepaper: Enables commercialization pathway for autophagy research IP",
+          "chunk_id": 22,
+          "doc_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+          "category": "VITA-FAST",
+          "section_heading": "Alignment with Existing Framework",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Alignment with Existing Framework' section explicitly states that the proposal is consistent with the VITA-FAST Whitepaper, which enables the commercialization pathway for autophagy research IP.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Roadmap"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational"
+        }
+      ]
+    },
+    "noise": [],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "originality": {
+    "score": 0.6206,
+    "evidence_grade_distribution": {
+      "unverifiable": 1,
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "This is the world's first tokenized brain health supplement to enter human trials.",
+          "chunk_id": 0,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "Percepta Human Trial Approved by the IRB",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the trial involves the world's first tokenized brain health supplement entering human trials, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [
+            2024
+          ],
+          "citation_source_chunk_ids": [
+            0
+          ],
+          "citations": [
+            {
+              "ref_number": 2024,
+              "doi": null,
+              "title": null,
+              "type": null,
+              "cited_by_count": null,
+              "publication_year": null,
+              "abstract": null,
+              "support_verdict": null,
+              "support_rationale": null
+            }
+          ],
+          "evidence_grade": "unverifiable",
+          "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'This is the world's first tokenized brain health supplement to enter human trials.' in the Percepta Human Trial Approved by the IRB section. This claim was deemed supported (The text explicitly states that the trial involves the world's first tokenized brain health supplement entering human trials, directly confirming the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The study represents the first community-funded clinical trial for a brain health supplement.",
+          "chunk_id": 3,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the 2024 NEURON-CLAW tokenization raised funds for a clinical trial, which was approved by the community as 'the first community-funded clinical trial for a brain health supplement.'",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The study represents the first community-funded clinical trial for a brain health supplement.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that the 2024 NEURON-CLAW tokenization raised funds for a clinical trial, which was approved by the community as 'the first community-funded clinical trial for a brain health supplement.'.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "This is the world's first tokenized brain health supplement to enter human trials.",
+        "chunk_id": 0,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "Percepta Human Trial Approved by the IRB",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the trial involves the world's first tokenized brain health supplement entering human trials, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [
+          2024
+        ],
+        "citation_source_chunk_ids": [
+          0
+        ],
+        "citations": [
+          {
+            "ref_number": 2024,
+            "doi": null,
+            "title": null,
+            "type": null,
+            "cited_by_count": null,
+            "publication_year": null,
+            "abstract": null,
+            "support_verdict": null,
+            "support_rationale": null
+          }
+        ],
+        "evidence_grade": "unverifiable",
+        "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'This is the world's first tokenized brain health supplement to enter human trials.' in the Percepta Human Trial Approved by the IRB section. This claim was deemed supported (The text explicitly states that the trial involves the world's first tokenized brain health supplement entering human trials, directly confirming the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study represents the first community-funded clinical trial for a brain health supplement.",
+        "chunk_id": 3,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the 2024 NEURON-CLAW tokenization raised funds for a clinical trial, which was approved by the community as 'the first community-funded clinical trial for a brain health supplement.'",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The study represents the first community-funded clinical trial for a brain health supplement.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that the 2024 NEURON-CLAW tokenization raised funds for a clinical trial, which was approved by the community as 'the first community-funded clinical trial for a brain health supplement.'.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 2,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 2,
+      "noise": 0
+    }
+  },
+  "scientific_rigor": {
+    "score": 0.6875,
+    "evidence_grade_distribution": {
+      "unreferenced": 3,
+      "self_reported_method": 1
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Fact",
+          "claim": "In-vitro studies demonstrated strong plaque- and tangle-reducing activity.",
+          "chunk_id": 2,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Journey So Far' section explicitly states that in-vitro studies demonstrated strong plaque- and tangle-reducing activity, directly confirming the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'In-vitro studies demonstrated strong plaque- and tangle-reducing activity.' in the The Journey So Far section. This claim was deemed supported (The 'Journey So Far' section explicitly states that in-vitro studies demonstrated strong plaque- and tangle-reducing activity, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The demonstrated plaque- and tangle-reducing activity provided the foundation for a multi-year process of development, validation, patenting, and community-backed funding.",
+          "chunk_id": 2,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity, which provided the foundation for the subsequent multi-year process of development, validation, patenting, and community-backed funding.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The demonstrated plaque- and tangle-reducing activity provided the foundation for a multi-year process of development, validation, patenting, and community-backed funding.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity, which provided the foundation for the subsequent multi-year process of development, validation, patenting, and community-backed funding.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "P-tau 217 is the leading blood-based biomarker for cognitive decline.",
+          "chunk_id": 1,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Trial",
+          "semantic_category": "method",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that P-tau 217 is the leading blood-based biomarker for cognitive decline within the trial design description.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "Definitional"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported_method",
+          "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'P-tau 217 is the leading blood-based biomarker for cognitive decline.' in the The Trial section. This claim was deemed supported (The text explicitly states that P-tau 217 is the leading blood-based biomarker for cognitive decline within the trial design description.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The research addresses the plaque and tangle-reducing potential of cat's claw compounds.",
+          "chunk_id": 3,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity and cites a 2019 research paper specifically investigating the plaque and tangle-reducing potential of cat's claw compounds.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The research addresses the plaque and tangle-reducing potential of cat's claw compounds.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity and cites a 2019 research paper specifically investigating the plaque and tangle-reducing potential of cat's claw compounds.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "In-vitro studies demonstrated strong plaque- and tangle-reducing activity.",
+        "chunk_id": 2,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'Journey So Far' section explicitly states that in-vitro studies demonstrated strong plaque- and tangle-reducing activity, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'In-vitro studies demonstrated strong plaque- and tangle-reducing activity.' in the The Journey So Far section. This claim was deemed supported (The 'Journey So Far' section explicitly states that in-vitro studies demonstrated strong plaque- and tangle-reducing activity, directly confirming the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "The demonstrated plaque- and tangle-reducing activity provided the foundation for a multi-year process of development, validation, patenting, and community-backed funding.",
+        "chunk_id": 2,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity, which provided the foundation for the subsequent multi-year process of development, validation, patenting, and community-backed funding.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The demonstrated plaque- and tangle-reducing activity provided the foundation for a multi-year process of development, validation, patenting, and community-backed funding.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity, which provided the foundation for the subsequent multi-year process of development, validation, patenting, and community-backed funding.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "P-tau 217 is the leading blood-based biomarker for cognitive decline.",
+        "chunk_id": 1,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Trial",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that P-tau 217 is the leading blood-based biomarker for cognitive decline within the trial design description.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "Definitional"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported_method",
+        "evidence_summary": "Procedural description in method section: the manuscript describes its own methodology; no external citation expected.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'P-tau 217 is the leading blood-based biomarker for cognitive decline.' in the The Trial section. This claim was deemed supported (The text explicitly states that P-tau 217 is the leading blood-based biomarker for cognitive decline within the trial design description.). Evidence grade: self reported method — Procedural description in method section: the manuscript describes its own methodology; no external citation expected. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The research addresses the plaque and tangle-reducing potential of cat's claw compounds.",
+        "chunk_id": 3,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity and cites a 2019 research paper specifically investigating the plaque and tangle-reducing potential of cat's claw compounds.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'The research addresses the plaque and tangle-reducing potential of cat's claw compounds.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that in-vitro studies demonstrated plaque- and tangle-reducing activity and cites a 2019 research paper specifically investigating the plaque and tangle-reducing potential of cat's claw compounds.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 4,
+      "empirical": 2,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 2,
+      "noise": 0
+    }
+  },
+  "evidential_strength": {
+    "score": 0.5703,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.",
+          "chunk_id": 3,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Comparative"
+          ],
+          "claim_classification_2": [
+            "Performance"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": []
+    },
+    "members": [
+      {
+        "claim_type": "Assertion",
+        "claim": "Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.",
+        "chunk_id": 3,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Comparative"
+        ],
+        "claim_classification_2": [
+          "Performance"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 1,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 0,
+      "noise": 0
+    }
+  },
+  "execution_credibility": {
+    "score": 0.6206,
+    "evidence_grade_distribution": {
+      "unreferenced": 2
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.",
+          "chunk_id": 3,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "The Journey So Far",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Comparative"
+          ],
+          "claim_classification_2": [
+            "Performance"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "first results expected later this year",
+          "chunk_id": 4,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "Looking Ahead",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Looking Ahead' section explicitly states that with IRB approval secured and recruitment beginning soon, first results are expected later this year.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Roadmap"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'first results expected later this year' in the Looking Ahead section. This claim was deemed supported (The 'Looking Ahead' section explicitly states that with IRB approval secured and recruitment beginning soon, first results are expected later this year.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Assertion",
+        "claim": "Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.",
+        "chunk_id": 3,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "The Journey So Far",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Comparative"
+        ],
+        "claim_classification_2": [
+          "Performance"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'Percepta outperformed all competitors by substantial margins in a 2021 comparison study against 20+ major brain supplements.' in the The Journey So Far section. This claim was deemed supported (The text explicitly states that a 2021 comparison study tested Percepta against 20+ major brain supplements, where Percepta outperformed all competitors by substantial margins.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "first results expected later this year",
+        "chunk_id": 4,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "Looking Ahead",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Looking Ahead' section explicitly states that with IRB approval secured and recruitment beginning soon, first results are expected later this year.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'first results expected later this year' in the Looking Ahead section. This claim was deemed supported (The 'Looking Ahead' section explicitly states that with IRB approval secured and recruitment beginning soon, first results are expected later this year.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 2,
+      "empirical": 1,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  },
+  "cross_cutting": {
+    "score": 0.4167,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span",
+          "chunk_id": 4,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "Looking Ahead",
+          "semantic_category": "conclusion",
+          "verdict": "unsupported",
+          "rationale": "The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Prescriptive"
+          ],
+          "claim_classification_2": [
+            "SocietalImpact"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span' in the Looking Ahead section. This claim was deemed unsupported (The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span",
+        "chunk_id": 4,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "Looking Ahead",
+        "semantic_category": "conclusion",
+        "verdict": "unsupported",
+        "rationale": "The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span' in the Looking Ahead section. This claim was deemed unsupported (The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  },
+  "real_world_traction": {
+    "score": 0.4167,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span",
+          "chunk_id": 4,
+          "doc_name": "percepta-human-trial-approved-by-the-irb",
+          "category": "CLAW",
+          "section_heading": "Looking Ahead",
+          "semantic_category": "conclusion",
+          "verdict": "unsupported",
+          "rationale": "The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Prescriptive"
+          ],
+          "claim_classification_2": [
+            "SocietalImpact"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span' in the Looking Ahead section. This claim was deemed unsupported (The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span",
+        "chunk_id": 4,
+        "doc_name": "percepta-human-trial-approved-by-the-irb",
+        "category": "CLAW",
+        "section_heading": "Looking Ahead",
+        "semantic_category": "conclusion",
+        "verdict": "unsupported",
+        "rationale": "The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "percepta-human-trial-approved-by-the-irb presents the claim 'safe, natural-product interventions can provide durable support for brain health throughout our lives and hopefully extend our brain health span' in the Looking Ahead section. This claim was deemed unsupported (The text states this is the aim of the upcoming clinical trial, not a confirmed finding. No results supporting the claim are presented yet.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  }
+}

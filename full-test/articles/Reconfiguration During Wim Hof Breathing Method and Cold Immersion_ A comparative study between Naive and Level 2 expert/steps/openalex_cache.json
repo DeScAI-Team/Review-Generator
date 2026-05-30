@@ -1,0 +1,776 @@
+{
+  "10.1002/hbm.20983": {
+    "doi": "10.1002/hbm.20983",
+    "title": "Tactile shape discrimination recruits human lateral occipital complex during early perceptual processing",
+    "type": "article",
+    "cited_by_count": 65,
+    "publication_year": 2010,
+    "status": "ok",
+    "abstract": "Neuroimaging studies investigating somatosensory-based object recognition in humans have revealed activity in the lateral occipital complex, a cluster of regions primarily associated with visual object recognition. To date, determining whether this activity occurs during or subsequent to recognition per se, has been difficult to assess due to the low temporal resolution of the hemodynamic response. To more finely measure the timing of somatosensory object recognition processes we employed high density EEG using a modified version of a paradigm previously applied to neuroimaging experiments. Simple geometric shapes were presented to the right index finger of 10 participants while the ongoing EEG was measured time locked to the stimulus. In the condition of primary interest participants discriminated the shape of the stimulus. In the alternate condition they judged stimulus duration. Using traditional event-related potential analysis techniques we found significantly greater amplitudes in the evoked potentials of the shape discrimination condition between 140 and 160 ms, a timeframe in which LOC mediated perceptual processes are believed to occur during visual object recognition. Scalp voltage topography and source analysis procedures indicated the lateral occipital complex as the likely source behind this effect. This finding supports a multisensory role for the lateral occipital complex during object recognition."
+  },
+  "10.1007/s10339-009-0352-1": {
+    "doi": "10.1007/s10339-009-0352-1",
+    "title": "Occipital gamma activation during Vipassana meditation",
+    "type": "article",
+    "cited_by_count": 300,
+    "publication_year": 2009,
+    "status": "ok",
+    "abstract": "Long-term Vipassana meditators sat in meditation vs. a control rest (mind-wandering) state for 21 min in a counterbalanced design with spontaneous EEG recorded. Meditation state dynamics were measured with spectral decomposition of the last 6 min of the eyes-closed silent meditation compared to control state. Meditation was associated with a decrease in frontal delta (1-4 Hz) power, especially pronounced in those participants not reporting drowsiness during meditation. Relative increase in frontal theta (4-8 Hz) power was observed during meditation, as well as significantly increased parieto-occipital gamma (35-45 Hz) power, but no other state effects were found for the theta (4-8 Hz), alpha (8-12 Hz), or beta (12-25 Hz) bands. Alpha power was sensitive to condition order, and more experienced meditators exhibited no tendency toward enhanced alpha during meditation relative to the control task. All participants tended to exhibit decreased alpha in association with reported drowsiness. Cross-experimental session occipital gamma power was the greatest in meditators with a daily practice of 10+ years, and the meditation-related gamma power increase was similarly the strongest in such advanced practitioners. The findings suggest that long-term Vipassana meditation contributes to increased occipital gamma power related to long-term meditational expertise and enhanced sensory awareness."
+  },
+  "10.1007/s12264-023-01070-5": {
+    "doi": "10.1007/s12264-023-01070-5",
+    "title": "From Lung to Brain: Respiration Modulates Neural and Mental Activity",
+    "type": "review",
+    "cited_by_count": 46,
+    "publication_year": 2023,
+    "status": "no_abstract"
+  },
+  "10.1007/s40122-022-00372-2": {
+    "doi": "10.1007/s40122-022-00372-2",
+    "title": "EEG Recordings as Biomarkers of Pain Perception: Where Do We Stand and Where to Go?",
+    "type": "review",
+    "cited_by_count": 62,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "INTRODUCTION: The universality and complexity of pain, which is highly prevalent, yield its significance to both patients and researchers. Developing a non-invasive tool that can objectively measure pain is of the utmost importance for clinical and research purposes. Traditionally electroencephalography (EEG) has been mostly used in epilepsy; however, over the recent years EEG has become an important non-invasive clinical tool that has helped increase our understanding of brain network complexities and for the identification of areas of dysfunction. This review aimed to investigate the role of EEG recordings as potential biomarkers of pain perception. METHODS: A systematic search of the PubMed database led to the identification of 938 papers, of which 919 were excluded as a result of not meeting the eligibility criteria, and one article was identified through screening of the reference lists of the 19 eligible studies. Ultimately, 20 papers were included in this systematic review. RESULTS: Changes of the cortical activation have potential, though the described changes are not always consistent. The most consistent finding is the increase in the delta and gamma power activity. Only a limited number of studies have looked into brain networks encoding pain perception. CONCLUSION: Although no robust EEG biomarkers of pain perception have been identified yet, EEG has potential and future research should be attempted. Designing strong research protocols, controlling for potential risk of biases, as well as investigating brain networks rather than isolated cortical changes will be crucial in this attempt."
+  },
+  "10.1016/0013-4694(89)90180-6": {
+    "doi": "10.1016/0013-4694(89)90180-6",
+    "title": "Spherical splines for scalp potential and current density mapping",
+    "type": "article",
+    "cited_by_count": 2812,
+    "publication_year": 1989,
+    "status": "no_abstract"
+  },
+  "10.1016/b978-0-12-820480-1.00093-0": {
+    "doi": "10.1016/B978-0-12-820480-1.00093-0",
+    "title": "Insular cortex: A hub for saliency, cognitive control, and interoceptive awareness",
+    "type": "book-chapter",
+    "cited_by_count": 17,
+    "publication_year": 2024,
+    "status": "no_abstract"
+  },
+  "10.1016/j.bbr.2010.03.042": {
+    "doi": "10.1016/j.bbr.2010.03.042",
+    "title": "Intrinsic functional connectivity of the periaqueductal gray, a resting fMRI study",
+    "type": "article",
+    "cited_by_count": 198,
+    "publication_year": 2010,
+    "status": "no_abstract"
+  },
+  "10.1016/j.cnp.2021.05.001": {
+    "doi": "10.1016/j.cnp.2021.05.001",
+    "title": "Hyperventilation-induced EEG slowing with altered awareness: Non-epileptic, epileptic or both?",
+    "type": "editorial",
+    "cited_by_count": 7,
+    "publication_year": 2021,
+    "status": "no_abstract"
+  },
+  "10.1016/j.conb.2010.02.015": {
+    "doi": "10.1016/j.conb.2010.02.015",
+    "title": "Beta-band oscillations — signalling the status quo?",
+    "type": "review",
+    "cited_by_count": 2929,
+    "publication_year": 2010,
+    "status": "no_abstract"
+  },
+  "10.1016/j.cpnec.2024.100272": {
+    "doi": "10.1016/j.cpnec.2024.100272",
+    "title": "A randomized controlled clinical trial of a Wim Hof Method intervention in women with high depressive symptoms",
+    "type": "article",
+    "cited_by_count": 4,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "Objective: Stress is a driver of depression, and people with depression often struggle to cope with stress and anxiety. This study directly compares the mental health effects of a Wim Hof Method intervention to an active control condition (slow breathing) in women with high stress and high depressive symptoms. Methods: We randomized 84 healthy midlife women with high stress and high depressive symptoms to either: 1) the hormetic stress condition based on the Wim Hof Method (WHM) involving a breathing technique designed to induce intermittent hypoxia and cold showers (n = 41) or 2) an active comparison condition involving slow-paced breathing and warm showers (n = 43). We provided participants with daily audio instructions (15 min) for three weeks during the COVID-19 pandemic (2020-2021). Our primary outcomes were depressive symptoms, anxiety symptoms, and perceived stress collected at pre-intervention, post-intervention, and 3 months later. We also assessed daily stress rumination and affect with daily diary during the intervention, and participants completed a laboratory stressor, the Trier Social Stress Test, before and after the intervention, and provided samples for salivary cortisol reactivity. Results: Participants in the active control condition perceived the intervention to be more credible and expected greater mental wellbeing benefits compared to those in the Wim Hof Method condition. Differential attrition was observed with six participants (7 %) dropping out -- all from WHM condition. Among the participants who completed the intervention, both groups improved on mental health outcomes immediately after the intervention with a 24 % reduction in depressive symptoms, a 27 % reduction in anxiety symptoms, and 20 % reduction in perceived stress. Improvements were maintained at the 3-month follow-up with 46 % of the sample reporting mild or no depressive symptoms. Participants in the WHM condition had significant reductions in rumination after daily stressful events compared to those in the active control group. Both conditions had reduced daily negative affect across the intervention and lower peak cortisol reactivity to the lab stressor post-intervention. Conclusions: Counter to the preregistered predictions, and despite participants' differing expectations, the interventions led to equivalent reductions in depressive symptoms, anxiety symptoms, and perceived stress, which were sustained at three months. They also produced comparable reductions in cortisol reactivity and daily negative affect. However, the WHM condition was associated with greater reduction in reported rumination after daily stressful events than the active control, a finding that needs replication with larger and more diverse samples."
+  },
+  "10.1016/j.ijpsycho.2010.06.029": {
+    "doi": "10.1016/j.ijpsycho.2010.06.029",
+    "title": "Neural synchrony and white matter variations in the human brain — Relation between evoked gamma frequency and corpus callosum morphology",
+    "type": "article",
+    "cited_by_count": 26,
+    "publication_year": 2010,
+    "status": "no_abstract"
+  },
+  "10.1016/j.jneumeth.2007.03.024": {
+    "doi": "10.1016/j.jneumeth.2007.03.024",
+    "title": "Nonparametric statistical testing of EEG- and MEG-data",
+    "type": "article",
+    "cited_by_count": 9142,
+    "publication_year": 2007,
+    "status": "no_abstract"
+  },
+  "10.1016/j.jneumeth.2014.08.003": {
+    "doi": "10.1016/j.jneumeth.2014.08.003",
+    "title": "Cluster-based computational methods for mass univariate analyses of event-related brain potentials/fields: A simulation study",
+    "type": "article",
+    "cited_by_count": 320,
+    "publication_year": 2014,
+    "status": "ok",
+    "abstract": "BACKGROUND: In recent years, analyses of event related potentials/fields have moved from the selection of a few components and peaks to a mass-univariate approach in which the whole data space is analyzed. Such extensive testing increases the number of false positives and correction for multiple comparisons is needed. METHOD: Here we review all cluster-based correction for multiple comparison methods (cluster-height, cluster-size, cluster-mass, and threshold free cluster enhancement - TFCE), in conjunction with two computational approaches (permutation and bootstrap). RESULTS: Data driven Monte-Carlo simulations comparing two conditions within subjects (two sample Student's t-test) showed that, on average, all cluster-based methods using permutation or bootstrap alike control well the family-wise error rate (FWER), with a few caveats. CONCLUSIONS: (i) A minimum of 800 iterations are necessary to obtain stable results; (ii) below 50 trials, bootstrap methods are too conservative; (iii) for low critical family-wise error rates (e.g. p=1%), permutations can be too liberal; (iv) TFCE controls best the type 1 error rate with an attenuated extent parameter (i.e. power<1)."
+  },
+  "10.1016/j.mehy.2023.111118": {
+    "doi": "10.1016/j.mehy.2023.111118",
+    "title": "Can Wim Hof Method breathing induce conscious metabolic waste clearance of the brain?",
+    "type": "article",
+    "cited_by_count": 2,
+    "publication_year": 2023,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neubiorev.2022.104711": {
+    "doi": "10.1016/j.neubiorev.2022.104711",
+    "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis",
+    "type": "review",
+    "cited_by_count": 232,
+    "publication_year": 2022,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neubiorev.2023.105062": {
+    "doi": "10.1016/j.neubiorev.2023.105062",
+    "title": "Gamma-band oscillations of pain and nociception: A systematic review and meta-analysis of human and rodent studies",
+    "type": "review",
+    "cited_by_count": 49,
+    "publication_year": 2023,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neubiorev.2023.105262": {
+    "doi": "10.1016/j.neubiorev.2023.105262",
+    "title": "Does better regulation depoliticise policymaking? A case study of standardised packaging of tobacco",
+    "type": "article",
+    "cited_by_count": 0,
+    "publication_year": 2013,
+    "status": "ok",
+    "abstract": "Breathing plays a crucial role in shaping perceptual and cognitive processes by regulating the strength and synchronisation of neural oscillations. Numerous studies have demonstrated that respiratory rhythms govern a wide range of behavioural effects across cognitive, affective, and perceptual domains. Additionally, respiratory-modulated brain oscillations have been observed in various mammalian models and across diverse frequency spectra. However, a comprehensive framework to elucidate these disparate phenomena remains elusive. In this review, we synthesise existing findings to propose a neural gradient of respiratory-modulated brain oscillations and examine recent computational models of neural oscillations to map this gradient onto a hierarchical cascade of precision-weighted prediction errors. By deciphering the computational mechanisms underlying respiratory control of these processes, we can potentially uncover new pathways for understanding the link between respiratory-brain coupling and psychiatric disorders."
+  },
+  "10.1016/j.neures.2023.12.004": {
+    "doi": "10.1016/j.neures.2023.12.004",
+    "title": "Structural connectivity of the precuneus and its relation to resting-state networks",
+    "type": "review",
+    "cited_by_count": 37,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "The precuneus is an association area in the posteromedial cortex (PMC) that is involved in high-order cognitive functions through integrating multi-modal information. Previous studies have shown that the precuneus is functionally heterogeneous and subdivided into several subfields organized by the anterior-posterior and ventral-dorsal axes. Further, the precuneus forms the structural core of brain connectivity as a rich-club hub and overlaps with the default mode network (DMN) as the functional core. This review summarizes recent research on the connectivity and cognitive functions of the precuneus. We then present our recent tractography-based studies of the precuneus and contextual these results here with respect to possible cognitive functions and resting-state networks."
+  },
+  "10.1016/j.neuroimage.2013.02.013": {
+    "doi": "10.1016/j.neuroimage.2013.02.013",
+    "title": "Evidence for a motor gamma-band network governing response interference",
+    "type": "article",
+    "cited_by_count": 76,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuroimage.2013.08.070": {
+    "doi": "10.1016/j.neuroimage.2013.08.070",
+    "title": "Broadband changes in the cortical surface potential track activation of functionally diverse neuronal populations",
+    "type": "review",
+    "cited_by_count": 304,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuroimage.2014.12.081": {
+    "doi": "10.1016/j.neuroimage.2014.12.081",
+    "title": "A DCM study of spectral asymmetries in feedforward and feedback connections between visual areas V1 and V4 in the monkey",
+    "type": "article",
+    "cited_by_count": 165,
+    "publication_year": 2015,
+    "status": "ok",
+    "abstract": "This paper reports a dynamic causal modeling study of electrocorticographic (ECoG) data that addresses functional asymmetries between forward and backward connections in the visual cortical hierarchy. Specifically, we ask whether forward connections employ gamma-band frequencies, while backward connections preferentially use lower (beta-band) frequencies. We addressed this question by modeling empirical cross spectra using a neural mass model equipped with superficial and deep pyramidal cell populations-that model the source of forward and backward connections, respectively. This enabled us to reconstruct the transfer functions and associated spectra of specific subpopulations within cortical sources. We first established that Bayesian model comparison was able to discriminate between forward and backward connections, defined in terms of their cells of origin. We then confirmed that model selection was able to identify extrastriate (V4) sources as being hierarchically higher than early visual (V1) sources. Finally, an examination of the auto spectra and transfer functions associated with superficial and deep pyramidal cells confirmed that forward connections employed predominantly higher (gamma) frequencies, while backward connections were mediated by lower (alpha/beta) frequencies. We discuss these findings in relation to current views about alpha, beta, and gamma oscillations and predictive coding in the brain."
+  },
+  "10.1016/j.neuroimage.2016.11.062": {
+    "doi": "10.1016/j.neuroimage.2016.11.062",
+    "title": "Auditory cortical delta-entrainment interacts with oscillatory power in multiple fronto-parietal networks",
+    "type": "article",
+    "cited_by_count": 151,
+    "publication_year": 2016,
+    "status": "ok",
+    "abstract": "The timing of slow auditory cortical activity aligns to the rhythmic fluctuations in speech. This entrainment is considered to be a marker of the prosodic and syllabic encoding of speech, and has been shown to correlate with intelligibility. Yet, whether and how auditory cortical entrainment is influenced by the activity in other speech-relevant areas remains unknown. Using source-localized MEG data, we quantified the dependency of auditory entrainment on the state of oscillatory activity in fronto-parietal regions. We found that delta band entrainment interacted with the oscillatory activity in three distinct networks. First, entrainment in the left anterior superior temporal gyrus (STG) was modulated by beta power in orbitofrontal areas, possibly reflecting predictive top-down modulations of auditory encoding. Second, entrainment in the left Heschl's Gyrus and anterior STG was dependent on alpha power in central areas, in line with the importance of motor structures for phonological analysis. And third, entrainment in the right posterior STG modulated theta power in parietal areas, consistent with the engagement of semantic memory. These results illustrate the topographical network interactions of auditory delta entrainment and reveal distinct cross-frequency mechanisms by which entrainment can interact with different cognitive processes underlying speech perception."
+  },
+  "10.1016/j.neuroimage.2018.01.067": {
+    "doi": "10.1016/j.neuroimage.2018.01.067",
+    "title": "“Brain over body”–A study on the willful regulation of autonomic function during cold exposure",
+    "type": "article",
+    "cited_by_count": 57,
+    "publication_year": 2018,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuroimage.2023.120218": {
+    "doi": "10.1016/j.neuroimage.2023.120218",
+    "title": "Identifying good practices for detecting inter-regional linear functional connectivity from EEG",
+    "type": "article",
+    "cited_by_count": 45,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Aggregating voxel-level statistical dependencies between multivariate time series is an important intermediate step when characterising functional connectivity (FC) between larger brain regions. However, there are numerous ways in which voxel-level data can be aggregated into inter-regional FC, and the advantages of each of these approaches are currently unclear. In this study we generate ground-truth data and compare the performances of various pipelines that estimate directed and undirected linear phase-to-phase FC between regions. We test the ability of several existing and novel FC analysis pipelines to identify the true regions within which connectivity was simulated. We test various inverse modelling algorithms, strategies to aggregate time series within regions, and connectivity metrics. Furthermore, we investigate the influence of the number of interactions, the signal-to-noise ratio, the noise mix, the interaction time delay, and the number of active sources per region on the ability of detecting phase-to-phase FC. Throughout all simulated scenarios, lowest performance is obtained with pipelines involving the absolute value of coherency. Further, the combination of dynamic imaging of coherent sources (DICS) beamforming with directed FC metrics that aggregate information across multiple frequencies leads to unsatisfactory results. Pipelines that show promising results with our simulated pseudo-EEG data involve the following steps: (1) Source projection using the linearly-constrained minimum variance (LCMV) beamformer. (2) Principal component analysis (PCA) using the same fixed number of components within every region. (3) Calculation of the multivariate interaction measure (MIM) for every region pair to assess undirected phase-to-phase FC, or calculation of time-reversed Granger Causality (TRGC) to assess directed phase-to-phase FC. We formulate recommendations based on these results that may increase the validity of future experimental connectivity studies. We further introduce the free ROIconnect plugin for the EEGLAB toolbox that includes the recommended methods and pipelines that are presented here. We show an exemplary application of the best performing pipeline to the analysis of EEG data recorded during motor imagery."
+  },
+  "10.1016/j.neuron.2010.09.032": {
+    "doi": "10.1016/j.neuron.2010.09.032",
+    "title": "Topographic Representation of the Human Body in the Occipitotemporal Cortex",
+    "type": "article",
+    "cited_by_count": 242,
+    "publication_year": 2010,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2010.12.027": {
+    "doi": "10.1016/j.neuron.2010.12.027",
+    "title": "Oscillatory Synchronization in Large-Scale Cortical Networks Predicts Perception",
+    "type": "article",
+    "cited_by_count": 636,
+    "publication_year": 2011,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2012.12.037": {
+    "doi": "10.1016/j.neuron.2012.12.037",
+    "title": "Mechanisms Underlying Selective Neuronal Tracking of Attended Speech at a “Cocktail Party”",
+    "type": "article",
+    "cited_by_count": 968,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2014.12.018": {
+    "doi": "10.1016/j.neuron.2014.12.018",
+    "title": "Visual Areas Exert Feedforward and Feedback Influences through Distinct Frequency Channels",
+    "type": "article",
+    "cited_by_count": 1430,
+    "publication_year": 2014,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2015.09.012": {
+    "doi": "10.1016/j.neuron.2015.09.012",
+    "title": "Waking State: Rapid Variations Modulate Neural and Behavioral Responses",
+    "type": "review",
+    "cited_by_count": 892,
+    "publication_year": 2015,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2015.09.034": {
+    "doi": "10.1016/j.neuron.2015.09.034",
+    "title": "Rhythms for Cognition: Communication through Coherence",
+    "type": "review",
+    "cited_by_count": 2844,
+    "publication_year": 2015,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2015.12.018": {
+    "doi": "10.1016/j.neuron.2015.12.018",
+    "title": "Alpha-Beta and Gamma Rhythms Subserve Feedback and Feedforward Influences among Human Visual Cortical Areas",
+    "type": "article",
+    "cited_by_count": 769,
+    "publication_year": 2016,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2018.07.038": {
+    "doi": "10.1016/j.neuron.2018.07.038",
+    "title": "A Dynamic Interplay within the Frontoparietal Network Underlies Rhythmic Spatial Attention",
+    "type": "article",
+    "cited_by_count": 382,
+    "publication_year": 2018,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2022.03.014": {
+    "doi": "10.1016/j.neuron.2022.03.014",
+    "title": "The neurocomputational bases of explore-exploit decision-making",
+    "type": "article",
+    "cited_by_count": 78,
+    "publication_year": 2022,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuron.2023.04.023": {
+    "doi": "10.1016/j.neuron.2023.04.023",
+    "title": "20 years of the default mode network: A review and synthesis",
+    "type": "review",
+    "cited_by_count": 772,
+    "publication_year": 2023,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuropsychologia.2011.02.045": {
+    "doi": "10.1016/j.neuropsychologia.2011.02.045",
+    "title": "The role of rostral prefrontal cortex in prospective memory: A voxel-based lesion study",
+    "type": "article",
+    "cited_by_count": 159,
+    "publication_year": 2011,
+    "status": "ok",
+    "abstract": "Patients with lesions in rostral prefrontal cortex (PFC) often experience problems in everyday-life situations requiring multitasking. A key cognitive component that is critical in multitasking situations is prospective memory, defined as the ability to carry out an intended action after a delay period filled with unrelated activity. The few functional imaging studies investigating prospective memory have shown consistent activation in both medial and lateral rostral PFC but also in more posterior prefrontal regions and non-frontal regions. The aim of this study was to determine regions that are necessary for prospective memory performance, using the human lesion approach. We designed an experimental paradigm allowing us to assess time-based (remembering to do something at a particular time) and event-based (remembering to do something in a particular situation) prospective memory, using two types of material, words and pictures. Time estimation tasks and tasks controlling for basic attention, inhibition and multiple instructions processing were also administered. We examined brain-behaviour relationships with a voxelwise lesion method in 45 patients with focal brain lesions and 107 control subjects using this paradigm. The results showed that lesions in the right polar prefrontal region (in Brodmann area 10) were specifically associated with a deficit in time-based prospective memory tasks for both words and pictures. This deficit could not be explained by impairments in basic attention, detection, inhibition or multiple instruction processing, and there was also no deficit in event-based prospective memory conditions. In addition to their prospective memory difficulties, these polar prefrontal patients were significantly impaired in time estimation ability compared to other patients. The same region was found to be involved using both words and pictures, suggesting that right rostral PFC plays a material nonspecific role in prospective memory. This is the first lesion study showing that rostral PFC is crucial for time-based prospective memory. The findings suggest that time-based and event-based prospective memory might be supported at least in part by distinct brain regions. Two particularly plausible explanations for the deficit rest upon a possible role for polar prefrontal structures in supporting in time estimation, and/or in retrieving an intention to act. More broadly, the results are consistent with the view that the deficit of rostral patients in multitasking situations might at least in part be explained by a deficit in prospective memory."
+  },
+  "10.1016/j.neuropsychologia.2017.09.021": {
+    "doi": "10.1016/j.neuropsychologia.2017.09.021",
+    "title": "The orbitofrontal cortex and emotion in health and disease, including depression",
+    "type": "review",
+    "cited_by_count": 321,
+    "publication_year": 2017,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neuroscience.2015.09.047": {
+    "doi": "10.1016/j.neuroscience.2015.09.047",
+    "title": "Functional role of induced gamma oscillatory responses in processing noxious and innocuous sensory events in humans",
+    "type": "article",
+    "cited_by_count": 24,
+    "publication_year": 2015,
+    "status": "no_abstract"
+  },
+  "10.1016/j.tics.2004.03.008": {
+    "doi": "10.1016/j.tics.2004.03.008",
+    "title": "Mining event-related brain dynamics",
+    "type": "review",
+    "cited_by_count": 1520,
+    "publication_year": 2004,
+    "status": "no_abstract"
+  },
+  "10.1016/j.tics.2007.05.004": {
+    "doi": "10.1016/j.tics.2007.05.004",
+    "title": "The gateway hypothesis of rostral prefrontal cortex (area 10) function",
+    "type": "review",
+    "cited_by_count": 751,
+    "publication_year": 2007,
+    "status": "no_abstract"
+  },
+  "10.1016/j.tics.2013.06.009": {
+    "doi": "10.1016/j.tics.2013.06.009",
+    "title": "The role of the parahippocampal cortex in cognition",
+    "type": "review",
+    "cited_by_count": 883,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.tics.2014.04.012": {
+    "doi": "10.1016/j.tics.2014.04.012",
+    "title": "Frontal theta as a mechanism for cognitive control",
+    "type": "review",
+    "cited_by_count": 2700,
+    "publication_year": 2014,
+    "status": "no_abstract"
+  },
+  "10.1016/j.tics.2018.11.009": {
+    "doi": "10.1016/j.tics.2018.11.009",
+    "title": "A Rhythmic Theory of Attention",
+    "type": "review",
+    "cited_by_count": 501,
+    "publication_year": 2018,
+    "status": "no_abstract"
+  },
+  "10.1017/s0140525x15000667": {
+    "doi": "10.1017/S0140525X15000667",
+    "title": "Norepinephrine ignites local hotspots of neuronal excitation: How arousal amplifies selectivity in perception and memory",
+    "type": "article",
+    "cited_by_count": 710,
+    "publication_year": 2015,
+    "status": "ok",
+    "abstract": "Emotional arousal enhances perception and memory of high-priority information but impairs processing of other information. Here, we propose that, under arousal, local glutamate levels signal the current strength of a representation and interact with norepinephrine (NE) to enhance high priority representations and out-compete or suppress lower priority representations. In our \"glutamate amplifies noradrenergic effects\" (GANE) model, high glutamate at the site of prioritized representations increases local NE release from the locus coeruleus (LC) to generate \"NE hotspots.\" At these NE hotspots, local glutamate and NE release are mutually enhancing and amplify activation of prioritized representations. In contrast, arousal-induced LC activity inhibits less active representations via two mechanisms: 1) Where there are hotspots, lateral inhibition is amplified; 2) Where no hotspots emerge, NE levels are only high enough to activate low-threshold inhibitory adrenoreceptors. Thus, LC activation promotes a few hotspots of excitation in the context of widespread suppression, enhancing high priority representations while suppressing the rest. Hotspots also help synchronize oscillations across neural ensembles transmitting high-priority information. Furthermore, brain structures that detect stimulus priority interact with phasic NE release to preferentially route such information through large-scale functional brain networks. A surge of NE before, during, or after encoding enhances synaptic plasticity at NE hotspots, triggering local protein synthesis processes that enhance selective memory consolidation. Together, these noradrenergic mechanisms promote selective attention and memory under arousal. GANE not only reconciles apparently contradictory findings in the emotion-cognition literature but also extends previous influential theories of LC neuromodulation by proposing specific mechanisms for how LC-NE activity increases neural gain."
+  },
+  "10.1038/295234a0": {
+    "doi": "10.1038/295234a0",
+    "title": "Body temperature changes during the practice of g Tum-mo yoga",
+    "type": "letter",
+    "cited_by_count": 114,
+    "publication_year": 1982,
+    "status": "no_abstract"
+  },
+  "10.1038/nrn2555": {
+    "doi": "10.1038/nrn2555",
+    "title": "How do you feel — now? The anterior insula and human awareness",
+    "type": "review",
+    "cited_by_count": 6622,
+    "publication_year": 2008,
+    "status": "no_abstract"
+  },
+  "10.1038/nrn3137": {
+    "doi": "10.1038/nrn3137",
+    "title": "Spectral fingerprints of large-scale neuronal interactions",
+    "type": "review",
+    "cited_by_count": 1349,
+    "publication_year": 2012,
+    "status": "no_abstract"
+  },
+  "10.1038/nrn3747": {
+    "doi": "10.1038/nrn3747",
+    "title": "The functional architecture of the ventral temporal cortex and its role in categorization",
+    "type": "review",
+    "cited_by_count": 943,
+    "publication_year": 2014,
+    "status": "no_abstract"
+  },
+  "10.1038/s41386-021-01132-0": {
+    "doi": "10.1038/s41386-021-01132-0",
+    "title": "The role of prefrontal cortex in cognitive control and executive function",
+    "type": "review",
+    "cited_by_count": 1599,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Concepts of cognitive control (CC) and executive function (EF) are defined in terms of their relationships with goal-directed behavior versus habits and controlled versus automatic processing, and related to the functions of the prefrontal cortex (PFC) and related regions and networks. A psychometric approach shows unity and diversity in CC constructs, with 3 components in the most commonly studied constructs: general or common CC and components specific to mental set shifting and working memory updating. These constructs are considered against the cellular and systems neurobiology of PFC and what is known of its functional neuroanatomical or network organization based on lesioning, neurochemical, and neuroimaging approaches across species. CC is also considered in the context of motivation, as \"cool\" and \"hot\" forms. Its Common CC component is shown to be distinct from general intelligence (g) and closely related to response inhibition. Impairments in CC are considered as possible causes of psychiatric symptoms and consequences of disorders. The relationships of CC with the general factor of psychopathology (p) and dimensional constructs such as impulsivity in large scale developmental and adult populations are considered, as well as implications for genetic studies and RDoC approaches to psychiatric classification."
+  },
+  "10.1038/s41467-017-02791-8": {
+    "doi": "10.1038/s41467-017-02791-8",
+    "title": "Gamma and beta bursts during working memory readout suggest roles in its volitional control",
+    "type": "article",
+    "cited_by_count": 317,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Working memory (WM) activity is not as stationary or sustained as previously thought. There are brief bursts of gamma (~50-120 Hz) and beta (~20-35 Hz) oscillations, the former linked to stimulus information in spiking. We examined these dynamics in relation to readout and control mechanisms of WM. Monkeys held sequences of two objects in WM to match to subsequent sequences. Changes in beta and gamma bursting suggested their distinct roles. In anticipation of having to use an object for the match decision, there was an increase in gamma and spiking information about that object and reduced beta bursting. This readout signal was only seen before relevant test objects, and was related to premotor activity. When the objects were no longer needed, beta increased and gamma decreased together with object spiking information. Deviations from these dynamics predicted behavioral errors. Thus, beta could regulate gamma and the information in WM."
+  },
+  "10.1038/s41562-017-0069": {
+    "doi": "10.1038/s41562-017-0069",
+    "title": "Evidence for a large-scale brain system supporting allostasis and interoception in humans",
+    "type": "article",
+    "cited_by_count": 638,
+    "publication_year": 2017,
+    "status": "no_abstract"
+  },
+  "10.1038/s41598-020-70410-6": {
+    "doi": "10.1038/s41598-020-70410-6",
+    "title": "Anatomy and white matter connections of the fusiform gyrus",
+    "type": "article",
+    "cited_by_count": 91,
+    "publication_year": 2020,
+    "status": "ok",
+    "abstract": "The fusiform gyrus is understood to be involved in the processing of high-order visual information, particularly related to faces, bodies, and stimuli characterized by high spatial frequencies. A detailed understanding of the exact location and nature of associated white-tracts could significantly improve post-operative morbidity related to declining capacity. Through generalized q-sampling imaging (GQI) validated by gross dissection as a direct anatomical method of identifying white matter tracts, we have characterized these connections based on relationships to other well-known structures. We created the white matter tracts using GQI and confirmed the tracts using gross dissection. These dissections demonstrated connections to the occipital lobe from the fusiform gyrus along with longer association fibers that course through this gyrus. The fusiform gyrus is an important region implicated in such tasks as the visual processing of human faces and bodies, as well as the perception of stimuli with high spatial frequencies. Post-surgical outcomes related to this region may be better understood in the context of the fiber-bundle anatomy highlighted by this study."
+  },
+  "10.1038/s41598-021-94162-z": {
+    "doi": "10.1038/s41598-021-94162-z",
+    "title": "Frontal midline theta differentiates separate cognitive control strategies while still generalizing the need for cognitive control",
+    "type": "article",
+    "cited_by_count": 93,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Cognitive control processes encompass many distinct components, including response inhibition (stopping a prepotent response), proactive control (using prior information to enact control), reactive control (last-minute changing of a prepotent response), and conflict monitoring (choosing between two competing responses). While frontal midline theta activity is theorized to be a general marker of the need for cognitive control, a stringent test of this hypothesis would require a quantitative, within-subject comparison of the neural activation patterns indexing many different cognitive control strategies, an experiment lacking in the current literature. We recorded EEG from 176 participants as they performed tasks that tested inhibitory control (Go/Nogo Task), proactive and reactive control (AX-Continuous Performance Task), and resolving response conflict (Global/Local Task-modified Flanker Task). As activity in the theta (4-8 Hz) frequency band is thought to be a common signature of cognitive control, we assessed frontal midline theta activation underlying each cognitive control strategy. In all strategies, we found higher frontal midline theta power for trials that required more cognitive control (target conditions) versus control conditions. Additionally, reactive control and inhibitory control had higher theta power than proactive control and response conflict, and proactive control had higher theta power than response conflict. Using decoding analyses, we were able to successfully decode control from target trials using classifiers trained exclusively on each of the other strategies, thus firmly demonstrating that theta representations of cognitive control generalize across multiple cognitive control strategies. Our results confirm that frontal midline theta-band activity is a common mechanism for initiating and executing cognitive control, but theta power also differentiates between cognitive control mechanisms. As theta activation reliably differs depending on the cognitive control strategy employed, future work will need to focus on the differential role of theta in differing cognitive control strategies."
+  },
+  "10.1038/s41598-022-27247-y": {
+    "doi": "10.1038/s41598-022-27247-y",
+    "title": "Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials",
+    "type": "review",
+    "cited_by_count": 174,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Abstract Deliberate control of the breath (breathwork) has recently received an unprecedented surge in public interest and breathing techniques have therapeutic potential to improve mental health. Our meta-analysis primarily aimed to evaluate the efficacy of breathwork through examining whether, and to what extent, breathwork interventions were associated with lower levels of self-reported/subjective stress compared to non-breathwork controls. We searched PsycInfo, PubMed, ProQuest, Scopus, Web of Science, ClinicalTrials.gov and ISRCTN up to February 2022, initially identifying 1325 results. The primary outcome self-reported/subjective stress included 12 randomised-controlled trials ( k = 12) with a total of 785 adult participants. Most studies were deemed as being at moderate risk of bias. The random-effects analysis yielded a significant small-to-medium mean effect size, g = − 0.35 [95% CI − 0.55, − 0.14], z = 3.32, p = 0.0009, showing breathwork was associated with lower levels of stress than control conditions. Heterogeneity was intermediate and approaching significance, χ 2 11 = 19, p = 0.06, I 2 = 42%. Meta-analyses for secondary outcomes of self-reported/subjective anxiety ( k = 20) and depressive symptoms ( k = 18) showed similar significant effect sizes: g = − 0.32, p &lt; 0.0001, and g = − 0.40, p &lt; 0.0001, respectively. Heterogeneity was moderate and significant for both. Overall, results showed that breathwork may be effective for improving stress and mental health. However, we urge caution and advocate for nuanced research approaches with low risk-of-bias study designs to avoid a miscalibration between hype and evidence."
+  },
+  "10.1038/s41598-023-27480-z": {
+    "doi": "10.1038/s41598-023-27480-z",
+    "title": "EEG cortical activity and connectivity correlates of early sympathetic response during cold pressor test",
+    "type": "article",
+    "cited_by_count": 12,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Previous studies have identified several brain regions involved in the sympathetic response and its integration with pain, cognition, emotions and memory processes. However, little is known about how such regions dynamically interact during a sympathetic activation task. In this study, we analyzed EEG activity and effective connectivity during a cold pressor test (CPT). A source localization analysis identified a network of common active sources including the right precuneus (r-PCu), right and left precentral gyri (r-PCG, l-PCG), left premotor cortex (l-PMC) and left anterior cingulate cortex (l-ACC). We comprehensively analyzed the network dynamics by estimating power variation and causal interactions among the network regions through the direct directed transfer function (dDTF). A connectivity pattern dominated by interactions in [Formula: see text] (8-12) Hz band was observed in the resting state, with r-PCu acting as the main hub of information flow. After the CPT onset, we observed an abrupt suppression of such [Formula: see text]-band interactions, followed by a partial recovery towards the end of the task. On the other hand, an increase of [Formula: see text]-band (1-4) Hz interactions characterized the first part of CPT task. These results provide novel information on the brain dynamics induced by sympathetic stimuli. Our findings suggest that the observed suppression of [Formula: see text] and rise of [Formula: see text] dynamical interactions could reflect non-pain-specific arousal and attention-related response linked to stimulus' salience."
+  },
+  "10.1038/s41598-023-44902-0": {
+    "doi": "10.1038/s41598-023-44902-0",
+    "title": "The effectiveness of the Wim Hof method on cardiac autonomic function, blood pressure, arterial compliance, and different psychological parameters",
+    "type": "article",
+    "cited_by_count": 11,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "The Wim Hof method (WHM) is a multi-disciplinary approach to physical and mental well-being combining cold exposure, breathing exercises, and meditation. This study evaluated the effects of a 15 days WHM intervention on cardiovascular parameters at rest and during a cold pressor test (CPT), as well as on various psychological parameters. Forty two participants were randomized into an intervention (IG) and a control group. Throughout the 15 days intervention, the IG performed the WHM daily. Before and after the intervention, systolic (SBP) and diastolic blood pressure (DBP), pulse wave velocity (PWV), heart rate (HR), root mean sum of squared distance (RMSSD), and standard deviation of RR-intervals (SDNN) were assessed at rest and during a CPT. Furthermore, perceived stress (PSS), positive affect (PANAS+), negative affect (PANAS-), and subjective vitality (trait (SVSt) and state (SVSs)) was determined. No significant time × group interactions could be detected in HR (p = 0.709); RMSSD (p = 0.820), SDNN (p = 0.186), SBP (p = 0.839), DBP (p = 0.318), PWV (p = 0.983), PANAS+ (p = 0.427), PANAS- (p = 0.614), SVSt (p = 0.760), SVSs (p = 0.366), and PSS (p = 0.364). No significant time × group effects could be detected during the CPT (ΔHR: p = 0.596; ΔSBP: p = 0.366; ΔDBP: p = 0.999; ΔPWV: p = 0.635; perceived pain: p = 0.231). Performing the WHM daily did not exert positive effects on cardiovascular and psychological parameters."
+  },
+  "10.1038/s41598-025-23878-z": {
+    "doi": "10.1038/s41598-025-23878-z",
+    "title": "Exploring the relationship between somatosensory-evoked potentials, resting-state theta power, and acute balance performance",
+    "type": "article",
+    "cited_by_count": 0,
+    "publication_year": 2025,
+    "status": "ok",
+    "abstract": "Balance represents a fundamental motor ability whose considerable inter-individual variability and susceptibility to prior experience and task specificity complicate its assessment. Neurophysiological measures such as electroencephalography (EEG) and somatosensory-evoked potentials (SEPs) offer complementary windows into the sensorimotor mechanisms that underpin balance control and may be associated with individual differences in acute performance levels. In the present study, 25 healthy adults naïve to slacklining underwent tibial nerve SEP recordings using single-pulse and paired-pulse paradigms on both dominant and non-dominant legs to assess excitation and inhibition in the sensorimotor cortex. This was followed by five minutes of resting-state EEG. Participants then completed three balance tasks on a slackline: single leg stance with eyes open, single leg stance with eyes closed, and a successive steps task, on each leg. SEP amplitude and paired-pulse inhibition, as well as resting-state theta power were taken as neurophysiological measures. Analysis revealed a correlation between lower resting-state theta power and superior single leg stance performance with eyes-open on the non-dominant leg, while no significant relationships emerged for the eyes-closed or successive steps tasks. Furthermore, neither SEP amplitudes nor paired-pulse inhibition were significantly associated with any balance outcome. Collectively, the present findings indicate that resting-state theta power could be a non-invasive marker of acute balance performance. These results underscore the promise of spectral EEG measures for acute assessment of specific sensorimotor capacity and suggest that future research should explore their utility in clinical rehabilitation and performance monitoring."
+  },
+  "10.1038/s44271-025-00247-0": {
+    "doi": "10.1038/s44271-025-00247-0",
+    "title": "Decreased CO2 saturation during circular breathwork supports emergence of altered states of consciousness",
+    "type": "article",
+    "cited_by_count": 13,
+    "publication_year": 2025,
+    "status": "ok",
+    "abstract": "Abstract Altered states of consciousness (ASCs), induced e.g. during psychedelic-assisted therapy, show potential to treat prevalent mental health disorders like depression and posttraumatic stress disorder. However, access to such treatments is restricted by legal, medical, and financial barriers. Circular breathwork may present a non-pharmacological and hence more accessible alternative to engage similar therapeutic processes. Scientific studies of breathwork are only just emerging and its physiological and psychological mechanisms are largely unknown. Here, we track physiological and experiential dynamics throughout a breathwork session, comparing two forms of breathwork: Holotropic and Conscious-Connected breathwork. We show that a reduction in end-tidal CO 2 pressure due to deliberate hyperventilation is significantly correlated to ASC onset ( r = -0.46; p &lt; 0.001). Based on standard questionnaires (MEQ-30 and 11-DASC), the ASCs evoked by breathwork resembled those produced by psychedelics across several experiential domains such as ego dissolution, and their depth predicted psychological and physiological follow-on effects, including improved well-being and reduced depressive symptoms. Further analysis showed that different breathwork approaches produced highly similar outcomes. Our findings identify physiological boundary conditions for ASCs to arise in a non-pharmacological context, shedding light on the functional mechanisms of breathwork as well as its potential as a psychotherapeutic tool."
+  },
+  "10.1073/pnas.1322174111": {
+    "doi": "10.1073/pnas.1322174111",
+    "title": "Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans",
+    "type": "article",
+    "cited_by_count": 271,
+    "publication_year": 2014,
+    "status": "ok",
+    "abstract": "Excessive or persistent proinflammatory cytokine production plays a central role in autoimmune diseases. Acute activation of the sympathetic nervous system attenuates the innate immune response. However, both the autonomic nervous system and innate immune system are regarded as systems that cannot be voluntarily influenced. Herein, we evaluated the effects of a training program on the autonomic nervous system and innate immune response. Healthy volunteers were randomized to either the intervention (n = 12) or control group (n = 12). Subjects in the intervention group were trained for 10 d in meditation (third eye meditation), breathing techniques (i.a., cyclic hyperventilation followed by breath retention), and exposure to cold (i.a., immersions in ice cold water). The control group was not trained. Subsequently, all subjects underwent experimental endotoxemia (i.v. administration of 2 ng/kg Escherichia coli endotoxin). In the intervention group, practicing the learned techniques resulted in intermittent respiratory alkalosis and hypoxia resulting in profoundly increased plasma epinephrine levels. In the intervention group, plasma levels of the anti-inflammatory cytokine IL-10 increased more rapidly after endotoxin administration, correlated strongly with preceding epinephrine levels, and were higher. Levels of proinflammatory mediators TNF-α, IL-6, and IL-8 were lower in the intervention group and correlated negatively with IL-10 levels. Finally, flu-like symptoms were lower in the intervention group. In conclusion, we demonstrate that voluntary activation of the sympathetic nervous system results in epinephrine release and subsequent suppression of the innate immune response in humans in vivo. These results could have important implications for the treatment of conditions associated with excessive or persistent inflammation, such as autoimmune diseases."
+  },
+  "10.1073/pnas.1914180116": {
+    "doi": "10.1073/pnas.1914180116",
+    "title": "Directional coupling of slow and fast hippocampal gamma with neocortical alpha/beta oscillations in human episodic memory",
+    "type": "article",
+    "cited_by_count": 174,
+    "publication_year": 2019,
+    "status": "ok",
+    "abstract": "Episodic memories hinge upon our ability to process a wide range of multisensory information and bind this information into a coherent, memorable representation. On a neural level, these 2 processes are thought to be supported by neocortical alpha/beta desynchronization and hippocampal theta/gamma synchronization, respectively. Intuitively, these 2 processes should couple to successfully create and retrieve episodic memories, yet this hypothesis has not been tested empirically. We address this by analyzing human intracranial electroencephalogram data recorded during 2 associative memory tasks. We find that neocortical alpha/beta (8 to 20 Hz) power decreases reliably precede and predict hippocampal \"fast\" gamma (60 to 80 Hz) power increases during episodic memory formation; during episodic memory retrieval, however, hippocampal \"slow\" gamma (40 to 50 Hz) power increases reliably precede and predict later neocortical alpha/beta power decreases. We speculate that this coupling reflects the flow of information from the neocortex to the hippocampus during memory formation, and hippocampal pattern completion inducing information reinstatement in the neocortex during memory retrieval."
+  },
+  "10.1093/brain/awl004": {
+    "doi": "10.1093/brain/awl004",
+    "title": "The precuneus: a review of its functional anatomy and behavioural correlates",
+    "type": "review",
+    "cited_by_count": 5169,
+    "publication_year": 2006,
+    "status": "ok",
+    "abstract": "Functional neuroimaging studies have started unravelling unexpected functional attributes for the posteromedial portion of the parietal lobe, the precuneus. This cortical area has traditionally received little attention, mainly because of its hidden location and the virtual absence of focal lesion studies. However, recent functional imaging findings in healthy subjects suggest a central role for the precuneus in a wide spectrum of highly integrated tasks, including visuo-spatial imagery, episodic memory retrieval and self-processing operations, namely first-person perspective taking and an experience of agency. Furthermore, precuneus and surrounding posteromedial areas are amongst the brain structures displaying the highest resting metabolic rates (hot spots) and are characterized by transient decreases in the tonic activity during engagement in non-self-referential goal-directed actions (default mode of brain function). Therefore, it has recently been proposed that precuneus is involved in the interwoven network of the neural correlates of self-consciousness, engaged in self-related mental representations during rest. This hypothesis is consistent with the selective hypometabolism in the posteromedial cortex reported in a wide range of altered conscious states, such as sleep, drug-induced anaesthesia and vegetative states. This review summarizes the current knowledge about the macroscopic and microscopic anatomy of precuneus, together with its wide-spread connectivity with both cortical and subcortical structures, as shown by connectional and neurophysiological findings in non-human primates, and links these notions with the multifaceted spectrum of its behavioural correlates. By means of a critical analysis of precuneus activation patterns in response to different mental tasks, this paper provides a useful conceptual framework for matching the functional imaging findings with the specific role(s) played by this structure in the higher-order cognitive functions in which it has been implicated. Specifically, activation patterns appear to converge with anatomical and connectivity data in providing preliminary evidence for a functional subdivision within the precuneus into an anterior region, involved in self-centred mental imagery strategies, and a posterior region, subserving successful episodic memory retrieval."
+  },
+  "10.1093/brain/awt162": {
+    "doi": "10.1093/brain/awt162",
+    "title": "The role of the posterior cingulate cortex in cognition and disease",
+    "type": "review",
+    "cited_by_count": 2295,
+    "publication_year": 2013,
+    "status": "ok",
+    "abstract": "The posterior cingulate cortex is a highly connected and metabolically active brain region. Recent studies suggest it has an important cognitive role, although there is no consensus about what this is. The region is typically discussed as having a unitary function because of a common pattern of relative deactivation observed during attentionally demanding tasks. One influential hypothesis is that the posterior cingulate cortex has a central role in supporting internally-directed cognition. It is a key node in the default mode network and shows increased activity when individuals retrieve autobiographical memories or plan for the future, as well as during unconstrained 'rest' when activity in the brain is 'free-wheeling'. However, other evidence suggests that the region is highly heterogeneous and may play a direct role in regulating the focus of attention. In addition, its activity varies with arousal state and its interactions with other brain networks may be important for conscious awareness. Understanding posterior cingulate cortex function is likely to be of clinical importance. It is well protected against ischaemic stroke, and so there is relatively little neuropsychological data about the consequences of focal lesions. However, in other conditions abnormalities in the region are clearly linked to disease. For example, amyloid deposition and reduced metabolism is seen early in Alzheimer's disease. Functional neuroimaging studies show abnormalities in a range of neurological and psychiatric disorders including Alzheimer's disease, schizophrenia, autism, depression and attention deficit hyperactivity disorder, as well as ageing. Our own work has consistently shown abnormal posterior cingulate cortex function following traumatic brain injury, which predicts attentional impairments. Here we review the anatomy and physiology of the region and how it is affected in a range of clinical conditions, before discussing its proposed functions. We synthesize key findings into a novel model of the region's function (the 'Arousal, Balance and Breadth of Attention' model). Dorsal and ventral subcomponents are functionally separated and differences in regional activity are explained by considering: (i) arousal state; (ii) whether attention is focused internally or externally; and (iii) the breadth of attentional focus. The predictions of the model can be tested within the framework of complex dynamic systems theory, and we propose that the dorsal posterior cingulate cortex influences attentional focus by 'tuning' whole-brain metastability and so adjusts how stable brain network activity is over time."
+  },
+  "10.1097/psy.0000000000001065": {
+    "doi": "10.1097/PSY.0000000000001065",
+    "title": "The Effects of Cold Exposure Training and a Breathing Exercise on the Inflammatory Response in Humans: A Pilot Study",
+    "type": "article",
+    "cited_by_count": 32,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "OBJECTIVE: We previously showed that a training intervention comprising a combination of meditation, exposure to cold, and breathing exercises enables voluntary activation of the sympathetic nervous system, reflected by profoundly increased plasma epinephrine levels, and subsequent attenuation of the lipopolysaccharide (LPS)-induced inflammatory response. Several elements of the intervention may contribute to these effects, namely, two different breathing exercises (either with or without prolonged breath retention) and exposure to cold. We determined the contribution of these different elements to the observed effects. METHODS: Forty healthy male volunteers were randomized to either a short or an extensive training in both breathing exercises by either the creator of the training intervention or an independent trainer. The primary outcome was plasma epinephrine levels. In a subsequent study, 48 healthy male volunteers were randomized to cold exposure training, training in the established optimal breathing exercise, a combination of both, or no training. These 48 participants were subsequently intravenously challenged with 2 ng/kg LPS. The primary outcome was plasma cytokine levels. RESULTS: Both breathing exercises were associated with an increase in plasma epinephrine levels, which did not vary as a function of length of training or the trainer (F(4,152) = 0.53, p = .71, and F(4,152) = 0.92, p = .46, respectively). In the second study, the breathing exercise also resulted in increased plasma epinephrine levels. Cold exposure training alone did not relevantly modulate the LPS-induced inflammatory response (F(8,37) = 0.60, p = .77), whereas the breathing exercise led to significantly enhanced anti-inflammatory and attenuated proinflammatory cytokine levels (F(8,37) = 3.80, p = .002). Cold exposure training significantly enhanced the immunomodulatory effects of the breathing exercise (F(8,37) = 2.57, p = .02). CONCLUSIONS: The combination of cold exposure training and a breathing exercise most potently attenuates the in vivo inflammatory response in healthy young males. Our study demonstrates that the immunomodulatory effects of the intervention can be reproduced in a standardized manner, thereby paving the way for clinical trials.Trial Registration:ClinicalTrials.gov identifiers: NCT02417155 and NCT03240497."
+  },
+  "10.1109/tsp.2018.2844203": {
+    "doi": "10.1109/TSP.2018.2844203",
+    "title": "Faster Independent Component Analysis by Preconditioning With Hessian Approximations",
+    "type": "article",
+    "cited_by_count": 230,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Independent Component Analysis (ICA) is a technique for unsupervised exploration of multichannel data that is widely used in observational sciences. In its classic form, ICA relies on modeling the data as linear mixtures of nonGaussian independent sources. The maximization of the corresponding likelihood is a challenging problem if it has to be completed quickly and accurately on large sets of real data. This problem has been addressed by resorting to quasi-Newton methods, which rely on sparse approximations of the Hessian of the log-likelihood. However, those approximations are not accurate when the ICA model does not hold exactly, as is often the case for real datasets. We propose a new algorithm, dubbed Picard, which makes use of sparse approximate Hessians only as a preconditioner to the L-BFGS algorithm, refining the Hessian approximation from a memory of the past iterates. Extensive numerical comparisons to several algorithms of the same class demonstrate the superior performance of the proposed technique, especially on real data."
+  },
+  "10.1111/psyp.13091": {
+    "doi": "10.1111/psyp.13091",
+    "title": "Coupling of respiration and attention via the locus coeruleus: Effects of meditation and pranayama",
+    "type": "article",
+    "cited_by_count": 112,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Abstract The locus coeruleus (LC) has established functions in both attention and respiration. Good attentional performance requires optimal levels of tonic LC activity, and must be matched to task consistently. LC neurons are chemosensitive, causing respiratory phrenic nerve firing to increase frequency with higher CO 2 levels, and as CO 2 level varies with the phase of respiration, tonic LC activity should exhibit fluctuations at respiratory frequency. Top‐down modulation of tonic LC activity from brain areas involved in attentional regulation, intended to optimize LC firing to suit task requirements, may have respiratory consequences as well, as increases in LC activity influence phrenic nerve firing. We hypothesize that, due to the physiological and functional overlaps of attentional and respiratory functions of the LC, this small neuromodulatory nucleus is ideally situated to act as a mechanism of synchronization between respiratory and attentional systems, giving rise to a low‐amplitude oscillation that enables attentional flexibility, but may also contribute to unintended destabilization of attention. Meditative and pranayama practices result in attentional, emotional, and physiological enhancements that may be partially due to the LC's pivotal role as the nexus in this coupled system. We present original findings of synchronization between respiration and LC activity (via fMRI and pupil dilation) and provide evidence of a relationship between respiratory phase modulation and attentional performance. We also present a mathematical dynamical systems model of respiratory‐LC‐attentional coupling, review candidate neurophysiological mechanisms of changes in coupling dynamics, and discuss implications for attentional theory, meditation, and pranayama, and possible therapeutic applications."
+  },
+  "10.1126/science.1171402": {
+    "doi": "10.1126/science.1171402",
+    "title": "High-Frequency, Long-Range Coupling Between Prefrontal and Visual Cortex During Attention",
+    "type": "article",
+    "cited_by_count": 36,
+    "publication_year": 2009,
+    "status": "ok",
+    "abstract": "Electrical recordings in humans and monkeys show attentional enhancement of evoked responses and gamma synchrony in ventral stream cortical areas. Does this synchrony result from intrinsic activity in visual cortex or from inputs from other structures? Using paired recordings in the frontal eye field (FEF) and area V4, we found that attention to a stimulus in their joint receptive field leads to enhanced oscillatory coupling between the two areas, particularly at gamma frequencies. This coupling appeared to be initiated by FEF and was time-shifted by about 8 to 13 milliseconds across a range of frequencies. Considering the expected conduction and synaptic delays between the areas, this time-shifted coupling at gamma frequencies may optimize the postsynaptic impact of spikes from one area upon the other, improving cross-area communication with attention."
+  },
+  "10.1146/annurev-vision-091517-034202": {
+    "doi": "10.1146/annurev-vision-091517-034202",
+    "title": "The Organization and Operation of Inferior Temporal Cortex",
+    "type": "review",
+    "cited_by_count": 267,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Inferior temporal cortex (IT) is a key part of the ventral visual pathway implicated in object, face, and scene perception. But how does IT work? Here, I describe an organizational scheme that marries form and function and provides a framework for future research. The scheme consists of a series of stages arranged along the posterior-anterior axis of IT, defined by anatomical connections and functional responses. Each stage comprises a complement of subregions that have a systematic spatial relationship. The organization of each stage is governed by an eccentricity template, and corresponding eccentricity representations across stages are interconnected. Foveal representations take on a role in high-acuity object vision (including face recognition); intermediate representations compute other aspects of object vision such as behavioral valence (using color and surface cues); and peripheral representations encode information about scenes. This multistage, parallel-processing model invokes an innately determined organization refined by visual experience that is consistent with principles of cortical development. The model is also consistent with principles of evolution, which suggest that visual cortex expanded through replication of retinotopic areas. Finally, the model predicts that the most extensively studied network within IT-the face patches-is not unique but rather one manifestation of a canonical set of operations that reveal general principles of how IT works."
+  },
+  "10.1146/annurev.neuro.28.061604.135709": {
+    "doi": "10.1146/annurev.neuro.28.061604.135709",
+    "title": "AN INTEGRATIVE THEORY OF LOCUS COERULEUS-NOREPINEPHRINE FUNCTION: Adaptive Gain and Optimal Performance",
+    "type": "review",
+    "cited_by_count": 4526,
+    "publication_year": 2005,
+    "status": "ok",
+    "abstract": "Historically, the locus coeruleus-norepinephrine (LC-NE) system has been implicated in arousal, but recent findings suggest that this system plays a more complex and specific role in the control of behavior than investigators previously thought. We review neurophysiological and modeling studies in monkey that support a new theory of LC-NE function. LC neurons exhibit two modes of activity, phasic and tonic. Phasic LC activation is driven by the outcome of task-related decision processes and is proposed to facilitate ensuing behaviors and to help optimize task performance (exploitation). When utility in the task wanes, LC neurons exhibit a tonic activity mode, associated with disengagement from the current task and a search for alternative behaviors (exploration). Monkey LC receives prominent, direct inputs from the anterior cingulate (ACC) and orbitofrontal cortices (OFC), both of which are thought to monitor task-related utility. We propose that these frontal areas produce the above patterns of LC activity to optimize utility on both short and long timescales."
+  },
+  "10.1152/jn.00551.2017": {
+    "doi": "10.1152/jn.00551.2017",
+    "title": "Breathing above the brain stem: volitional control and attentional modulation in humans",
+    "type": "article",
+    "cited_by_count": 348,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Whereas the neurophysiology of respiration has traditionally focused on automatic brain stem processes, higher brain mechanisms underlying the cognitive aspects of breathing are gaining increasing interest. Therapeutic techniques have used conscious control and awareness of breathing for millennia with little understanding of the mechanisms underlying their efficacy. Using direct intracranial recordings in humans, we correlated cortical and limbic neuronal activity as measured by the intracranial electroencephalogram (iEEG) with the breathing cycle. We show this to be the direct result of neuronal activity, as demonstrated by both the specificity of the finding to the cortical gray matter and the tracking of breath by the gamma-band (40-150 Hz) envelope in these structures. We extend prior observations by showing the iEEG signal to track the breathing cycle across a widespread network of cortical and limbic structures. We further demonstrate a sensitivity of this tracking to cognitive factors by using tasks adapted from cognitive behavioral therapy and meditative practice. Specifically, volitional control and awareness of breathing engage distinct but overlapping brain circuits. During volitionally paced breathing, iEEG-breath coherence increases in a frontotemporal-insular network, and during attention to breathing, we demonstrate increased coherence in the anterior cingulate, premotor, insular, and hippocampal cortices. Our findings suggest that breathing can act as an organizing hierarchical principle for neuronal oscillations throughout the brain and detail mechanisms of how cognitive factors impact otherwise automatic neuronal processes during interoceptive attention. NEW & NOTEWORTHY Whereas the link between breathing and brain activity has a long history of application to therapy, its neurophysiology remains unexplored. Using intracranial recordings in humans, we show neuronal activity to track the breathing cycle throughout widespread cortical/limbic sites. Volitional pacing of the breath engages frontotemporal-insular cortices, whereas attention to automatic breathing modulates the cingulate cortex. Our findings imply a fundamental role of breathing-related oscillations in driving neuronal activity and provide insight into the neuronal mechanisms of interoceptive attention."
+  },
+  "10.1162/jocn_a_02124": {
+    "doi": "10.1162/jocn_a_02124",
+    "title": "Hydroelectric structures studies using 3-dimensional methods",
+    "type": "article",
+    "cited_by_count": 0,
+    "publication_year": 1989,
+    "status": "ok",
+    "abstract": "Cognitive control allows behavior to be guided according to environmental contexts and internal goals. During cognitive control tasks, fMRI analyses typically reveal increased activation in frontal and parietal networks, and EEG analyses reveal increased amplitude of neural oscillations in the delta/theta band (2-3, 4-7 Hz) in frontal electrodes. Previous studies proposed that theta-band activity reflects the maintenance of rules associating stimuli to appropriate actions (i.e., the rule set), whereas delta synchrony is specifically associated with the control over the context for when to apply a set of rules (i.e., the rule abstraction). We tested these predictions using EEG and fMRI data collected during the performance of a hierarchical cognitive control task that manipulated the level of abstraction of task rules and their set-size. Our results show a clear separation of delta and theta oscillations in the control of rule abstraction and of stimulus-action associations, respectively, in distinct frontoparietal association networks. These findings support a model by which frontoparietal networks operate through dynamic, multiplexed neural processes."
+  },
+  "10.1186/s13244-021-00993-9": {
+    "doi": "10.1186/s13244-021-00993-9",
+    "title": "Investigating the sub-regions of the superior parietal cortex using functional magnetic resonance imaging connectivity",
+    "type": "article",
+    "cited_by_count": 57,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "OBJECTIVES: Traditionally, the superior parietal lobule (SPL) is usually investigated as one region of interest, particularly in functional magnetic resonance imaging (fMRI) studies. However, cytoarchitectonic analysis has shown that the SPL has a complex, heterogeneous topology that comprises more than seven sub-regions. Since previous studies have shown how the SPL is significantly involved in different neurological functions-such as visuomotor, cognitive, sensory, higher order, working memory and attention-this study aims to investigate whether these cytoarchitecturally different sub-regions have different functional connectivity to different functional brain networks. METHODS: This study examined 198 healthy subjects using resting-state fMRI and investigated the functional connectivity of seven sub-regions of the SPL to eight regional functional networks. RESULTS: The findings showed that most of the seven sub-regions were functionally connected to these targeted networks and that there are differences between these sub-regions and their functional connectivity patterns. The most consistent functional connectivity was observed with the visual and attention networks. There were also clear functional differences between Brodmann area (BA) 5 and BA7. BA5, with its three sub-regions, had strong functional connectivity to both the sensorimotor and salience networks. CONCLUSION: These findings have enhanced our understanding of the functional organisations of the complexity of the SPL and its varied topology and also provide clear evidence of the functional patterns and involvements of the SPL in major brain functions."
+  },
+  "10.1371/journal.pbio.3001457": {
+    "doi": "10.1371/journal.pbio.3001457",
+    "title": "Respiration modulates oscillatory neural network activity at rest",
+    "type": "article",
+    "cited_by_count": 143,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Despite recent advances in understanding how respiration affects neural signalling to influence perception, cognition, and behaviour, it is yet unclear to what extent breathing modulates brain oscillations at rest. We acquired respiration and resting state magnetoencephalography (MEG) data from human participants to investigate if, where, and how respiration cyclically modulates oscillatory amplitudes (2 to 150 Hz). Using measures of phase-amplitude coupling, we show respiration-modulated brain oscillations (RMBOs) across all major frequency bands. Sources of these modulations spanned a widespread network of cortical and subcortical brain areas with distinct spectrotemporal modulation profiles. Globally, delta and gamma band modulations varied with distance to the head centre, with stronger modulations at distal (versus central) cortical sites. Overall, we provide the first comprehensive mapping of RMBOs across the entire brain, highlighting respiration-brain coupling as a fundamental mechanism to shape neural processing within canonical resting state and respiratory control networks (RCNs)."
+  },
+  "10.1371/journal.pone.0058244": {
+    "doi": "10.1371/journal.pone.0058244",
+    "title": "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation: Legend and Reality",
+    "type": "article",
+    "cited_by_count": 69,
+    "publication_year": 2013,
+    "status": "ok",
+    "abstract": "Stories of g-tummo meditators mysteriously able to dry wet sheets wrapped around their naked bodies during a frigid Himalayan ceremony have intrigued scholars and laypersons alike for a century. Study 1 was conducted in remote monasteries of eastern Tibet with expert meditators performing g-tummo practices while their axillary temperature and electroencephalographic (EEG) activity were measured. Study 2 was conducted with Western participants (a non-meditator control group) instructed to use the somatic component of the g-tummo practice (vase breathing) without utilization of meditative visualization. Reliable increases in axillary temperature from normal to slight or moderate fever zone (up to 38.3°C) were observed among meditators only during the Forceful Breath type of g-tummo meditation accompanied by increases in alpha, beta, and gamma power. The magnitude of the temperature increases significantly correlated with the increases in alpha power during Forceful Breath meditation. The findings indicate that there are two factors affecting temperature increase. The first is the somatic component which causes thermogenesis, while the second is the neurocognitive component (meditative visualization) that aids in sustaining temperature increases for longer periods. Without meditative visualization, both meditators and non-meditators were capable of using the Forceful Breath vase breathing only for a limited time, resulting in limited temperature increases in the range of normal body temperature. Overall, the results suggest that specific aspects of the g-tummo technique might help non-meditators learn how to regulate their body temperature, which has implications for improving health and regulating cognitive performance."
+  },
+  "10.1371/journal.pone.0170647": {
+    "doi": "10.1371/journal.pone.0170647",
+    "title": "Increased Gamma Brainwave Amplitude Compared to Control in Three Different Meditation Traditions",
+    "type": "article",
+    "cited_by_count": 219,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Despite decades of research, effects of different types of meditation on electroencephalographic (EEG) activity are still being defined. We compared practitioners of three different meditation traditions (Vipassana, Himalayan Yoga and Isha Shoonya) with a control group during a meditative and instructed mind-wandering (IMW) block. All meditators showed higher parieto-occipital 60-110 Hz gamma amplitude than control subjects as a trait effect observed during meditation and when considering meditation and IMW periods together. Moreover, this gamma power was positively correlated with participants meditation experience. Independent component analysis was used to show that gamma activity did not originate in eye or muscle artifacts. In addition, we observed higher 7-11 Hz alpha activity in the Vipassana group compared to all the other groups during both meditation and instructed mind wandering and lower 10-11 Hz activity in the Himalayan yoga group during meditation only. We showed that meditation practice is correlated to changes in the EEG gamma frequency range that are common to a variety of meditation practices."
+  },
+  "10.1371/journal.pone.0286933": {
+    "doi": "10.1371/journal.pone.0286933",
+    "title": "Does the Wim Hof Method have a beneficial impact on physiological and psychological outcomes in healthy and non-healthy participants? A systematic review",
+    "type": "review",
+    "cited_by_count": 15,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "INTRODUCTION: Wim Hof, also known as the iceman, developed a method called Wim Hof Method (WHM) which he claims to have several benefits on physical and mental health. The aim of this systematic review is to identify and synthesise the results of the studies conducted on WHM on physiological and psychological health-related outcomes. MATERIALS AND METHODS: This systematic review followed the PRISMA guidelines for systematic reviews. The protocol was registered in the International Prospective Register of Systematic Reviews (PROSPERO), registration number CRD42022333209. Medline and Web of Science were searched and included studies from January 1, 2014, to July 4, 2022. Studies were included if they met the predetermined inclusion/exclusion criteria. Inclusion criteria included RCTs and cohort studies published in peer-reviewed journals, studies conducted on healthy individuals and people with pre-existing medical conditions (adolescents and adults over the age of 14), studies that included all three pillars (breathing, cold exposure, and commitment) of the WHM, and studies that only focused on Wim Hof breathing method (WHBM). Exclusion criteria included studies that discussed WHM but are not original experimental research or are not peer-reviewed, studies that included children under the age of 14, and studies that used methods similar to WHM, but not actually WHM, such as tummo meditation. The articles were assessed for risk of bias using RoB 2.0 and Scottish Intercollegiate Guidelines Network (SIGN) tools. The effects of WHM were categorised into physiological or psychological related outcomes and narrative synthesis was conducted. RESULTS: Nine papers were included in this review which consisted of eight individual trials. The findings suggest that the WHM may reduce inflammation in healthy and non-healthy participants as it increases epinephrine levels, causing an increase in interleukin-10 and a decrease in pro-inflammatory cytokines. Additionally, effect of WHBM on exercise performance showed mixed findings. Effects on respiratory parameters of minute ventilation, tidal volume, and breathing frequency were mixed following bouts of exercise. CONCLUSION: Taken together, the findings of this review show promising use of WHM in the inflammatory response category. The focus of future studies should further investigate the benefits of WHM in non-healthy participants with inflammatory disorders and explore the use of Wim Hof breathing method to enhance exercise performance."
+  },
+  "10.14581/jer.12002": {
+    "doi": "10.14581/jer.12002",
+    "title": "Relationship between Hyperventilation-Induced Electroencephalographic Changes and PCO&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Level",
+    "type": "article",
+    "cited_by_count": 9,
+    "publication_year": 1970,
+    "status": "ok",
+    "abstract": "BACKGROUND AND PURPOSE: We conducted this study to define the relationship between the hyperventilation-induced EEG changes (HV-EEG changes) and PCO2. METHODS: In consecutive EEG recordings of 190 patients, we gathered data on PCO2 during the hyperventilation procedure. The data included baseline PCO2 (B-PCO2), PCO2 after 5 min of hyperventilation (5 min-PCO2), the mean value of the PCO2 (M-PCO2), and the difference between B-PCO2 and 5 min-PCO2 (ΔPCO2). We divided the enrolled patients into two groups by hyperventilation response (response group and no-response group), presence of epilepsy (epileptic group and non-epileptic group) and age (child-adolescent group and adult group) repeatedly. We compared the four variables between the two groups in each pair. RESULTS: ΔPCO2 was 14.2±5.0 mmHg (mean±SD) in response group (n=48) and 12.4±5.0 in no-response group (n=142; p=0.033) for all the patients. For adult patients only, 5 min-PCO2 was 24.3±3.4 in response group (n=30) and 26.2±4.6 in no-response group (n=115; p=0.048), and ΔPCO2 was 15.8±4.0 and 12.9±5.0, respectively (p=0.004). In non-epileptic patients, 5min-PCO2 was 23.4±2.2 in response group (n=7) and 26.3±3.8 in no-response group (n=44; p=0.026), and ΔPCO2 was 15.9±4.3 and 12.7±3.9, respectively (p=0.053). CONCLUSIONS: In adults and non-epileptic patients, ΔPCO2 and 5 min-PCO2 may be crucial to the induction of EEG changes by hyperventilation. PCO2 could be a crucial factor for provoking HV-EEG changes in a limited group of patients."
+  },
+  "10.1523/eneuro.0170-17.2017": {
+    "doi": "10.1523/ENEURO.0170-17.2017",
+    "title": "Beyond the Status Quo: A Role for Beta Oscillations in Endogenous Content (Re)Activation",
+    "type": "review",
+    "cited_by_count": 633,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Among the rhythms of the brain, oscillations in the beta frequency range (∼13-30 Hz) have been considered the most enigmatic. Traditionally associated with sensorimotor functions, beta oscillations have recently become more broadly implicated in top-down processing, long-range communication, and preservation of the current brain state. Here, we extend and refine these views based on accumulating new findings of content-specific beta-synchronization during endogenous information processing in working memory (WM) and decision making. We characterize such content-specific beta activity as short-lived, flexible network dynamics supporting the endogenous (re)activation of cortical representations. Specifically, we suggest that beta-mediated ensemble formation within and between cortical areas may awake, rather than merely preserve, an endogenous cognitive set in the service of current task demands. This proposal accommodates key aspects of content-specific beta modulations in monkeys and humans, integrates with timely computational models, and outlines a functional role for beta that fits its transient temporal characteristics."
+  },
+  "10.1523/jneurosci.0786-13.2013": {
+    "doi": "10.1523/JNEUROSCI.0786-13.2013",
+    "title": "Medial and Lateral Networks in Anterior Prefrontal Cortex Support Metacognitive Ability for Memory and Perception",
+    "type": "article",
+    "cited_by_count": 331,
+    "publication_year": 2013,
+    "status": "ok",
+    "abstract": "Convergent evidence indicates that frontopolar Brodmann area 10, and more generally the anterior prefrontal cortex (aPFC), supports the human capacity to monitor and reflect on cognition and experience. An important unanswered question, however, is whether aPFC is a homogeneous region that supports a general-purpose metacognitive ability or whether there could be regional specialization within aPFC with respect to specific types of metacognitive processes. Previous studies suggest that the lateral and medial subdivisions within aPFC may support metacognitive judgments of moment-to-moment perceptual processes and assessments of information from memory stored over longer time scales, respectively. Here we directly compared intraindividual variability in metacognitive capacity for perceptual decisions and memorial judgments and used resting-state functional connectivity (rs-fcMRI) to relate this variability to the connectivity of the medial and lateral regions of aPFC. We found a behavioral dissociation in metacognitive ability for perceptual and memorial judgments. Furthermore, functional connectivity analysis revealed distinct patterns of connectivity that correlated with individual differences in each domain. Metacognitive ability for perceptual decisions was associated with greater connectivity between lateral regions of aPFC and right dorsal anterior cingulate cortex, bilateral putamen, right caudate, and thalamus, whereas metacognitive ability for memory retrieval predicted greater connectivity between medial aPFC and the right central precuneus and intraparietal sulcus/inferior parietal lobule. Together, these results suggest that an individual's capacity for accurate introspection in the domains of perception and memory is related to the functional integrity of unique neural networks anchored in the medial and lateral regions of the aPFC."
+  },
+  "10.1523/jneurosci.1358-12.2012": {
+    "doi": "10.1523/JNEUROSCI.1358-12.2012",
+    "title": "Alpha-Band Phase Synchrony Is Related to Activity in the Fronto-Parietal Adaptive Control Network",
+    "type": "article",
+    "cited_by_count": 272,
+    "publication_year": 2012,
+    "status": "ok",
+    "abstract": "Neural oscillations in the alpha band (8-12 Hz) are increasingly viewed as an active inhibitory mechanism that gates and controls sensory information processing as a function of cognitive relevance. Extending this view, phase synchronization of alpha oscillations across distant cortical regions could regulate integration of information. Here, we investigated whether such long-range cross-region coupling in the alpha band is intrinsically and selectively linked to activity in a distinct functionally specialized brain network. If so, this would provide new insight into the functional role of alpha band phase synchrony. We adapted the phase-locking value to assess fluctuations in synchrony that occur over time in ongoing activity. Concurrent EEG and functional magnetic resonance imaging (fMRI) were recorded during resting wakefulness in 26 human subjects. Fluctuations in global synchrony in the upper alpha band correlated positively with activity in several prefrontal and parietal regions (as measured by fMRI). fMRI intrinsic connectivity analysis confirmed that these regions correspond to the well known fronto-parietal (FP) network. Spectral correlations with this network's activity confirmed that no other frequency band showed equivalent results. This selective association supports an intrinsic relation between large-scale alpha phase synchrony and cognitive functions associated with the FP network. This network has been suggested to implement phasic aspects of top-down modulation such as initiation and change in moment-to-moment control. Mechanistically, long-range upper alpha band synchrony is well suited to support these functions. Complementing our previous findings that related alpha oscillation power to neural structures serving tonic control, the current findings link alpha phase synchrony to neural structures underpinning phasic control of alertness and task requirements."
+  },
+  "10.1523/jneurosci.2586-16.2016": {
+    "doi": "10.1523/JNEUROSCI.2586-16.2016",
+    "title": "Nasal Respiration Entrains Human Limbic Oscillations and Modulates Cognitive Function",
+    "type": "article",
+    "cited_by_count": 621,
+    "publication_year": 2016,
+    "status": "ok",
+    "abstract": "The need to breathe links the mammalian olfactory system inextricably to the respiratory rhythms that draw air through the nose. In rodents and other small animals, slow oscillations of local field potential activity are driven at the rate of breathing (∼2-12 Hz) in olfactory bulb and cortex, and faster oscillatory bursts are coupled to specific phases of the respiratory cycle. These dynamic rhythms are thought to regulate cortical excitability and coordinate network interactions, helping to shape olfactory coding, memory, and behavior. However, while respiratory oscillations are a ubiquitous hallmark of olfactory system function in animals, direct evidence for such patterns is lacking in humans. In this study, we acquired intracranial EEG data from rare patients (Ps) with medically refractory epilepsy, enabling us to test the hypothesis that cortical oscillatory activity would be entrained to the human respiratory cycle, albeit at the much slower rhythm of ∼0.16-0.33 Hz. Our results reveal that natural breathing synchronizes electrical activity in human piriform (olfactory) cortex, as well as in limbic-related brain areas, including amygdala and hippocampus. Notably, oscillatory power peaked during inspiration and dissipated when breathing was diverted from nose to mouth. Parallel behavioral experiments showed that breathing phase enhances fear discrimination and memory retrieval. Our findings provide a unique framework for understanding the pivotal role of nasal breathing in coordinating neuronal oscillations to support stimulus processing and behavior. SIGNIFICANCE STATEMENT: Animal studies have long shown that olfactory oscillatory activity emerges in line with the natural rhythm of breathing, even in the absence of an odor stimulus. Whether the breathing cycle induces cortical oscillations in the human brain is poorly understood. In this study, we collected intracranial EEG data from rare patients with medically intractable epilepsy, and found evidence for respiratory entrainment of local field potential activity in human piriform cortex, amygdala, and hippocampus. These effects diminished when breathing was diverted to the mouth, highlighting the importance of nasal airflow for generating respiratory oscillations. Finally, behavioral data in healthy subjects suggest that breathing phase systematically influences cognitive tasks related to amygdala and hippocampal functions."
+  },
+  "10.1523/jneurosci.3022-16.2016": {
+    "doi": "10.1523/JNEUROSCI.3022-16.2016",
+    "title": "Vividness of Visual Imagery Depends on the Neural Overlap with Perception in Visual Areas",
+    "type": "article",
+    "cited_by_count": 338,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Research into the neural correlates of individual differences in imagery vividness point to an important role of the early visual cortex. However, there is also great fluctuation of vividness within individuals, such that only looking at differences between people necessarily obscures the picture. In this study, we show that variation in moment-to-moment experienced vividness of visual imagery, within human subjects, depends on the activity of a large network of brain areas, including frontal, parietal, and visual areas. Furthermore, using a novel multivariate analysis technique, we show that the neural overlap between imagery and perception in the entire visual system correlates with experienced imagery vividness. This shows that the neural basis of imagery vividness is much more complicated than studies of individual differences seemed to suggest. SIGNIFICANCE STATEMENT: Visual imagery is the ability to visualize objects that are not in our direct line of sight: something that is important for memory, spatial reasoning, and many other tasks. It is known that the better people are at visual imagery, the better they can perform these tasks. However, the neural correlates of moment-to-moment variation in visual imagery remain unclear. In this study, we show that the more the neural response during imagery is similar to the neural response during perception, the more vivid or perception-like the imagery experience is."
+  },
+  "10.31083/j.jin.2021.01.334": {
+    "doi": "10.31083/j.jin.2021.01.334",
+    "title": "The superior parietal lobule of primates: a sensory-motor hub for interaction with the environment",
+    "type": "review",
+    "cited_by_count": 82,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "The superior parietal lobule of the macaque monkey occupies the postero-medial part of the parietal lobe and plays a crucial role in the integration of different sources of information (from visual, motor and somatosensory brain regions) for the purpose of high-level cognitive functions, as perception for action. This region encompasses the intraparietal sulcus and the parieto-occipital sulcus and includes also the precuneate cortex in the mesial surface of the hemisphere. It hosts several areas extensively studied in the macaque: PE, PEip, PEci anteriorly and PEc, MIP, PGm and V6A posteriorly. Recently studies based on functional MRI have suggested putative human homologue of some of the areas of the macaque superior parietal lobule. Here we review the anatomical subdivision, the cortico-cortical and thalamo-cortical connections of the macaque superior parietal lobule compared with their functional properties and the homology with human organization in physiological and lesioned situations. The knowledge of this part of the macaque brain could help in understanding pathological conditions that in humans affect the normal behaviour of arm-reaching actions and can inspire brain computer interfaces performing in more accurate ways the sensorimotor transformations needed to interact with the surrounding environment."
+  },
+  "10.3389/fnana.2024.1454095": {
+    "doi": "10.3389/fnana.2024.1454095",
+    "title": "From Sudoscan to bedside: theory, modalities, and application of electrochemical skin conductance in medical diagnostics",
+    "type": "review",
+    "cited_by_count": 9,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "The human body has two main types of sweat glands: apocrine and eccrine. Eccrine glands are widely distributed across the skin, including areas with hair. While the eccrine glands on palms and soles help improve grip, those on the rest of the body primarily aid in thermoregulation. Sudomotor function, which controls sweating, is regulated by the sympathetic division of the autonomic nervous system through cholinergic and adrenergic pathways. The activation of eccrine glands involves intricate processes, including neurotransmitter binding, ion channel modulation, and voltage generation. Sudoscan technology utilizes electrochemical skin conductance (ESC) to non-invasively measure sudomotor function. This method, which has been standardized for accuracy, has established normative benchmarks and has proven reliable across diverse populations. Sudoscan's diagnostic performance is comparable to invasive methods such as intraepidermal nerve fiber density testing, making it a valuable tool for diagnosing small fiber neuropathy. Moreover, it has been shown to correlate with corneal nerve fiber length, providing insights into various neuropathic conditions. Compared to traditional sudomotor function tests, Sudoscan proves superior in terms of its accessibility, simplicity, and reliability, with the potential to replace or complement existing diagnostic methods. It is important to differentiate ESC, as measured by Sudoscan, from other skin conductance measures, such as galvanic skin response (GSR) or electrodermal activity (EDA). Although these methods share a common physiological principle, ESC is specifically designed for diagnosing sudomotor function, unlike GSR/EDA, which is typically used for continuous monitoring. Sudoscan's success has led to its integration into consumer health devices, such as the BodyScan from Withings, showcasing its versatility beyond clinical settings. Future research may explore ESC applications in diverse medical fields, leveraging real-world data from integrated consumer devices. Collaborative efforts between researchers and engineers promise to offer new insights into sudomotor function and its implications for broader health monitoring. This study provides a comprehensive overview of ESC, including topics such as eccrine gland physiology, sudomotor function, Sudoscan technology, normative benchmarks, diagnostic comparisons, and potential future applications."
+  },
+  "10.3389/fnhum.2016.00015": {
+    "doi": "10.3389/fnhum.2016.00015",
+    "title": "Top-Down Control of Visual Alpha Oscillations: Sources of Control Signals and Their Mechanisms of Action",
+    "type": "article",
+    "cited_by_count": 131,
+    "publication_year": 2016,
+    "status": "ok",
+    "abstract": "Alpha oscillations (8-12 Hz) are thought to inversely correlate with cortical excitability. Goal-oriented modulation of alpha has been studied extensively. In visual spatial attention, alpha over the region of visual cortex corresponding to the attended location decreases, signifying increased excitability to facilitate the processing of impending stimuli. In contrast, in retention of verbal working memory, alpha over visual cortex increases, signifying decreased excitability to gate out stimulus input to protect the information held online from sensory interference. According to the prevailing model, this goal-oriented biasing of sensory cortex is effected by top-down control signals from frontal and parietal cortices. The present study tests and substantiates this hypothesis by (a) identifying the signals that mediate the top-down biasing influence, (b) examining whether the cortical areas issuing these signals are task-specific or task-independent, and (c) establishing the possible mechanism of the biasing action. High-density human EEG data were recorded in two experimental paradigms: a trial-by-trial cued visual spatial attention task and a modified Sternberg working memory task. Applying Granger causality to both sensor-level and source-level data we report the following findings. In covert visual spatial attention, the regions exerting top-down control over visual activity are lateralized to the right hemisphere, with the dipoles located at the right frontal eye field (FEF) and the right inferior frontal gyrus (IFG) being the main sources of top-down influences. During retention of verbal working memory, the regions exerting top-down control over visual activity are lateralized to the left hemisphere, with the dipoles located at the left middle frontal gyrus (MFG) being the main source of top-down influences. In both experiments, top-down influences are mediated by alpha oscillations, and the biasing effect is likely achieved via an inhibition-disinhibition mechanism."
+  },
+  "10.3389/fnhum.2020.00089": {
+    "doi": "10.3389/fnhum.2020.00089",
+    "title": "High Gamma Band EEG Closely Related to Emotion: Evidence From Functional Network",
+    "type": "article",
+    "cited_by_count": 174,
+    "publication_year": 2020,
+    "status": "ok",
+    "abstract": "High-frequency electroencephalography (EEG) signals play an important role in research on human emotions. However, the different network patterns under different emotional states in the high gamma band (50-80 Hz) remain unclear. In this paper, we investigate different emotional states using functional network analysis on various frequency bands. We constructed multiple functional networks on different frequency bands and performed functional network analysis and time-frequency analysis on these frequency bands to determine the significant features that represent different emotional states. Furthermore, we verified the effectiveness of these features by using them in emotion recognition. Our experimental results revealed that the network connections in the high gamma band with significant differences among the positive, neutral, and negative emotional states were much denser than the network connections in the other frequency bands. The connections mainly occurred in the left prefrontal, left temporal, parietal, and occipital regions. Moreover, long-distance connections with significant differences among the emotional states were observed in the high frequency bands, particularly in the high gamma band. Additionally, high gamma band fusion features derived from the global efficiency, network connections, and differential entropies achieved the highest classification accuracies for both our dataset and the public dataset. These results are consistent with literature and provide further evidence that high gamma band EEG signals are more sensitive and effective than the EEG signals in other frequency bands in studying human affective perception."
+  },
+  "10.3389/fnrgo.2022.1012810": {
+    "doi": "10.3389/fnrgo.2022.1012810",
+    "title": "Delta-Alpha EEG pattern reflects the interoceptive focus effect on interpersonal motor synchronization",
+    "type": "article",
+    "cited_by_count": 11,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "Little is known about how the modulation of the interoceptive focus impacts the neural correlates of high-level social processes, such as synchronization mechanisms. Therefore, the current study aims to explore the intraindividual electrophysiological (EEG) patterns induced by the interoceptive focus on breath when performing cognitive and motor tasks requiring interpersonal synchronization. A sample of 28 healthy caucasian adults was recruited and asked to perform two tasks requiring interpersonal synchronization during two distinct conditions: while focusing on the breath or without the focus on the breath. EEG frequency bands (delta, theta, alpha, and beta band) were recorded from the frontal, temporo-central, and parieto-occipital regions of interest. Significant results were observed for the delta and alpha bands. Notably, higher mean delta values and alpha desynchronization were observed in the temporo-central area during the focus on the breath condition when performing the motor compared to the cognitive synchronization task. Taken together these results could be interpreted considering the functional meaning of delta and alpha band in relation to motor synchronization. Indeed, motor delta oscillations shape the dynamics of motor behaviors and motor neural processes, while alpha band attenuation was previously observed during generation, observation, and imagery of movement and is considered to reflect cortical motor activity and action-perception coupling. Overall, the research shows that an EEG delta-alpha pattern emerges in the temporo-central areas at the intra-individual level, indicating the attention to visceral signals, particularly during interpersonal motor synchrony."
+  },
+  "10.3389/fnsys.2021.655886": {
+    "doi": "10.3389/fnsys.2021.655886",
+    "title": "Understanding the Role of Sensorimotor Beta Oscillations",
+    "type": "review",
+    "cited_by_count": 253,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Beta oscillations have been predominantly observed in sensorimotor cortices and basal ganglia structures and they are thought to be involved in somatosensory processing and motor control. Although beta activity is a distinct feature of healthy and pathological sensorimotor processing, the role of this rhythm is still under debate. Here we review recent findings about the role of beta oscillations during experimental manipulations (i.e., drugs and brain stimulation) and their alteration in aging and pathology. We show how beta changes when learning new motor skills and its potential to integrate sensory input with prior contextual knowledge. We conclude by discussing a novel methodological approach analyzing beta oscillations as a series of transient bursting events."
+  },
+  "10.3389/fpsyg.2011.00154": {
+    "doi": "10.3389/fpsyg.2011.00154",
+    "title": "The Role of Alpha-Band Brain Oscillations as a Sensory Suppression Mechanism during Selective Attention",
+    "type": "article",
+    "cited_by_count": 1596,
+    "publication_year": 2011,
+    "status": "ok",
+    "abstract": "Evidence has amassed from both animal intracranial recordings and human electrophysiology that neural oscillatory mechanisms play a critical role in a number of cognitive functions such as learning, memory, feature binding and sensory gating. The wide availability of high-density electrical and magnetic recordings (64-256 channels) over the past two decades has allowed for renewed efforts in the characterization and localization of these rhythms. A variety of cognitive effects that are associated with specific brain oscillations have been reported, which range in spectral, temporal, and spatial characteristics depending on the context. Our laboratory has focused on investigating the role of alpha-band oscillatory activity (8-14 Hz) as a potential attentional suppression mechanism, and this particular oscillatory attention mechanism will be the focus of the current review. We discuss findings in the context of intersensory selective attention as well as intrasensory spatial and feature-based attention in the visual, auditory, and tactile domains. The weight of evidence suggests that alpha-band oscillations can be actively invoked within cortical regions across multiple sensory systems, particularly when these regions are involved in processing irrelevant or distracting information. That is, a central role for alpha seems to be as an attentional suppression mechanism when objects or features need to be specifically ignored or selected against."
+  },
+  "10.3389/frsip.2023.1064138": {
+    "doi": "10.3389/frsip.2023.1064138",
+    "title": "ICA’s bug: How ghost ICs emerge from effective rank deficiency caused by EEG electrode interpolation and incorrect re-referencing",
+    "type": "article",
+    "cited_by_count": 67,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Independent component analysis (ICA) has been widely used for electroencephalography (EEG) analyses. However, ICA performance relies on several crucial assumptions about the data. Here, we focus on the granularity of data rank, i.e., the number of linearly independent EEG channels. When the data are rank-full (i.e., all channels are independent), ICA produces as many independent components (ICs) as the number of input channels (rank-full decomposition). However, when the input data are rank-deficient , as is the case with bridged or interpolated electrodes, ICA produces the same number of ICs as the data rank (forced rank deficiency decomposition), introducing undesired ghost ICs and indicating a bug in ICA. We demonstrated that the ghost ICs have white noise properties, in both time and frequency domains, while maintaining surprisingly typical scalp topographies, and can therefore be easily missed by EEG researchers and affect findings in unknown ways. This problem occurs when the minimum eigenvalue <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"m1\"><mml:mrow><mml:msub><mml:mi>λ</mml:mi><mml:mi mathvariant=\"italic\">min</mml:mi></mml:msub></mml:mrow></mml:math> of the input data is smaller than a certain threshold, leading to matrix inversion failure as if the rank-deficient inversion was forced, even if the data rank is cleanly deficient by one. We defined this problem as the effective rank deficiency. Using sound file mixing simulations, we first demonstrated the effective rank deficiency problem and determined that the critical threshold for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"m2\"><mml:mrow><mml:msub><mml:mi>λ</mml:mi><mml:mi mathvariant=\"italic\">min</mml:mi></mml:msub></mml:mrow></mml:math> is 10 −7 in the given situation. Second, we used empirical EEG data to show how two preprocessing stages, re-referencing to average without including the initial reference and non-linear electrode interpolation, caused this forced rank deficiency problem. Finally, we showed that the effective rank deficiency problem can be solved by using the identified threshold ( <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"m3\"><mml:mrow><mml:msub><mml:mi>λ</mml:mi><mml:mi mathvariant=\"italic\">min</mml:mi></mml:msub></mml:mrow></mml:math> = 10 −7 ) and the correct re-referencing procedure described herein. The former ensures the achievement of effective rank-full decomposition by properly reducing the input data rank, and the latter allows avoidance of a widely practiced incorrect re-referencing approach. Based on the current literature, we discuss the ambiguous status of the initial reference electrode when re-referencing. We have made our data and code available to facilitate the implementation of our recommendations by the EEG community."
+  },
+  "10.3389/fspor.2021.700757": {
+    "doi": "10.3389/fspor.2021.700757",
+    "title": "Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability: A Pilot Study",
+    "type": "article",
+    "cited_by_count": 12,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "The Wim Hof breathing method (WHBM) combines periods of hyperventilation (HV) followed by voluntary breath-holds (BH) at low lung volume. It has been increasingly adopted by coaches and their athletes to improve performance, but there was no published research on its effects. We determined the feasibility of implementing a single WHBM session before repeated sprinting performance and evaluated any acute ergogenic effects. Fifteen amateur runners performed a single WHBM session prior to a Repeated Ability Sprint Test (RAST) in comparison to voluntary HV or spontaneous breathing (SB) (control) in a randomized cross-over design. Gas exchange, heart rate, and finger pulse oxygen saturation (SpO 2 ) were monitored. Despite large physiological effects in the SpO 2 and expired carbon dioxide (VCO 2 ) levels of both HV and WHBM, no significant positive or negative condition effects were found on RAST peak power, average power, or fatigue index. Finger SpO 2 dropped to 60 ± 12% at the end of the BHs. Upon the last HV in the WHBM and HV conditions, end-tidal CO 2 partial pressure (PETCO 2 ) values were 19 ± 3 and 17 ± 3 mmHg, indicative of respiratory alkalosis with estimated arterial pH increases of +0.171 and of +0.181, respectively. Upon completion of RAST, 8 min cumulated expired carbon dioxide volumes in the WHBM and HV were greater than in SB, suggesting lingering carbon dioxide stores depletion. These findings indicate that despite large physiological effects, a single WHBM session does not improve anaerobic performance in repeated sprinting exercise."
+  },
+  "10.3390/metabo10040148": {
+    "doi": "10.3390/metabo10040148",
+    "title": "Involvement of Lactate and Pyruvate in the Anti-Inflammatory Effects Exerted by Voluntary Activation of the Sympathetic Nervous System",
+    "type": "article",
+    "cited_by_count": 27,
+    "publication_year": 2020,
+    "status": "ok",
+    "abstract": "We recently demonstrated that the sympathetic nervous system can be voluntarily activated following a training program consisting of cold exposure, breathing exercises, and meditation. This resulted in profound attenuation of the systemic inflammatory response elicited by lipopolysaccharide (LPS) administration. Herein, we assessed whether this training program affects the plasma metabolome and if these changes are linked to the immunomodulatory effects observed. A total of 224 metabolites were identified in plasma obtained from 24 healthy male volunteers at six timepoints, of which 98 were significantly altered following LPS administration. Effects of the training program were most prominent shortly after initiation of the acquired breathing exercises but prior to LPS administration, and point towards increased activation of the Cori cycle. Elevated concentrations of lactate and pyruvate in trained individuals correlated with enhanced levels of anti-inflammatory interleukin (IL)-10. In vitro validation experiments revealed that co-incubation with lactate and pyruvate enhances IL-10 production and attenuates the release of pro-inflammatory IL-1β and IL-6 by LPS-stimulated leukocytes. Our results demonstrate that practicing the breathing exercises acquired during the training program results in increased activity of the Cori cycle. Furthermore, this work uncovers an important role of lactate and pyruvate in the anti-inflammatory phenotype observed in trained subjects."
+  }
+}

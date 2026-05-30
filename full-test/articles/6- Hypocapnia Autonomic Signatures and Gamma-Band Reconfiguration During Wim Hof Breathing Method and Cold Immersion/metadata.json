@@ -1,0 +1,8 @@
+{
+  "pdf": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\6- Hypocapnia Autonomic Signatures and Gamma-Band Reconfiguration During Wim Hof Breathing Method and Cold Immersion.pdf",
+  "output_folder": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\6- Hypocapnia Autonomic Signatures and Gamma-Band Reconfiguration During Wim Hof Breathing Method and Cold Immersion",
+  "model": "nanonets/Nanonets-OCR2-3B",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "pages": 66,
+  "render_scale": 2.0
+}

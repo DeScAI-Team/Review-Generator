@@ -19,8 +19,10 @@ import argparse
 import json
 import os
 import re
+import sys
 from datetime import date
 from pathlib import Path
+from typing import Any
 
 from openai import OpenAI
 
@@ -35,7 +37,7 @@ MODEL = os.environ.get("VALIDATOR_MODEL", "/model")
 
 MAX_RETRIES = 4
 RATIONALE_GEN_MAX_TOKENS = 512
-CONDENSER_MAX_TOKENS = 4096
+CONDENSER_MAX_TOKENS = 24000
 TOKEN_CHUNK_TARGET = 1000
 
 EXCLUDED_DIMENSIONS = frozenset({"governance_accountability", "cross_cutting"})
@@ -50,33 +52,112 @@ def _load_prompt(filename: str) -> str:
     return path.read_text(encoding="utf-8")
 
 
+def _message_fields(message: Any) -> dict[str, Any]:
+    if hasattr(message, "model_dump"):
+        return message.model_dump()
+    if hasattr(message, "dict"):
+        return message.dict()
+    return {}
+
+
+_END_THINK_MARKERS = (
+    "</think>",
+    "</thinking>",
+    "</reasoning>",
+    "</thought>",
+)
+
+
+def _strip_thinking_markup(text: str) -> str:
+    """Remove inline thinking wrappers; final answer must live outside these blocks."""
+    t = text.strip()
+    low = t.lower()
+    best_idx = -1
+    best_len = 0
+    for m in _END_THINK_MARKERS:
+        pos = low.rfind(m.lower())
+        if pos > best_idx:
+            best_idx = pos
+            best_len = len(m)
+    if best_idx >= 0:
+        t = t[best_idx + best_len :].lstrip()
+
+    block_patterns = (
+        r"<think\b[^>]*>[\s\S]*?</think>",
+        r"<thinking\b[^>]*>[\s\S]*?</thinking>",
+        r"<reasoning\b[^>]*>[\s\S]*?</reasoning>",
+        r"<thought\b[^>]*>[\s\S]*?</thought>",
+        r"<redacted_thinking\b[^>]*>[\s\S]*?</think>",
+    )
+    for _ in range(8):
+        prev = t
+        for pat in block_patterns:
+            t = re.sub(pat, "", t, flags=re.IGNORECASE | re.DOTALL).strip()
+        if t == prev:
+            break
+    t = re.sub(r"<think\b[^>]*>[\s\S]*$", "", t, flags=re.IGNORECASE | re.DOTALL).strip()
+    return t.strip()
+
+
+def _extract_assistant_content(message: Any) -> str:
+    """Return the final answer channel only (never reasoning/thinking text)."""
+    fields = _message_fields(message)
+    raw = fields.get("content")
+    if raw is None:
+        raw = getattr(message, "content", None)
+    text = (raw or "").strip() if isinstance(raw, str) else ""
+
+    reasoning = fields.get("reasoning") or fields.get("reasoning_content")
+    if not text and reasoning and str(reasoning).strip():
+        print(
+            "  ! Warning: empty content but reasoning present — ensure vLLM runs with "
+            "--reasoning-parser for this model.",
+            file=sys.stderr,
+        )
+
+    return _strip_thinking_markup(text)
+
+
+_LLM_EXTRA_BODY = {"chat_template_kwargs": {"enable_thinking": False}}
+
+
 def _llm_call(
     client: OpenAI,
     system_prompt: str,
     user_content: str,
     max_tokens: int = CONDENSER_MAX_TOKENS,
 ) -> str:
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_content},
+    ]
+
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                max_tokens=max_tokens,
-                temperature=0,
-                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_content},
-                ],
-            )
-            raw = response.choices[0].message.content
-            if raw is None:
-                raise ValueError("LLM returned None content")
-            text = raw.strip()
-            text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
-            text = re.sub(r"<think>.*", "", text, flags=re.DOTALL).strip()
+            try:
+                response = client.chat.completions.create(
+                    model=MODEL,
+                    max_tokens=max_tokens,
+                    temperature=0,
+                    messages=messages,
+                    extra_body=_LLM_EXTRA_BODY,
+                )
+            except TypeError:
+                response = client.chat.completions.create(
+                    model=MODEL,
+                    max_tokens=max_tokens,
+                    temperature=0,
+                    messages=messages,
+                )
+
+            text = _extract_assistant_content(response.choices[0].message)
+            if not text:
+                raise ValueError(
+                    "LLM returned empty content (answer may be stuck in reasoning channel)"
+                )
 
             finish_reason = response.choices[0].finish_reason
-            if finish_reason == "length" or (text and text[-1] not in ".!?"):
+            if finish_reason == "length" or text[-1] not in ".!?":
                 last_period = max(text.rfind("."), text.rfind("!"), text.rfind("?"))
                 if last_period > 0:
                     text = text[: last_period + 1].strip()

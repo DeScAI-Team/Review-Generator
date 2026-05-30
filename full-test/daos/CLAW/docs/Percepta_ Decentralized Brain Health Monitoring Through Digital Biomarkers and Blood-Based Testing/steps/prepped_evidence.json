@@ -1,0 +1,1798 @@
+{
+  "scientific_rigor": {
+    "score": 0.8122,
+    "evidence_grade_distribution": {
+      "self_reported": 3,
+      "unreferenced": 10
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Fact",
+          "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Comparative"
+          ],
+          "claim_classification_3": [
+            "Performance"
+          ],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "These findings establish target engagement and provide mechanistic support for the clinical hypothesis",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Mechanistic"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'These findings establish target engagement and provide mechanistic support for the clinical hypothesis' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.",
+          "chunk_id": 4,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Feasibility"
+          ],
+          "claim_classification_2": [
+            "Observational"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Through remote blood collection paired with digital cognitive assessments, Percepta identifies early-stage neurodegenerative signatures that serve as proxies for tau pathology and structural brain changes.",
+          "chunk_id": 2,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Science' section explicitly states that the platform uses remote blood collection and digital cognitive assessments to identify early-stage neurodegenerative signatures serving as proxies for tau pathology and structural brain changes, directly matching the claim.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "methodological",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Through remote blood collection paired with digital cognitive assessments, Percepta identifies early-stage neurodegenerative signatures that serve as proxies for tau pathology and structural brain changes.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the platform uses remote blood collection and digital cognitive assessments to identify early-stage neurodegenerative signatures serving as proxies for tau pathology and structural brain changes, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "contextual": [
+        {
+          "claim_type": "Assertion",
+          "claim": "Published literature demonstrates that polyphenols and proanthocyanidins from Uncaria tomentosa and oolong tea can reduce amyloid burden, modulate neuroinflammation, and support memory function",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that the scientific foundation draws on published literature showing these compounds reduce amyloid burden, modulate neuroinflammation, and support memory function.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Published literature demonstrates that polyphenols and proanthocyanidins from Uncaria tomentosa and oolong tea can reduce amyloid burden, modulate neuroinflammation, and support memory function' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that the scientific foundation draws on published literature showing these compounds reduce amyloid burden, modulate neuroinflammation, and support memory function.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "The active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models.",
+          "chunk_id": 4,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Current Status' section explicitly states that active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "contextual",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'The active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta is developing a non-invasive, at-home cognitive monitoring platform that combines digital biomarkers with blood-based assays to detect early changes in brain health before clinical symptoms emerge.",
+          "chunk_id": 0,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Percepta: Decentralized Brain Health Monitoring Through Digital Biomarkers and Blood-Based Testing",
+          "semantic_category": "abstract",
+          "verdict": "supported",
+          "rationale": "The provided text explicitly states that Percepta is developing a non-invasive, at-home platform combining digital biomarkers and blood-based assays to detect early brain health changes before symptoms emerge, directly matching the claim.",
+          "relevancy_score": 1.0,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta is developing a non-invasive, at-home cognitive monitoring platform that combines digital biomarkers with blood-based assays to detect early changes in brain health before clinical symptoms emerge.' in the Percepta: Decentralized Brain Health Monitoring Through Digital Biomarkers and Blood-Based Testing section. This claim was deemed supported (The provided text explicitly states that Percepta is developing a non-invasive, at-home platform combining digital biomarkers and blood-based assays to detect early brain health changes before symptoms emerge, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.",
+          "chunk_id": 1,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as very relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The platform integrates remote blood collection with validated neurodegenerative biomarkers to enable longitudinal tracking of cognitive health, creating a scalable pathway for decentralized clinical assessments.",
+          "chunk_id": 1,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states the platform integrates remote blood collection with validated neurodegenerative biomarkers for longitudinal tracking, creating a scalable pathway for decentralized clinical assessments.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [
+            "Observational"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'The platform integrates remote blood collection with validated neurodegenerative biomarkers to enable longitudinal tracking of cognitive health, creating a scalable pathway for decentralized clinical assessments.' in the The Core Idea section. This claim was deemed supported (The text explicitly states the platform integrates remote blood collection with validated neurodegenerative biomarkers for longitudinal tracking, creating a scalable pathway for decentralized clinical assessments.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The biomarker panel has been expanded to include pTau-217 quantification using the Simoa ALZpath assay, and device validation for home-use blood collection is underway.",
+          "chunk_id": 4,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Current Status' section explicitly states that the biomarker panel was expanded to include pTau-217 quantification using the Simoa ALZpath assay and that device validation for home-use blood collection is underway.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Methodological"
+          ],
+          "claim_classification_2": [
+            "Measurement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'The biomarker panel has been expanded to include pTau-217 quantification using the Simoa ALZpath assay, and device validation for home-use blood collection is underway.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that the biomarker panel was expanded to include pTau-217 quantification using the Simoa ALZpath assay and that device validation for home-use blood collection is underway.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "The Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Replication"
+          ],
+          "claim_classification_2": [
+            "Methodological"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'The Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that the Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Comparative"
+        ],
+        "claim_classification_3": [
+          "Performance"
+        ],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Causal"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "These findings establish target engagement and provide mechanistic support for the clinical hypothesis",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Mechanistic"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'These findings establish target engagement and provide mechanistic support for the clinical hypothesis' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.",
+        "chunk_id": 4,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Feasibility"
+        ],
+        "claim_classification_2": [
+          "Observational"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Through remote blood collection paired with digital cognitive assessments, Percepta identifies early-stage neurodegenerative signatures that serve as proxies for tau pathology and structural brain changes.",
+        "chunk_id": 2,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Science' section explicitly states that the platform uses remote blood collection and digital cognitive assessments to identify early-stage neurodegenerative signatures serving as proxies for tau pathology and structural brain changes, directly matching the claim.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "methodological",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Through remote blood collection paired with digital cognitive assessments, Percepta identifies early-stage neurodegenerative signatures that serve as proxies for tau pathology and structural brain changes.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the platform uses remote blood collection and digital cognitive assessments to identify early-stage neurodegenerative signatures serving as proxies for tau pathology and structural brain changes, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Published literature demonstrates that polyphenols and proanthocyanidins from Uncaria tomentosa and oolong tea can reduce amyloid burden, modulate neuroinflammation, and support memory function",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that the scientific foundation draws on published literature showing these compounds reduce amyloid burden, modulate neuroinflammation, and support memory function.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Published literature demonstrates that polyphenols and proanthocyanidins from Uncaria tomentosa and oolong tea can reduce amyloid burden, modulate neuroinflammation, and support memory function' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that the scientific foundation draws on published literature showing these compounds reduce amyloid burden, modulate neuroinflammation, and support memory function.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models.",
+        "chunk_id": 4,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'Current Status' section explicitly states that active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models, directly supporting the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "contextual",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'The active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that active ingredients are derived from botanical sources with established dietary use and have shown no safety concerns in preclinical models, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta is developing a non-invasive, at-home cognitive monitoring platform that combines digital biomarkers with blood-based assays to detect early changes in brain health before clinical symptoms emerge.",
+        "chunk_id": 0,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Percepta: Decentralized Brain Health Monitoring Through Digital Biomarkers and Blood-Based Testing",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states that Percepta is developing a non-invasive, at-home platform combining digital biomarkers and blood-based assays to detect early brain health changes before symptoms emerge, directly matching the claim.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta is developing a non-invasive, at-home cognitive monitoring platform that combines digital biomarkers with blood-based assays to detect early changes in brain health before clinical symptoms emerge.' in the Percepta: Decentralized Brain Health Monitoring Through Digital Biomarkers and Blood-Based Testing section. This claim was deemed supported (The provided text explicitly states that Percepta is developing a non-invasive, at-home platform combining digital biomarkers and blood-based assays to detect early brain health changes before symptoms emerge, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.",
+        "chunk_id": 1,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as very relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The platform integrates remote blood collection with validated neurodegenerative biomarkers to enable longitudinal tracking of cognitive health, creating a scalable pathway for decentralized clinical assessments.",
+        "chunk_id": 1,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states the platform integrates remote blood collection with validated neurodegenerative biomarkers for longitudinal tracking, creating a scalable pathway for decentralized clinical assessments.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [
+          "Observational"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'The platform integrates remote blood collection with validated neurodegenerative biomarkers to enable longitudinal tracking of cognitive health, creating a scalable pathway for decentralized clinical assessments.' in the The Core Idea section. This claim was deemed supported (The text explicitly states the platform integrates remote blood collection with validated neurodegenerative biomarkers for longitudinal tracking, creating a scalable pathway for decentralized clinical assessments.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The biomarker panel has been expanded to include pTau-217 quantification using the Simoa ALZpath assay, and device validation for home-use blood collection is underway.",
+        "chunk_id": 4,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'Current Status' section explicitly states that the biomarker panel was expanded to include pTau-217 quantification using the Simoa ALZpath assay and that device validation for home-use blood collection is underway.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'The biomarker panel has been expanded to include pTau-217 quantification using the Simoa ALZpath assay, and device validation for home-use blood collection is underway.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that the biomarker panel was expanded to include pTau-217 quantification using the Simoa ALZpath assay and that device validation for home-use blood collection is underway.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Replication"
+        ],
+        "claim_classification_2": [
+          "Methodological"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'The Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that the Percepta model creates a replicable blueprint for future DeSci-enabled studies across wellness and neurodegeneration pipelines.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 13,
+      "empirical": 4,
+      "methodological": 1,
+      "boilerplate_method": 0,
+      "contextual": 2,
+      "aspirational": 6,
+      "noise": 0
+    }
+  },
+  "originality": {
+    "score": 0.737,
+    "evidence_grade_distribution": {
+      "unreferenced": 7
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.",
+          "chunk_id": 1,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.",
+          "relevancy_score": 0.65,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as very relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta addresses this gap by making sophisticated brain health monitoring accessible outside traditional clinical settings.",
+          "chunk_id": 1,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Core Idea",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that Percepta addresses the gap of undetected cognitive decline by making sophisticated monitoring accessible outside traditional clinical settings through an at-home platform.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GapStatement"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta addresses this gap by making sophisticated brain health monitoring accessible outside traditional clinical settings.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that Percepta addresses the gap of undetected cognitive decline by making sophisticated monitoring accessible outside traditional clinical settings through an at-home platform.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.",
+          "chunk_id": 2,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [
+            "Decentralization"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta targets a critical market gap: the absence of human-evidence-backed memory supplements.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Opportunity' section explicitly states that Percepta targets the market gap of the absence of human-evidence-backed memory supplements, directly supporting the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "GapStatement"
+          ],
+          "claim_classification_2": [],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta targets a critical market gap: the absence of human-evidence-backed memory supplements.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta targets the market gap of the absence of human-evidence-backed memory supplements, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Background"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "IncentiveStructure"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "The tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The text explicitly states that the Percepta model's tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'The tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that the Percepta model's tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.",
+        "chunk_id": 1,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited.' in the The Core Idea section. This claim was deemed supported (The 'The Core Idea' section explicitly states that most cognitive decline goes undetected until significant symptoms appear, when intervention options are limited, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as very relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta addresses this gap by making sophisticated brain health monitoring accessible outside traditional clinical settings.",
+        "chunk_id": 1,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Core Idea",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Percepta addresses the gap of undetected cognitive decline by making sophisticated monitoring accessible outside traditional clinical settings through an at-home platform.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "GapStatement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta addresses this gap by making sophisticated brain health monitoring accessible outside traditional clinical settings.' in the The Core Idea section. This claim was deemed supported (The text explicitly states that Percepta addresses the gap of undetected cognitive decline by making sophisticated monitoring accessible outside traditional clinical settings through an at-home platform.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.",
+        "chunk_id": 2,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [
+          "Decentralization"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta targets a critical market gap: the absence of human-evidence-backed memory supplements.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Opportunity' section explicitly states that Percepta targets the market gap of the absence of human-evidence-backed memory supplements, directly supporting the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "GapStatement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta targets a critical market gap: the absence of human-evidence-backed memory supplements.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta targets the market gap of the absence of human-evidence-backed memory supplements, directly supporting the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Competitors like Prevagen lack robust scientific validation despite reporting over $200 million in annual sales.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that competitors like Prevagen report over $200 million in annual sales but lack robust scientific validation, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Decentralization"
+        ],
+        "claim_classification_3": [
+          "IncentiveStructure"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "The tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the Percepta model's tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'The tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.' in the The Opportunity section. This claim was deemed supported (The text explicitly states that the Percepta model's tokenized IP-NFT and community-backed funding mechanisms represent an innovative approach to supporting brain health research.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 7,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 7,
+      "noise": 0
+    }
+  },
+  "governance_accountability": {
+    "score": 0.6582,
+    "evidence_grade_distribution": {
+      "unreferenced": 2,
+      "unverifiable": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.",
+          "chunk_id": 2,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Science",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "GapStatement"
+          ],
+          "claim_classification_3": [
+            "Decentralization"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.",
+          "chunk_id": 5,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Next Steps",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "FutureWork"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [
+            1
+          ],
+          "citation_source_chunk_ids": [
+            5
+          ],
+          "citations": [
+            {
+              "ref_number": 1,
+              "doi": null,
+              "title": null,
+              "type": null,
+              "cited_by_count": null,
+              "publication_year": null,
+              "abstract": null,
+              "support_verdict": null,
+              "support_rationale": null
+            }
+          ],
+          "evidence_grade": "unverifiable",
+          "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "IncentiveStructure"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.",
+        "chunk_id": 2,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Science",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": [
+          "Decentralization"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'This represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, pioneering a new model for decentralized science (DeSci) funding.' in the The Science section. This claim was deemed supported (The 'The Science' section explicitly states that the approach represents the first crowdsale-backed tokenization of a brain health patent portfolio through an IP-NFT structure, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.",
+        "chunk_id": 5,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Next Steps",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FutureWork"
+        ],
+        "claim_classification_2": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [
+          1
+        ],
+        "citation_source_chunk_ids": [
+          5
+        ],
+        "citations": [
+          {
+            "ref_number": 1,
+            "doi": null,
+            "title": null,
+            "type": null,
+            "cited_by_count": null,
+            "publication_year": null,
+            "abstract": null,
+            "support_verdict": null,
+            "support_rationale": null
+          }
+        ],
+        "evidence_grade": "unverifiable",
+        "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Decentralization"
+        ],
+        "claim_classification_3": [
+          "IncentiveStructure"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 3,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 3,
+      "noise": 0
+    }
+  },
+  "evidential_strength": {
+    "score": 0.6649,
+    "evidence_grade_distribution": {
+      "self_reported": 3
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Fact",
+          "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Comparative"
+          ],
+          "claim_classification_3": [
+            "Performance"
+          ],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Causal"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Assertion",
+          "claim": "These findings establish target engagement and provide mechanistic support for the clinical hypothesis",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Mechanistic"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'These findings establish target engagement and provide mechanistic support for the clinical hypothesis' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": []
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Comparative"
+        ],
+        "claim_classification_3": [
+          "Performance"
+        ],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Causal"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Rodent studies using the Uncaria tomentosa-derived active ingredient show reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that rodent studies using the Uncaria tomentosa-derived ingredient showed reduced amyloid plaque load, decreased neuroinflammation, and improved memory performance in validated animal models.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "These findings establish target engagement and provide mechanistic support for the clinical hypothesis",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Mechanistic"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'These findings establish target engagement and provide mechanistic support for the clinical hypothesis' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that preclinical results establish target engagement and provide mechanistic support for the clinical hypothesis, directly matching the claim.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 3,
+      "empirical": 3,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 0,
+      "noise": 0
+    }
+  },
+  "execution_credibility": {
+    "score": 0.6649,
+    "evidence_grade_distribution": {
+      "self_reported": 1,
+      "unreferenced": 1,
+      "unverifiable": 1
+    },
+    "buckets": {
+      "empirical": [
+        {
+          "claim_type": "Fact",
+          "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+          "chunk_id": 3,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "What Has Been Demonstrated",
+          "semantic_category": "result",
+          "verdict": "supported",
+          "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+          "relevancy_score": 0.95,
+          "claim_classification_1": [
+            "Observational"
+          ],
+          "claim_classification_2": [
+            "Comparative"
+          ],
+          "claim_classification_3": [
+            "Performance"
+          ],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "self_reported",
+          "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+        },
+        {
+          "claim_type": "Fact",
+          "claim": "Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.",
+          "chunk_id": 4,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Current Status",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "Feasibility"
+          ],
+          "claim_classification_2": [
+            "Observational"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "empirical",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.",
+          "chunk_id": 5,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "Next Steps",
+          "semantic_category": "conclusion",
+          "verdict": "supported",
+          "rationale": "The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "FutureWork"
+          ],
+          "claim_classification_2": [
+            "LegalRegulatory"
+          ],
+          "claim_classification_3": [],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [
+            1
+          ],
+          "citation_source_chunk_ids": [
+            5
+          ],
+          "citations": [
+            {
+              "ref_number": 1,
+              "doi": null,
+              "title": null,
+              "type": null,
+              "cited_by_count": null,
+              "publication_year": null,
+              "abstract": null,
+              "support_verdict": null,
+              "support_rationale": null
+            }
+          ],
+          "evidence_grade": "unverifiable",
+          "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Fact",
+        "claim": "In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators",
+        "chunk_id": 3,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "What Has Been Demonstrated",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [
+          "Comparative"
+        ],
+        "claim_classification_3": [
+          "Performance"
+        ],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "self_reported",
+        "evidence_summary": "Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'In vitro assays demonstrate approximately 69.6% reduction in amyloid-beta fibril formation and 85.7% reduction in tau PHF/SF aggregation, outperforming commercial supplement comparators' in the What Has Been Demonstrated section. This claim was deemed supported (The 'What Has Been Demonstrated' section explicitly states that in vitro assays show a 69.6% reduction in amyloid-beta fibril formation and an 85.7% reduction in tau PHF/SF aggregation, noting these results outperform commercial supplement comparators.). Evidence grade: self reported — Self-reported empirical finding in result text: the manuscript describes this as its own experimental or analytic outcome; external references are not cited inline in this chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.",
+        "chunk_id": 4,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Current Status",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Feasibility"
+        ],
+        "claim_classification_2": [
+          "Observational"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "empirical",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Small-scale commercial production is already operational for the supplement market, demonstrating manufacturing feasibility.' in the Current Status section. This claim was deemed supported (The 'Current Status' section explicitly states that small-scale commercial production is operational for the supplement market, directly confirming the claim regarding manufacturing feasibility.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.",
+        "chunk_id": 5,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "Next Steps",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FutureWork"
+        ],
+        "claim_classification_2": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_3": [],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [
+          1
+        ],
+        "citation_source_chunk_ids": [
+          5
+        ],
+        "citations": [
+          {
+            "ref_number": 1,
+            "doi": null,
+            "title": null,
+            "type": null,
+            "cited_by_count": null,
+            "publication_year": null,
+            "abstract": null,
+            "support_verdict": null,
+            "support_rationale": null
+          }
+        ],
+        "evidence_grade": "unverifiable",
+        "evidence_summary": "All cited references could not be retrieved from OpenAlex.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Future plans may explore the FDA botanical drug pathway contingent on clinical efficacy data.' in the Next Steps section. This claim was deemed supported (The 'Next Steps' section explicitly states that future plans may explore the FDA botanical drug pathway, contingent on clinical efficacy data, directly matching the claim.). Evidence grade: unverifiable — All cited references could not be retrieved from OpenAlex. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 3,
+      "empirical": 2,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  },
+  "financial_integrity": {
+    "score": 0.5703,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    },
+    "buckets": {
+      "empirical": [],
+      "methodological": [],
+      "contextual": [],
+      "aspirational": [
+        {
+          "claim_type": "Roadmap",
+          "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+          "chunk_id": 6,
+          "doc_name": "claw-percepta-labs-report",
+          "category": "CLAW",
+          "section_heading": "The Opportunity",
+          "semantic_category": "introduction",
+          "verdict": "supported",
+          "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+          "relevancy_score": 0.85,
+          "claim_classification_1": [
+            "NoveltyAssertion"
+          ],
+          "claim_classification_2": [
+            "Decentralization"
+          ],
+          "claim_classification_3": [
+            "IncentiveStructure"
+          ],
+          "triage_bucket": "aspirational",
+          "citation_numbers": [],
+          "citation_source_chunk_ids": [],
+          "citations": [],
+          "evidence_grade": "unreferenced",
+          "evidence_summary": "No inline citations in source chunk.",
+          "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+        }
+      ]
+    },
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.",
+        "chunk_id": 6,
+        "doc_name": "claw-percepta-labs-report",
+        "category": "CLAW",
+        "section_heading": "The Opportunity",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Decentralization"
+        ],
+        "claim_classification_3": [
+          "IncentiveStructure"
+        ],
+        "triage_bucket": "aspirational",
+        "citation_numbers": [],
+        "citation_source_chunk_ids": [],
+        "citations": [],
+        "evidence_grade": "unreferenced",
+        "evidence_summary": "No inline citations in source chunk.",
+        "claim_narrative": "claw-percepta-labs-report presents the claim 'Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding.' in the The Opportunity section. This claim was deemed supported (The 'The Opportunity' section explicitly states that Percepta aims to establish category leadership through peer-reviewed preclinical data and a decentralized human study powered by tokenized funding, directly matching the claim.). Evidence grade: unreferenced — No inline citations in source chunk. This claim is rated as extremely relevant for the core of this research."
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "empirical": 0,
+      "methodological": 0,
+      "boilerplate_method": 0,
+      "contextual": 0,
+      "aspirational": 1,
+      "noise": 0
+    }
+  }
+}

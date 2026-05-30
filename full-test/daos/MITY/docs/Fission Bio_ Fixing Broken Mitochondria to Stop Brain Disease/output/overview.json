@@ -1,0 +1,50 @@
+{
+  "research_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+  "review_date": "May 22, 2026",
+  "composite_score": 0.5411,
+  "review_statement": "Although the paper introduces a creative idea for using mitochondrial division to treat brain disorders, its scientific reliability is severely compromised by a lack of external proof. Almost every major claim about how the treatment works, its connection to disease, and its success in the lab is presented as an internal finding without reference to outside studies. This makes it impossible for others to check if these assertions align with existing knowledge. While the authors' background and funding are explained reasonably well, the manuscript does not clearly separate their own experimental results from general scientific facts. Because the core arguments are not backed by retrievable citations, the paper relies heavily on unverified internal statements. As a result, the conclusions remain speculative until the findings are supported by independent data and proper documentation.",
+  "categories": {
+    "scientific_rigor": {
+      "score": 0.3644,
+      "score_method": "evidence_grade_weighted",
+      "claim_count": 17,
+      "rationale": "The research paper fails to meet basic standards of scientific rigor because almost all its major claims lack support from independent, verifiable sources. Out of seventeen key assertions, none were backed by strong or moderate external evidence. Instead, most statements were either self-reported findings from the authors' own work or completely unreferenced. While the text mentions specific studies to support claims about drug effects on diseases like ALS and Alzheimer's, these citations could not be retrieved, meaning their validity cannot be confirmed. Foundational ideas regarding mitochondrial function and disease connections are presented as facts without any references, creating a significant gap in the evidence. This pattern extends to specific details about drug binding sites and therapeutic challenges, which are stated without proof. The manuscript does not clearly distinguish between the authors' own experimental results and established scientific knowledge, treating internal data as universal truth. Consequently, readers cannot verify the accuracy of the proposed mechanisms or compare them with the broader scientific literature. Because the evidence relies heavily on unverified internal assertions rather than documented external validation, the conclusions remain speculative rather than evidence-based, severely undermining the study's credibility."
+    },
+    "evidential_strength": {
+      "score": 0.35,
+      "score_method": "evidence_grade_weighted",
+      "claim_count": 1,
+      "rationale": "One specific claim suggests that problems with mitochondria actively cause diseases like Alzheimer's and ALS, rather than just being a side effect of aging. While the text clearly states this idea, it provides no references to support it. This missing information creates a major gap because readers cannot check if the claim matches existing scientific knowledge or verify the specific ways these cellular issues lead to disease. Without cited sources, the statement remains an internal opinion rather than a conclusion backed by peer-reviewed data. Although the topic is highly relevant, the lack of an evidentiary trail prevents anyone from assessing how strong the argument truly is. Consequently, the quality of evidence for this point is considered weak. This single unreferenced assertion highlights a critical limitation, as it makes it impossible to distinguish the claim from an unverified hypothesis without the necessary supporting documentation."
+    },
+    "originality": {
+      "score": 1.0,
+      "score_method": "literature_similarity",
+      "compared_works": 45,
+      "rationale": "The review assessed three specific claims made by the authors regarding community-driven development. One claim, describing a method used to improve a specific molecule, was supported by detailed instructions within the paper itself. While this internal description is clear, it lacks independent verification from outside sources. The other two claims, which discuss financial difficulties in early research and the challenges of moving discoveries from the lab to the market, had no supporting references at all. Although the authors clearly state these issues, the absence of citations means these points cannot be checked against existing data or other studies. Consequently, the evidence for these broader context claims relies entirely on the manuscript's own words rather than external confirmation. This pattern indicates that while the paper presents a coherent story, the assertions about funding barriers and industry gaps remain unverified by the wider scientific community."
+    },
+    "execution_credibility": {
+      "score": 0.35,
+      "score_method": "evidence_grade_weighted",
+      "claim_count": 1,
+      "rationale": "One statement regarding the success of Fission Bio's concept in laboratory settings lacks supporting citations. Although the text clearly asserts that the technology has been proven in lab models, it does not provide external references to verify this data. This absence creates a gap in the evidence quality because readers cannot independently confirm the specific experiments or results mentioned. While the claim aligns with the document's narrative, it relies solely on the author's word rather than documented proof from outside sources. Consequently, the robustness of the reported laboratory success cannot be fully assessed without these references. The information is highly relevant to the research topic, yet its foundation remains incomplete due to the missing documentation. Until specific studies or reports are cited to substantiate these findings, the assertion stands as an unverified statement within the broader context of the research."
+    },
+    "real_world_traction": {
+      "score": 0.5,
+      "score_method": "evidence_grade_weighted",
+      "claim_count": 0,
+      "rationale": ""
+    },
+    "financial_integrity": {
+      "score": 0.5,
+      "score_method": "rubric_penalty",
+      "finding_count": 2,
+      "rationale": "The project describes a funding model where investors contributed capital through a digital token system to develop treatments for mitochondrial disorders. A significant concern is the lack of clarity regarding how these investors' financial interests align with the need for rigorous, long-term scientific research versus the desire for quick returns. While the text states that token holders help govern the project and own shares in future patents, this structure blurs the line between scientific oversight and financial decision-making. This arrangement could create pressure to rush clinical trials or change strategies prematurely, potentially compromising the validity of the research, a risk the document does not address. Furthermore, the claim of shared ownership requires careful examination to ensure it does not conflict with the slow, methodical pace necessary for safe and effective drug development. Without clear safeguards, the financial incentives of the community might inadvertently undermine the scientific integrity of the mission."
+    },
+    "team_credibility": {
+      "score": 0.7,
+      "score_method": "rubric_penalty",
+      "finding_count": 1,
+      "rationale": "The review notes that the document credits Dr. Luis Rios, a key leader at Fission Bio, with a major scientific discovery regarding a specific protein binding site. However, the text presents this finding as his direct achievement without referencing the original academic study where it was likely first published. This approach blurs the line between his current role in the company and the initial research conducted in an academic setting, a common issue in emerging science ventures that can hide the true source of the work. Although the team possesses relevant expertise, the absence of clear attribution for foundational discoveries creates uncertainty about the transparency of their intellectual property and research history. It remains unclear whether the team is properly building on existing public knowledge or if they are claiming credit for prior work under their own name, necessitating further verification to ensure accurate representation of their contributions."
+    }
+  }
+}

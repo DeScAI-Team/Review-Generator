@@ -99,6 +99,8 @@ if load_dotenv is not None:
 VLLM_BASE_URL = os.environ.get("VLLM_BASE_URL", "http://localhost:8000/v1")
 VLLM_API_KEY = os.environ.get("VLLM_API_KEY", "none")
 
+DEFAULT_RISK_SCORE_PCT = 25.0
+
 # Model discovery happens later in main() after client is created
 MAX_RETRIES = 4
 MAX_REVIEWER_TOKENS = max(256, int(os.environ.get("REVIEWER_MAX_TOKENS", "2048")))
@@ -446,28 +448,16 @@ def main() -> int:
     # ---- Pass 1: combined scientific grounding ----
     print("  [1/4] Generating combined scientific_grounding...", file=sys.stderr)
     grounding_ctx = _build_grounding_ctx(bundle)
-    if any(c.get("scientific_grounding_rationale") for c in grounding_ctx["compounds"]):
-        grounding_text = call_llm(
-            client, model, grounding_prompt, json.dumps(grounding_ctx, ensure_ascii=False)
-        )
-    else:
-        grounding_text = (
-            "No per-compound scientific grounding rationales were available in the evidence bundle; "
-            "run review.py for each compound first."
-        )
+    grounding_text = call_llm(
+        client, model, grounding_prompt, json.dumps(grounding_ctx, ensure_ascii=False)
+    )
 
     # ---- Pass 2: combined risk statement ----
     print("  [2/4] Generating combined risk statement...", file=sys.stderr)
     risk_ctx = _build_risk_ctx(bundle)
-    if any(c.get("risk_rationale") for c in risk_ctx["compounds"]):
-        risk_text = call_llm(
-            client, model, risk_prompt, json.dumps(risk_ctx, ensure_ascii=False)
-        )
-    else:
-        risk_text = (
-            "No per-compound risk rationales were available in the evidence bundle; "
-            "run review.py for each compound first."
-        )
+    risk_text = call_llm(
+        client, model, risk_prompt, json.dumps(risk_ctx, ensure_ascii=False)
+    )
 
     # ---- Pass 3: compatibility ----
     print("  [3/4] Generating compatibility assessment...", file=sys.stderr)
@@ -500,6 +490,8 @@ def main() -> int:
 
     sg_pct = _fraction_to_percent(_avg_score(bundle, "scientific_grounding_score"))
     risk_pct = _fraction_to_percent(_avg_score(bundle, "risk_score"))
+    if risk_pct is None:
+        risk_pct = DEFAULT_RISK_SCORE_PCT
     compat_pct = _compatibility_percent_score(bundle)
     compat_rationale = _compat_signal_preamble(bundle) + (compat_text or "").strip()
 

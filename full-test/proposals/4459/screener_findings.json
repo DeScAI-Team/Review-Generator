@@ -1,0 +1,227 @@
+{
+  "proposal_id": 4459,
+  "title": "Wim Hof Method Breathwork and Cold Exposure for Cancer-Related Inflammation: Feasibility Pilot",
+  "windows_count": 5,
+  "total_findings_raw": 18,
+  "total_findings_deduped": 18,
+  "dimensions_with_findings": [
+    "evidential_strength",
+    "funding_realism",
+    "originality",
+    "scientific_grounding"
+  ],
+  "findings_by_dimension": {
+    "evidential_strength": [
+      {
+        "dimension": "evidential_strength",
+        "tags": [
+          "SourceAttribution"
+        ],
+        "severity": "concern",
+        "quote": "Among others, Dr. Andrew Huberman and Dr. Susanna Soberg have expressed some of the key challenges that cold showers represent...",
+        "observation": "The proposal relies on citations to popular science communicators (Huberman, Soberg) rather than peer-reviewed literature to support claims about measurement challenges, weakening the evidential basis.",
+        "section": "intervention_summary",
+        "window_idx": 1
+      },
+      {
+        "dimension": "evidential_strength",
+        "tags": [
+          "Causal"
+        ],
+        "severity": "concern",
+        "quote": "Causal machine learning to move beyond association and prediction... These approaches can help estimate whether adherence to the Wim Hof protocol has an identifiable causal effect... Given the small sample size results will be treated as exploratory",
+        "observation": "The proposal claims to use causal machine learning to estimate causal effects, yet simultaneously admits the results will be exploratory due to small sample size. This creates a tension between the ambitious causal framing and the limited statistical power to support such claims.",
+        "section": "analysis plan",
+        "window_idx": 2
+      },
+      {
+        "dimension": "evidential_strength",
+        "tags": [
+          "Causal",
+          "Benchmark"
+        ],
+        "severity": "concern",
+        "quote": "This study cannot prove WHM causes changes in biomarkers due to no control group.",
+        "observation": "The proposal correctly identifies that without a control group, the study cannot establish causality, yet the title and introduction likely imply testing the efficacy of Wim Hof Method, creating a gap between the study design and the ultimate research question.",
+        "section": "limitations",
+        "window_idx": 3
+      }
+    ],
+    "funding_realism": [
+      {
+        "dimension": "funding_realism",
+        "tags": [
+          "Feasibility"
+        ],
+        "severity": "concern",
+        "quote": "Recruitment begins with target of 15 to 20 participants over 4 to 6 weeks.",
+        "observation": "Recruiting 15-20 participants with required oncologist clearances and baseline ECGs within 4-6 weeks is an aggressive timeline that risks delaying the study or failing to reach the target, potentially compromising the power of the exploratory analyses.",
+        "section": "milestones",
+        "window_idx": 2
+      },
+      {
+        "dimension": "funding_realism",
+        "tags": [
+          "Budget"
+        ],
+        "severity": "info",
+        "quote": "AI and ML model development: $20,000 for time-series analysis, causal inference, pattern discovery, and data engineering",
+        "observation": "The budget allocates $20,000 for AI/ML development on a dataset of only 20 participants over 4-6 weeks, which seems disproportionately high for the scope of data available.",
+        "section": "budget",
+        "window_idx": 3
+      },
+      {
+        "dimension": "funding_realism",
+        "tags": [
+          "Feasibility"
+        ],
+        "severity": "info",
+        "quote": "Should HRV be made optional or exploratory given device variability?",
+        "observation": "The proposal acknowledges significant device variability for Heart Rate Variability (HRV) measurements and suggests making this metric optional or exploratory. This indicates a realistic assessment of technical limitations and a pragmatic approach to data quality in a pilot study.",
+        "section": "analysis plan",
+        "window_idx": 4
+      }
+    ],
+    "originality": [
+      {
+        "dimension": "originality",
+        "tags": [
+          "GapStatement"
+        ],
+        "severity": "info",
+        "quote": "Conversely it is currently scientifically unproven or complex to normalize a protocol to consistently measure impact of cold exposure in a shower...",
+        "observation": "The proposal identifies a gap in the literature regarding standardized measurement of cold shower effects, justifying the need for this study, though the gap statement is not fully supported by cited references.",
+        "section": "intervention_summary",
+        "window_idx": 1
+      },
+      {
+        "dimension": "originality",
+        "tags": [
+          "NoveltyAssertion"
+        ],
+        "severity": "info",
+        "quote": "Blockchain-verified data provenance: To ensure data integrity we use decentralized data management infrastructure with blockchain verification.",
+        "observation": "The proposal introduces blockchain for data provenance and integrity. While technically novel for research data management, its scientific necessity for a small pilot study is debatable and may represent a distraction from core scientific goals.",
+        "section": "data, privacy, openness",
+        "window_idx": 2
+      }
+    ],
+    "scientific_grounding": [
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological",
+          "Limitation"
+        ],
+        "severity": "concern",
+        "quote": "We acknowledge measurement variability across devices but prioritize real-world feasibility over perfect standardization for this pilot.",
+        "observation": "The proposal explicitly accepts device-to-device variability in wearable data without specifying how this will be statistically controlled or if specific devices will be mandated, which threatens data comparability.",
+        "section": "measures",
+        "window_idx": 1
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "concern",
+        "quote": "Empirically it is proven that it is likely and practical with a simple CWI protocol to reach 4°C or colder with consistent full body exposure.",
+        "observation": "The use of the phrase 'empirically it is proven' is scientifically imprecise and lacks citation support for such a strong claim regarding cold water immersion protocols.",
+        "section": "intervention_summary",
+        "window_idx": 1
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "info",
+        "quote": "Participants on active chemotherapy must have written oncologist approval in addition to GP clearance.",
+        "observation": "The inclusion of specific medical clearance requirements for high-risk subgroups (chemotherapy patients) demonstrates a thoughtful approach to safety and study design.",
+        "section": "eligibility",
+        "window_idx": 1
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological",
+          "Limitation"
+        ],
+        "severity": "concern",
+        "quote": "We acknowledge measurement variability across devices but prioritize real-world feasibility over perfect standardization for this pilot. Device type will be documented as a covariate.",
+        "observation": "The proposal explicitly accepts device variability without standardization, relying on it as a covariate. While pragmatic for a pilot, this introduces significant noise that may obscure true effects, and the justification for 'perfect standardization' being unfeasible is not elaborated with prior literature.",
+        "section": "methods",
+        "window_idx": 2
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "info",
+        "quote": "Statistical approach: Paired comparisons from baseline versus week 16 using Wilcoxon signed-rank tests which are non-parametric and appropriate for small sample size.",
+        "observation": "The choice of non-parametric tests is methodologically sound given the anticipated small sample size and likely non-normal distribution of biomarker data, showing attention to statistical rigor.",
+        "section": "analysis plan",
+        "window_idx": 2
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "info",
+        "quote": "Protocol hold criteria for active chemotherapy participants: Practice must be temporarily suspended if participant develops fever above 100.4°F (38°C), active infection, significant dehydration, active mucositis, or compromised central line site.",
+        "observation": "The safety protocol for immunocompromised patients (chemotherapy) is detailed and aligns with standard clinical precautions, demonstrating appropriate risk management for this vulnerable population.",
+        "section": "safety",
+        "window_idx": 2
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological",
+          "Limitation"
+        ],
+        "severity": "concern",
+        "quote": "Primary cancer cohort is uncontrolled, limiting causal inference. Healthy volunteer observational cohort serves as supplementary reference data only and is not used as a scientific control group.",
+        "observation": "The proposal explicitly acknowledges the lack of a control group and the inability to make causal claims, which is appropriate for a feasibility pilot but limits the scientific rigor of the primary outcomes.",
+        "section": "limitations",
+        "window_idx": 3
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological",
+          "Measurement"
+        ],
+        "severity": "concern",
+        "quote": "Wearable variability means different devices may measure HRV differently, documented as covariate.",
+        "observation": "Relying on participant-owned wearables with varying measurement standards introduces significant noise into HRV data; treating device type merely as a covariate may not adequately address systematic measurement differences.",
+        "section": "analysis plan",
+        "window_idx": 3
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "info",
+        "quote": "Blockchain-verified data provenance: To ensure data integrity we use decentralized data management infrastructure with blockchain verification.",
+        "observation": "The proposal details a specific technical approach using Ethereum and IPFS for data integrity, which is a notable methodological choice for ensuring transparency in an open-science context.",
+        "section": "methods",
+        "window_idx": 3
+      },
+      {
+        "dimension": "scientific_grounding",
+        "tags": [
+          "Methodological",
+          "Limitation"
+        ],
+        "severity": "concern",
+        "quote": "Is the physician-gated observational approach with medical safety oversight sufficient or do you recommend additional ethics review procedures?",
+        "observation": "The proposal explicitly questions whether its own ethical safeguards (physician-gated approach) are sufficient, indicating uncertainty about the rigor of its ethical design. This self-doubt suggests the methodology may lack the robust ethical framework expected for human subject research.",
+        "section": "methods",
+        "window_idx": 4
+      }
+    ]
+  }
+}

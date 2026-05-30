@@ -1,0 +1,47 @@
+{
+  "10.1007/s12551-024-01188-4": {
+    "doi": "10.1007/s12551-024-01188-4",
+    "title": "An overview on glycation: molecular mechanisms, impact on proteins, pathogenesis, and inhibition",
+    "type": "article",
+    "cited_by_count": 104,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "The formation of a heterogeneous set of advanced glycation end products (AGEs) is the final outcome of a non-enzymatic process that occurs in vivo on long-life biomolecules. This process, known as glycation, starts with the reaction between reducing sugars, or their autoxidation products, with the amino groups of proteins, DNA, or lipids, thus gaining relevance under hyperglycemic conditions. Once AGEs are formed, they might affect the biological function of the biomacromolecule and, therefore, induce the development of pathophysiological events. In fact, the accumulation of AGEs has been pointed as a triggering factor of obesity, diabetes-related diseases, coronary artery disease, neurological disorders, or chronic renal failure, among others. Given the deleterious consequences of glycation, evolution has designed endogenous mechanisms to undo glycation or to prevent it. In addition, many exogenous molecules have also emerged as powerful glycation inhibitors. This review aims to provide an overview on what glycation is. It starts by explaining the similarities and differences between glycation and glycosylation. Then, it describes in detail the molecular mechanism underlying glycation reactions, and the bio-molecular targets with higher propensity to be glycated. Next, it discusses the precise effects of glycation on protein structure, function, and aggregation, and how computational chemistry has provided insights on these aspects. Finally, it reports the most prevalent diseases induced by glycation, and the endogenous mechanisms and the current therapeutic interventions against it."
+  },
+  "10.1038/s41586-023-06415-8": {
+    "doi": "10.1038/s41586-023-06415-8",
+    "title": "De novo design of protein structure and function with RFdiffusion",
+    "type": "article",
+    "cited_by_count": 1852,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Abstract There has been considerable recent progress in designing new proteins using deep-learning methods 1–9 . Despite this progress, a general deep-learning framework for protein design that enables solution of a wide range of design challenges, including de novo binder design and design of higher-order symmetric architectures, has yet to be described. Diffusion models 10,11 have had considerable success in image and language generative modelling but limited success when applied to protein modelling, probably due to the complexity of protein backbone geometry and sequence–structure relationships. Here we show that by fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks, we obtain a generative model of protein backbones that achieves outstanding performance on unconditional and topology-constrained protein monomer design, protein binder design, symmetric oligomer design, enzyme active site scaffolding and symmetric motif scaffolding for therapeutic and metal-binding protein design. We demonstrate the power and generality of the method, called RoseTTAFold diffusion (RFdiffusion), by experimentally characterizing the structures and functions of hundreds of designed symmetric assemblies, metal-binding proteins and protein binders. The accuracy of RFdiffusion is confirmed by the cryogenic electron microscopy structure of a designed binder in complex with influenza haemagglutinin that is nearly identical to the design model. In a manner analogous to networks that produce images from user-specified inputs, RFdiffusion enables the design of diverse functional proteins from simple molecular specifications."
+  },
+  "10.1126/science.adl2528": {
+    "doi": "10.1126/science.adl2528",
+    "title": "Generalized biomolecular modeling and design with RoseTTAFold All-Atom",
+    "type": "article",
+    "cited_by_count": 832,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "Deep-learning methods have revolutionized protein structure prediction and design but are presently limited to protein-only systems. We describe RoseTTAFold All-Atom (RFAA), which combines a residue-based representation of amino acids and DNA bases with an atomic representation of all other groups to model assemblies that contain proteins, nucleic acids, small molecules, metals, and covalent modifications, given their sequences and chemical structures. By fine-tuning on denoising tasks, we developed RFdiffusion All-Atom (RFdiffusionAA), which builds protein structures around small molecules. Starting from random distributions of amino acid residues surrounding target small molecules, we designed and experimentally validated, through crystallography and binding measurements, proteins that bind the cardiac disease therapeutic digoxigenin, the enzymatic cofactor heme, and the light-harvesting molecule bilin."
+  },
+  "10.3390/antiox14040492": {
+    "doi": "10.3390/antiox14040492",
+    "title": "Advanced Glycation End Products in Disease Development and Potential Interventions",
+    "type": "review",
+    "cited_by_count": 51,
+    "publication_year": 2025,
+    "status": "ok",
+    "abstract": "Advanced glycation end products (AGEs) are a group of compounds formed through non-enzymatic reactions between reducing sugars and proteins, lipids, or nucleic acids. AGEs can be generated in the body or introduced through dietary sources and smoking. Recent clinical and animal studies have highlighted the significant role of AGEs in various health conditions. These compounds accumulate in nearly all mammalian tissues and are associated with a range of diseases, including diabetes and its complications, cardiovascular disease, and neurodegeneration. This review summarizes the major diseases linked to AGE accumulation, presenting both clinical and experimental evidence. The pathologies induced by AGEs share common mechanisms across different organs, primarily involving oxidative stress, chronic inflammation, and direct protein cross-linking. Interventions targeting AGE-related diseases focus on inhibiting AGE formation using synthetic or natural antioxidants, as well as reducing dietary AGE intake through lifestyle modifications. AGEs are recognized as significant risk factors that impact health and accelerate aging, particularly in individuals with hyperglycemia. Monitoring AGE level and implementing nutritional interventions can help maintain overall health and reduce the risk of AGE-related complications."
+  },
+  "10.3390/cells11081312": {
+    "doi": "10.3390/cells11081312",
+    "title": "Advanced Glycation End-Products (AGEs): Formation, Chemistry, Classification, Receptors, and Diseases Related to AGEs",
+    "type": "review",
+    "cited_by_count": 684,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "Advanced glycation end-products (AGEs) constitute a non-homogenous, chemically diverse group of compounds formed either exogeneously or endogeneously on the course of various pathways in the human body. In general, they are formed non-enzymatically by condensation between carbonyl groups of reducing sugars and free amine groups of nucleic acids, proteins, or lipids, followed by further rearrangements yielding stable, irreversible end-products. In the last decades, AGEs have aroused the interest of the scientific community due to the increasing evidence of their involvement in many pathophysiological processes and diseases, such as diabetes, cancer, cardiovascular, neurodegenerative diseases, and even infection with the SARS-CoV-2 virus. They are recognized by several cellular receptors and trigger many signaling pathways related to inflammation and oxidative stress. Despite many experimental research outcomes published recently, the complexity of their engagement in human physiology and pathophysiological states requires further elucidation. This review focuses on the receptors of AGEs, especially on the structural aspects of receptor-ligand interaction, and the diseases in which AGEs are involved. It also aims to present AGE classification in subgroups and to describe the basic processes leading to both exogeneous and endogeneous AGE formation."
+  }
+}

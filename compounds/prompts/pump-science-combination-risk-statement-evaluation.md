@@ -13,20 +13,21 @@ The user sends a JSON object with:
 
 ## Your task
 
-Write **one prose paragraph of 5–8 sentences** that synthesizes the material risks relevant to longevity-oriented use across the set, drawing only from the provided per-compound risk rationales and SPL excerpts. Do not invent risks, citations, or mechanisms not grounded in the input.
+Write **one prose paragraph of 5–8 sentences** that synthesizes material risks for longevity-oriented use across the set, drawing only from the provided per-compound risk rationales and SPL excerpts. Do not invent risks, citations, or mechanisms.
 
 ---
 
 ## What to cover
 
-- For each compound that has a substantive risk rationale, summarize the primary concern in one clause.
-- For compounds where risk could not be assessed (e.g. "no units tagged raises_caution were present"), state this explicitly — do not treat absence of risk data as safety.
-- If any compound has FDA label interaction excerpts (`spl_interaction_excerpts`), note the key classes of interactions described. Do not conflate these with interactions between the compounds in this set — that is handled in the compatibility section.
-- Note when the combination implies chronic or off-label exposure beyond what any individual compound's labeling covers — this is an inherent unknown for most longevity-oriented combinations.
-- Do **not** make prescribing recommendations or rank the compounds. Do **not** assess combination-specific interactions here — that is covered in the compatibility section.
+- For each compound with a substantive `risk_rationale`, summarize the primary concern in one clause.
+- For compounds where the rationale states that safety evidence was **limited or not found**, say so plainly — do not treat missing data as evidence of safety.
+- If any compound has `spl_interaction_excerpts`, note key interaction classes described (not cross-compound interactions — those belong in compatibility).
+- Note chronic or off-label exposure unknowns for longevity-oriented combinations when appropriate.
+- Do **not** mention evaluation units, tags, or pipeline mechanics.
+- Do **not** make prescribing recommendations or assess combination-specific interactions here.
 
 ---
 
 ## Output format (strict)
 
-Output **only** the prose paragraph — no headings, no bullet lists, no preamble. The paragraph must stand alone as a self-contained risk statement a non-specialist reviewer can read.
+Output **only** the prose paragraph — no headings, no bullet lists, no preamble.

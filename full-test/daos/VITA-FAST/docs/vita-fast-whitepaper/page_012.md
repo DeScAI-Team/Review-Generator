@@ -1,0 +1,16 @@
+Securities Act of 1933. In accordance with this regulation, VITA-FAST will not be made available to U.S. persons or within the United States. Potential purchasers will be required to provide sufficient proof of their non-U.S. person status including IP address checks, geofencing, and attestations.
+
+**11. Team**
+
+[Viktor Korolchuk](https://www.newcastle.ac.uk/) is a cell biologist and researcher who currently leads the Korolchuk Lab at Newcastle University. He obtained his PhD from the University of Cambridge in 2007 and subsequently held postdoctoral positions at the University of California, San Diego, and the University of Cambridge.
+
+Dr. Korolchuk's research focuses on the molecular mechanisms that regulate cellular homeostasis, particularly in the context of neurodegenerative diseases and cancer. He has published numerous articles in high-impact scientific journals and is recognized as an expert in the field.
+In addition to his academic work, Dr. Korolchuk is involved in several industry collaborations and has received funding from a variety of sources, including the UK Medical Research Council, the European Research Council, and the Wellcome Trust. He is also a member of several professional organizations, including the Biochemical Society and the Royal Society of Biology.
+
+[Peter Banks](https://www.newcastle.ac.uk/) trained as a geneticist during his undergraduate degree at Newcastle University. He gained his PhD studying the role of cohesins in Caenorhabditis elegans, also at Newcastle University before starting a postdoctoral role with David Lydall. It was whilst working on the role of chromatin modifications in budding yeast that Peter became interested in the use of robotics in Genetic research. Utilizing the unique setup that David Lydall had developed within the Centre for Integrated Systems Biology of Ageing and Nutrition, Peter developed the skills that would allow him to move into high throughput screening.
+
+In 2011, Peter was appointed to run a new facility set up within the Faculty of Medical Sciences at Newcastle University. Initially offering to run genome wide yeast screens, the faculty invested significant funds to develop mammalian siRNA screening in 2012. Over the following years the screening facility has continued to develop recruiting a new member of staff Adrian Blackburn incorporating bacteria and alternative yeasts such as Candida albicans.
+
+[Jóhannes Reynisson](https://www.vitadoa.com/) is a drug discovery expert and a research lead at VitaDAO, where he oversees projects related to drug discovery and leads collaborations with academic institutions and industry partners. He holds a PhD in chemistry from the University of Copenhagen and has extensive experience in the pharmaceutical industry, including working as a medicinal chemist and project leader at Novartis and AstraZeneca. He holds a PhD in from the University of Copenhagen in chemical biology and has extensive experience in drug discovery projects, including working as a molecular modeler at the Institute of Cancer Research, London, UK and project leader at the University of Auckland, NZ. He has authored more than 150 peer-reviewed
+
+<page_number>12</page_number>

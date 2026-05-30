@@ -976,25 +976,6 @@ def main() -> None:
     audit_path.write_text(audit_text, encoding="utf-8")
     print(f"  Evidence audit: {audit_path}", file=stderr)
 
-    # Build overview.json (frontend-compatible subset of review.json)
-    overview_obj: dict[str, Any] = {
-        "research_name": review_obj["research_name"],
-        "review_date": review_obj["review_date"],
-        "composite_score": review_obj["composite_score"],
-        "review_statement": review_obj["review_statement"],
-        "categories": {
-            k: {key: v[key] for key in ("score", "rationale") if key in v}
-            for k, v in review_obj.get("categories", {}).items()
-            if isinstance(v, dict)
-        },
-    }
-    overview_path = output_dir / "overview.json"
-    overview_path.write_text(
-        json.dumps(overview_obj, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8",
-    )
-    print(f"  Overview: {overview_path}", file=stderr)
-
     # Upload to Arweave
     if not args.skip_upload:
         sys.path.insert(0, str(_BASE.parent))

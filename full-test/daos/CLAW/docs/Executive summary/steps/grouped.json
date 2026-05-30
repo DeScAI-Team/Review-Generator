@@ -1,0 +1,484 @@
+{
+  "scientific_rigor": {
+    "score": 0.7944,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study investigates Percepta® for cognitive optimization in adults with mild cognitive impairment using a 6-month randomized controlled trial design incorporating neurocognitive, wearable, and participant-reported outcomes.",
+        "chunk_id": 0,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Executive summary",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The Project Overview explicitly confirms the study evaluates Percepta in adults with MCI using a 6-month randomized, double-blind, placebo-controlled design, measuring neurocognitive, wearable, and participant-reported outcomes.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study aims to determine if Percepta can improve cognitive performance, wearable biomarker metrics, and participant-reported brain health in adults with self-reported Mild Cognitive Impairment (MCI).",
+        "chunk_id": 1,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Project Overview",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Project Overview explicitly states the study aims to determine if Percepta can improve cognitive performance, wearable biomarker metrics, and participant-reported brain health in adults with self-reported MCI, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Hypothesis"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Conduct a decentralized clinical trial for safety and efficacy of Percepta in adults with self-reported Mild Cognitive Impairment (MCI).",
+        "chunk_id": 2,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Key Details",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The Project Goal explicitly states the intent to conduct a decentralized clinical trial for Percepta's safety and efficacy in adults with self-reported MCI, directly matching the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "Methodological"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Percepta offers a novel, multi-faceted approach by leveraging the neuroprotective properties of its ingredients, which have shown promise in preclinical studies for reducing neuroinflammation, oxidative stress, and amyloid-beta plaque aggregation.",
+        "chunk_id": 3,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Background section explicitly states that Percepta offers a novel, multi-faceted approach leveraging neuroprotective properties shown in preclinical studies to reduce neuroinflammation, oxidative stress, and amyloid-beta plaque aggregation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Existing treatments for MCI, such as lecanemab and donanemab, have limitations in accessibility, cost, and safety, making alternative interventions necessary.",
+        "chunk_id": 3,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Background section explicitly states that existing treatments like lecanemab and donanemab have limitations in accessibility, cost, and safety, necessitating alternative interventions.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "An optional sub-study may assess blood biomarkers (tau protein and amyloid beta ratios).",
+        "chunk_id": 4,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Study Design",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The Study Design section explicitly states that an optional sub-study may assess blood biomarkers, specifically tau protein and amyloid beta ratios.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Participants must maintain at least 80% adherence for per-protocol analysis and 95% for intention-to-treat analysis.",
+        "chunk_id": 5,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Intervention",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the [Intervention] section, which explicitly states the adherence thresholds of 80% for per-protocol and 95% for intention-to-treat analysis.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The primary objective is to determine if Percepta supplementation leads to significant improvements in cognitive performance as measured by the digital MoCA.",
+        "chunk_id": 6,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Objectives and Endpoints",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Objectives and Endpoints' section explicitly states that the primary objective is to determine if Percepta supplementation leads to significant improvements in cognitive performance as measured by the digital MoCA.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "Hypothesis"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Exploratory objectives may involve assessing blood biomarkers.",
+        "chunk_id": 6,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Objectives and Endpoints",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Objectives and Endpoints' section explicitly states that exploratory objectives may involve assessing blood biomarkers, directly confirming the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Exclusion criteria include use of cognitive-affecting medications, neurological or psychiatric disorders, allergies to ingredients, pregnancy, and APOE-4 allele carrier status.",
+        "chunk_id": 7,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Study Population",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the 'Study Population' section, which explicitly lists these specific items as exclusion criteria.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Participants must maintain stable lifestyles (diet, alcohol, substance use, physical activity, sleep) during the study.",
+        "chunk_id": 7,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Study Population",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The claim is explicitly stated in the Study Population section as a mandatory requirement for participants to maintain stable lifestyles throughout the study duration.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Participants will report AEs via a mobile application or email, and all AEs will be assessed for severity and relationship to the intervention.",
+        "chunk_id": 8,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Safety and Monitoring",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Safety and Monitoring' section explicitly states that participants will report adverse events via a mobile application or email and that all AEs will be assessed for severity and relationship to the intervention.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The rationale for Percepta is based on the neuroprotective properties of cat's claw and oolong tea extract, which have shown potential in preclinical studies to mitigate neuroinflammation, oxidative stress, and protein aggregation.",
+        "chunk_id": 9,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Scientific Rationale",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the 'Scientific Rationale' section, which explicitly states that Percepta's rationale is based on the neuroprotective properties of cat's claw and oolong tea extract to mitigate neuroinflammation, oxidative stress, and protein aggregation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "The randomized, double-blind, placebo-controlled design ensures a rigorous evaluation of Percepta's efficacy and safety.",
+        "chunk_id": 9,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Scientific Rationale",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Scientific Rationale section explicitly states that the randomized, double-blind, placebo-controlled design ensures a rigorous evaluation of Percepta's efficacy and safety, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "This study aims to provide foundational data on Percepta's safety, tolerability, and potential cognitive benefits.",
+        "chunk_id": 10,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Expected Outcomes",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the 'Expected Outcomes' section, which explicitly states the study's aim to provide foundational data on Percepta's safety, tolerability, and potential cognitive benefits.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "originality": {
+    "score": 0.6965,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study aims to determine if Percepta can improve cognitive performance, wearable biomarker metrics, and participant-reported brain health in adults with self-reported Mild Cognitive Impairment (MCI).",
+        "chunk_id": 1,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Project Overview",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Project Overview explicitly states the study aims to determine if Percepta can improve cognitive performance, wearable biomarker metrics, and participant-reported brain health in adults with self-reported MCI, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Hypothesis"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Percepta offers a novel, multi-faceted approach by leveraging the neuroprotective properties of its ingredients, which have shown promise in preclinical studies for reducing neuroinflammation, oxidative stress, and amyloid-beta plaque aggregation.",
+        "chunk_id": 3,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Background section explicitly states that Percepta offers a novel, multi-faceted approach leveraging neuroprotective properties shown in preclinical studies to reduce neuroinflammation, oxidative stress, and amyloid-beta plaque aggregation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Existing treatments for MCI, such as lecanemab and donanemab, have limitations in accessibility, cost, and safety, making alternative interventions necessary.",
+        "chunk_id": 3,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Background section explicitly states that existing treatments like lecanemab and donanemab have limitations in accessibility, cost, and safety, necessitating alternative interventions.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The primary objective is to determine if Percepta supplementation leads to significant improvements in cognitive performance as measured by the digital MoCA.",
+        "chunk_id": 6,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Objectives and Endpoints",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Objectives and Endpoints' section explicitly states that the primary objective is to determine if Percepta supplementation leads to significant improvements in cognitive performance as measured by the digital MoCA.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "Hypothesis"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "governance_accountability": {
+    "score": 0.6046,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "Conduct a decentralized clinical trial for safety and efficacy of Percepta in adults with self-reported Mild Cognitive Impairment (MCI).",
+        "chunk_id": 2,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Key Details",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The Project Goal explicitly states the intent to conduct a decentralized clinical trial for Percepta's safety and efficacy in adults with self-reported MCI, directly matching the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "Methodological"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Serious adverse events (SAEs) will be reported to the IRB and sponsor within 48 hours.",
+        "chunk_id": 8,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Safety and Monitoring",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The Safety and Monitoring section explicitly states that Serious adverse events (SAEs) will be reported to the IRB and sponsor within 48 hours, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "execution_credibility": {
+    "score": 0.6582,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "Interim analyses will be conducted at 3 months, with potential extensions to 9 and 12 months based on initial findings.",
+        "chunk_id": 4,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Study Design",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The Study Design section explicitly states that interim analyses will be conducted at 3 months, with potential extensions to 9 and 12 months based on initial findings.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Secondary objectives include improvements in wearable device biomarker metrics and BHI scores.",
+        "chunk_id": 6,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Objectives and Endpoints",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Objectives and Endpoints' section explicitly lists improvements in wearable device biomarker metrics and BHI scores as secondary objectives.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Serious adverse events (SAEs) will be reported to the IRB and sponsor within 48 hours.",
+        "chunk_id": 8,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Safety and Monitoring",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The Safety and Monitoring section explicitly states that Serious adverse events (SAEs) will be reported to the IRB and sponsor within 48 hours, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "real_world_traction": {
+    "score": 0.5703,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "If successful, findings could inform future research and contribute to the development of accessible, natural interventions for individuals experiencing cognitive decline.",
+        "chunk_id": 10,
+        "doc_name": "2025-06-13-CLAW-update-IRB-protocol-executive-summary-1",
+        "category": "CLAW",
+        "section_heading": "Expected Outcomes",
+        "semantic_category": "conclusion",
+        "verdict": "supported",
+        "rationale": "The 'Expected Outcomes' section explicitly states that successful findings could inform future research and contribute to developing accessible, natural interventions for cognitive decline, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "ImpactPotential"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  }
+}

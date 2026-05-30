@@ -1,0 +1,67 @@
+{
+  "scientific_rigor": {
+    "score": 0.8334,
+    "label": "Scientific Rigor",
+    "doc_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+    "rationales": [
+      "Of eight claims in this subset relating to mitochondrial dysfunction and therapeutic efficacy, zero had strong or moderate external evidence, zero were self-reported findings, and eight were unsupported or unreferenced. The evidence quality for this chunk is critically low because no assertions are backed by retrievable external citations. While the text explicitly cites specific studies like Joshi et al., 2018 and Tian et al., 2017 for claims regarding P110's effects on ALS, Alzheimer's, and cardiac function, the validation process marked these as self-reported rather than externally verified. This discrepancy suggests that the manuscript presents its own experimental outcomes as established facts without providing the necessary inline references for independent verification. Furthermore, foundational claims about the role of mitochondrial fragmentation in neurodegenerative diseases and the company's laboratory success lack any citations entirely. The absence of retrievable references for all cited sources creates a significant gap in the evidentiary chain, preventing an assessment of whether the specific data points align with the broader scientific literature. Consequently, the entire subset relies on internal assertions that remain unconfirmed by the external evidence base required for high-quality scientific evaluation.",
+      "Of nine claims in this subset relating to the evidence quality of the research paper, zero had strong or moderate external evidence, zero were self-reported findings, and nine were unsupported or unreferenced. The overwhelming majority of assertions regarding mitochondrial dynamics, disease links, and therapeutic mechanisms lack inline citations, creating a significant gap in external verification for core scientific claims. While the paper explicitly states that neurodegenerative diseases disrupt mitochondrial balance and that DRP1-dependent fission drives various conditions, these assertions are presented without supporting references, leaving their validity unconfirmed by independent sources. Similarly, claims about the specific binding site SWAG and the therapeutic obstacles of peptides are stated as facts but remain unreferenced, which undermines the ability to assess their accuracy against established literature. Only one claim regarding the development of SC9 is appropriately graded as self-reported, as it describes the manuscript's own methodology rather than an external fact. Two claims concerning inflammatory stress and Alzheimer's disease progression are marked as unverifiable because their cited references could not be retrieved, indicating a failure in the citation chain even when sources were attempted. This pattern suggests that while the text presents a coherent narrative, the evidence base relies heavily on internal assertions rather than documented external validation. Consequently, the current evidence quality for this dimension is critically low due to the absence of retrievable citations for nearly all substantive claims."
+    ],
+    "total_claims": 17,
+    "strong_moderate": 0,
+    "self_reported": 6,
+    "unsupported_unreferenced": 8,
+    "evidence_grade_distribution": {
+      "unreferenced": 8,
+      "unverifiable": 3,
+      "self_reported": 5,
+      "self_reported_method": 1
+    }
+  },
+  "evidential_strength": {
+    "score": 0.5703,
+    "label": "Evidential Strength",
+    "doc_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+    "rationales": [
+      "Of one claim in this subset relating to the role of mitochondrial fragmentation in brain disease, zero had strong or moderate external evidence, one was unreferenced, and zero were self-reported findings. The claim asserts that mitochondrial dysfunction actively drives diseases like Alzheimer's and ALS rather than merely accompanying aging. While the text explicitly supports this assertion, it lacks any inline citations to verify the statement against established literature. This absence of references creates a significant gap in external validation, preventing independent verification of the specific causal mechanisms described. Without cited sources, the claim remains an internal assertion rather than a conclusion backed by peer-reviewed data. Consequently, the evidence quality for this dimension is currently weak due to the complete lack of external documentation. The high relevancy rating of the claim does not compensate for the missing evidentiary trail required to confirm its scientific accuracy. Readers cannot assess the robustness of the argument or distinguish it from unverified hypotheses without the supporting citations. This single unreferenced statement highlights a critical limitation in the current evidence base for this specific research dimension."
+    ],
+    "total_claims": 1,
+    "strong_moderate": 0,
+    "self_reported": 0,
+    "unsupported_unreferenced": 1,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    }
+  },
+  "originality": {
+    "score": 0.6715,
+    "label": "Originality",
+    "doc_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+    "rationales": [
+      "Of three claims in this subset relating to the Community-Driven Development dimension, one had self-reported method evidence, and two were unreferenced. The claim regarding the development of SC9 to overcome peptide limitations is supported by procedural descriptions within the manuscript itself, representing a self-reported method that does not require external citation. In contrast, the assertions about funding struggles for early-stage research and the model's ability to address the \"valley of death\" lack any inline citations in the source text. These two claims are deemed supported based on the explicit wording of the document, yet the absence of references prevents verification against external data or prior studies. Consequently, while the text clearly articulates these challenges and solutions, the evidence quality for these specific points remains internal to the paper rather than externally validated. The single self-reported claim describes a methodological approach, which is acceptable for procedural details but offers no independent confirmation of the molecule's actual efficacy. The two unreferenced claims highlight a gap in the documentation where specific assertions about the research ecosystem and funding landscape are made without supporting literature. This pattern suggests that while the authors present a coherent narrative, the broader context of funding barriers and the \"valley of death\" relies entirely on the manuscript's own statements without corroborating evidence from the scientific community."
+    ],
+    "total_claims": 3,
+    "strong_moderate": 0,
+    "self_reported": 1,
+    "unsupported_unreferenced": 2,
+    "evidence_grade_distribution": {
+      "self_reported_method": 1,
+      "unreferenced": 2
+    }
+  },
+  "execution_credibility": {
+    "score": 0.4607,
+    "label": "Execution Credibility",
+    "doc_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+    "rationales": [
+      "Of one claim in this subset relating to the feasibility of Fission Bio's concept, one was unreferenced. The claim asserts that Fission Bio has proven its concept works in laboratory models, a statement explicitly made in the source text's \"What's Next\" section. However, the evidence grade is unreferenced because no inline citations accompany this assertion within the provided chunk. While the text directly supports the claim's validity, the lack of external references prevents verification of the underlying laboratory data. This absence of citations creates a gap in the evidence quality, as readers cannot independently confirm the specific laboratory models or results mentioned. Consequently, the claim remains internally consistent with the document but lacks the external validation required for a higher evidence grade. Without cited sources, the assertion relies solely on the author's word rather than documented proof. This limitation restricts the ability to assess the robustness of the reported laboratory success. The claim is highly relevant to the research core, yet its evidentiary foundation is currently incomplete due to the missing references. Future analysis would benefit from locating the specific studies or reports that substantiate the laboratory findings. Until such documentation is provided, the claim stands as an unverified statement within the broader context of the research."
+    ],
+    "total_claims": 1,
+    "strong_moderate": 0,
+    "self_reported": 0,
+    "unsupported_unreferenced": 1,
+    "evidence_grade_distribution": {
+      "unreferenced": 1
+    }
+  }
+}

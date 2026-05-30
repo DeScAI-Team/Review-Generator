@@ -1,0 +1,19 @@
+{
+  "processed": [
+    {
+      "filename": "mity-fission-bio-labs-report.pdf",
+      "reason": "science_category"
+    },
+    {
+      "filename": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease.pdf",
+      "reason": "has_description"
+    },
+    {
+      "filename": "fixing-broken-mitochondria-fissionbio.pdf",
+      "reason": "pdf_default"
+    }
+  ],
+  "failed": [],
+  "skipped_count": 0,
+  "stage": "llm"
+}

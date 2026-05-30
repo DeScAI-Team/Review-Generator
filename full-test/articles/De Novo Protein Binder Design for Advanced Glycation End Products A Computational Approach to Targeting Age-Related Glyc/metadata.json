@@ -1,0 +1,8 @@
+{
+  "pdf": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\De Novo Protein Binder Design for Advanced Glycation End Products A Computational Approach to Targeting Age-Related Glyc.pdf",
+  "output_folder": "D:\\DeScAi\\Claim-extractor\\full-test\\articles\\De Novo Protein Binder Design for Advanced Glycation End Products A Computational Approach to Targeting Age-Related Glyc",
+  "model": "nanonets/Nanonets-OCR2-3B",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "pages": 8,
+  "render_scale": 2.0
+}

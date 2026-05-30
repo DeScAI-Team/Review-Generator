@@ -1,0 +1,2131 @@
+{
+  "execution_credibility": {
+    "score": 0.7217,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The document outlines a project structure including an executive summary, background, status, future plans, and sections on blockchain, NFTs, IP-NFTs, molecules, tokenomics, sale structure, fund usage, risks, legal considerations, and team.",
+        "chunk_id": 0,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The Executive Summary and section titles explicitly confirm the existence of all listed components, including the executive summary, background, status, future plans, and specific topics like blockchain, NFTs, tokenomics, and legal considerations.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The subsequent sections of this whitepaper will delve deeper into the various aspects to offer a comprehensive view of this research funding initiative.",
+        "chunk_id": 2,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "1. Executive Summary",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The Executive Summary explicitly states that subsequent sections will delve deeper into various aspects to offer a comprehensive view of the research funding initiative, directly matching the claim.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "At the time of publishing, the lab is screening the second generation of compounds that have been developed as lead series based on hits and is waiting on the delivery of additional chemical series of their leads.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the lab is screening the second generation of compounds developed as lead series based on hits and is waiting for additional chemical series delivery.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "NullFinding"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Once lead molecules have been identified, VitaDAO and Molecule will work with Newcastle University and Dr. Korolchuk's lab to start the process of drug translation.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that once lead molecules are identified, VitaDAO and Molecule will collaborate with Newcastle University and Dr. Korolchuk's lab to initiate drug translation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "Affiliation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Upon completion, further research in in vitro and in vivo models will need to be performed.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that upon completion, further research in in vitro and in vivo models will need to be performed, directly matching the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "FutureWork"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "From there, clinical studies would commence: Phase 1 Clinical Trials: Testing of the drug in a small group of healthy volunteers or patients (20-100) to evaluate safety, dosage, and side effects.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that after in vitro and in vivo model evaluations, clinical studies would commence, specifically detailing Phase 1 trials involving 20-100 volunteers to assess safety, dosage, and side effects.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Phase 3 Clinical Trials",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "unsupported",
+        "rationale": "The text lists Phase 3 Clinical Trials as a future possibility in the project plan but provides no data, results, or specific details regarding their execution or outcomes. It describes the stage conceptually rather than reporting on it.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "In this stage, if successful in Niemann-Pick Type C, the drug could be tried for Alzheimer's disease as a future indication, although that would involve its own full set of clinical trials.",
+        "chunk_id": 15,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that if the drug is successful in Niemann-Pick Type C, it could be tested for Alzheimer's disease as a future indication, noting this would require its own full set of clinical trials.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FutureWork"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VitaDAO seeks to open up the development of an IP-NFT by minting new tokens in order to raise funds for additional scientific research and IP development.",
+        "chunk_id": 18,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VitaDAO seeks to open up IP-NFT development by minting new tokens to raise funds for scientific research and IP development.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FundingSource"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "This is not required in the contract, but is intended to be a strong signal to other University TTOs and an incentive to speed up the licensing process if completed by a deadline.",
+        "chunk_id": 21,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states that the 1% allocation to Newcastle University is not required in the contract but serves as a signal to other University TTOs and an incentive to speed up the licensing process.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "A Uniswap V3 liquidity pool will be created upon claiming the sale proceeds, matching 10% of the VITA-FAST tokens with 10% of the funds raised.",
+        "chunk_id": 22,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that a Uniswap V3 liquidity pool will be created upon claiming sale proceeds, matching 10% of VITA-FAST tokens with 10% of the funds raised.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "Milestone"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The genesis VITA-FAST token sale will be a fixed-price sale with pro rata distribution, overflow refunds, and 2 month vesting.",
+        "chunk_id": 23,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "7. Genesis Sale Structure",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The provided text in section [7. Genesis Sale Structure] explicitly states that the genesis sale will be a fixed-price sale with pro rata distribution, overflow refunds, and 2 month vesting, directly confirming the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "After the two-month (60 day) vesting period is over, sales participants will begin to be able to swap their vVITA for VITA and vVITA-FAST for VITA-FAST tokens.",
+        "chunk_id": 28,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "2 month vesting",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The '2 month vesting' section explicitly states that after the two-month (60 day) period, sales participants can swap their vested tokens for the standard versions.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "There might be delays, cost overruns, or the research might not yield the expected results.",
+        "chunk_id": 32,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Project Risk' under Risk Factors, stating that research success is not guaranteed and may face delays, cost overruns, or unexpected results.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Setback"
+        ],
+        "claim_classification_2": [
+          "Limitation"
+        ],
+        "claim_classification_3": [
+          "Hedge"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The facility transitioned from genome wide yeast screens to mammalian siRNA screening in 2012.",
+        "chunk_id": 38,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the facility initially offered genome-wide yeast screens and that the faculty invested in developing mammalian siRNA screening in 2012, supporting the transition claim.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "real_world_traction": {
+    "score": 0.6649,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The sale of VITA-FAST tokens represents an innovative approach to democratizing funding for scientific research. It demands thorough understanding and careful consideration of potential risks from potential VITA-FAST token buyers.",
+        "chunk_id": 1,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "1. Executive Summary",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The Executive Summary explicitly states that the token sale represents an innovative approach to democratizing funding and warns buyers to consider potential risks, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [
+          "GapStatement"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Once the drug is approved, it has the potential to become a recognized therapeutic for more lysosomal storage disorders, and diseases that have a high incidence of lysosomal dysfunction, such as Alzheimer's and Parkinson's.",
+        "chunk_id": 6,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that approved drugs from this study could become recognized therapeutics for other lysosomal storage disorders and diseases with high lysosomal dysfunction, specifically naming Alzheimer's and Parkinson's.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "ImpactPotential"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [
+          "Generalizability"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs can create unprecedented liquidity in IP markets through the development of this new asset class.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs can create unprecedented liquidity in IP markets through the development of this new asset class.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "ImpactPotential"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "financial_integrity": {
+    "score": 0.83,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The sale of VITA-FAST tokens represents an innovative approach to democratizing funding for scientific research. It demands thorough understanding and careful consideration of potential risks from potential VITA-FAST token buyers.",
+        "chunk_id": 1,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "1. Executive Summary",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The Executive Summary explicitly states that the token sale represents an innovative approach to democratizing funding and warns buyers to consider potential risks, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [
+          "GapStatement"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The sale and funds aim to continue to support the work initiated by Dr. Korolchuk and Newcastle University to advance the field of aging research by empowering people to govern the Korolchuk Lab longevity therapeutics development through the use of cryptographic tokens representing fractions of the Korolchuk IP-NFT.",
+        "chunk_id": 3,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "2. Project Overview",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the Project Overview section, which explicitly states that the sale and funds aim to support Dr. Korolchuk's work and empower people to govern the lab's therapeutics development via cryptographic tokens representing IP-NFT fractions.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "FundingSource"
+        ],
+        "claim_classification_3": [
+          "IncentiveStructure"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VitaDAO seeks to open up the development of an IP-NFT by minting new tokens in order to raise funds for additional scientific research and IP development.",
+        "chunk_id": 18,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VitaDAO seeks to open up IP-NFT development by minting new tokens to raise funds for scientific research and IP development.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FundingSource"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "By distributing these new tokens, called Molecules, VitaDAO will distribute rights and responsibilities to the IP and R&D data of IP-NFTs to groups of token holders.",
+        "chunk_id": 18,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VitaDAO will distribute new tokens called Molecules to distribute rights and responsibilities to the IP and R&D data of IP-NFTs to token holders.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The rights of VITA-FAST token holders are governed by the Korolchuk-Free Association of Molecules (FAM) Membership Agreement.",
+        "chunk_id": 19,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the rights of VITA-FAST token holders are governed by the Korolchuk-Free Association of Molecules (FAM) Membership Agreement.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_3": [
+          "GovernanceStructure"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "A total of 1,000,000 VITA-FAST tokens will be minted using the Korolchuk IP-NFT.",
+        "chunk_id": 20,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that a total of 1,000,000 VITA-FAST tokens will be minted using the Korolchuk IP-NFT, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The vesting period incentivizes long-term success of the project and discourages falsification of data.",
+        "chunk_id": 21,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the vesting period for Researchers is designed to incentivize long-term success and discourage data falsification.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "This is not required in the contract, but is intended to be a strong signal to other University TTOs and an incentive to speed up the licensing process if completed by a deadline.",
+        "chunk_id": 21,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states that the 1% allocation to Newcastle University is not required in the contract but serves as a signal to other University TTOs and an incentive to speed up the licensing process.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Vesting period incentivizes long-term success of the project, but must first be approved by VitaDAO governance.",
+        "chunk_id": 21,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the vesting period incentivizes long-term success and adds the condition that this must first be approved by VitaDAO governance.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The genesis VITA-FAST token sale will be a fixed-price sale with pro rata distribution, overflow refunds, and 2 month vesting.",
+        "chunk_id": 23,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "7. Genesis Sale Structure",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The provided text in section [7. Genesis Sale Structure] explicitly states that the genesis sale will be a fixed-price sale with pro rata distribution, overflow refunds, and 2 month vesting, directly confirming the claim.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "Roadmap"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "10% of VITA-FAST tokens will be sold to VITA holders at a fixed price determined by a cost-based valuation.",
+        "chunk_id": 23,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "7. Genesis Sale Structure",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states in the 'Genesis Sale Structure' section that 10% of tokens are sold to VITA holders at a fixed price determined by a cost-based valuation, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The funds will be raised in wrapped ether (WETH) to minimize the impact of USD(C) inflation and minimize the number of swaps required by participants.",
+        "chunk_id": 23,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "7. Genesis Sale Structure",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states that funds will be raised in WETH specifically to minimize USD(C) inflation impact and reduce participant swaps.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FundingSource"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "VitaDAO's committed research costs are 220,358 CHF (245,557 USD).",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VitaDAO's committed research costs are 220,358 CHF (245,557 USD) within the cost-based valuation section.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "VitaDAO's incurred legal and operational costs are 38,563 CHF (43,295 USD).",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that legal and operational costs incurred by VitaDAO are 38,563 CHF (43,295 USD) within the cost-based valuation section.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The total cost-based price for all 1,000,000 VITA-FAST tokens is 312,717 USD. ",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the total cost-based price for all 1,000,000 VITA-FAST tokens is calculated as 312,717 USD based on specific research, legal, and operational costs.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "If the sales goal of 31,271 USD is not met, all funds will be returned to funders.",
+        "chunk_id": 25,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Bidding and locking (staking) VITA",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that if the sales goal of 31,271 USD is not met, all funds will be returned to funders.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "If Alice bids 40,000 USD and Bob bids 20,000 USD, and Alice and Bob are the only funders, then Alice will receive twice the allocation as Bob.",
+        "chunk_id": 26,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Pro rata distribution",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'Pro rata distribution' section explicitly states that allocation is proportional to the fraction of total bids. It provides the exact example where Alice bids 40,000 USD and Bob bids 20,000 USD, resulting in Alice receiving twice the allocation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "If Alice bids 40,000 USD and Bob bids 20,000 USD, and Alice and Bob are the only funders, then Alice locked (staked) twice as much VITA as Bob.",
+        "chunk_id": 26,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Pro rata distribution",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The Pro rata distribution section explicitly states that if Alice bids 40,000 USD and Bob bids 20,000 USD, Alice locked twice as much VITA as Bob, directly supporting the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "VITA-FAST tokens sought to raise 31,271 USD, but Alice and Bob together bid 60,000 USD.",
+        "chunk_id": 27,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Overflow refunds",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The provided text explicitly states in the [Overflow refunds] section that VITA-FAST tokens sought to raise 31,271 USD and that Alice and Bob together bid 60,000 USD.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "FundingSource"
+        ],
+        "claim_classification_2": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The surplus of 28,279 USD overflows and is returned pro rata to Alice and Bob, so Alice gets back 19,153 USD and Bob gets back 9,576 USD.",
+        "chunk_id": 27,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Overflow refunds",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The claim is explicitly stated in the 'Overflow refunds' section with identical figures and logic regarding the pro rata return of the surplus.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The immediate application of the funds raised will be to establish liquidity for VITA-FAST.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The 'Use of Funds' section explicitly states that the immediate application of raised funds will be to establish liquidity for VITA-FAST.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "BudgetAllocation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VITA-FAST holders have the power to decide how these funds will be subsequently used in advancing longevity research and IP development at the Korolchuk lab at Newcastle University.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VITA-FAST holders have the power to decide how funds are used for longevity research and IP development at the Korolchuk lab.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "ResourceAlignment"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "through token holder governance there are various pathways to redirect this capital from liquidity to IP generation",
+        "chunk_id": 30,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VITA-FAST holders have the power to decide how funds are used, citing pathways like decentralizing SAR analysis, engaging medicinal chemists, and filing patents as examples of redirecting capital from liquidity to IP generation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_2": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "originality": {
+    "score": 0.772,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The sale of VITA-FAST tokens represents an innovative approach to democratizing funding for scientific research. It demands thorough understanding and careful consideration of potential risks from potential VITA-FAST token buyers.",
+        "chunk_id": 1,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "1. Executive Summary",
+        "semantic_category": "abstract",
+        "verdict": "supported",
+        "rationale": "The Executive Summary explicitly states that the token sale represents an innovative approach to democratizing funding and warns buyers to consider potential risks, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "SocietalImpact"
+        ],
+        "claim_classification_3": [
+          "GapStatement"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Aging is associated with a decline in the capacity of the autophagy pathway, and the mechanism through which autophagy becomes deficient with age remains to be understood.",
+        "chunk_id": 4,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that aging is associated with a decline in autophagy capacity and notes that the specific mechanisms causing this deficiency remain to be understood.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "NPC was chosen as the disease model as it is a monogenetic orphan disease, meaning that the biological causes are better understood, and any therapeutics developed will have a much shorter path to drug approval compared to other complex diseases.",
+        "chunk_id": 6,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that NPC was chosen as the disease model because it is a monogenetic orphan disease with well-understood biological causes, offering a shorter path to drug approval.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The small molecules that have been screened have high chemical variability and no similarity to pre-existing autophagy inducers, representing a high possibility of novel IP.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that screened small molecules possess high chemical variability and lack similarity to pre-existing autophagy inducers, directly supporting the claim regarding novel IP potential.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs represent a new paradigm in the evolution of legal contracts for scientific research by attaching legal contracts, such as sponsored research agreements, to smart contracts.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs attach legal contracts like sponsored research agreements to smart contracts, creating a new paradigm for scientific research legal contracts.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Definitional"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs can create unprecedented liquidity in IP markets through the development of this new asset class.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs can create unprecedented liquidity in IP markets through the development of this new asset class.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "ImpactPotential"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The first IP-NFTs were minted by Molecule for the VitaDAO community to register its longevity therapeutics IP and R&D data rights on Ethereum.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the first IP-NFTs were minted by Molecule for the VitaDAO community to register its longevity therapeutics IP and R&D data rights on Ethereum.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Affiliation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The project aims to discover novel autophagy activators.",
+        "chunk_id": 40,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Resources:",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Jóhannes Reynisson's research focuses on discovering new drug candidates for diseases including neurodegenerative disorders, and the resources list a specific project titled 'Discovering Novel Autophagy Activators'.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "GapStatement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "team_credibility": {
+    "score": 0.7461,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "The sale and funds aim to continue to support the work initiated by Dr. Korolchuk and Newcastle University to advance the field of aging research by empowering people to govern the Korolchuk Lab longevity therapeutics development through the use of cryptographic tokens representing fractions of the Korolchuk IP-NFT.",
+        "chunk_id": 3,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "2. Project Overview",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the Project Overview section, which explicitly states that the sale and funds aim to support Dr. Korolchuk's work and empower people to govern the lab's therapeutics development via cryptographic tokens representing IP-NFT fractions.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "FundingSource"
+        ],
+        "claim_classification_3": [
+          "IncentiveStructure"
+        ]
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Previously, Dr. Korolchuk made contributions to the team that established the mechanism by which faulty autophagy leads to cell death.",
+        "chunk_id": 6,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Dr. Korolchuk previously contributed to establishing the mechanism linking faulty autophagy to cell death, followed by a numbered list detailing this specific pathway.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "TrackRecord"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Once lead molecules have been identified, VitaDAO and Molecule will work with Newcastle University and Dr. Korolchuk's lab to start the process of drug translation.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that once lead molecules are identified, VitaDAO and Molecule will collaborate with Newcastle University and Dr. Korolchuk's lab to initiate drug translation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "Affiliation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The first IP-NFTs were minted by Molecule for the VitaDAO community to register its longevity therapeutics IP and R&D data rights on Ethereum.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the first IP-NFTs were minted by Molecule for the VitaDAO community to register its longevity therapeutics IP and R&D data rights on Ethereum.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Affiliation"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VITA-FAST holders have the power to decide how these funds will be subsequently used in advancing longevity research and IP development at the Korolchuk lab at Newcastle University.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VITA-FAST holders have the power to decide how funds are used for longevity research and IP development at the Korolchuk lab.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "ResourceAlignment"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The objective is to harness superior SAR expertise from a global pool.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the objective is to harness superior SAR expertise from a global pool to complement the lab's internal computational biologist.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Expertise"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Dr. Korolchuk's research focuses on the molecular mechanisms that regulate cellular homeostasis, particularly in the context of neurodegenerative diseases and cancer.",
+        "chunk_id": 37,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Dr. Korolchuk's research focuses on molecular mechanisms regulating cellular homeostasis, specifically in neurodegenerative diseases and cancer.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "scientific_rigor": {
+    "score": 0.8272,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "Aging is associated with a decline in the capacity of the autophagy pathway, and the mechanism through which autophagy becomes deficient with age remains to be understood.",
+        "chunk_id": 4,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that aging is associated with a decline in autophagy capacity and notes that the specific mechanisms causing this deficiency remain to be understood.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Activation of autophagy is considered a promising therapeutic approach to combat aging and age-related diseases.",
+        "chunk_id": 4,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The Project Background section explicitly states that aging declines autophagy capacity and that activating this pathway is a promising therapeutic approach to combat aging and age-related diseases.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Impaired autophagy is strongly linked to neurodegenerative disorders like Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis (ALS).",
+        "chunk_id": 5,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that impaired autophagy is strongly linked to neurodegenerative disorders including Alzheimer's, Parkinson's, Huntington's, and ALS.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "NPC was chosen as the disease model as it is a monogenetic orphan disease, meaning that the biological causes are better understood, and any therapeutics developed will have a much shorter path to drug approval compared to other complex diseases.",
+        "chunk_id": 6,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that NPC was chosen as the disease model because it is a monogenetic orphan disease with well-understood biological causes, offering a shorter path to drug approval.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "GapStatement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Dysfunctional mitochondria accumulate within cells due to inadequate recycling caused by faulty autophagy.",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists this mechanism as point 1 in the background section, directly stating that dysfunctional mitochondria accumulate due to inadequate recycling caused by faulty autophagy.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Accumulation of reactive oxygen species (ROS) and DNA damage induces cellular stress.",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Accumulation of reactive oxygen species (ROS) and DNA damage induces cellular stress' as step 2 in the mechanism of faulty autophagy leading to cell death.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Stress response pathways are activated (PARP & SIRT).",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Stress response pathways are activated (PARP & SIRT)' as step 3 in the mechanism of faulty autophagy leading to cell death.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Depletion of NAD+ and NADH occurs, which are essential to cellular metabolic pathways.",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Depletion of NAD+ and NADH which are essential to cellular metabolic pathways' as step 4 in the mechanism of faulty autophagy leading to cell death.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Mitochondria lose their ability to generate ATP as they become depolarized.",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Mitochondria lose their ability to generate ATP as they become depolarized' as step 5 in the mechanism of faulty autophagy leading to cell death.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "Definitional"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Apoptosis (programmed cell death) begins.",
+        "chunk_id": 7,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Apoptosis (programmed cell death) begins' as step 6 in the sequence of events caused by faulty autophagy and mitochondrial dysfunction.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Observational"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Approximately 4000 bioactive molecules and commercial small molecules will be screened.",
+        "chunk_id": 8,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that approximately 4000 bioactive molecules and commercial small molecules will be screened as part of the experimental plan.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Structure-activity relationship (SAR) and validation in vitro autophagy assays",
+        "chunk_id": 9,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The experimental plan explicitly lists 'Structure-activity relationship (SAR) and validation in vitro autophagy assays' as step 7, directly confirming the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The bioactive molecules and commercial small molecules will be screened in a cell survival assay to find which molecules can reactivate autophagy in NPC1 -/- cells.",
+        "chunk_id": 10,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cell survival assay",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that bioactive and commercial small molecules will be screened in a cell survival assay to identify those capable of reactivating autophagy in NPC1-/- cells.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "Molecules that are not cytotoxic are suitable for a therapeutic.",
+        "chunk_id": 10,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cell survival assay",
+        "semantic_category": "method",
+        "verdict": "unsupported",
+        "rationale": "The text states that non-cytotoxic molecules are moved to further screening, implying they are candidates, but it does not explicitly conclude that non-cytotoxicity alone makes a molecule suitable for a therapeutic.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Definitional"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "By quantifying clearance, the lab will be able to confirm that autophagy is indeed occurring, and at what level it occurs.",
+        "chunk_id": 11,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Luciferase-p6 clearance",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Luciferase-p6 clearance' section explicitly states that p62 clearance confirms autophagy and allows quantification of its level, directly supporting the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Generation and optimized Npc1 -/- cells stably expressing 'traffic-light' EGFP-RFP-LC3 for high throughput high content screening.",
+        "chunk_id": 12,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Halo-GFP-LC3 orthogonal assay",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Halo-GFP-LC3 orthogonal assay' section explicitly states the generation of optimized Npc1 -/- cells stably expressing the specified 'traffic-light' EGFP-RFP-LC3 reporter for high-throughput screening.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Automated image analysis gives information about the number of autophagosomes, the number of autolysosomes, as well as if autophagy has been activated.",
+        "chunk_id": 12,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Halo-GFP-LC3 orthogonal assay",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The 'Halo-GFP-LC3 orthogonal assay' section explicitly states that automated image analysis provides information on autophagosome counts, autolysosome counts, and autophagy activation status.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [
+          "Measurement"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The small molecules that have been screened have high chemical variability and no similarity to pre-existing autophagy inducers, representing a high possibility of novel IP.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that screened small molecules possess high chemical variability and lack similarity to pre-existing autophagy inducers, directly supporting the claim regarding novel IP potential.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Possibilities include using Neimann-Pick Type C patient-derived fibroblasts or CRISPR-Cas9 Npc1 knock-out cells to examine the efficacy of lead compounds in a human cell model.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that further research will involve using Neimann-Pick Type C patient-derived fibroblasts or CRISPR-Cas9 Npc1 knock-out cells to examine lead compound efficacy in human cell models.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Induced Pluripotent Stem Cells (iPSCs) can be used to model disease progression in different cell types.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Induced Pluripotent Stem Cells (iPSCs) can be used to model disease progression in different cell types within the context of further research plans.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [
+          "Definitional"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Npc1-mutant mice and cats who display the same symptoms as humans with Niemann-Pick Type C provide strong in vivo models to evaluate neurological outcomes as well as potential toxicity in large animal models.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Npc1-mutant mice and cats provide strong in vivo models to evaluate neurological outcomes and potential toxicity in large animal models.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "NFTs can be used to represent various forms of digital content, including art, virtual real property, scientific research and development (R&D) data, and intellectual property.",
+        "chunk_id": 16,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that NFTs can represent various digital content forms, including art, virtual real property, scientific R&D data, and intellectual property.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Definitional"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Assertion",
+        "claim": "NFTs provide a new way to manage and protect intellectual property, allowing creators and owners to easily transfer ownership, establish authenticity, and control usage rights.",
+        "chunk_id": 16,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that NFTs provide a new way to manage and protect intellectual property, enabling easy transfer of ownership, establishment of authenticity, and control of usage rights.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Definitional"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs represent a new paradigm in the evolution of legal contracts for scientific research by attaching legal contracts, such as sponsored research agreements, to smart contracts.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs attach legal contracts like sponsored research agreements to smart contracts, creating a new paradigm for scientific research legal contracts.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "NoveltyAssertion"
+        ],
+        "claim_classification_2": [
+          "Definitional"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The calculated inflation amount is 23,865 USD based on USDC holdings. ",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that inflation is calculated as 23,865 USD because VitaDAO holds USDC, using the US Bureau of Statistics Inflation Calculator.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Measurement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "Given the final valuation, 10% of the Molecules would be valued at 31,271 USD. ",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that 10% of the Molecules (VITA-FAST tokens) are valued at 31,271 USD based on the calculated cost-based valuation of 312,717 USD for the full 1,000,000 tokens.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Measurement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Fact",
+        "claim": "The price per VITA-FAST token is 0.31271 USD. ",
+        "chunk_id": 24,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Cost-based valuation",
+        "semantic_category": "method",
+        "verdict": "supported",
+        "rationale": "The text explicitly calculates the cost-based valuation as 312,717 USD for 1,000,000 tokens, resulting in a price of 0.31271 USD per token.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Measurement"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The aim is to identify promising compound scaffolds and design optimal candidates for further medicinal chemistry optimization.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the aim is to identify promising compound scaffolds and design optimal candidates for further medicinal chemistry optimization as part of the research strategy.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The list of potential risks associated with purchasing Molecules to fund scientific research is not exhaustive, and specific risks vary depending on the nature of the project, the research being funded, the structure of the investment, the jurisdiction, and other factors.",
+        "chunk_id": 31,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the list of risks is not exhaustive and that specific risks vary based on project nature, research type, investment structure, jurisdiction, and other factors.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Limitation"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "There might be delays, cost overruns, or the research might not yield the expected results.",
+        "chunk_id": 32,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Project Risk' under Risk Factors, stating that research success is not guaranteed and may face delays, cost overruns, or unexpected results.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Setback"
+        ],
+        "claim_classification_2": [
+          "Limitation"
+        ],
+        "claim_classification_3": [
+          "Hedge"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The value and function of the Molecules could be impacted by changes or issues with the underlying blockchain network, Ethereum, such as changes in the consensus mechanism, forks, or network congestion.",
+        "chunk_id": 33,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Network Risk' under Risk Factors, stating that the value and function of Molecules could be impacted by changes or issues with the underlying blockchain network, Ethereum, including consensus mechanism changes, forks, or congestion.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Limitation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The platforms or exchanges used to buy, sell, or store the Molecules could have operational issues, such as downtime, that could impact your ability to manage your purchase.",
+        "chunk_id": 33,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Operational Risk' under section 9, stating that platforms or exchanges used to manage Molecules could face issues like downtime, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Limitation"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Dr. Korolchuk's research focuses on the molecular mechanisms that regulate cellular homeostasis, particularly in the context of neurodegenerative diseases and cancer.",
+        "chunk_id": 37,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Dr. Korolchuk's research focuses on molecular mechanisms regulating cellular homeostasis, specifically in neurodegenerative diseases and cancer.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Affiliation"
+        ],
+        "claim_classification_2": [
+          "Background"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The study addresses the use of robotics in genetic research.",
+        "chunk_id": 38,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Peter Banks became interested in using robotics in genetic research while working on chromatin modifications in budding yeast.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The screening facility expanded to incorporate bacteria and alternative yeasts such as Candida albicans.",
+        "chunk_id": 38,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the screening facility continued to develop by recruiting staff and incorporating bacteria and alternative yeasts such as Candida albicans.",
+        "relevancy_score": 0.65,
+        "claim_classification_1": [
+          "Methodological"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "His research focuses on the discovery of new drug candidates and the development of novel therapeutic strategies for various diseases, including cancer, infectious diseases, and neurodegenerative disorders.",
+        "chunk_id": 39,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "11. Team",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that Jóhannes Reynisson's research focuses on discovering new drug candidates and developing novel therapeutic strategies for cancer, infectious diseases, and neurodegenerative disorders.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Background"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "evidential_strength": {
+    "score": 0.5962,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "determination of the mechanism of action",
+        "chunk_id": 9,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "3. Project Background",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The experimental plan explicitly lists 'determination of the mechanism of action' as step 6, confirming it is a planned activity for the project.",
+        "relevancy_score": 0.45,
+        "claim_classification_1": [
+          "Mechanistic"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "At the time of publishing, the lab is screening the second generation of compounds that have been developed as lead series based on hits and is waiting on the delivery of additional chemical series of their leads.",
+        "chunk_id": 13,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the lab is screening the second generation of compounds developed as lead series based on hits and is waiting for additional chemical series delivery.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Roadmap"
+        ],
+        "claim_classification_2": [
+          "NullFinding"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "governance_accountability": {
+    "score": 0.8032,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "For Niemann-Pick Type C, Orphan Drug designation could be sought at this stage, which may provide some benefits including tax credits for certain research and a waiver of the FDA user fee.",
+        "chunk_id": 14,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "4. Project Status and Future Plans",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that for Niemann-Pick Type C, Orphan Drug designation could be sought during Phase 2, potentially providing tax credits and FDA user fee waivers.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs can be used to distribute governance to groups of stakeholders.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs can be used to distribute governance to groups of stakeholders as part of their functionality.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "By distributing these new tokens, called Molecules, VitaDAO will distribute rights and responsibilities to the IP and R&D data of IP-NFTs to groups of token holders.",
+        "chunk_id": 18,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VitaDAO will distribute new tokens called Molecules to distribute rights and responsibilities to the IP and R&D data of IP-NFTs to token holders.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The rights of VITA-FAST token holders are governed by the Korolchuk-Free Association of Molecules (FAM) Membership Agreement.",
+        "chunk_id": 19,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the rights of VITA-FAST token holders are governed by the Korolchuk-Free Association of Molecules (FAM) Membership Agreement.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_3": [
+          "GovernanceStructure"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Vesting period incentivizes long-term success of the project, but must first be approved by VitaDAO governance.",
+        "chunk_id": 21,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "6. Tokenomics of VITA-FAST",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that the vesting period incentivizes long-term success and adds the condition that this must first be approved by VitaDAO governance.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_2": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "LabDAO has proposed providing access to facilitate the decentralization of Structure-Activity Relationship (SAR) analysis.",
+        "chunk_id": 29,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that LabDAO proposed providing access to its network to facilitate the decentralization of Structure-Activity Relationship (SAR) analysis as a specific use of funds.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "through token holder governance there are various pathways to redirect this capital from liquidity to IP generation",
+        "chunk_id": 30,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "8. Use of Funds",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that VITA-FAST holders have the power to decide how funds are used, citing pathways like decentralizing SAR analysis, engaging medicinal chemists, and filing patents as examples of redirecting capital from liquidity to IP generation.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_2": [
+          "IncentiveStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Depending on your jurisdiction, owning and trading Molecules or other digital assets might have legal implications, including potential tax liabilities.",
+        "chunk_id": 33,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states under Legal and Compliance Risk that owning and trading Molecules may have legal implications, including potential tax liabilities depending on jurisdiction.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Molecules include governance rights and there may be disagreements or disputes among the token holders.",
+        "chunk_id": 33,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states under 'Governance Risk' that Molecules include governance rights and may face disagreements or disputes among token holders.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Decentralization"
+        ],
+        "claim_classification_2": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Given regulatory uncertainty, token holders must make a careful judgment in the future about whether, and how, to distribute licensing or sale proceeds, such as by forming a legal entity prior to making such distribution and it is recommended that such decisions include soliciting legal advice.",
+        "chunk_id": 34,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "10. Legal Considerations",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the text in section [10. Legal Considerations], which explicitly states that due to regulatory uncertainty, token holders must carefully judge future distribution of proceeds and is recommended to seek legal advice.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Prescriptive"
+        ],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VITA-FAST will not be sold to U.S. persons in compliance with Regulation S of the United States",
+        "chunk_id": 35,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "10. Legal Considerations",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states in multiple sections that VITA-FAST will not be sold to U.S. persons in compliance with Regulation S of the United States, requiring proof of non-U.S. status.",
+        "relevancy_score": 1.0,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "VITA-FAST will not be made available to U.S. persons or within the United States.",
+        "chunk_id": 36,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "10. Legal Considerations",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly states in both the Legal Considerations sections that VITA-FAST will not be sold to or made available to U.S. persons or within the United States, citing Regulation S and the Securities Act of 1933.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The text references a membership agreement for the Korolchuk-Free Association of Molecules (FAM), indicating an organizational framework or collaborative initiative related to the field.",
+        "chunk_id": 41,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Resources:",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The provided resources explicitly include a 'Korolchuk-Free Association of Molecules (FAM) Membership Agreement,' directly confirming the existence of this organizational framework.",
+        "relevancy_score": 0.25,
+        "claim_classification_1": [
+          "GovernanceStructure"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      }
+    ]
+  },
+  "cross_cutting": {
+    "score": 0.7551,
+    "members": [
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs can be used to unlock new ways to interact with and develop IP, R&D data, and NIPIA (Non-IP Intangible Assets, like trade secrets and publicity rights).",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs can be used to unlock new ways to interact with and develop IP, R&D data, and NIPIA, directly matching the claim.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "IP-NFTs can be used to empower crowd control of ethics in commercialization.",
+        "chunk_id": 17,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "5. Introduction to Blockchain, NFTs, IP-NFTs, and Molecules",
+        "semantic_category": "introduction",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that IP-NFTs can be used to empower crowd control of ethics in commercialization as part of their capabilities.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "If the sales goal is met or exceeded, then the final allocation of Molecules will be proportional to each bidder's fraction of the total bids.",
+        "chunk_id": 26,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Pro rata distribution",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The 'Pro rata distribution' section explicitly states that if the sales goal is met or exceeded, the final allocation of Molecules is proportional to each bidder's fraction of the total bids.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "If the amount bid exceeds the sales goal, then the excess amount is automatically returned via the token sale smart contract.",
+        "chunk_id": 27,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "Overflow refunds",
+        "semantic_category": "result",
+        "verdict": "supported",
+        "rationale": "The text explicitly states that if the bid amount exceeds the sales goal, the excess is automatically returned via the token sale smart contract.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Prescriptive"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "The success of the scientific research being funded is not guaranteed.",
+        "chunk_id": 32,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Project Risk' under Risk Factors, stating that the success of the scientific research being funded is not guaranteed.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Hedge"
+        ],
+        "claim_classification_2": [],
+        "claim_classification_3": []
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "There might be delays, cost overruns, or the research might not yield the expected results.",
+        "chunk_id": 32,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "9. Risk Factors",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The text explicitly lists 'Project Risk' under Risk Factors, stating that research success is not guaranteed and may face delays, cost overruns, or unexpected results.",
+        "relevancy_score": 0.85,
+        "claim_classification_1": [
+          "Setback"
+        ],
+        "claim_classification_2": [
+          "Limitation"
+        ],
+        "claim_classification_3": [
+          "Hedge"
+        ]
+      },
+      {
+        "claim_type": "Roadmap",
+        "claim": "Given regulatory uncertainty, token holders must make a careful judgment in the future about whether, and how, to distribute licensing or sale proceeds, such as by forming a legal entity prior to making such distribution and it is recommended that such decisions include soliciting legal advice.",
+        "chunk_id": 34,
+        "doc_name": "vita-fast-whitepaper",
+        "category": "VITA-FAST",
+        "section_heading": "10. Legal Considerations",
+        "semantic_category": "other",
+        "verdict": "supported",
+        "rationale": "The claim is directly supported by the text in section [10. Legal Considerations], which explicitly states that due to regulatory uncertainty, token holders must carefully judge future distribution of proceeds and is recommended to seek legal advice.",
+        "relevancy_score": 0.95,
+        "claim_classification_1": [
+          "LegalRegulatory"
+        ],
+        "claim_classification_2": [
+          "Prescriptive"
+        ],
+        "claim_classification_3": []
+      }
+    ]
+  }
+}

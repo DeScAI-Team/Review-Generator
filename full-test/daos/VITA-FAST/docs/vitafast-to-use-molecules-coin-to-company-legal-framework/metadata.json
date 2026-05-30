@@ -1,0 +1,8 @@
+{
+  "pdf": "D:\\DeScAi\\Claim-extractor\\crawlers\\output\\molecule\\ipnfts\\VITA-FAST\\vitafast-to-use-molecules-coin-to-company-legal-framework.pdf",
+  "output_folder": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\VITA-FAST\\docs\\vitafast-to-use-molecules-coin-to-company-legal-framework",
+  "model": "nanonets/Nanonets-OCR2-3B",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "pages": 7,
+  "render_scale": 2.0
+}

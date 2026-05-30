@@ -1,0 +1,17 @@
+<img>ResearchHub JOURNAL</img>
+
+comparison (Figure 6A), enriched GO biological processes included cellular response to cytokine stimulus, cellular response to growth hormone stimulus, growth hormone receptor signaling pathway, cytokine-mediated signaling pathway, extracellular matrix organization, sulfation, ethanol catabolic process, positive regulation of receptor signaling pathway via STAT, ethanol metabolic process, and external encapsulating structure organization.
+
+To define the pathways that were most affected, a Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis showed that, in the BMAA versus BMAA+CNR401 comparison (Figure 6D), the top enriched pathways were cytokine-cytokine receptor interaction, steroid hormone biosynthesis, ascorbate and aldarate metabolism, porphyrin and chlorophyll metabolism, pentose and glucuronate interconversions, bile secretion, PI3K-Akt signaling pathway, metabolism of xenobiotics by cytochrome P450, ovarian steroidogenesis, and retinol metabolism. In the BMAA versus control comparison (Figure 6C), enriched KEGG pathways included the JAK-STAT signaling pathway, PI3K-Akt signaling pathway, pathways in cancer, cytokine-cytokine receptor interaction, ovarian steroidogenesis, ECM-receptor interaction, Th17 cell differentiation, choline metabolism in cancer, human papillomavirus infection, and small cell lung cancer.
+
+**DISCUSSION**
+
+**CNR-401 Induces Broad Transcriptomic Changes in BMAA-Exposed Zebrafish**
+Transcriptomic analysis demonstrated that CNR-401 treatment produced more changes in gene expression than either Edaravone or cannflavin A in the BMAA zebrafish model of ALS. In the BMAA + CNR-401 group, 1,576 genes were significantly differentially expressed, compared to 359 with Edaravone and only 130 with cannflavin A. Most genes (1,427) were downregulated, while 149 were upregulated, indicating that CNR-401 primarily suppresses pathological expression changes induced by BMAA, and suggests that CNR-401 mitigates BMAA-driven molecular variations across multiple pathways, consistent with a multi-target neuroprotective mechanism. Importantly, these transcriptomic changes were accompanied by improved functional mobility observed in vivo, confirming that widespread gene modulation was not detrimental but rather aligned with a therapeutic benefit.
+
+Among the most notable differentially expressed genes was one coding for a UDP-glucuronosyltransferase (UGT) family, which was strongly downregulated. UGT enzymes normally detoxify xenobiotics through glucuronidation. Its suppression suggests that CNR-401 either reduces BMAA toxicity by alternative mechanisms or decreases reliance on endogenous detoxification pathways. Additionally, lower UGT expression may preserve neuroprotective steroid levels, as UGTs also conjugate and eliminate steroids.
+
+Other ALS-relevant genes were similarly modulated. URGCP, a driver of cell proliferation via Wnt/β-catenin signaling, was reduced. Since glial proliferation contributes to neuroinflammation and scarring, and URGCP/Wnt signaling has been shown to dampen microglial activation and neuroinflammation, this downregulation suggests that CNR-401 may be reducing pathological gliosis. DAO (D-amino acid oxidase) was also downregulated, aligning with reduced excitotoxicity. DAO inactivation in astrocytes protects against D-serine-mediated
+
+DOI: 10.55277/rhj.tv4dbb3e.5
+<page_number>13</page_number>

@@ -2,15 +2,13 @@
 """
 Sequential Arweave uploader for proposal review outputs.
 
-Uploads evidence_audit.md, review.json, and overview.json in sequence,
-automatically linking each subsequent file to the previous upload via transaction IDs.
+Uploads evidence_audit.md and review.json in sequence,
+automatically linking the review to the evidence upload via transaction IDs.
 
 Upload order:
   1. evidence_audit.md  → txid1
   2. review.json        → append "Evidence bundle available at arweave.net/<txid1>"
                           to review_statement → upload → txid2
-  3. overview.json      → append "Full review available at descai.net/review/<txid2>"
-                          to review_statement → upload → txid3
 
 Tags applied to every upload:
   platform, category, doctype, proposal_name, review_date
@@ -143,14 +141,13 @@ def run_upload_sequence(
     resume: bool = False,
 ) -> dict[str, Any]:
     """
-    Upload evidence_audit.md → review.json → overview.json for a proposal,
+    Upload evidence_audit.md → review.json for a proposal,
     chaining Arweave tx IDs between each step.
     """
     output_dir = Path(output_dir).resolve()
 
     evidence_path = output_dir / "evidence_audit.md"
     review_path = output_dir / "review.json"
-    overview_path = output_dir / "overview.json"
     metadata_path = output_dir / "upload_metadata.json"
 
     missing = [
@@ -158,7 +155,6 @@ def run_upload_sequence(
         for name, p in [
             ("evidence_audit.md", evidence_path),
             ("review.json", review_path),
-            ("overview.json", overview_path),
         ]
         if not p.is_file()
     ]
@@ -183,7 +179,6 @@ def run_upload_sequence(
         "output_dir": str(output_dir),
         "evidence_audit": {},
         "review": {},
-        "overview": {},
     }
 
     # ── Resume handling ────────────────────────────────────────────────
@@ -200,10 +195,6 @@ def run_upload_sequence(
                 start_step = 2
                 metadata["review"] = existing["review"]
                 print(f"\n  → Resuming: review already uploaded")
-            if existing.get("overview", {}).get("txid"):
-                start_step = 3
-                metadata["overview"] = existing["overview"]
-                print(f"\n  → Resuming: overview already uploaded")
         except Exception as e:
             print(f"\n  ! Warning: Could not load existing metadata: {e}")
 
@@ -217,7 +208,7 @@ def run_upload_sequence(
     # ── Step 1: evidence_audit.md ──────────────────────────────────────
     if start_step <= 0:
         print(f"\n{'='*60}")
-        print(f"  Step 1/3: Upload evidence_audit.md")
+        print(f"  Step 1/2: Upload evidence_audit.md")
         print(f"{'='*60}")
 
         tags = _build_tags("EvidenceAudit", proposal_name, review_date)
@@ -249,7 +240,7 @@ def run_upload_sequence(
     # ── Step 2: review.json (with evidence link) ──────────────────────
     if start_step <= 1:
         print(f"\n{'='*60}")
-        print(f"  Step 2/3: Upload review.json (with evidence link)")
+        print(f"  Step 2/2: Upload review.json (with evidence link)")
         print(f"{'='*60}")
 
         append_text = f" Evidence bundle available at arweave.net/{evidence_txid}"
@@ -290,60 +281,12 @@ def run_upload_sequence(
         finally:
             if modified_review.exists():
                 modified_review.unlink()
-    else:
-        review_txid = metadata["review"]["txid"]
-        review_url = metadata["review"]["url"]
-
-    # ── Step 3: overview.json (with review link) ──────────────────────
-    if start_step <= 2:
-        print(f"\n{'='*60}")
-        print(f"  Step 3/3: Upload overview.json (with review link)")
-        print(f"{'='*60}")
-
-        append_text = f" Full review available at descai.net/review/{review_txid}"
-        try:
-            modified_overview = _create_modified_json_with_link(overview_path, append_text)
-        except Exception as e:
-            msg = f"Failed to create modified overview.json: {e}"
-            print(f"\n  ✗ Error: {msg}", file=sys.stderr)
-            metadata["overview"] = {"error": msg}
-            _save_upload_metadata(output_dir, metadata)
-            return {"success": False, "error": msg, "metadata": metadata}
-
-        try:
-            tags = _build_tags("overview", proposal_name, review_date)
-            result = _run_node_upload(modified_overview, tags)
-
-            if not result.get("success"):
-                err = result.get("error", "Unknown error")
-                print(f"\n  ✗ Upload failed: {err}", file=sys.stderr)
-                metadata["overview"] = {"error": err}
-                _save_upload_metadata(output_dir, metadata)
-                return {"success": False, "error": err, "metadata": metadata}
-
-            overview_txid = result["txId"]
-            overview_url = result["webUrl"]
-            metadata["overview"] = {
-                "txid": overview_txid,
-                "url": overview_url,
-                "tags": tags,
-            }
-
-            print(f"\n  ✓ Overview uploaded!")
-            print(f"    TX ID: {overview_txid}")
-            print(f"    URL: {overview_url}")
-            _save_upload_metadata(output_dir, metadata)
-        finally:
-            if modified_overview.exists():
-                modified_overview.unlink()
-
     # ── Done ──────────────────────────────────────────────────────────
     print(f"\n{'='*60}")
     print(f"  Upload Sequence Complete!")
     print(f"{'='*60}")
     print(f"  Evidence: {metadata['evidence_audit']['url']}")
     print(f"  Review:   {metadata['review']['descai_url']}")
-    print(f"  Overview: {metadata['overview']['url']}")
 
     return {"success": True, "metadata": metadata}
 
@@ -358,7 +301,7 @@ def main() -> int:
         "--output-dir",
         type=Path,
         required=True,
-        help="Path to proposal output directory containing evidence_audit.md, review.json, and overview.json",
+        help="Path to proposal output directory containing evidence_audit.md and review.json",
     )
     parser.add_argument(
         "--resume",

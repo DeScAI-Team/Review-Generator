@@ -1,0 +1,331 @@
+{
+  "search:pTau-217 blood biomarker Alzheimer's disease early detection": [
+    {
+      "openalex_id": "https://openalex.org/W2798054687",
+      "doi": "https://doi.org/10.1016/j.jalz.2018.02.018",
+      "title": "NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 10187,
+      "abstract": "In 2011, the National Institute on Aging and Alzheimer's Association created separate diagnostic recommendations for the preclinical, mild cognitive impairment, and dementia stages of Alzheimer's disease. Scientific progress in the interim led to an initiative by the National Institute on Aging and Alzheimer's Association to update and unify the 2011 guidelines. This unifying update is labeled a \"research framework\" because its intended use is for observational and interventional research, not routine clinical care. In the National Institute on Aging and Alzheimer's Association Research Framework, Alzheimer's disease (AD) is defined by its underlying pathologic processes that can be documented by postmortem examination or in vivo by biomarkers. The diagnosis is not based on the clinical consequences of the disease (i.e., symptoms/signs) in this research framework, which shifts the definition of AD in living people from a syndromal to a biological construct. The research framework focuses on the diagnosis of AD with biomarkers in living persons. Biomarkers are grouped into those of β amyloid deposition, pathologic tau, and neurodegeneration [AT(N)]. This ATN classification system groups different biomarkers (imaging and biofluids) by the pathologic process each measures. The AT(N) system is flexible in that new biomarkers can be added to the three existing AT(N) groups, and new biomarker groups beyond AT(N) can be added when they become available. We focus on AD as a continuum, and cognitive staging may be accomplished using continuous measures. However, we also outline two different categorical cognitive schemes for staging the severity of cognitive impairment: a scheme using three traditional syndromal categories and a six-stage numeric scheme. It is important to stress that this framework seeks to create a common language with which investigators can generate and test hypotheses about the interactions among different pathologic processes (denoted by biomarkers) and cognitive symptoms. We appreciate the concern that this biomarker-based research framework has the potential to be misused. Therefore, we emphasize, first, it is premature and inappropriate to use this research framework in general medical practice. Second, this research framework should not be used to restrict alternative approaches to hypothesis testing that do not use biomarkers. There will be situations where biomarkers are not available or requiring them would be counterproductive to the specific research goals (discussed in more detail later in the document). Thus, biomarker-based research should not be considered a template for all research into age-related cognitive impairment and dementia; rather, it should be applied when it is fit for the purpose of the specific research goals of a study. Importantly, this framework should be examined in diverse populations. Although it is possible that β-amyloid plaques and neurofibrillary tau deposits are not causal in AD pathogenesis, it is these abnormal protein deposits that define AD as a unique neurodegenerative disease among different disorders that can lead to dementia. We envision that defining AD as a biological construct will enable a more accurate characterization and understanding of the sequence of events that lead to cognitive impairment that is associated with AD, as well as the multifactorial etiology of dementia. This approach also will enable a more precise approach to interventional trials where specific pathways can be targeted in the disease process and in the appropriate people."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4400089962",
+      "doi": "https://doi.org/10.1002/alz.13859",
+      "title": "Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 2062,
+      "abstract": "The National Institute on Aging and the Alzheimer's Association convened three separate work groups in 2011 and single work groups in 2012 and 2018 to create recommendations for the diagnosis and characterization of Alzheimer's disease (AD). The present document updates the 2018 research framework in response to several recent developments. Defining diseases biologically, rather than based on syndromic presentation, has long been standard in many areas of medicine (e.g., oncology), and is becoming a unifying concept common to all neurodegenerative diseases, not just AD. The present document is consistent with this principle. Our intent is to present objective criteria for diagnosis and staging AD, incorporating recent advances in biomarkers, to serve as a bridge between research and clinical care. These criteria are not intended to provide step-by-step clinical practice guidelines for clinical workflow or specific treatment protocols, but rather serve as general principles to inform diagnosis and staging of AD that reflect current science. HIGHLIGHTS: We define Alzheimer's disease (AD) to be a biological process that begins with the appearance of AD neuropathologic change (ADNPC) while people are asymptomatic. Progression of the neuropathologic burden leads to the later appearance and progression of clinical symptoms. Early-changing Core 1 biomarkers (amyloid positron emission tomography [PET], approved cerebrospinal fluid biomarkers, and accurate plasma biomarkers [especially phosphorylated tau 217]) map onto either the amyloid beta or AD tauopathy pathway; however, these reflect the presence of ADNPC more generally (i.e., both neuritic plaques and tangles). An abnormal Core 1 biomarker result is sufficient to establish a diagnosis of AD and to inform clinical decision making throughout the disease continuum. Later-changing Core 2 biomarkers (biofluid and tau PET) can provide prognostic information, and when abnormal, will increase confidence that AD is contributing to symptoms. An integrated biological and clinical staging scheme is described that accommodates the fact that common copathologies, cognitive reserve, and resistance may modify relationships between clinical and biological AD stages."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2568450381",
+      "doi": "https://doi.org/10.3233/jad-161088",
+      "title": "Oxidative Stress, Synaptic Dysfunction, and Alzheimer’s Disease",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 1712,
+      "abstract": "Alzheimer's disease (AD) is a devastating neurodegenerative disorder without a cure. Most AD cases are sporadic where age represents the greatest risk factor. Lack of understanding of the disease mechanism hinders the development of efficacious therapeutic approaches. The loss of synapses in the affected brain regions correlates best with cognitive impairment in AD patients and has been considered as the early mechanism that precedes neuronal loss. Oxidative stress has been recognized as a contributing factor in aging and in the progression of multiple neurodegenerative diseases including AD. Increased production of reactive oxygen species (ROS) associated with age- and disease-dependent loss of mitochondrial function, altered metal homeostasis, and reduced antioxidant defense directly affect synaptic activity and neurotransmission in neurons leading to cognitive dysfunction. In addition, molecular targets affected by ROS include nuclear and mitochondrial DNA, lipids, proteins, calcium homeostasis, mitochondrial dynamics and function, cellular architecture, receptor trafficking and endocytosis, and energy homeostasis. Abnormal cellular metabolism in turn could affect the production and accumulation of amyloid-β (Aβ) and hyperphosphorylated Tau protein, which independently could exacerbate mitochondrial dysfunction and ROS production, thereby contributing to a vicious cycle. While mounting evidence implicates ROS in the AD etiology, clinical trials with antioxidant therapies have not produced consistent results. In this review, we will discuss the role of oxidative stress in synaptic dysfunction in AD, innovative therapeutic strategies evolved based on a better understanding of the complexity of molecular mechanisms of AD, and the dual role ROS play in health and disease."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3215066238",
+      "doi": "https://doi.org/10.1016/s1474-4422(21)00361-6",
+      "title": "Blood-based biomarkers for Alzheimer's disease: towards clinical implementation",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 939,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2895430781",
+      "doi": "https://doi.org/10.1152/physrev.00050.2017",
+      "title": "Blood-Brain Barrier: From Physiology to Disease and Back",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 2121,
+      "abstract": "The blood-brain barrier (BBB) prevents neurotoxic plasma components, blood cells, and pathogens from entering the brain. At the same time, the BBB regulates transport of molecules into and out of the central nervous system (CNS), which maintains tightly controlled chemical composition of the neuronal milieu that is required for proper neuronal functioning. In this review, we first examine molecular and cellular mechanisms underlying the establishment of the BBB. Then, we focus on BBB transport physiology, endothelial and pericyte transporters, and perivascular and paravascular transport. Next, we discuss rare human monogenic neurological disorders with the primary genetic defect in BBB-associated cells demonstrating the link between BBB breakdown and neurodegeneration. Then, we review the effects of genes underlying inheritance and/or increased susceptibility for Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease, and amyotrophic lateral sclerosis (ALS) on BBB in relation to other pathologies and neurological deficits. We next examine how BBB dysfunction relates to neurological deficits and other pathologies in the majority of sporadic AD, PD, and ALS cases, multiple sclerosis, other neurodegenerative disorders, and acute CNS disorders such as stroke, traumatic brain injury, spinal cord injury, and epilepsy. Lastly, we discuss BBB-based therapeutic opportunities. We conclude with lessons learned and future directions, with emphasis on technological advances to investigate the BBB functions in the living human brain, and at the molecular and cellular level, and address key unanswered questions."
+    }
+  ],
+  "search:digital biomarkers remote cognitive assessment platform": [
+    {
+      "openalex_id": "https://openalex.org/W3184269374",
+      "doi": "https://doi.org/10.1002/dad2.12217",
+      "title": "Current advances in digital cognitive assessment for preclinical Alzheimer's disease",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 218,
+      "abstract": "There is a pressing need to capture and track subtle cognitive change at the preclinical stage of Alzheimer's disease (AD) rapidly, cost-effectively, and with high sensitivity. Concurrently, the landscape of digital cognitive assessment is rapidly evolving as technology advances, older adult tech-adoption increases, and external events (i.e., COVID-19) necessitate remote digital assessment. Here, we provide a snapshot review of the current state of digital cognitive assessment for preclinical AD including different device platforms/assessment approaches, levels of validation, and implementation challenges. We focus on articles, grants, and recent conference proceedings specifically querying the relationship between digital cognitive assessments and established biomarkers for preclinical AD (e.g., amyloid beta and tau) in clinically normal (CN) individuals. Several digital assessments were identified across platforms (e.g., digital pens, smartphones). Digital assessments varied by intended setting (e.g., remote vs. in-clinic), level of supervision (e.g., self vs. supervised), and device origin (personal vs. study-provided). At least 11 publications characterize digital cognitive assessment against AD biomarkers among CN. First available data demonstrate promising validity of this approach against both conventional assessment methods (moderate to large effect sizes) and relevant biomarkers (predominantly weak to moderate effect sizes). We discuss levels of validation and issues relating to usability, data quality, data protection, and attrition. While still in its infancy, digital cognitive assessment, especially when administered remotely, will undoubtedly play a major future role in screening for and tracking preclinical AD."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3087488456",
+      "doi": "https://doi.org/10.3389/fpsyt.2020.579934",
+      "title": "Implementing Remote Memory Clinics to Enhance Clinical Care During and After COVID-19",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 67,
+      "abstract": "Social isolation is likely to be recommended for older adults due to COVID-19, with ongoing reduced clinical contact suggested for this population. This has increased the need for remote memory clinics, we therefore review the literature, current practices and guidelines on organizing such remote memory clinics, focusing on assessment of cognition, function and other relevant measurements, proposing a novel pathway based on three levels of complexity: simple telephone or video-based interviews and testing using available tests (Level 1), digitized and validated methods based on standard pen-and-paper tests and scales (Level 2), and finally fully digitized cognitive batteries and remote measurement technologies (RMTs, Level 3). Pros and cons of these strategies are discussed. Remotely collected data negates the need for frail patients or carers to commute to clinic and offers valuable insights into progression over time, as well as treatment responses to therapeutic interventions, providing a more realistic and contextualized environment for data-collection. Notwithstanding several challenges related to internet access, computer skills, limited evidence base and regulatory and data protection issues, digital biomarkers collected remotely have significant potential for diagnosis and symptom management in older adults and we propose a framework and pathway for how technologies can be implemented to support remote memory clinics. These platforms are also well-placed for administration of digital cognitive training and other interventions. The individual, societal and public/private costs of COVID-19 are high and will continue to rise for some time but the challenges the pandemic has placed on memory services also provides an opportunity to embrace novel approaches. Remote memory clinics' financial, logistical, clinical and practical benefits have been highlighted by COVID-19, supporting their use to not only be maintained when social distancing legislation is lifted but to be devoted extra resources and attention to fully potentiate this valuable arm of clinical assessment and care."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3082188176",
+      "doi": "https://doi.org/10.1093/eurheartj/ehaa612",
+      "title": "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 9832,
+      "abstract": "TEST 02 - Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3046275966",
+      "doi": "https://doi.org/10.1016/s0140-6736(20)30367-6",
+      "title": "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission",
+      "type": "review",
+      "year": 2020,
+      "cited_by_count": 10095,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3111172847",
+      "doi": "https://doi.org/10.1002/alz.038144",
+      "title": "Remote cognitive assessment approaches in the Dominantly Inherited Alzheimer Network (DIAN)",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 23,
+      "abstract": "Abstract Background The “one‐shot” paradigm used in traditional in‐clinic cognitive assessments often produces unreliable data due to daily fluctuations in stress, sleep, test anxiety, and fatigue. In DIAN, an international study of familial Alzheimer’s disease (AD), these difficulties are compounded by the scarcity and younger age of the population. We have developed two assessment strategies to address these issues, which we are also validating in the Knight ADRC cohort. The first is a smartphone‐based cognitive assessment platform based on principles from ecological momentary assessment that uses frequent but extremely short (&lt;60 seconds) tests of episodic memory, attentional control, and processing speed administered at random times over 7 days. We examine average performance and variability metrics across 7 days of assessments. The second is a web‐based assessment that focuses on repeated daily administration to measure long‐term memory decay and also skill acquisition learning. The rates of forgetting and rates of learning become the outcome measures. Method Digital assessments were completed on cognitively normal DIAN participants (n = 56 mutation carriers, n = 60 non‐carriers) and 120 mostly cognitively normal older adults from the Knight ADRC. Follow‐up evaluations were available for approximately 40 DIAN participants. Digital assessments were compared with standard in‐clinic cognitive tests and also with AD biomarkers including amyloid PET, cerebrospinal fluid (CSF) tau, tau PET, and structural MRI. Result Reliabilities of all remote cognitive measures ranged from 0.90‐0.98. All measures (Smartphone and web‐based) correlated with age ( r’ s 0.22‐0.69), indicating worse performance with increasing age. Correlations with standard in‐clinic measures ranged from 0.24‐0.77, suggesting that remote tests are valid measures of cognition. Test‐retest reliability from repeated smartphone assessments was exceptional for two smartphone measures (ICC’s = 0.89‐0.94). Critically, smartphone measures and web‐based measures demonstrated sensitivity to all AD biomarkers, including amyloid PET, tau PET, CSF tau, and structural MRI. We will present data on relationships with AD biomarkers and data on technical validation of smartphone cognitive measures and adherence strategies for remote studies. Conclusion Remote assessments that rely on short‐term but high frequency testing can be deployed worldwide in adults of all ages and demonstrate excellent reliability and validity compared to standard in‐clinic cognitive assessments."
+    }
+  ],
+  "search:Uncaria tomentosa Cat's claw amyloid-beta fibril reduction": [
+    {
+      "openalex_id": "https://openalex.org/W2913303823",
+      "doi": "https://doi.org/10.1038/s41598-019-38645-0",
+      "title": "The Amazon rain forest plant Uncaria tomentosa (cat’s claw) and its specific proanthocyanidin constituents are potent inhibitors and reducers of both brain plaques and tangles",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 68,
+      "abstract": "Brain aging and Alzheimer's disease both demonstrate the accumulation of beta-amyloid protein containing \"plaques\" and tau protein containing \"tangles\" that contribute to accelerated memory loss and cognitive decline. In the present investigation we identified a specific plant extract and its constituents as a potential alternative natural solution for preventing and reducing both brain \"plaques and tangles\". PTI-00703 cat's claw (Uncaria tomentosa from a specific Peruvian source), a specific and natural plant extract from the Amazon rain forest, was identified as a potent inhibitor and reducer of both beta-amyloid fibrils (the main component of \"plaques\") and tau protein paired helical filaments/fibrils (the main component of \"tangles\"). PTI-00703 cat's claw demonstrated both the ability to prevent formation/aggregation and disaggregate preformed Aβ fibrils (1-42 and 1-40) and tau protein tangles/filaments. The disaggregation/dissolution of Aβ fibrils occurred nearly instantly when PTI-00703 cat's claw and Aβ fibrils were mixed together as shown by a variety of methods including Thioflavin T fluorometry, Congo red staining, Thioflavin S fluorescence and electron microscopy. Sophisticated structural elucidation studies identified the major fractions and specific constituents within PTI-00703 cat's claw responsible for both the observed \"plaque\" and \"tangle\" inhibitory and reducing activity. Specific proanthocyanidins (i.e. epicatechin dimers and variants thereof) are newly identified polyphenolic components within Uncaria tomentosa that possess both \"plaque and tangle\" reducing and inhibitory activity. One major identified specific polyphenol within PTI-00703 cat's claw was epicatechin-4β-8-epicatechin (i.e. an epicatechin dimer known as proanthocyanidin B2) that markedly reduced brain plaque load and improved short-term memory in younger and older APP \"plaque-producing\" (TASD-41) transgenic mice (bearing London and Swedish mutations). Proanthocyanidin B2 was also a potent inhibitor of brain inflammation as shown by reduction in astrocytosis and gliosis in TASD-41 transgenic mice. Blood-brain-barrier studies in Sprague-Dawley rats and CD-1 mice indicated that the major components of PTI-00703 cat's claw crossed the blood-brain-barrier and entered the brain parenchyma within 2 minutes of being in the blood. The discovery of a natural plant extract from the Amazon rain forest plant (i.e. Uncaria tomentosa or cat's claw) as both a potent \"plaque and tangle\" inhibitor and disaggregator is postulated to represent a potential breakthrough for the natural treatment of both normal brain aging and Alzheimer's disease."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3142441055",
+      "doi": "https://doi.org/10.3390/biom11040543",
+      "title": "Neuroprotective Herbs for the Management of Alzheimer’s Disease",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 214,
+      "abstract": "Background-Alzheimer's disease (AD) is a multifactorial, progressive, neurodegenerative disease that is characterized by memory loss, personality changes, and a decline in cognitive function. While the exact cause of AD is still unclear, recent studies point to lifestyle, diet, environmental, and genetic factors as contributors to disease progression. The pharmaceutical approaches developed to date do not alter disease progression. More than two hundred promising drug candidates have failed clinical trials in the past decade, suggesting that the disease and its causes may be highly complex. Medicinal plants and herbal remedies are now gaining more interest as complementary and alternative interventions and are a valuable source for developing drug candidates for AD. Indeed, several scientific studies have described the use of various medicinal plants and their principal phytochemicals for the treatment of AD. This article reviews a subset of herbs for their anti-inflammatory, antioxidant, and cognitive-enhancing effects. Methods-This article systematically reviews recent studies that have investigated the role of neuroprotective herbs and their bioactive compounds for dementia associated with Alzheimer's disease and pre-Alzheimer's disease. PubMed Central, Scopus, and Google Scholar databases of articles were collected, and abstracts were reviewed for relevance to the subject matter. Conclusions-Medicinal plants have great potential as part of an overall program in the prevention and treatment of cognitive decline associated with AD. It is hoped that these medicinal plants can be used in drug discovery programs for identifying safe and efficacious small molecules for AD."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3200042857",
+      "doi": "https://doi.org/10.3389/fcell.2021.725241",
+      "title": "Tau and Membranes: Interactions That Promote Folding and Condensation",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 60,
+      "abstract": "Tau misfolding and assembly is linked to a number of neurodegenerative diseases collectively described as tauopathies, including Alzheimer's disease (AD) and Parkinson's disease. Anionic cellular membranes, such as the cytosolic leaflet of the plasma membrane, are sites that concentrate and neutralize tau, primarily due to electrostatic interactions with tau's microtubule binding repeat domain (RD). In addition to electrostatic interactions with lipids, tau also has interactions with membrane proteins, which are important for tau's cellular functions. Tau also interacts with lipid tails to facilitate direct translocation across the membrane and can form stable protein-lipid complexes involved in cell-to-cell transport. Concentrated tau monomers at the membrane surface can form reversible condensates, change secondary structures, and induce oligomers, which may eventually undergo irreversible crosslinking and fibril formation. These β-sheet rich tau structures are capable of disrupting membrane organization and are toxic in cell-based assays. Given the evidence for relevant membrane-based tau assembly, we review the emerging hypothesis that polyanionic membranes may serve as a site for phase-separated tau condensation. Membrane-mediated phase separation may have important implications for regulating tau folding/misfolding, and may be a powerful mechanism to spatially direct tau for native membrane-mediated functions."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3131119385",
+      "doi": "https://doi.org/10.1038/s41598-020-79275-1",
+      "title": "In vitro comparison of major memory-support dietary supplements for their effectiveness in reduction/inhibition of beta-amyloid protein fibrils and tau protein tangles: key primary targets for memory loss",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 13,
+      "abstract": "Abstract Memory loss is primarily caused by the accumulation of both brain plaques [(consisting of beta-amyloid protein (Aβ) 1–42)] and neurofibrillary tangles (consisting of paired helical and straight filaments containing tau protein). Neuroinflammation is the third key and important factor that leads to accelerated memory loss and eventual dementia. Brain plaques, tangles and inflammation is the trilogy mainly responsible for causing memory loss that has now been documented for over 20 years in the scientific literature. The present investigation used in vitro quantitative methods to directly compare the ability of major memory-support dietary supplements to reduce pre-formed Aβ 1–42 fibrils (21 supplements tested) and tau protein paired helical/straight filaments (13 supplements tested)—two of the three most important targets for memory loss. Additionally, 18 different manufacturers of cat’s claw ( Uncaria tomentosa ) were directly compared for their ability to inhibit/reduce Aβ 1–42 fibrils and/or tau paired helical/straight filaments based on recent findings that PTI-00703 cat’s claw is a specific and potent inhibitor/reducer of all three targets -brain plaques, tangles and inflammation (Snow et al. in Sci Rep 9:561, 2019). In the present investigation quantitative Thioflavin T fluorometry was used on a comparative weight-to-weight basis at increasing concentrations with ingredients tested from the actual capsules the consumer ingests. Major memory-support dietary supplements were directly compared for their ability to inhibit and disaggregate/reduce both Aβ 1–42 fibrils and/or tau paired helical/straight filaments. Dietary supplements touted to enhance memory comparatively tested included Prevagen, FOCUSfactor, PROCERA AVH, Alpha Brain, NAD + OVIM, BRAIN JUICE, Cebria, EXCELEROL, NOOCUBE, US Doctor’s Clinical Brain Power ADVANCED, healthycell pro, LUMONOL, Brain Awake, BRAIN ARMOR, brainMD (BRAIN &amp; MEMORY POWER BOOST), Brain Support, Clarity (BRAIN HEALTH FORMULA), brainMD (NEUROVITE PLUS), neuriva (Original and Plus) and percepta. This is the first paper to actually comparatively test these memory-support supplements for their ability to reduce Aβ fibrils and tau protein tangles. Percepta (PTI-00703 cat’s claw and a specific oolong tea extract) was determined to be the most effective and potent memory support dietary supplement to disaggregate/disrupt Aβ 1–42 fibrils (range of 25–89%) and tau paired helical/straight filaments (range of 26–86%) at all 3–4 doses tested in comparison to other major memory-support dietary supplements tested. This was at least more than double (&gt; 50%) for percepta reducing Aβ 1–42 fibrils and in comparison to the other 20 memory-support dietary supplements tested. The ranking order for memory-support supplement effects based on reducing Aβ 1–42 fibrils (Aβ 1–42: memory-support supplement at 1:0.1 weight-to-weight in a 3-day study) was percepta (69.6% reduction) &gt;&gt;&gt; Alpha Brain (34.9% reduction) = US Doctor’s Clinical Brain Power ADVANCED (32.4%) = BRAIN JUICE (30.1%) = neuriva Plus (27%) = neuriva Original (27%) &gt; NEUROVITE PLUS (22.9%) = NOOCUBE (19.9%) = EXCELEROL (17.3%) = healthycell pro (17.2%) &gt; Prevagen (12.9%) &gt; PROCERA AVH (6.5%) = FOCUSfactor (5.5%) &gt; Cebria (0%) = Brain Awake (0%) = Brain Support (0%) = brainMD (BRAIN &amp; MEMORY POWER BOOST) (0%) = NAD + OVIM (0%) = BRAIN ARMOR (0%) = LUMONOL (0%). The ranking order for memory support supplement effects on reducing tau paired helical/straight filaments (tau:memory supplement at 1:1 weight-to-weight at 3 days) was percepta (85.7% reduction) &gt;&gt;&gt; neuriva Plus (57.9%) &gt;&gt; BRAIN JUICE (41.9%) = EXCELEROL (41.0%) = neuriva Original (38.4%) = US Doctor’s Clinical Brain Power ADVANCED (38.3%) = healthycell pro (37.6%) &gt;&gt; Alpha Brain (27.9%) &gt;&gt; NOOCUBE (17.6%) &gt;&gt; FOCUSfactor (8.7%) &gt; Cebria (3.6%) = PROCERA AVH (0%) = Prevagen (0%). Congo red staining, Thioflavin S fluorescence, circular dichroism (CD) spectroscopy and electron microscopy confirmed the positive results observed with the supplement percepta. CD spectroscopy demonstrated that percepta caused a marked inhibition of beta-sheet secondary folding of tau protein into paired helical filaments. PTI-00703 cat’s claw (main ingredient in percepta) was also identified as the most potent cat’s claw bark powder ( Uncaria tomentosa ) to reduce and inhibit Aβ 1–42 fibrils and tau tangles in comparison to 17 other manufacturers of cat’s claw extracts. Although there are thousands of brain memory-support dietary supplements in the marketplace today, none of them have been directly compared and analyzed for their ability to reduce and/or inhibit two major targets of memory loss i.e. Aβ 1–42 fibrils and tau paired helical/straight filaments (major constituents of brain plaques and tangles). In our comparison studies, we show that percepta has the most potent ability to disaggregate/reduce Aβ 1–42 fibrils and tau protein paired helical/straight filaments as demonstrated by a variety of methods most likely due to the specific polyphenol content in PTI-00703 cat’s claw (i.e. polyphenols and proanthocyanidins) as we have previously shown (Snow et al. in Sci Rep 9:561, 2019). Memory-support dietary supplements tested that also contained polyphenols and/or cat’s claw in their product demonstrated some Aβ fibril and tau protein tangle reducing activity, but were much less effective than percepta. Percepta’s main ingredient, PTI-00703 cat’s claw, has previously been shown to reduce brain amyloid plaques and Aβ 1–42/40 insoluble/soluble levels in brain (in plaque-producing transgenic mice) with marked concurrent memory improvements (shown by Morris water maze testing) (Snow et al. in Sci Rep 9:561, 2019). The present investigation further confirms that percepta is one of the best dietary supplements that causes a marked reduction and inhibition of Aβ fibrils and tau tangle filaments -two important major targets for memory-support. In addition, PTI-00703 cat’s claw was the most effective cat’s claw ( Uncaria tomentosa ) ingredient for reducing /disaggregating and inhibiting Aβ 1–42 fibrils and tau protein paired helical/straight filaments in comparison to 17 other manufacturers of cat’s claw extracts tested."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4210613496",
+      "doi": "https://doi.org/10.3390/molecules27030918",
+      "title": "In Silico Analysis of Metabolites from Peruvian Native Plants as Potential Therapeutics against Alzheimer’s Disease",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 19,
+      "abstract": "BACKGROUND: Despite research on the molecular bases of Alzheimer's disease (AD), effective therapies against its progression are still needed. Recent studies have shown direct links between AD progression and neurovascular dysfunction, highlighting it as a potential target for new therapeutics development. In this work, we screened and evaluated the inhibitory effect of natural compounds from native Peruvian plants against tau protein, amyloid beta, and angiotensin II type 1 receptor (AT1R) pathologic AD markers. METHODS: We applied in silico analysis, such as virtual screening, molecular docking, molecular dynamics simulation (MD), and MM/GBSA estimation, to identify metabolites from Peruvian plants with inhibitory properties, and compared them to nicotinamide, telmisartan, and grapeseed extract drugs in clinical trials. RESULTS: Our results demonstrated the increased bioactivity of three plants' metabolites against tau protein, amyloid beta, and AT1R. The MD simulations indicated the stability of the AT1R:floribundic acid, amyloid beta:rutin, and tau:brassicasterol systems. A polypharmaceutical potential was observed for rutin due to its high affinity to AT1R, amyloid beta, and tau. The metabolite floribundic acid showed bioactivity against the AT1R and tau, and the metabolite brassicasterol showed bioactivity against the amyloid beta and tau. CONCLUSIONS: This study has identified molecules from native Peruvian plants that have the potential to bind three pathologic markers of AD."
+    }
+  ],
+  "search:polyphenols proanthocyanidins neuroinflammation memory function": [
+    {
+      "openalex_id": "https://openalex.org/W2521574223",
+      "doi": "https://doi.org/10.1155/2016/7432797",
+      "title": "Oxidative Stress and Inflammation: What Polyphenols Can Do for Us?",
+      "type": "review",
+      "year": 2016,
+      "cited_by_count": 2020,
+      "abstract": "Oxidative stress is viewed as an imbalance between the production of reactive oxygen species (ROS) and their elimination by protective mechanisms, which can lead to chronic inflammation. Oxidative stress can activate a variety of transcription factors, which lead to the differential expression of some genes involved in inflammatory pathways. The inflammation triggered by oxidative stress is the cause of many chronic diseases. Polyphenols have been proposed to be useful as adjuvant therapy for their potential anti-inflammatory effect, associated with antioxidant activity, and inhibition of enzymes involved in the production of eicosanoids. This review aims at exploring the properties of polyphenols in anti-inflammation and oxidation and the mechanisms of polyphenols inhibiting molecular signaling pathways which are activated by oxidative stress, as well as the possible roles of polyphenols in inflammation-mediated chronic disorders. Such data can be helpful for the development of future antioxidant therapeutics and new anti-inflammatory drugs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2913304950",
+      "doi": "https://doi.org/10.1039/c8fo01997e",
+      "title": "The effects of polyphenols and other bioactives on human health",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 1057,
+      "abstract": "Although deficiencies in polyphenol intake do not result in specific deficiency diseases, adequate intake of polyphenols could confer health benefits, especially with regard to chronic diseases. Tea, cocoa, fruits, and berries, as well as vegetables, are rich in polyphenols. Flavan-3-ols from cocoa have been found to be associated with a reduced risk of stroke, myocardial infarction, and diabetes, as well as improvements in lipids, endothelial-dependent blood flow and blood pressure, insulin resistance, and systemic inflammation. The flavonoid quercetin and the stilbene resveratrol have also been associated with cardiometabolic health. Although polyphenols have been associated with improved cerebral blood flow, evidence of an impact on cognition is more limited. The ability of dietary polyphenols to produce clinical effects may be due, at least in part, to a bi-directional relationship with the gut microbiota. Polyphenols can impact the composition of the gut microbiota (which are independently associated with health benefits), and gut bacteria metabolize polyphenols into bioactive compounds that produce clinical benefits. Another critical interaction is that of polyphenols with other phytochemicals, which could be relevant to interpreting the health parameter effects of polyphenols assayed as purified extracts, whole foods, or whole food extracts."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2062145190",
+      "doi": "https://doi.org/10.3390/nu6126020",
+      "title": "Resources and Biological Activities of Natural Polyphenols",
+      "type": "review",
+      "year": 2014,
+      "cited_by_count": 883,
+      "abstract": "The oxidative stress imposed by reactive oxygen species (ROS) plays an important role in many chronic and degenerative diseases. As an important category of phytochemicals, phenolic compounds universally exist in plants, and have been considered to have high antioxidant ability and free radical scavenging capacity, with the mechanism of inhibiting the enzymes responsible for ROS production and reducing highly oxidized ROS. Therefore, phenolic compounds have attracted increasing attention as potential agents for preventing and treating many oxidative stress-related diseases, such as cardiovascular diseases, cancer, ageing, diabetes mellitus and neurodegenerative diseases. This review summarizes current knowledge of natural polyphenols, including resource, bioactivities, bioavailability and potential toxicity."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2053058287",
+      "doi": "https://doi.org/10.3390/nu2111106",
+      "title": "Polyphenols and Human Health: Prevention of Disease and Mechanisms of Action",
+      "type": "review",
+      "year": 2010,
+      "cited_by_count": 829,
+      "abstract": "Polyphenols are found ubiquitously in plants and their regular consumption has been associated with a reduced risk of a number of chronic diseases, including cancer, cardiovascular disease (CVD) and neurodegenerative disorders. Rather than exerting direct antioxidant effects, the mechanisms by which polyphenols express these beneficial properties appear to involve their interaction with cellular signaling pathways and related machinery that mediate cell function under both normal and pathological conditions. We illustrate that their interactions with two such pathways, the MAP kinase (ERK, JNK, p38) and PI3 kinase/Akt signaling cascades, allow them to impact upon normal and abnormal cell function, thus influencing the cellular processes involved in the initiation and progression of cancer, CVD and neurodegeneration. For example, their ability to activate ERK in neurons leads to a promotion of neuronal survival and cognitive enhancements, both of which influence the progression of Alzheimer's disease, whilst ERK activation by polyphenols in vascular endothelial cells influences nitric oxide production, blood pressure and ultimately CVD risk. The main focus of this review is to provide an overview of the role that polyphenols play in the prevention of cancer, cardiovascular disease and neurodegeneration. We present epidemiological data, human intervention study findings, as well as animal and in vitro studies in support of these actions and in each case we consider how their actions at the cellular level may underpin their physiological effects."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2164165561",
+      "doi": "https://doi.org/10.1007/s12263-008-0091-4",
+      "title": "The neuroprotective potential of flavonoids: a multiplicity of effects",
+      "type": "article",
+      "year": 2008,
+      "cited_by_count": 544,
+      "abstract": null
+    }
+  ],
+  "search:pTau-217 Simoa ALZpath assay home-use blood collection": [
+    {
+      "openalex_id": "https://openalex.org/W4402520104",
+      "doi": "https://doi.org/10.1038/s41398-024-03084-7",
+      "title": "P-tau217 and other blood biomarkers of dementia: variation with time of day",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 29,
+      "abstract": "Plasma biomarkers of dementia, including phosphorylated tau (p-tau217), offer promise as tools for diagnosis, stratification for clinical trials, monitoring disease progression, and assessing the success of interventions in those living with Alzheimer's disease. However, currently, it is unknown whether these dementia biomarker levels vary with the time of day, which could have implications for their clinical value. In two protocols, we studied 38 participants (70.8 ± 7.6 years; mean ± SD) in a 27-h laboratory protocol with either two samples taken 12 h apart or 3-hourly blood sampling for 24 h in the presence of a sleep-wake cycle. The study population comprised people living with mild Alzheimer's disease (PLWA, n = 8), partners/caregivers of PLWA (n = 6) and cognitively intact older adults (n = 24). Single-molecule array technology was used to measure phosphorylated tau (p-tau217) (ALZpath), amyloid-beta 40 (Aβ40), amyloid-beta 42 (Aβ42), glial fibrillary acidic protein, and neurofilament light (NfL) (Neuro 4-Plex E). Analysis with a linear mixed model (SAS, PROC MIXED) revealed a significant effect of time of day for p-tau217, Aβ40, Aβ42, and NfL, and a significant effect of participant group for p-tau217. For p-tau217, the lowest levels were observed in the morning upon waking and the highest values in the afternoon/early evening. The magnitude of the diurnal variation for p-tau217 was similar to the reported increase in p-tau217 over one year in amyloid-β-positive mild cognitively impaired people. Currently, the factors driving this diurnal variation are unknown and could be related to sleep, circadian mechanisms, activity, posture, or meals. Overall, this work implies that the time of day of sample collection may be relevant in the implementation and interpretation of plasma biomarkers in dementia research and care."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4406996194",
+      "doi": "https://doi.org/10.1038/s41591-024-03426-4",
+      "title": "Plasma proteomic evidence for increased β-amyloid pathology after SARS-CoV-2 infection",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 34,
+      "abstract": "Previous studies have suggested that systemic viral infections may increase risks of dementia. Whether this holds true for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus infections is unknown. Determining this is important for anticipating the potential future incidence of dementia. To begin to do this, we measured plasma biomarkers linked to Alzheimer's disease pathology in the UK Biobank before and after serology-confirmed SARS-CoV-2 infections. SARS-CoV-2 infection was associated with biomarkers associated with β-amyloid pathology: reduced plasma Aβ42:Aβ40 ratio and, in more vulnerable participants, lower plasma Aβ42 and higher plasma pTau-181. The plasma biomarker changes were greater in participants who had been hospitalized with COVID-19 or had reported hypertension previously. We showed that the changes in biomarkers were linked to brain structural imaging patterns associated with Alzheimer's disease, lower cognitive test scores and poorer overall health evaluations. Our data from this post hoc case-control matched study thus provide observational biomarker evidence that SARS-CoV-2 infection can be associated with greater brain β-amyloid pathology in older adults. While these results do not establish causality, they suggest that SARS-CoV-2 (and possibly other systemic inflammatory diseases) may increase the risk of future Alzheimer's disease."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4362614482",
+      "doi": "https://doi.org/10.1038/s41380-023-02041-y",
+      "title": "Ultra-high field imaging, plasma markers and autopsy data uncover a specific rostral locus coeruleus vulnerability to hyperphosphorylated tau",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 40,
+      "abstract": "Abstract Autopsy data indicate that the locus coeruleus (LC) is one of the first sites in the brain to accumulate hyperphosphorylated tau pathology, with the rostral part possibly being more vulnerable in the earlier stages of the disease. Taking advantage of recent developments in ultra-high field (7 T) imaging, we investigated whether imaging measures of the LC also reveal a specific anatomic correlation with tau using novel plasma biomarkers of different species of hyperphosphorylated tau, how early in adulthood these associations can be detected and if are associated with worse cognitive performance. To validate the anatomic correlations, we tested if a rostro-caudal gradient in tau pathology is also detected at autopsy in data from the Rush Memory and Aging Project (MAP). We found that higher plasma measures of phosphorylated tau, in particular ptau 231 , correlated negatively with dorso-rostral LC integrity, whereas correlations for neurodegenerative plasma markers (neurofilament light, total tau) were scattered throughout the LC including middle to caudal sections. In contrast, the plasma Aβ 42/40 ratio, associated with brain amyloidosis, did not correlate with LC integrity. These findings were specific to the rostral LC and not observed when using the entire LC or the hippocampus. Furthermore, in the MAP data, we observed higher rostral than caudal tangle density in the LC, independent of the disease stage. The in vivo LC-phosphorylated tau correlations became significant from midlife, with the earliest effect for ptau 231 , starting at about age 55. Finally, interactions between lower rostral LC integrity and higher ptau 231 concentrations predicted lower cognitive performance. Together, these findings demonstrate a specific rostral vulnerability to early phosphorylated tau species that can be detected with dedicated magnetic resonance imaging measures, highlighting the promise of LC imaging as an early marker of AD-related processes."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4404798924",
+      "doi": "https://doi.org/10.1002/alz.14405",
+      "title": "Sex differences in the trajectories of plasma biomarkers, brain atrophy, and cognitive decline relative to amyloid onset",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 15,
+      "abstract": "Abstract INTRODUCTION The factors that influence the progression of Alzheimer's disease (AD) after individuals become amyloid‐positive are poorly understood. This study examines how sex influences the longitudinal trajectories of plasma AD and neurodegenerative biomarkers in the years following a person's estimated onset of amyloid‐β. METHODS Linear mixed‐effects modeling investigated overall and sex‐specific longitudinal trajectories of plasma biomarkers, brain volumes, and cognition relative to the estimated age of amyloid onset in a cohort of 78 amyloid‐positive Baltimore Longitudinal Study of Aging (BLSA) participants ( n = 45 male; follow‐up time: 6.8 years [SD 3.31]). Amyloid status was ascertained with 11 C‐Pittsburgh compound B (PiB) PET imaging. RESULTS After amyloid onset, men displayed steeper increases in pTau181, pTau231, and neurofilament light (NfL) compared to women. In this same period, men demonstrated steeper declines in brain volume and cognitive performance. DISCUSSION These findings suggest that sex influences the trajectory of AD pathology, neuronal injury, and symptom progression after individuals become amyloid‐positive. Highlights Steeper rates of increase in pTau and GFAP among amyloid‐positive individuals. After amyloid onset, steeper increases in pTau and NfL concentrations in men than in women. Steeper declines in brain volume and cognition in men corroborate biomarker results."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4402212712",
+      "doi": "https://doi.org/10.1101/2024.09.03.24312664",
+      "title": "Sex differences in the trajectories of plasma biomarkers, brain atrophy, and cognitive decline relative to amyloid onset",
+      "type": "preprint",
+      "year": 2024,
+      "cited_by_count": 1,
+      "abstract": "Abstract INTRODUCTION: The factors that influence the progression of Alzheimer's disease (AD) after individuals become amyloid-positive are poorly understood. This study examines how sex influences the longitudinal trajectories of plasma AD and neurodegenerative biomarkers in the years following a person's estimated onset of amyloid-β. METHODS: Linear mixed effects modeling investigated overall and sex-specific longitudinal trajectories of plasma biomarkers, brain volumes, and cognition relative to estimated age of amyloid onset in a cohort of 78 amyloid-positive Baltimore Longitudinal Study of Aging participants (n=45 male; follow-up time: 6.8 years [SD 3.31]). Amyloid status was ascertained with 11C-Pittsburgh compound B (PiB) PET imaging. RESULTS: After amyloid onset, men displayed steeper increases in pTau181, pTau231, and NfL compared to women. In this same period, men demonstrated steeper declines in brain volume and cognitive performance. DISCUSSION: These findings suggest that sex influences the trajectory of AD pathology, neuronal injury, and symptom progression after individuals become amyloid-positive."
+    }
+  ],
+  "search:non-therapeutic structure-function trial cognitive biomarkers": [
+    {
+      "openalex_id": "https://openalex.org/W3082188176",
+      "doi": "https://doi.org/10.1093/eurheartj/ehaa612",
+      "title": "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 9832,
+      "abstract": "TEST 02 - Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3046275966",
+      "doi": "https://doi.org/10.1016/s0140-6736(20)30367-6",
+      "title": "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission",
+      "type": "review",
+      "year": 2020,
+      "cited_by_count": 10095,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2397911846",
+      "doi": "https://doi.org/10.1093/eurheartj/ehw128",
+      "title": "2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 11467,
+      "abstract": "No abstract available."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2133416234",
+      "doi": "https://doi.org/10.1093/eurheartj/eht151",
+      "title": "2013 ESH/ESC Guidelines for the management of arterial hypertension",
+      "type": "article",
+      "year": 2013,
+      "cited_by_count": 13666,
+      "abstract": "The ESH/ESC Guidelines represent the views of the ESH and ESC and were arrived at after careful consideration of the available evidence at the time they were written. Health professionals are encouraged to take them fully into account when exercising their clinical judgement. The guidelines do not, however, override the individual responsibility of health professionals to make appropriate decisions in the circumstances of the individual patients, in consultation with that patient, and where appropriate and necessary the patient's guardian or carer. It is also the health professional's responsibility to verify the rules and regulations applicable to drugs and devices at the time of prescription."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3193598686",
+      "doi": "https://doi.org/10.1093/eurheartj/ehab368",
+      "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 12702,
+      "abstract": "The ESC Guidelines represent the views of the ESC and were produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their publication.The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good use of healthcare or therapeutic strategies.Health professionals are encouraged to take the ESC Guidelines fully into account when exercising their clinical judgment, as well as in the determination and the implementation of preventive, diagnostic or therapeutic medical strategies; however, the ESC Guidelines do not override, in any way whatsoever, the individual responsibility of health professionals to make appropriate and accurate decisions in consideration of each patient's health condition and in consultation with that patient and, where appropriate and/or necessary, the patient's caregiver.Nor do the ESC Guidelines exempt health professionals from taking into full and careful consideration the relevant official updated recommendations or guidelines issued by the competent public health authorities, in order to manage each patient's case in light of the scientifically accepted data pursuant to their respective ethical and professional obligations.It is also the health professional's responsibility to verify the applicable rules and regulations relating to drugs and medical devices at the time of prescription."
+    }
+  ],
+  "search:decentralized clinical research tokenized funding DeSci": [
+    {
+      "openalex_id": "https://openalex.org/W4389145654",
+      "doi": "https://doi.org/10.7717/peerj-cs.1705",
+      "title": "Blockchain technology and application: an overview",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 146,
+      "abstract": "In recent years, with the rise of digital currency, its underlying technology, blockchain, has become increasingly well-known. This technology has several key characteristics, including decentralization, time-stamped data, consensus mechanism, traceability, programmability, security, and credibility, and block data is essentially tamper-proof. Due to these characteristics, blockchain can address the shortcomings of traditional financial institutions. As a result, this emerging technology has garnered significant attention from financial intermediaries, technology-based companies, and government agencies. This article offers an overview of the fundamentals of blockchain technology and its various applications. The introduction defines blockchain and explains its fundamental working principles, emphasizing features such as decentralization, immutability, and transparency. The article then traces the evolution of blockchain, from its inception in cryptocurrency to its development as a versatile tool with diverse potential applications. The main body of the article explores fundamentals of block chain systems, its limitations, various applications, applicability etc . Finally, the study concludes by discussing the present state of blockchain technology and its future potential, as well as the challenges that must be surmounted to unlock its full potential."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4391305431",
+      "doi": "https://doi.org/10.1109/ojcoms.2024.3349465",
+      "title": "AI and 6G Into the Metaverse: Fundamentals, Challenges and Future Research Trends",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 158,
+      "abstract": "Since Facebook was renamed Meta, a lot of attention, debate, and exploration have intensified about what the Metaverse is, how it works, and the possible ways to exploit it. It is anticipated that Metaverse will be a continuum of rapidly emerging technologies, usecases, capabilities, and experiences that will make it up for the next evolution of the Internet. Several researchers have already surveyed the literature on artificial intelligence (AI) and wireless communications in realizing the Metaverse. However, due to the rapid emergence and continuous evolution of technologies, there is a need for a comprehensive and in-depth survey of the role of AI, 6G, and the nexus of both in realizing the immersive experiences of Metaverse. Therefore, in this survey, we first introduce the background and ongoing progress in augmented reality (AR), virtual reality (VR), mixed reality (MR) and spatial computing, followed by the technical aspects of AI and 6G. Then, we survey the role of AI in the Metaverse by reviewing the state-of-the-art in deep learning, computer vision, and Edge AI to extract the requirements of 6G in Metaverse. Next, we investigate the promising services of B5G/6G towards Metaverse, followed by identifying the role of AI in 6G networks and 6G networks for AI in support of Metaverse applications, and the need for sustainability in Metaverse. Finally, we enlist the existing and potential applications, usecases, and projects to highlight the importance of progress in the Metaverse. Moreover, in order to provide potential research directions to researchers, we underline the challenges, research gaps, and lessons learned identified from the literature review of the aforementioned technologies."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4391248986",
+      "doi": "https://doi.org/10.1109/tlt.2024.3358859",
+      "title": "Advancing Education Through Extended Reality and Internet of Everything Enabled Metaverses: Applications, Challenges, and Open Issues",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 123,
+      "abstract": "Metaverse has evolved as one of the popular research agendas that let users learn, socialize, and collaborate in a networked three-dimensional (3D) immersive virtual world. Due to the rich multimedia streaming capability and immersive user experience with high-speed communication, the metaverse is an ideal model for education, training, and skill development tasks. To facilitate research in this area, we provide a comprehensive review of the various educational use cases and explore how enabling technologies such as Extended reality (XR) and the Internet of Everything (IoE) will play a major role in educational services in future metaverses. Secondly, we provide an overview of metaverse-based educational applications focusing on education, training, and skill development and analyze the technologies they are built upon. We identify common research problems and future research directions in the domain. The paper also identifies core ethical considerations of metaverse for education and potential pitfalls. We believe this survey can fully demonstrate the versatility of metaverse-driven education, which could serve as a potential guideline for the researchers."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4381741966",
+      "doi": "https://doi.org/10.3390/info14070356",
+      "title": "Mapping Metaverse Research: Identifying Future Research Areas Based on Bibliometric and Topic Modeling Techniques",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 88,
+      "abstract": "The metaverse represents an immersive digital environment that has garnered significant attention as a result of its potential to revolutionize various industry sectors and its profound societal impact. While academic interest in the metaverse has surged, a dearth of comprehensive review articles employing bibliometric techniques remains. This study seeks to address this gap by analyzing 595 metaverse-related journal articles using bibliometric and topic modeling techniques, marking the first of its kind to investigate the bibliometric profile of metaverse research. The findings reveal exponential growth in metaverse research since 2020, identifying major trends, prolific authors, and the most active journals in the field. A keyword co-occurrence analysis further uncovers four significant clusters of metaverse-related interests, highlighting its unique facets and underscoring its far-reaching implications across various sectors, including education, healthcare, retail, and tourism. This study emphasizes the need for more research and collaboration in advancing the metaverse field and presents 27 research questions for future investigation. This comprehensive analysis serves as a foundation for understanding the current state of metaverse research and its potential trajectory."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4401709610",
+      "doi": "https://doi.org/10.1002/widm.1556",
+      "title": "Exploring the convergence of Metaverse, Blockchain, and <scp>AI</scp>: A comprehensive survey of enabling technologies, applications, challenges, and future directions",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 45,
+      "abstract": "Abstract The Metaverse, distinguished by its capacity to integrate the physical and digital realms seamlessly, presents a dynamic virtual environment offering diverse opportunities for engagement across innovation, entertainment, socialization, and commercial endeavors. However, the Metaverse is poised for a transformative evolution through the convergence of contemporary technological advancements, including artificial intelligence (AI), Blockchain, Robotics, augmented reality, virtual reality, and mixed reality. This convergence is anticipated to revolutionize the global digital landscape, introducing novel social, economic, and operational paradigms for organizations and communities. To comprehensively elucidate the future potential of this technological fusion and its implications for digital innovation, this research endeavors to undertake a thorough analysis of scholarly discourse and research pertaining to the Metaverse, AI, Blockchain, and associated technologies. This survey delves into various critical facets of the Metaverse ecosystem, encompassing component analysis, exploration of digital currencies, assessment of AI utilization in virtual environments, and examination of Blockchain's role in enhancing digital content and data security. Leveraging articles retrieved from esteemed digital repositories including ScienceDirect, IEEE Xplore, Springer Nature, Google Scholar, and ACM, published between 2017 and 2023, this study adopts an analytical approach to engage with these materials. Through rigorous examination and discourse, this research aims to provide insights into the emerging trends, challenges, and future directions in the convergence of the Metaverse, Blockchain, and AI. This article is categorized under: Application Areas &gt; Industry Specific Applications"
+    }
+  ]
+}

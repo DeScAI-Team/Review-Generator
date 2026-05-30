@@ -1,0 +1,510 @@
+{
+  "search:DRP1-FIS1 interaction mitochondrial fragmentation neurodegeneration": [
+    {
+      "openalex_id": "https://openalex.org/W4384818370",
+      "doi": "https://doi.org/10.1038/s41467-023-40043-0",
+      "title": "Targeting an allosteric site in dynamin-related protein 1 to inhibit Fis1-mediated mitochondrial dysfunction",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 81,
+      "abstract": "The large cytosolic GTPase, dynamin-related protein 1 (Drp1), mediates both physiological and pathological mitochondrial fission. Cell stress triggers Drp1 binding to mitochondrial Fis1 and subsequently, mitochondrial fragmentation, ROS production, metabolic collapse, and cell death. Because Drp1 also mediates physiological fission by binding to mitochondrial Mff, therapeutics that inhibit pathological fission should spare physiological mitochondrial fission. P110, a peptide inhibitor of Drp1-Fis1 interaction, reduces pathology in numerous models of neurodegeneration, ischemia, and sepsis without blocking the physiological functions of Drp1. Since peptides have pharmacokinetic limitations, we set out to identify small molecules that mimic P110's benefit. We map the P110-binding site to a switch I-adjacent grove (SWAG) on Drp1. Screening for SWAG-binding small molecules identifies SC9, which mimics P110's benefits in cells and a mouse model of endotoxemia. We suggest that the SWAG-binding small molecules discovered in this study may reduce the burden of Drp1-mediated pathologies and potentially pathologies associated with other members of the GTPase family."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2105043890",
+      "doi": "https://doi.org/10.1093/hmg/ddp326",
+      "title": "Mitochondrial dynamics-fusion, fission, movement, and mitophagy-in neurodegenerative diseases",
+      "type": "review",
+      "year": 2009,
+      "cited_by_count": 1448,
+      "abstract": "Neurons are metabolically active cells with high energy demands at locations distant from the cell body. As a result, these cells are particularly dependent on mitochondrial function, as reflected by the observation that diseases of mitochondrial dysfunction often have a neurodegenerative component. Recent discoveries have highlighted that neurons are reliant particularly on the dynamic properties of mitochondria. Mitochondria are dynamic organelles by several criteria. They engage in repeated cycles of fusion and fission, which serve to intermix the lipids and contents of a population of mitochondria. In addition, mitochondria are actively recruited to subcellular sites, such as the axonal and dendritic processes of neurons. Finally, the quality of a mitochondrial population is maintained through mitophagy, a form of autophagy in which defective mitochondria are selectively degraded. We review the general features of mitochondrial dynamics, incorporating recent findings on mitochondrial fusion, fission, transport and mitophagy. Defects in these key features are associated with neurodegenerative disease. Charcot-Marie-Tooth type 2A, a peripheral neuropathy, and dominant optic atrophy, an inherited optic neuropathy, result from a primary deficiency of mitochondrial fusion. Moreover, several major neurodegenerative diseases--including Parkinson's, Alzheimer's and Huntington's disease--involve disruption of mitochondrial dynamics. Remarkably, in several disease models, the manipulation of mitochondrial fusion or fission can partially rescue disease phenotypes. We review how mitochondrial dynamics is altered in these neurodegenerative diseases and discuss the reciprocal interactions between mitochondrial fusion, fission, transport and mitophagy."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2089141103",
+      "doi": "https://doi.org/10.1523/jneurosci.1357-09.2009",
+      "title": "Impaired Balance of Mitochondrial Fission and Fusion in Alzheimer's Disease",
+      "type": "article",
+      "year": 2009,
+      "cited_by_count": 1205,
+      "abstract": "Mitochondrial dysfunction is a prominent feature of Alzheimer's disease (AD) neurons. In this study, we explored the involvement of an abnormal mitochondrial dynamics by investigating the changes in the expression of mitochondrial fission and fusion proteins in AD brain and the potential cause and consequence of these changes in neuronal cells. We found that mitochondria were redistributed away from axons in the pyramidal neurons of AD brain. Immunoblot analysis revealed that levels of DLP1 (also referred to as Drp1), OPA1, Mfn1, and Mfn2 were significantly reduced whereas levels of Fis1 were significantly increased in AD. Despite their differential effects on mitochondrial morphology, manipulations of these mitochondrial fission and fusion proteins in neuronal cells to mimic their expressional changes in AD caused a similar abnormal mitochondrial distribution pattern, such that mitochondrial density was reduced in the cell periphery of M17 cells or neuronal process of primary neurons and correlated with reduced spine density in the neurite. Interestingly, oligomeric amyloid-beta-derived diffusible ligands (ADDLs) caused mitochondrial fragmentation and reduced mitochondrial density in neuronal processes. More importantly, ADDL-induced synaptic change (i.e., loss of dendritic spine and postsynaptic density protein 95 puncta) correlated with abnormal mitochondrial distribution. DLP1 overexpression, likely through repopulation of neuronal processes with mitochondria, prevented ADDL-induced synaptic loss, suggesting that abnormal mitochondrial dynamics plays an important role in ADDL-induced synaptic abnormalities. Based on these findings, we suggest that an altered balance in mitochondrial fission and fusion is likely an important mechanism leading to mitochondrial and neuronal dysfunction in AD brain."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4386448978",
+      "doi": "https://doi.org/10.1038/s41392-023-01547-9",
+      "title": "Mitochondrial dynamics in health and disease: mechanisms and potential targets",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 1078,
+      "abstract": "Mitochondria are organelles that are able to adjust and respond to different stressors and metabolic needs within a cell, showcasing their plasticity and dynamic nature. These abilities allow them to effectively coordinate various cellular functions. Mitochondrial dynamics refers to the changing process of fission, fusion, mitophagy and transport, which is crucial for optimal function in signal transduction and metabolism. An imbalance in mitochondrial dynamics can disrupt mitochondrial function, leading to abnormal cellular fate, and a range of diseases, including neurodegenerative disorders, metabolic diseases, cardiovascular diseases and cancers. Herein, we review the mechanism of mitochondrial dynamics, and its impacts on cellular function. We also delve into the changes that occur in mitochondrial dynamics during health and disease, and offer novel perspectives on how to target the modulation of mitochondrial dynamics."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2750514629",
+      "doi": "https://doi.org/10.1038/nrneph.2017.107",
+      "title": "Mitochondrial energetics in the kidney",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 1275,
+      "abstract": null
+    }
+  ],
+  "search:pathological mitochondrial fission chronic inflammation mechanism": [
+    {
+      "openalex_id": "https://openalex.org/W2751635377",
+      "doi": "https://doi.org/10.1016/j.kint.2017.05.034",
+      "title": "The hallmarks of mitochondrial dysfunction in chronic kidney disease",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 434,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2788640168",
+      "doi": "https://doi.org/10.1038/s41418-017-0012-4",
+      "title": "Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 6421,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2170852633",
+      "doi": "https://doi.org/10.3402/jev.v4.27066",
+      "title": "Biological properties of extracellular vesicles and their physiological functions",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 5880,
+      "abstract": "In the past decade, extracellular vesicles (EVs) have been recognized as potent vehicles of intercellular communication, both in prokaryotes and eukaryotes. This is due to their capacity to transfer proteins, lipids and nucleic acids, thereby influencing various physiological and pathological functions of both recipient and parent cells. While intensive investigation has targeted the role of EVs in different pathological processes, for example, in cancer and autoimmune diseases, the EV‐mediated maintenance of homeostasis and the regulation of physiological functions have remained less explored. Here, we provide a comprehensive overview of the current understanding of the physiological roles of EVs, which has been written by crowd‐sourcing, drawing on the unique EV expertise of academia‐based scientists, clinicians and industry based in 27 European countries, the United States and Australia. This review is intended to be of relevance to both researchers already working on EV biology and to newcomers who will encounter this universal cell biological system. Therefore, here we address the molecular contents and functions of EVs in various tissues and body fluids from cell systems to organs. We also review the physiological mechanisms of EVs in bacteria, lower eukaryotes and plants to highlight the functional uniformity of this emerging communication system."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2791564057",
+      "doi": "https://doi.org/10.1161/circresaha.117.311401",
+      "title": "Reactive Oxygen Species in Metabolic and Inflammatory Signaling",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 1988,
+      "abstract": "Reactive oxygen species (ROS) are well known for their role in mediating both physiological and pathophysiological signal transduction. Enzymes and subcellular compartments that typically produce ROS are associated with metabolic regulation, and diseases associated with metabolic dysfunction may be influenced by changes in redox balance. In this review, we summarize the current literature surrounding ROS and their role in metabolic and inflammatory regulation, focusing on ROS signal transduction and its relationship to disease progression. In particular, we examine ROS production in compartments such as the cytoplasm, mitochondria, peroxisome, and endoplasmic reticulum and discuss how ROS influence metabolic processes such as proteasome function, autophagy, and general inflammatory signaling. We also summarize and highlight the role of ROS in the regulation metabolic/inflammatory diseases including atherosclerosis, diabetes mellitus, and stroke. In order to develop therapies that target oxidative signaling, it is vital to understand the balance ROS signaling plays in both physiology and pathophysiology, and how manipulation of this balance and the identity of the ROS may influence cellular and tissue homeostasis. An increased understanding of specific sources of ROS production and an appreciation for how ROS influence cellular metabolism may help guide us in the effort to treat cardiovascular diseases."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2988310131",
+      "doi": "https://doi.org/10.1016/j.cell.2019.10.005",
+      "title": "Cellular Senescence: Defining a Path Forward",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 3049,
+      "abstract": null
+    }
+  ],
+  "search:SWAG binding site DRP1 inhibitor small molecule design": [
+    {
+      "openalex_id": "https://openalex.org/W4384818370",
+      "doi": "https://doi.org/10.1038/s41467-023-40043-0",
+      "title": "Targeting an allosteric site in dynamin-related protein 1 to inhibit Fis1-mediated mitochondrial dysfunction",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 81,
+      "abstract": "The large cytosolic GTPase, dynamin-related protein 1 (Drp1), mediates both physiological and pathological mitochondrial fission. Cell stress triggers Drp1 binding to mitochondrial Fis1 and subsequently, mitochondrial fragmentation, ROS production, metabolic collapse, and cell death. Because Drp1 also mediates physiological fission by binding to mitochondrial Mff, therapeutics that inhibit pathological fission should spare physiological mitochondrial fission. P110, a peptide inhibitor of Drp1-Fis1 interaction, reduces pathology in numerous models of neurodegeneration, ischemia, and sepsis without blocking the physiological functions of Drp1. Since peptides have pharmacokinetic limitations, we set out to identify small molecules that mimic P110's benefit. We map the P110-binding site to a switch I-adjacent grove (SWAG) on Drp1. Screening for SWAG-binding small molecules identifies SC9, which mimics P110's benefits in cells and a mouse model of endotoxemia. We suggest that the SWAG-binding small molecules discovered in this study may reduce the burden of Drp1-mediated pathologies and potentially pathologies associated with other members of the GTPase family."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4385754313",
+      "doi": "https://doi.org/10.3389/fcell.2023.1244313",
+      "title": "Unveiling the potential of mitochondrial dynamics as a therapeutic strategy for acute kidney injury",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 18,
+      "abstract": "Acute Kidney Injury (AKI), a critical clinical syndrome, has been strongly linked to mitochondrial malfunction. Mitochondria, vital cellular organelles, play a key role in regulating cellular energy metabolism and ensuring cell survival. Impaired mitochondrial function in AKI leads to decreased energy generation, elevated oxidative stress, and the initiation of inflammatory cascades, resulting in renal tissue damage and functional impairment. Therefore, mitochondria have gained significant research attention as a potential therapeutic target for AKI. Mitochondrial dynamics, which encompass the adaptive shifts of mitochondria within cellular environments, exert significant influence on mitochondrial function. Modulating these dynamics, such as promoting mitochondrial fusion and inhibiting mitochondrial division, offers opportunities to mitigate renal injury in AKI. Consequently, elucidating the mechanisms underlying mitochondrial dynamics has gained considerable importance, providing valuable insights into mitochondrial regulation and facilitating the development of innovative therapeutic approaches for AKI. This comprehensive review aims to highlight the latest advancements in mitochondrial dynamics research, provide an exhaustive analysis of existing studies investigating the relationship between mitochondrial dynamics and acute injury, and shed light on their implications for AKI. The ultimate goal is to advance the development of more effective therapeutic interventions for managing AKI."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3174082970",
+      "doi": "https://doi.org/10.3390/ijms222011125",
+      "title": "DRP1-Mediated Mitochondrial Fission Regulates Lung Epithelial Response to Allergen",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 21,
+      "abstract": "Mitochondria regulate a myriad of cellular functions. Dysregulation of mitochondrial control within airway epithelial cells has been implicated in the pro-inflammatory response to allergens in asthma patients. Because of their multifaceted nature, mitochondrial structure must be tightly regulated through fission and fusion. Dynamin Related Protein 1 (DRP1) is a key driver of mitochondrial fission. During allergic asthma, airway epithelial mitochondria appear smaller and structurally altered. The role of DRP1-mediated mitochondrial fission, however, has not been fully elucidated in epithelial response to allergens. We used a Human Bronchial Epithelial Cell line (HBECs), primary Mouse Tracheal Epithelial Cells (MTECs), and conditional DRP1 ablation in lung epithelial cells to investigate the impact of mitochondrial fission on the pro-inflammatory response to house dust mite (HDM) in vitro and in vivo. Our data suggest that, following HDM challenge, mitochondrial fission is rapidly upregulated in airway epithelial cells and precedes production of pro-inflammatory cytokines and chemokines. Further, deletion of Drp1 in lung epithelial cells leads to decreased fission and enhanced pro-inflammatory signaling in response to HDM in vitro, as well as enhanced airway hyper-responsiveness (AHR), inflammation, differential mucin transcription, and epithelial cell death in vivo. Mitochondrial fission, therefore, regulates the lung epithelial pro-inflammatory response to HDM."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4385636731",
+      "doi": "https://doi.org/10.3390/biom13081225",
+      "title": "Mechanisms of Modulation of Mitochondrial Architecture",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 15,
+      "abstract": "Mitochondrial network architecture plays a critical role in cellular physiology. Indeed, alterations in the shape of mitochondria upon exposure to cellular stress can cause the dysfunction of these organelles. In this scenario, mitochondrial dynamics proteins and the phospholipid composition of the mitochondrial membrane are key for fine-tuning the modulation of mitochondrial architecture. In addition, several factors including post-translational modifications such as the phosphorylation, acetylation, SUMOylation, and o-GlcNAcylation of mitochondrial dynamics proteins contribute to shaping the plasticity of this architecture. In this regard, several studies have evidenced that, upon metabolic stress, mitochondrial dynamics proteins are post-translationally modified, leading to the alteration of mitochondrial architecture. Interestingly, several proteins that sustain the mitochondrial lipid composition also modulate mitochondrial morphology and organelle communication. In this context, pharmacological studies have revealed that the modulation of mitochondrial shape and function emerges as a potential therapeutic strategy for metabolic diseases. Here, we review the factors that modulate mitochondrial architecture."
+    }
+  ],
+  "search:P110 peptide ALS Huntington's Alzheimer's Parkinson's efficacy": [
+    {
+      "openalex_id": "https://openalex.org/W2046250764",
+      "doi": "https://doi.org/10.1152/physrev.00030.2009",
+      "title": "Regulation of Mammalian Autophagy in Physiology and Pathophysiology",
+      "type": "review",
+      "year": 2010,
+      "cited_by_count": 1713,
+      "abstract": "(Macro)autophagy is a bulk degradation process that mediates the clearance of long-lived proteins and organelles. Autophagy is initiated by double-membraned structures, which engulf portions of cytoplasm. The resulting autophagosomes ultimately fuse with lysosomes, where their contents are degraded. Although the term autophagy was first used in 1963, the field has witnessed dramatic growth in the last 5 years, partly as a consequence of the discovery of key components of its cellular machinery. In this review we focus on mammalian autophagy, and we give an overview of the understanding of its machinery and the signaling cascades that regulate it. As recent studies have also shown that autophagy is critical in a range of normal human physiological processes, and defective autophagy is associated with diverse diseases, including neurodegeneration, lysosomal storage diseases, cancers, and Crohn's disease, we discuss the roles of autophagy in health and disease, while trying to critically evaluate if the coincidence between autophagy and these conditions is causal or an epiphenomenon. Finally, we consider the possibility of autophagy upregulation as a therapeutic approach for various conditions."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2911237161",
+      "doi": "https://doi.org/10.3389/fnmol.2019.00025",
+      "title": "Molecular Mechanisms of TDP-43 Misfolding and Pathology in Amyotrophic Lateral Sclerosis",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 768,
+      "abstract": "TAR DNA binding protein 43 (TDP-43) is a versatile RNA/DNA binding protein involved in RNA-related metabolism. Hyper-phosphorylated and ubiquitinated TDP-43 deposits act as inclusion bodies in the brain and spinal cord of patients with the motor neuron diseases: amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). While the majority of ALS cases (90-95%) are sporadic (sALS), among familial ALS cases 5-10% involve the inheritance of mutations in the TARDBP gene and the remaining (90-95%) are due to mutations in other genes such as: C9ORF72, SOD1, FUS, and NEK1 etc. Strikingly however, the majority of sporadic ALS patients (up to 97%) also contain the TDP-43 protein deposited in the neuronal inclusions, which suggests of its pivotal role in the ALS pathology. Thus, unraveling the molecular mechanisms of the TDP-43 pathology seems central to the ALS therapeutics, hence, we comprehensively review the current understanding of the TDP-43's pathology in ALS. We discuss the roles of TDP-43's mutations, its cytoplasmic mis-localization and aberrant post-translational modifications in ALS. Also, we evaluate TDP-43's amyloid-like in vitro aggregation, its physiological vs. pathological oligomerization in vivo, liquid-liquid phase separation (LLPS), and potential prion-like propagation propensity of the TDP-43 inclusions. Finally, we describe the various evolving TDP-43-induced toxicity mechanisms, such as the impairment of endocytosis and mitotoxicity etc. and also discuss the emerging strategies toward TDP-43 disaggregation and ALS therapeutics."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4313578986",
+      "doi": "https://doi.org/10.7150/thno.79876",
+      "title": "Cellular mitophagy: Mechanism, roles in diseases and small molecule pharmacological regulation",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 603,
+      "abstract": "Cellular mitophagy means that cells selectively wrap and degrade damaged mitochondria through an autophagy mechanism, thus maintaining mitochondria and intracellular homeostasis. In recent years, mitophagy has received increasing attention as a research hotspot related to the pathogenesis of clinical diseases, such as neurodegenerative diseases, cardiovascular diseases, cancer, metabolic diseases, and so on. It has been found that the regulation of mitophagy may become a new direction for the treatment of some diseases. In addition, numerous small molecule modulators of mitophagy have also been reported, which provides new opportunities to comprehend the procedure and potential of therapeutic development. Taken together, in this review, we summarize current understanding of the mechanism of mitophagy, discuss the roles of mitophagy and its relationship with diseases, introduce the existing small-molecule pharmacological modulators of mitophagy and further highlight the significance of their development."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3134727100",
+      "doi": "https://doi.org/10.1016/j.ebiom.2021.103244",
+      "title": "Pharmacological advances in mitochondrial therapy",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 111,
+      "abstract": "Mitochondria play a vital role in cellular metabolism and are central mediator of intracellular signalling, cell differentiation, morphogenesis and demise. An increasingly higher number of pathologies is linked with mitochondrial dysfunction, which can arise from either genetic defects affecting core mitochondrial components or malfunctioning pathways impairing mitochondrial homeostasis. As such, mitochondria are considered an important target in several pathologies spanning from neoplastic to neurodegenerative diseases as well as metabolic syndromes. In this review we provide an overview of the state-of-the-art in mitochondrial pharmacology, focusing on the novel compounds that have been generated in the bid to correct mitochondrial aberrations. Our work aims to serve the scientific community working on translational medical science by highlighting the most promising pharmacological approaches to target mitochondrial dysfunction in disease."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4386049932",
+      "doi": "https://doi.org/10.3390/ijms241713033",
+      "title": "Mitochondrial Dynamics in Neurodegenerative Diseases: Unraveling the Role of Fusion and Fission Processes",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 106,
+      "abstract": "Neurodegenerative diseases (NDs) are a diverse group of disorders characterized by the progressive degeneration and death of neurons, leading to a range of neurological symptoms. Despite the heterogeneity of these conditions, a common denominator is the implication of mitochondrial dysfunction in their pathogenesis. Mitochondria play a crucial role in creating biomolecules, providing energy through adenosine triphosphate (ATP) generated by oxidative phosphorylation (OXPHOS), and producing reactive oxygen species (ROS). When they're not functioning correctly, becoming fragmented and losing their membrane potential, they contribute to these diseases. In this review, we explore how mitochondria fuse and undergo fission, especially in the context of NDs. We discuss the genetic and protein mutations linked to these diseases and how they impact mitochondrial dynamics. We also look at the key regulatory proteins in fusion (MFN1, MFN2, and OPA1) and fission (DRP1 and FIS1), including their post-translational modifications. Furthermore, we highlight potential drugs that can influence mitochondrial dynamics. By unpacking these complex processes, we aim to direct research towards treatments that can improve life quality for people with these challenging conditions."
+    }
+  ],
+  "search:virtual screening Enamine REAL library blood-brain barrier permeability": [
+    {
+      "openalex_id": "https://openalex.org/W4367049415",
+      "doi": "https://doi.org/10.1038/s41586-023-05905-z",
+      "title": "Computational approaches streamlining drug discovery",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 1116,
+      "abstract": "Computer-aided drug discovery has been around for decades, although the past few years have seen a tectonic shift towards embracing computational technologies in both academia and pharma. This shift is largely defined by the flood of data on ligand properties and binding to therapeutic targets and their 3D structures, abundant computing capacities and the advent of on-demand virtual libraries of drug-like small molecules in their billions. Taking full advantage of these resources requires fast computational methods for effective ligand screening. This includes structure-based virtual screening of gigascale chemical spaces, further facilitated by fast iterative screening approaches. Highly synergistic are developments in deep learning predictions of ligand properties and target activities in lieu of receptor structure. Here we review recent advances in ligand discovery technologies, their potential for reshaping the whole process of drug discovery and development, as well as the challenges they encounter. We also discuss how the rapid identification of highly diverse, potent, target-selective and drug-like ligands to protein targets can democratize the drug discovery process, presenting new opportunities for the cost-effective development of safer and more effective small-molecule treatments."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2131802378",
+      "doi": "https://doi.org/10.1124/pr.110.003293",
+      "title": "Human Disease Models in Drosophila melanogaster and the Role of the Fly in Therapeutic Drug Discovery",
+      "type": "review",
+      "year": 2011,
+      "cited_by_count": 1112,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W4295095218",
+      "doi": "https://doi.org/10.1002/med.21925",
+      "title": "KEAP1‐NRF2 protein–protein interaction inhibitors: Design, pharmacological properties and therapeutic potential",
+      "type": "review",
+      "year": 2022,
+      "cited_by_count": 226,
+      "abstract": "The transcription factor nuclear factor erythroid 2-related factor 2 (NRF2) is considered the master regulator of the phase II antioxidant response. It controls a plethora of cytoprotective genes related to oxidative stress, inflammation, and protein homeostasis, among other processes. Activation of these pathways has been described in numerous pathologies including cancer, cardiovascular, respiratory, renal, digestive, metabolic, autoimmune, and neurodegenerative diseases. Considering the increasing interest of discovering novel NRF2 activators due to its clinical application, initial efforts were devoted to the development of electrophilic drugs able to induce NRF2 nuclear accumulation by targeting its natural repressor protein Kelch-like ECH-associated protein 1 (KEAP1) through covalent modifications on cysteine residues. However, off-target effects of these drugs prompted the development of an innovative strategy, the search of KEAP1-NRF2 protein-protein interaction (PPI) inhibitors. These innovative activators are proposed to target NRF2 in a more selective way, leading to potentially improved drugs with the application for a variety of diseases that are currently under investigation. In this review, we summarize known KEAP1-NRF2 PPI inhibitors to date and the bases of their design highlighting the most important features of their respective interactions. We also discuss the preclinical pharmacological properties described for the most promising compounds."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3158384021",
+      "doi": "https://doi.org/10.3390/ijms22094537",
+      "title": "Small-Molecule Inhibitors of the RNA M6A Demethylases FTO Potently Support the Survival of Dopamine Neurons",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 45,
+      "abstract": "The fat mass and obesity-associated protein (FTO), an RNA N6-methyladenosine (m6A) demethylase, is an important regulator of central nervous system development, neuronal signaling and disease. We present here the target-tailored development and biological characterization of small-molecule inhibitors of FTO. The active compounds were identified using high-throughput molecular docking and molecular dynamics screening of the ZINC compound library. In FTO binding and activity-inhibition assays the two best inhibitors demonstrated Kd = 185 nM; IC50 = 1.46 µM (compound 2) and Kd = 337 nM; IC50 = 28.9 µM (compound 3). Importantly, the treatment of mouse midbrain dopaminergic neurons with the compounds promoted cellular survival and rescued them from growth factor deprivation induced apoptosis already at nanomolar concentrations. Moreover, both the best inhibitors demonstrated good blood-brain-barrier penetration in the model system, 31.7% and 30.8%, respectively. The FTO inhibitors demonstrated increased potency as compared to our recently developed ALKBH5 m6A demethylase inhibitors in protecting dopamine neurons. Inhibition of m6A RNA demethylation by small-molecule drugs, as presented here, has therapeutic potential and provides tools for the identification of disease-modifying m6A RNAs in neurogenesis and neuroregeneration. Further refinement of the lead compounds identified in this study can also lead to unprecedented breakthroughs in the treatment of neurodegenerative diseases."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4391810305",
+      "doi": "https://doi.org/10.3390/ddc3010009",
+      "title": "Revolutionizing Drug Discovery: A Comprehensive Review of AI Applications",
+      "type": "review",
+      "year": 2024,
+      "cited_by_count": 87,
+      "abstract": "The drug discovery and development process is very lengthy, highly expensive, and extremely complex in nature. Considering the time and cost constraints associated with conventional drug discovery, new methods must be found to enhance the declining efficiency of traditional approaches. Artificial intelligence (AI) has emerged as a powerful tool that harnesses anthropomorphic knowledge and provides expedited solutions to complex challenges. Advancements in AI and machine learning (ML) techniques have revolutionized their applications to drug discovery and development. This review illuminates the profound influence of AI on diverse aspects of drug discovery, encompassing drug-target identification, molecular properties, compound analysis, drug development, quality assurance, and drug toxicity assessment. ML algorithms play an important role in testing systems and can predict important aspects such as the pharmacokinetics and toxicity of drug candidates. This review not only strengthens the theoretical foundation and development of this technology, but also explores the myriad challenges and promising prospects of AI in drug discovery and development. The combination of AI and drug discovery offers a promising strategy to overcome the challenges and complexities of the pharmaceutical industry."
+    }
+  ],
+  "search:mitochondrial ROS production DRP1 translocation assays": [
+    {
+      "openalex_id": "https://openalex.org/W2788640168",
+      "doi": "https://doi.org/10.1038/s41418-017-0012-4",
+      "title": "Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 6421,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2901021262",
+      "doi": "https://doi.org/10.1111/jcmm.13975",
+      "title": "Vildagliptin improves high glucose‐induced endothelial mitochondrial dysfunction via inhibiting mitochondrial fission",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 54,
+      "abstract": "The dipeptidyl peptidase 4 inhibitor vildagliptin (VLD), a widely used anti-diabetic drug, exerts favourable effects on vascular endothelium in diabetes. We determined for the first time the improving effects of VLD on mitochondrial dysfunction in diabetic mice and human umbilical vein endothelial cells (HUVECs) cultured under hyperglycaemic conditions, and further explored the mechanism behind the anti-diabetic activity. Mitochondrial ROS (mtROS) production was detected by fluorescent microscope and flow cytometry. Mitochondrial DNA damage and ATP synthesis were analysed by real time PCR and ATPlite assay, respectively. Mitochondrial network stained with MitoTracker Red to identify mitochondrial fragmentation was visualized under confocal microscopy. The expression levels of dynamin-related proteins (Drp1 and Fis1) were determined by immunoblotting. We found that VLD significantly reduced mtROS production and mitochondrial DNA damage, but enhanced ATP synthesis in endothelium under diabetic conditions. Moreover, VLD reduced the expression of Drp1 and Fis1, blocked Drp1 translocation into mitochondria, and blunted mitochondrial fragmentation induced by hyperglycaemia. As a result, mitochondrial dysfunction was alleviated and mitochondrial morphology was restored by VLD. Additionally, VLD promoted the phosphorylation of AMPK and its target acetyl-CoA carboxylase in the setting of high glucose, and AMPK activation led to a decreased expression and activation of Drp1. In conclusion, VLD improves endothelial mitochondrial dysfunction in diabetes, possibly through inhibiting Drp1-mediated mitochondrial fission in an AMPK-dependent manner."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2139636031",
+      "doi": "https://doi.org/10.1038/sj.emboj.7601963",
+      "title": "Fission and selective fusion govern mitochondrial segregation and elimination by autophagy",
+      "type": "article",
+      "year": 2008,
+      "cited_by_count": 3071,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2049016912",
+      "doi": "https://doi.org/10.1038/cdd.2012.81",
+      "title": "The pathways of mitophagy for quality control and clearance of mitochondria",
+      "type": "review",
+      "year": 2012,
+      "cited_by_count": 1823,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2124105006",
+      "doi": "https://doi.org/10.1042/bj20111451",
+      "title": "Autophagy, mitochondria and oxidative stress: cross-talk and redox signalling",
+      "type": "review",
+      "year": 2011,
+      "cited_by_count": 1421,
+      "abstract": "Reactive oxygen and nitrogen species change cellular responses through diverse mechanisms that are now being defined. At low levels, they are signalling molecules, and at high levels, they damage organelles, particularly the mitochondria. Oxidative damage and the associated mitochondrial dysfunction may result in energy depletion, accumulation of cytotoxic mediators and cell death. Understanding the interface between stress adaptation and cell death then is important for understanding redox biology and disease pathogenesis. Recent studies have found that one major sensor of redox signalling at this switch in cellular responses is autophagy. Autophagic activities are mediated by a complex molecular machinery including more than 30 Atg (AuTophaGy-related) proteins and 50 lysosomal hydrolases. Autophagosomes form membrane structures, sequester damaged, oxidized or dysfunctional intracellular components and organelles, and direct them to the lysosomes for degradation. This autophagic process is the sole known mechanism for mitochondrial turnover. It has been speculated that dysfunction of autophagy may result in abnormal mitochondrial function and oxidative or nitrative stress. Emerging investigations have provided new understanding of how autophagy of mitochondria (also known as mitophagy) is controlled, and the impact of autophagic dysfunction on cellular oxidative stress. The present review highlights recent studies on redox signalling in the regulation of autophagy, in the context of the basic mechanisms of mitophagy. Furthermore, we discuss the impact of autophagy on mitochondrial function and accumulation of reactive species. This is particularly relevant to degenerative diseases in which oxidative stress occurs over time, and dysfunction in both the mitochondrial and autophagic pathways play a role."
+    }
+  ],
+  "search:DRP1-FIS1 inhibitor scaffolds hit-to-lead optimization": [
+    {
+      "openalex_id": "https://openalex.org/W4327967379",
+      "doi": "https://doi.org/10.3390/ijms24065785",
+      "title": "The Drp1-Mediated Mitochondrial Fission Protein Interactome as an Emerging Core Player in Mitochondrial Dynamics and Cardiovascular Disease Therapy",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 164,
+      "abstract": "Mitochondria, the membrane-bound cell organelles that supply most of the energy needed for cell function, are highly regulated, dynamic organelles bearing the ability to alter both form and functionality rapidly to maintain normal physiological events and challenge stress to the cell. This amazingly vibrant movement and distribution of mitochondria within cells is controlled by the highly coordinated interplay between mitochondrial dynamic processes and fission and fusion events, as well as mitochondrial quality-control processes, mainly mitochondrial autophagy (also known as mitophagy). Fusion connects and unites neighboring depolarized mitochondria to derive a healthy and distinct mitochondrion. In contrast, fission segregates damaged mitochondria from intact and healthy counterparts and is followed by selective clearance of the damaged mitochondria via mitochondrial specific autophagy, i.e., mitophagy. Hence, the mitochondrial processes encompass all coordinated events of fusion, fission, mitophagy, and biogenesis for sustaining mitochondrial homeostasis. Accumulated evidence strongly suggests that mitochondrial impairment has already emerged as a core player in the pathogenesis, progression, and development of various human diseases, including cardiovascular ailments, the leading causes of death globally, which take an estimated 17.9 million lives each year. The crucial factor governing the fission process is the recruitment of dynamin-related protein 1 (Drp1), a GTPase that regulates mitochondrial fission, from the cytosol to the outer mitochondrial membrane in a guanosine triphosphate (GTP)-dependent manner, where it is oligomerized and self-assembles into spiral structures. In this review, we first aim to describe the structural elements, functionality, and regulatory mechanisms of the key mitochondrial fission protein, Drp1, and other mitochondrial fission adaptor proteins, including mitochondrial fission 1 (Fis1), mitochondrial fission factor (Mff), mitochondrial dynamics 49 (Mid49), and mitochondrial dynamics 51 (Mid51). The core area of the review focuses on the recent advances in understanding the role of the Drp1-mediated mitochondrial fission adaptor protein interactome to unravel the missing links of mitochondrial fission events. Lastly, we discuss the promising mitochondria-targeted therapeutic approaches that involve fission, as well as current evidence on Drp1-mediated fission protein interactions and their critical roles in the pathogeneses of cardiovascular diseases (CVDs)."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2967744807",
+      "doi": "https://doi.org/10.15252/embr.201947928",
+      "title": "Metabolic implications of organelle–mitochondria communication",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 168,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3197820799",
+      "doi": "https://doi.org/10.1038/s41467-021-25651-y",
+      "title": "Small-molecule suppression of calpastatin degradation reduces neuropathology in models of Huntington’s disease",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 62,
+      "abstract": "Mitochondrial dysfunction is a common hallmark of neurological disorders, and reducing mitochondrial damage is considered a promising neuroprotective therapeutic strategy. Here, we used high-throughput small molecule screening to identify CHIR99021 as a potent enhancer of mitochondrial function. CHIR99021 improved mitochondrial phenotypes and enhanced cell viability in several models of Huntington's disease (HD), a fatal inherited neurodegenerative disorder. Notably, CHIR99201 treatment reduced HD-associated neuropathology and behavioral defects in HD mice and improved mitochondrial function and cell survival in HD patient-derived neurons. Independent of its known inhibitory activity against glycogen synthase kinase 3 (GSK3), CHIR99021 treatment in HD models suppressed the proteasomal degradation of calpastatin (CAST), and subsequently inhibited calpain activation, a well-established effector of neural death, and Drp1, a driver of mitochondrial fragmentation. Our results established CAST-Drp1 as a druggable signaling axis in HD pathogenesis and highlighted CHIR99021 as a mitochondrial function enhancer and a potential lead for developing HD therapies."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2517737307",
+      "doi": "https://doi.org/10.3389/fnins.2016.00375",
+      "title": "Key Targets for Multi-Target Ligands Designed to Combat Neurodegeneration",
+      "type": "review",
+      "year": 2016,
+      "cited_by_count": 73,
+      "abstract": "HIGHLIGHTS Compounds that interact with multiple targets but minimally with the cytochrome P450 system (CYP) address the many factors leading to neurodegeneration.Acetyl- and Butyryl-cholineEsterases (AChE, BChE) and Monoamine Oxidases A/B (MAO A, MAO B) are targets for Multi-Target Designed Ligands (MTDL).ASS234 is an irreversible inhibitor of MAO A >MAO B and has micromolar potency against the cholinesterases.ASS234 is a poor CYP substrate in human liver, yielding the depropargylated metabolite.SMe1EC2, a stobadine derivative, showed high radical scavenging property, in vitro and in vivo giving protection in head trauma and diabetic damage of endothelium.Control of mitochondrial function and morphology by manipulating fission and fusion is emerging as a target area for therapeutic strategies to decrease the pathological outcome of neurodegenerative diseases. Growing evidence supports the view that neurodegenerative diseases have multiple and common mechanisms in their aetiologies. These multifactorial aspects have changed the broadly common assumption that selective drugs are superior to \"dirty drugs\" for use in therapy. This drives the research in studies of novel compounds that might have multiple action mechanisms. In neurodegeneration, loss of neuronal signaling is a major cause of the symptoms, so preservation of neurotransmitters by inhibiting the breakdown enzymes is a first approach. Acetylcholinesterase (AChE) inhibitors are the drugs preferentially used in AD and that one of these, rivastigmine, is licensed also for PD. Several studies have shown that monoamine oxidase (MAO) B, located mainly in glial cells, increases with age and is elevated in Alzheimer (AD) and Parkinson's Disease's (PD). Deprenyl, a MAO B inhibitor, significantly delays the initiation of levodopa treatment in PD patients. These indications underline that AChE and MAO are considered a necessary part of multi-target designed ligands (MTDL). However, both of these targets are simply symptomatic treatment so if new drugs are to prevent degeneration rather than compensate for loss of neurotransmitters, then oxidative stress and mitochondrial events must also be targeted. MAO inhibitors can protect neurons from apoptosis by mechanisms unrelated to enzyme inhibition. Understanding the involvement of MAO and other proteins in the induction and regulation of the apoptosis in mitochondria will aid progress toward strategies to prevent the loss of neurons. In general, the oxidative stress observed both in PD and AD indicate that antioxidant properties are a desirable part of MTDL molecules. After two or more properties are incorporated into one molecule, the passage from a lead compound to a therapeutic tool is strictly linked to its pharmacokinetic and toxicity. In this context the interaction of any new molecules with cytochrome P450 and other xenobiotic metabolic processes is a crucial point. The present review covers the biochemistry of enzymes targeted in the design of drugs against neurodegeneration and the cytochrome P450-dependent metabolism of MTDLs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4384932375",
+      "doi": "https://doi.org/10.3390/cells12141897",
+      "title": "The Role of Mitochondrial Dynamics and Mitotic Fission in Regulating the Cell Cycle in Cancer and Pulmonary Arterial Hypertension: Implications for Dynamin-Related Protein 1 and Mitofusin2 in Hyperproliferative Diseases",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 52,
+      "abstract": "Mitochondria, which generate ATP through aerobic respiration, also have important noncanonical functions. Mitochondria are dynamic organelles, that engage in fission (division), fusion (joining) and translocation. They also regulate intracellular calcium homeostasis, serve as oxygen-sensors, regulate inflammation, participate in cellular and organellar quality control and regulate the cell cycle. Mitochondrial fission is mediated by the large GTPase, dynamin-related protein 1 (Drp1) which, when activated, translocates to the outer mitochondrial membrane (OMM) where it interacts with binding proteins (Fis1, MFF, MiD49 and MiD51). At a site demarcated by the endoplasmic reticulum, fission proteins create a macromolecular ring that divides the organelle. The functional consequence of fission is contextual. Physiological fission in healthy, nonproliferating cells mediates organellar quality control, eliminating dysfunctional portions of the mitochondria via mitophagy. Pathological fission in somatic cells generates reactive oxygen species and triggers cell death. In dividing cells, Drp1-mediated mitotic fission is critical to cell cycle progression, ensuring that daughter cells receive equitable distribution of mitochondria. Mitochondrial fusion is regulated by the large GTPases mitofusin-1 (Mfn1) and mitofusin-2 (Mfn2), which fuse the OMM, and optic atrophy 1 (OPA-1), which fuses the inner mitochondrial membrane. Mitochondrial fusion mediates complementation, an important mitochondrial quality control mechanism. Fusion also favors oxidative metabolism, intracellular calcium homeostasis and inhibits cell proliferation. Mitochondrial lipids, cardiolipin and phosphatidic acid, also regulate fission and fusion, respectively. Here we review the role of mitochondrial dynamics in health and disease and discuss emerging concepts in the field, such as the role of central versus peripheral fission and the potential role of dynamin 2 (DNM2) as a fission mediator. In hyperproliferative diseases, such as pulmonary arterial hypertension and cancer, Drp1 and its binding partners are upregulated and activated, positing mitochondrial fission as an emerging therapeutic target."
+    }
+  ],
+  "search:mitochondrial dysfunction chronic inflammation neurodegenerative disease": [
+    {
+      "openalex_id": "https://openalex.org/W2057752710",
+      "doi": "https://doi.org/10.1155/2015/610813",
+      "title": "Interrelation of Oxidative Stress and Inflammation in Neurodegenerative Disease: Role of TNF",
+      "type": "review",
+      "year": 2015,
+      "cited_by_count": 726,
+      "abstract": "Neuroinflammation and mitochondrial dysfunction are common features of chronic neurodegenerative diseases of the central nervous system. Both conditions can lead to increased oxidative stress by excessive release of harmful reactive oxygen and nitrogen species (ROS and RNS), which further promote neuronal damage and subsequent inflammation resulting in a feed-forward loop of neurodegeneration. The cytokine tumor necrosis factor (TNF), a master regulator of the immune system, plays an important role in the propagation of inflammation due to the activation and recruitment of immune cells via its receptor TNF receptor 1 (TNFR1). Moreover, TNFR1 can directly induce oxidative stress by the activation of ROS and RNS producing enzymes. Both TNF-induced oxidative stress and inflammation interact and cooperate to promote neurodegeneration. However, TNF plays a dual role in neurodegenerative disease, since stimulation via its second receptor, TNFR2, is neuroprotective and promotes tissue regeneration. Here we review the interrelation of oxidative stress and inflammation in the two major chronic neurodegenerative diseases, Alzheimer's and Parkinson's disease, and discuss the dual role of TNF in promoting neurodegeneration and tissue regeneration via its two receptors."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2347041376",
+      "doi": "https://doi.org/10.1016/j.bbadis.2016.04.017",
+      "title": "Common neurodegenerative pathways in obesity, diabetes, and Alzheimer's disease",
+      "type": "review",
+      "year": 2016,
+      "cited_by_count": 684,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2002207827",
+      "doi": "https://doi.org/10.3389/fncel.2014.00213",
+      "title": "A Molecular Web: Endoplasmic Reticulum Stress, Inflammation, and Oxidative Stress",
+      "type": "review",
+      "year": 2014,
+      "cited_by_count": 599,
+      "abstract": "Execution of fundamental cellular functions demands regulated protein folding homeostasis. Endoplasmic reticulum (ER) is an active organelle existing to implement this function by folding and modifying secretory and membrane proteins. Loss of protein folding homeostasis is central to various diseases and budding evidences suggest ER stress as being a major contributor in the development or pathology of a diseased state besides other cellular stresses. The trigger for diseases may be diverse but, inflammation and/or ER stress may be basic mechanisms increasing the severity or complicating the condition of the disease. Chronic ER stress and activation of the unfolded-protein response (UPR) through endogenous or exogenous insults may result in impaired calcium and redox homeostasis, oxidative stress via protein overload thereby also influencing vital mitochondrial functions. Calcium released from the ER augments the production of mitochondrial Reactive Oxygen Species (ROS). Toxic accumulation of ROS within ER and mitochondria disturbs fundamental organelle functions. Sustained ER stress is known to potentially elicit inflammatory responses via UPR pathways. Additionally, ROS generated through inflammation or mitochondrial dysfunction could accelerate ER malfunction. Dysfunctional UPR pathways have been associated with a wide range of diseases including several neurodegenerative diseases, stroke, metabolic disorders, cancer, inflammatory disease, diabetes mellitus, cardiovascular disease, and others. In this review, we have discussed the UPR signaling pathways, and networking between ER stress-induced inflammatory pathways, oxidative stress, and mitochondrial signaling events, which further induce or exacerbate ER stress."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4323318796",
+      "doi": "https://doi.org/10.3390/antiox12030651",
+      "title": "Aging Hallmarks and the Role of Oxidative Stress",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 372,
+      "abstract": "Aging is a complex biological process accompanied by a progressive decline in the physical function of the organism and an increased risk of age-related chronic diseases such as cardiovascular diseases, cancer, and neurodegenerative diseases. Studies have established that there exist nine hallmarks of the aging process, including (i) telomere shortening, (ii) genomic instability, (iii) epigenetic modifications, (iv) mitochondrial dysfunction, (v) loss of proteostasis, (vi) dysregulated nutrient sensing, (vii) stem cell exhaustion, (viii) cellular senescence, and (ix) altered cellular communication. All these alterations have been linked to sustained systemic inflammation, and these mechanisms contribute to the aging process in timing not clearly determined yet. Nevertheless, mitochondrial dysfunction is one of the most important mechanisms contributing to the aging process. Mitochondria is the primary endogenous source of reactive oxygen species (ROS). During the aging process, there is a decline in ATP production and elevated ROS production together with a decline in the antioxidant defense. Elevated ROS levels can cause oxidative stress and severe damage to the cell, organelle membranes, DNA, lipids, and proteins. This damage contributes to the aging phenotype. In this review, we summarize recent advances in the mechanisms of aging with an emphasis on mitochondrial dysfunction and ROS production."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2052249006",
+      "doi": "https://doi.org/10.2147/ndt.s65815",
+      "title": "Neuroinflammatory responses to traumatic brain injury: etiology, clinical consequences, and&amp;nbsp;therapeutic opportunities",
+      "type": "review",
+      "year": 2015,
+      "cited_by_count": 413,
+      "abstract": "Traumatic brain injury (TBI) is a serious public health problem accounting for 1.4 million emergency room visits by US citizens each year. Although TBI has been traditionally considered an acute injury, chronic symptoms reminiscent of neurodegenerative disorders have now been recognized. These progressive neurodegenerative-like symptoms manifest as impaired motor and cognitive skills, as well as stress, anxiety, and mood affective behavioral alterations. TBI, characterized by external bumps or blows to the head exceeding the brain's protective capacity, causes physical damage to the central nervous system with accompanying neurological dysfunctions. The primary impact results in direct neural cell loss predominantly exhibiting necrotic death, which is then followed by a wave of secondary injury cascades including excitotoxicity, oxidative stress, mitochondrial dysfunction, blood-brain barrier disruption, and inflammation. All these processes exacerbate the damage, worsen the clinical outcomes, and persist as an evolving pathological hallmark of what we now describe as chronic TBI. Neuroinflammation in the acute stage of TBI mobilizes immune cells, astrocytes, cytokines, and chemokines toward the site of injury to mount an antiinflammatory response against brain damage; however, in the chronic stage, excess activation of these inflammatory elements contributes to an \"inflamed\" brain microenvironment that principally contributes to secondary cell death in TBI. Modulating these inflammatory cells by changing their phenotype from proinflammatory to antiinflammatory would likely promote therapeutic effects on TBI. Because neuroinflammation occurs at acute and chronic stages after the primary insult in TBI, a treatment targeting neuroinflammation may have a wider therapeutic window for TBI. To this end, a better understanding of TBI etiology and clinical manifestations, especially the pathological presentation of chronic TBI with neuroinflammation as a major component, will advance our knowledge on inflammation-based disease mechanisms and treatments."
+    }
+  ],
+  "search:DRP1-FIS1 inhibition mitochondrial dysfunction chronic inflammation": [
+    {
+      "openalex_id": "https://openalex.org/W2751635377",
+      "doi": "https://doi.org/10.1016/j.kint.2017.05.034",
+      "title": "The hallmarks of mitochondrial dysfunction in chronic kidney disease",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 434,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2791564057",
+      "doi": "https://doi.org/10.1161/circresaha.117.311401",
+      "title": "Reactive Oxygen Species in Metabolic and Inflammatory Signaling",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 1988,
+      "abstract": "Reactive oxygen species (ROS) are well known for their role in mediating both physiological and pathophysiological signal transduction. Enzymes and subcellular compartments that typically produce ROS are associated with metabolic regulation, and diseases associated with metabolic dysfunction may be influenced by changes in redox balance. In this review, we summarize the current literature surrounding ROS and their role in metabolic and inflammatory regulation, focusing on ROS signal transduction and its relationship to disease progression. In particular, we examine ROS production in compartments such as the cytoplasm, mitochondria, peroxisome, and endoplasmic reticulum and discuss how ROS influence metabolic processes such as proteasome function, autophagy, and general inflammatory signaling. We also summarize and highlight the role of ROS in the regulation metabolic/inflammatory diseases including atherosclerosis, diabetes mellitus, and stroke. In order to develop therapies that target oxidative signaling, it is vital to understand the balance ROS signaling plays in both physiology and pathophysiology, and how manipulation of this balance and the identity of the ROS may influence cellular and tissue homeostasis. An increased understanding of specific sources of ROS production and an appreciation for how ROS influence cellular metabolism may help guide us in the effort to treat cardiovascular diseases."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2750514629",
+      "doi": "https://doi.org/10.1038/nrneph.2017.107",
+      "title": "Mitochondrial energetics in the kidney",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 1275,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W4386448978",
+      "doi": "https://doi.org/10.1038/s41392-023-01547-9",
+      "title": "Mitochondrial dynamics in health and disease: mechanisms and potential targets",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 1078,
+      "abstract": "Mitochondria are organelles that are able to adjust and respond to different stressors and metabolic needs within a cell, showcasing their plasticity and dynamic nature. These abilities allow them to effectively coordinate various cellular functions. Mitochondrial dynamics refers to the changing process of fission, fusion, mitophagy and transport, which is crucial for optimal function in signal transduction and metabolism. An imbalance in mitochondrial dynamics can disrupt mitochondrial function, leading to abnormal cellular fate, and a range of diseases, including neurodegenerative disorders, metabolic diseases, cardiovascular diseases and cancers. Herein, we review the mechanism of mitochondrial dynamics, and its impacts on cellular function. We also delve into the changes that occur in mitochondrial dynamics during health and disease, and offer novel perspectives on how to target the modulation of mitochondrial dynamics."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4396936983",
+      "doi": "https://doi.org/10.1038/s41392-024-01839-8",
+      "title": "Mitochondrial dysfunction: mechanisms and advances in therapy",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 923,
+      "abstract": "Mitochondria, with their intricate networks of functions and information processing, are pivotal in both health regulation and disease progression. Particularly, mitochondrial dysfunctions are identified in many common pathologies, including cardiovascular diseases, neurodegeneration, metabolic syndrome, and cancer. However, the multifaceted nature and elusive phenotypic threshold of mitochondrial dysfunction complicate our understanding of their contributions to diseases. Nonetheless, these complexities do not prevent mitochondria from being among the most important therapeutic targets. In recent years, strategies targeting mitochondrial dysfunction have continuously emerged and transitioned to clinical trials. Advanced intervention such as using healthy mitochondria to replenish or replace damaged mitochondria, has shown promise in preclinical trials of various diseases. Mitochondrial components, including mtDNA, mitochondria-located microRNA, and associated proteins can be potential therapeutic agents to augment mitochondrial function in immunometabolic diseases and tissue injuries. Here, we review current knowledge of mitochondrial pathophysiology in concrete examples of common diseases. We also summarize current strategies to treat mitochondrial dysfunction from the perspective of dietary supplements and targeted therapies, as well as the clinical translational situation of related pharmacology agents. Finally, this review discusses the innovations and potential applications of mitochondrial transplantation as an advanced and promising treatment."
+    }
+  ],
+  "search:brain-penetrant pharmacology CNS applications": [
+    {
+      "openalex_id": "https://openalex.org/W2593436234",
+      "doi": "https://doi.org/10.1038/srep42717",
+      "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "type": "article",
+      "year": 2017,
+      "cited_by_count": 16734,
+      "abstract": "To be effective as a drug, a potent molecule must reach its target in the body in sufficient concentration, and stay there in a bioactive form long enough for the expected biologic events to occur. Drug development involves assessment of absorption, distribution, metabolism and excretion (ADME) increasingly earlier in the discovery process, at a stage when considered compounds are numerous but access to the physical samples is limited. In that context, computer models constitute valid alternatives to experiments. Here, we present the new SwissADME web tool that gives free access to a pool of fast yet robust predictive models for physicochemical properties, pharmacokinetics, drug-likeness and medicinal chemistry friendliness, among which in-house proficient methods such as the BOILED-Egg, iLOGP and Bioavailability Radar. Easy efficient input and interpretation are ensured thanks to a user-friendly interface through the login-free website http://www.swissadme.ch. Specialists, but also nonexpert in cheminformatics or computational chemistry can predict rapidly key parameters for a collection of molecules to support their drug discovery endeavours."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2106485520",
+      "doi": "https://doi.org/10.1517/17460441.2012.660914",
+      "title": "Recent advances in the drug discovery of metabotropic glutamate receptor 4 (mGluR4) activators for the treatment of CNS and non-CNS disorders",
+      "type": "review",
+      "year": 2012,
+      "cited_by_count": 37,
+      "abstract": "INTRODUCTION: The metabotropic glutamate receptor type 4 (mGluR4) plays a pivotal role in a plethora of therapeutic areas, as recently demonstrated in preclinical validation studies with several chemical classes of compounds in rodent models of central nervous system (CNS) and peripheral disorders. Activation of mGluR4 with orthosteric agonists, allosteric agonists or pure positive allosteric modulators (PAM) has been postulated to be of broad therapeutic use. AREAS COVERED: The authors address past and current drug discovery efforts, insights and achievements in the field toward the identification of therapeutically promising and emerging class of mGluR4 activators, over the 2005 - 2011 period. Chemical structures, properties and in vivo pharmacological results discussed in the present review were retrieved from public literature including PubMed searches, Thomson Pharma and SciFinder databases searches, conferences, proceedings and posters. EXPERT OPINION: Developing a subtype-selective, orally bioavailable brain penetrant mGluR4 orthosteric agonist remains challenging. Lack of subtype selectivity and low brain penetration has been a common limitation of the first generation of mGluR4 agonist and potentiators. However, significant progress has recently been made with the identification of several double- to single-digit nanomolar mGluR4 PAM having reasonable pharmacokinetic properties, oral bioavailability and brain penetration. The use of such compounds in research has led to advancement in understanding the central role of mGluR4 in multiple neurodegenerative and neuroinflammatory disorders, such as Parkinson's disease and multiple sclerosis. Our understanding of the potential application of mGluR4 as therapeutic target is expected to grow as these compounds advance into preclinical and clinical development."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2155214429",
+      "doi": "https://doi.org/10.1101/gad.1653708",
+      "title": "Role of platelet-derived growth factors in physiology and medicine",
+      "type": "review",
+      "year": 2008,
+      "cited_by_count": 2423,
+      "abstract": "Platelet-derived growth factors (PDGFs) and their receptors (PDGFRs) have served as prototypes for growth factor and receptor tyrosine kinase function for more than 25 years. Studies of PDGFs and PDGFRs in animal development have revealed roles for PDGFR-alpha signaling in gastrulation and in the development of the cranial and cardiac neural crest, gonads, lung, intestine, skin, CNS, and skeleton. Similarly, roles for PDGFR-beta signaling have been established in blood vessel formation and early hematopoiesis. PDGF signaling is implicated in a range of diseases. Autocrine activation of PDGF signaling pathways is involved in certain gliomas, sarcomas, and leukemias. Paracrine PDGF signaling is commonly observed in epithelial cancers, where it triggers stromal recruitment and may be involved in epithelial-mesenchymal transition, thereby affecting tumor growth, angiogenesis, invasion, and metastasis. PDGFs drive pathological mesenchymal responses in vascular disorders such as atherosclerosis, restenosis, pulmonary hypertension, and retinal diseases, as well as in fibrotic diseases, including pulmonary fibrosis, liver cirrhosis, scleroderma, glomerulosclerosis, and cardiac fibrosis. We review basic aspects of the PDGF ligands and receptors, their developmental and pathological functions, principles of their pharmacological inhibition, and results using PDGF pathway-inhibitory or stimulatory drugs in preclinical and clinical contexts."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2253685848",
+      "doi": "https://doi.org/10.1038/nrdp.2015.71",
+      "title": "22q11.2 deletion syndrome",
+      "type": "review",
+      "year": 2015,
+      "cited_by_count": 2230,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W1984548348",
+      "doi": "https://doi.org/10.1038/nrd4363",
+      "title": "Overcoming the challenges in administering biopharmaceuticals: formulation and delivery strategies",
+      "type": "review",
+      "year": 2014,
+      "cited_by_count": 1630,
+      "abstract": null
+    }
+  ],
+  "search:pipeline-in-a-pill strategy modular approach rare CNS indications": [
+    {
+      "openalex_id": "https://openalex.org/W2034265369",
+      "doi": "https://doi.org/10.1016/j.euprot.2014.05.003",
+      "title": "The emergence of peptides in the pharmaceutical business: From exploration to exploitation",
+      "type": "article",
+      "year": 2014,
+      "cited_by_count": 447,
+      "abstract": "This minireview touches upon the challenges and opportunities peptides experience on the track to become an approved pharmaceutical. Peptide attributes originally considered troublesome with respect to drug development may now turn out to be more convenient rather than unfavourable. Besides characteristic high target affinity, biological peptides often exhibit higher than expected stability. Clearly natural selective pressure has optimised these biomolecules beyond what can be anticipated solely on the basis of their chemical nature. This concept is gradually finding its way into the pharma and biotech industry, as illustrated by a rise in medicinal peptide patent applications and developmental work."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3112951420",
+      "doi": "https://doi.org/10.1002/med.21764",
+      "title": "Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions",
+      "type": "review",
+      "year": 2020,
+      "cited_by_count": 401,
+      "abstract": "Neurological disorders significantly outnumber diseases in other therapeutic areas. However, developing drugs for central nervous system (CNS) disorders remains the most challenging area in drug discovery, accompanied with the long timelines and high attrition rates. With the rapid growth of biomedical data enabled by advanced experimental technologies, artificial intelligence (AI) and machine learning (ML) have emerged as an indispensable tool to draw meaningful insights and improve decision making in drug discovery. Thanks to the advancements in AI and ML algorithms, now the AI/ML-driven solutions have an unprecedented potential to accelerate the process of CNS drug discovery with better success rate. In this review, we comprehensively summarize AI/ML-powered pharmaceutical discovery efforts and their implementations in the CNS area. After introducing the AI/ML models as well as the conceptualization and data preparation, we outline the applications of AI/ML technologies to several key procedures in drug discovery, including target identification, compound screening, hit/lead generation and optimization, drug response and synergy prediction, de novo drug design, and drug repurposing. We review the current state-of-the-art of AI/ML-guided CNS drug discovery, focusing on blood-brain barrier permeability prediction and implementation into therapeutic discovery for neurological diseases. Finally, we discuss the major challenges and limitations of current approaches and possible future directions that may provide resolutions to these difficulties."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415207177",
+      "doi": "https://doi.org/10.3390/pharmaceutics17101336",
+      "title": "Exosome-Based Drug Delivery: A Next-Generation Platform for Cancer, Infection, Neurological and Immunological Diseases, Gene Therapy and Regenerative Medicine",
+      "type": "review",
+      "year": 2025,
+      "cited_by_count": 46,
+      "abstract": "Exosomes, naturally derived extracellular vesicles, have emerged as powerful bio-nanocarriers in precision medicine. Their endogenous origin, biocompatibility, and ability to encapsulate and deliver diverse therapeutic payloads position them as transformative tools in drug delivery, gene therapy, and regenerative medicine. This review presents a comprehensive analysis of exosome-based therapeutics across multiple biomedical domains, including cancer, neurological and infectious diseases, immune modulation, and tissue repair. Exosomes derived from stem cells, immune cells, or engineered lines can be loaded with small molecules, RNA, or CRISPR-Cas systems, offering highly specific and low-immunogenic alternatives to viral vectors or synthetic nanoparticles. We explore endogenous and exogenous loading strategies, surface functionalization techniques for targeted delivery, and innovations that allow exosomes to traverse physiological barriers such as the blood-brain barrier. Furthermore, exosomes demonstrate immunomodulatory and regenerative properties in autoimmune and degenerative conditions, with promising roles in skin rejuvenation and cosmeceuticals. Despite their potential, challenges remain in large-scale production, cargo loading efficiency, and regulatory translation. Recent clinical trials and industry efforts underscore the accelerating momentum in this field. Exosomes represent a promising platform in precision medicine, though further standardization and validation are required before widespread clinical use. This review offers critical insights into current technologies, therapeutic mechanisms, and future directions to unlock the full translational potential of exosomes in clinical practice."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4205434268",
+      "doi": "https://doi.org/10.1146/annurev-pharmtox-052120-093517",
+      "title": "Patient Centricity Driving Formulation Innovation: Improvements in Patient Care Facilitated by Novel Therapeutics and Drug Delivery Technologies",
+      "type": "review",
+      "year": 2022,
+      "cited_by_count": 28,
+      "abstract": "Innovative formulation technologies can play a crucial role in transforming a novel molecule to a medicine that significantly enhances patients' lives. Improved mechanistic understanding of diseases has inspired researchers to expand the druggable space using new therapeutic modalities such as interfering RNA, protein degraders, and novel formats of monoclonal antibodies. Sophisticated formulation strategies are needed to deliver the drugs to their sites of action and to achieve patient centricity, exemplified by messenger RNA vaccines and oral peptides. Moreover, access to medical information via digital platforms has resulted in better-informed patient groups that are requesting consideration of their needs during drug development. This request is consistent with health authority efforts to upgrade their regulations to advance age-appropriate product development for patients. This review describes formulation innovations contributingto improvements in patient care: convenience of administration, preferred route of administration, reducing dosing burden, and achieving targeted delivery of new modalities."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3111245861",
+      "doi": "https://doi.org/10.1016/j.therap.2020.12.007",
+      "title": "Innovative approaches in CNS clinical drug development: Quantitative systems pharmacology",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 5,
+      "abstract": "Clinical trials involving brain disorders are notoriously difficult to set up and run. Innovative ways to develop effective prevention and treatment strategies for central nervous system (CNS) diseases are urgently needed. New approaches that are likely to renew or at least modify the paradigms used so far have been recently proposed. Quantitative systems pharmacology (QSP) uses mathematical computerized models to characterize biological systems, disease processes and CNS drug pharmacology. Integrated experimental medicine should increase the probability and predictability of success while controlling clinical trials costs. Finally, the societal perspective and patient empowerment also offer additional approaches to demonstrate the benefit of a new drug in the CNS field."
+    }
+  ]
+}

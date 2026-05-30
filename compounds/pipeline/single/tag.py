@@ -226,8 +226,12 @@ def chat_completion(
         )
         if seed_val is not None:
             kw["seed"] = seed_val
+        extra_body = {
+            "top_k": -1,
+            "chat_template_kwargs": {"enable_thinking": False},
+        }
         try:
-            return client.chat.completions.create(**kw, extra_body={"top_k": -1})
+            return client.chat.completions.create(**kw, extra_body=extra_body)
         except TypeError:
             return client.chat.completions.create(**kw)
 

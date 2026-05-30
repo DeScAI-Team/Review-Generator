@@ -1,0 +1,424 @@
+{
+  "per_document_reviews": [
+    {
+      "filename": "Development Timeline & Milestones",
+      "research_name": "vitafast-202512updates",
+      "article_type": "empirical",
+      "composite_score": 0.5117,
+      "review_date": "May 22, 2026",
+      "dimensions_scored": [
+        "scientific_rigor",
+        "originality",
+        "real_world_traction",
+        "execution_credibility",
+        "evidential_strength",
+        "financial_integrity",
+        "team_credibility"
+      ],
+      "review_path": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\VITA-FAST\\docs\\Development Timeline & Milestones\\output\\review.json"
+    },
+    {
+      "filename": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+      "research_name": "vita-fast-whitepaper",
+      "article_type": "empirical",
+      "composite_score": 0.4898,
+      "review_date": "May 22, 2026",
+      "dimensions_scored": [
+        "execution_credibility",
+        "real_world_traction",
+        "financial_integrity",
+        "originality",
+        "team_credibility",
+        "scientific_rigor",
+        "evidential_strength"
+      ],
+      "review_path": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\VITA-FAST\\docs\\Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University\\output\\review.json"
+    },
+    {
+      "filename": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+      "research_name": "vdp-16-fundingproposal",
+      "article_type": "empirical",
+      "composite_score": 0.502,
+      "review_date": "May 22, 2026",
+      "dimensions_scored": [
+        "originality",
+        "scientific_rigor",
+        "execution_credibility",
+        "evidential_strength",
+        "financial_integrity",
+        "team_credibility"
+      ],
+      "review_path": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\VITA-FAST\\docs\\VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal\\output\\review.json"
+    },
+    {
+      "filename": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+      "research_name": "vitafast-to-use-molecules-coin-to-company-legal-framework",
+      "article_type": "empirical",
+      "composite_score": 0.5151,
+      "review_date": "May 22, 2026",
+      "dimensions_scored": [
+        "team_credibility",
+        "financial_integrity",
+        "scientific_rigor",
+        "originality",
+        "evidential_strength",
+        "execution_credibility"
+      ],
+      "review_path": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\VITA-FAST\\docs\\VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner\\output\\review.json"
+    }
+  ],
+  "categories": {
+    "scientific_rigor": {
+      "score": 0.3652,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 133,
+      "rationale": "Of 57 claims evaluated for Scientific Rigor, 0 had strong or moderate external evidence support, 14 were self-reported findings or methodology, and 32 were unsupported or unreferenced. Across the entire dataset, there is a complete absence of claims backed by strong or moderate external evidence, indicating that no assertions in this evaluation dimension were supported by retrievable, high-quality literature. The evidence base is overwhelmingly composed of internal assertions, with the majority of claims falling into the unsupported or unreferenced category. This pattern persists consistently across diverse topics, including drug screening outcomes, mechanistic distinctions, disease pathology, and platform potential, where specific milestones and completed compounds are described without inline citations. A significant portion of the text relies on self-reported findings and methodology, which appropriately describe the manuscript's own experiments, such as cell phenotype data, assay validation, and planned experimental procedures. While these internal reports are logically consistent with the project's stated goals, they lack independent verification from cited literature. Consequently, critical claims regarding the identification of autophagy inducers, the specific biological effects of small molecules, and the validity of modeling approaches remain uncorroborated by external studies. The document frequently asserts novel distinctions, such as the difference between its compounds and mTOR inhibitors, yet fails to provide references to confirm the novelty or established relevance of these targets. Furthermore, a substantial number of claims are marked as unverifiable because the specific references cited within the text could not be retrieved from external databases. This issue affects assertions about foundational biology, such as the crosstalk between NAD, ROS, and autophagy, as well as claims concerning market growth and disease mechanisms. Even when the text explicitly lists sources, the inability to access these documents prevents independent confirmation of the stated facts, rendering the evidence base fragile. The reliance on internal documentation to validate complex biological interactions and strategic directions creates a significant gap where the scientific foundation cannot be cross-referenced with the broader scientific record. The overall quality of evidence is critically limited by this heavy dependence on the authors' own reports rather than established external literature. While the internal logic of the claims appears sound based on the provided text, the absence of accessible, citable sources significantly undermines the ability to assess the validity of the research directions and the credibility of the research foundation. The pattern suggests a systematic failure to integrate independent, verifiable sources for core scientific assertions, leaving the confidence in these findings constrained by the inability to confirm them against the existing body of knowledge. Future iterations of the document would require stronger evidentiary support to substantiate these critical claims and bridge the gap between internal assertions and external validation.\n\n[Document screener \u2014 1 additional observation(s)]: The document demonstrates a strong methodological signal by explicitly using negative controls, such as Atg5-/- cells, to validate the specificity of autophagy activation in Npc1-/- models. This approach indicates careful experimental design regarding mechanism validation. However, the brevity of this description in the overview document suggests that the full experimental design and statistical power analysis are absent from this specific text window. While the internal logic of using these controls appears sound, the lack of detailed reporting limits the ability to fully assess the robustness of the scientific rigor based solely on this text. This observation adds a positive note on experimental specificity to the broader context of limited external evidence found in the claim-level review.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.3628,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.3702,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 0.361,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 0.3702,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        }
+      ]
+    },
+    "originality": {
+      "score": 1.0,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 0,
+      "rationale": "Of 18 claims evaluated for Originality, 0 had strong or moderate external evidence support, 1 were self-reported findings or methodology, and 13 were unsupported or unreferenced. The overwhelming majority of assertions regarding novel mechanisms, drug approvals, and platform applicability lack inline citations, which prevents independent verification of these critical scientific statements. Specific factual claims, such as the identification of twelve new autophagy inducers or the distinction from existing mTOR inhibitors, are graded as unreferenced because the source text makes these assertions without providing supporting literature. Similarly, descriptions of completed milestones and broad applicability claims rely solely on internal documentation, leaving the evidence base devoid of external validation. While procedural descriptions of computational analysis are appropriately characterized as self-reported methods, several claims citing specific foundational publications could not be retrieved from external databases, rendering them unverifiable despite the presence of internal references. This inability to access cited sources creates a significant barrier to assessing the robustness of assertions against prior research. Furthermore, a number of claims are unsupported because the text describes intended patent scopes or future plans rather than presenting actual experimental results or data. The pattern across the evaluation reveals a critical gap in external validation, as nearly all assertions depend exclusively on the document's internal narrative without corroborating references. This limitation significantly reduces the overall confidence in the reported scientific progress and commercial viability, making it difficult to distinguish between well-established facts and novel, unverified hypotheses. The absence of citations for community engagement strategies and market need further compounds the issue, as these areas are often reliant on external data that is not provided. Consequently, the current evidence base is characterized by a heavy reliance on internal assertions, which hinders the ability to confirm the novelty and validity of the research trajectory outlined. While the document clearly defines a specific research path and identifies potential differentiators, the lack of external references means these claims cannot be independently confirmed. This situation suggests that while the authors have a clear vision, the supporting evidence required to substantiate their claims within the scientific community is currently missing. The result is a body of work that outlines ambitious goals and specific findings but fails to provide the necessary external anchors to validate them. Ultimately, the evaluation indicates that the claims rest on a foundation of internal logic rather than external proof, which is a substantial weakness in establishing the originality and credibility of the research presented.\n\n[Document screener \u2014 1 additional observation(s)]: The document asserts a specific business novelty by claiming to be the 'first DeSci fractionalized IPT' on the Molecule protocol, which represents a new approach to IP management rather than a new scientific mechanism. This claim is categorized as informational context regarding the project's intellectual property status and does not directly address the originality of the therapeutic compounds themselves. While the document describes targeting known autophagy pathways with new compounds, the screener findings do not provide independent evidence to verify if these specific compounds or their combination represent a genuine scientific breakthrough. Consequently, the assertion of novelty relies heavily on the project's internal narrative about its commercial model, leaving the scientific distinctiveness of the therapeutic approach unverified by external data.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 1.0,
+          "method": "literature_similarity",
+          "article_type": "empirical",
+          "type_weight": 0.15
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 1.0,
+          "method": "literature_similarity",
+          "article_type": "empirical",
+          "type_weight": 0.15
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 1.0,
+          "method": "literature_similarity",
+          "article_type": "empirical",
+          "type_weight": 0.15
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 1.0,
+          "method": "literature_similarity",
+          "article_type": "empirical",
+          "type_weight": 0.15
+        }
+      ]
+    },
+    "real_world_traction": {
+      "score": 0.3631,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 2,
+      "total_claims": 5,
+      "rationale": "Of 2 claims in this subset relating to the scientific foundation and community engagement, 0 had strong or moderate external evidence, 0 were self-reported findings, and 2 were unsupported or unreferenced. The first claim regarding universal autophagy decline was deemed supported by the text but assigned an unverifiable grade because all cited references could not be retrieved from OpenAlex. This indicates a critical gap in external verification, as the paper relies on citations that are inaccessible to independent researchers. Consequently, the assertion of universal applicability for longevity interventions lacks substantiated external proof within the available evidence base. The second claim concerning community-driven engagement was also deemed supported by internal text but received an unreferenced grade due to the absence of inline citations. This suggests the authors may be relying on internal documentation rather than peer-reviewed literature to validate their engagement strategies. While the internal logic of both claims appears consistent with the provided text, the lack of retrievable or cited external sources prevents a robust assessment of their factual accuracy. The evidence quality for this dimension is currently compromised by the inability to verify key assertions through independent, accessible references. Without these external anchors, the claims remain assertions of fact rather than evidence-based conclusions, limiting the overall credibility of the research foundation presented in this chunk.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.3827,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        }
+      ]
+    },
+    "execution_credibility": {
+      "score": 0.3603,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 31,
+      "rationale": "Of 13 claims evaluated for Execution Credibility, 0 had strong or moderate external evidence support, 2 were self-reported findings or methodology, and 7 were unsupported or unreferenced. The analysis reveals a pervasive lack of external corroboration across both forward-looking strategic plans and internal operational details. Claims describing specific project milestones, such as screening second-generation compounds and collaborating with Newcastle University, rely entirely on the whitepaper's text without inline citations to verify these assertions externally. Similarly, assertions regarding IP-NFT development and potential future indications for Alzheimer's disease lack any supporting references, leaving their accuracy dependent solely on the authors' statements. While claims detailing the progression to Phase 1 and Phase 3 clinical trials are mentioned, the document provides no data or specific details to substantiate these claims, highlighting a significant gap in concrete evidence for later-stage plans. Furthermore, several critical assertions regarding incentives, liquidity pools, and risk factors are marked as unreferenced despite being central to the research, indicating a general failure to provide inline citations to support key statements. The majority of claims describing tokenomics, sale structures, and vesting schedules are appropriately graded as self-reported methods, as these sections describe the project's own internal procedures rather than external facts requiring citation. However, even within these internal descriptions, the absence of external verification limits the overall robustness of the evidence base. One claim concerning historical facility transitions is graded as unverifiable because the cited references could not be retrieved, suggesting potential issues with source availability or citation accuracy. This inability to retrieve cited sources creates a significant gap in external validation for critical future steps and historical details alike. Consequently, the evidence quality for this dimension is constrained by the inability to independently confirm the timeline, feasibility, and operational specifics of the proposed research trajectory. The document presents a pattern where forward-looking statements and strategic plans are offered without external corroboration, relying heavily on self-declaration. This absence of verifiable sources for key developmental stages and operational procedures means that the validity of the project's claims remains unproven by independent data. The reliance on self-reported information or missing citations fundamentally undermines the credibility of the execution plan, as there is no retrievable proof for specific procedural and historical assertions. Ultimately, the whitepaper functions as a statement of intent rather than a documented record of verified progress, leaving readers unable to distinguish between established facts and unsubstantiated projections. The lack of retrievable citations for Phase 3 trials and historical transitions further exacerbates the uncertainty surrounding the project's actual status and future capabilities.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.3648,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 0.3657,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        }
+      ]
+    },
+    "evidential_strength": {
+      "score": 0.3614,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 24,
+      "rationale": "Of 13 claims evaluated for Evidential Strength, 0 had strong or moderate external evidence support, 4 were self-reported findings or methodology, and 7 were unsupported or unreferenced. The analysis reveals a pervasive absence of external corroboration across core research assertions, ranging from lead compound potency and mechanistic differentiation to specific autophagy interventions. No claim achieved a grade of strong or moderate external evidence, indicating that the manuscript relies almost entirely on internal narrative rather than established, independently retrievable literature. A significant portion of the text describes experimental outcomes, such as potency benchmarking against rapamycin or lysosomal rescue effects, as self-reported findings. These assertions represent the paper's own results and are therefore classified as self-reported, which is appropriate for describing study outcomes but does not constitute external verification of the specific numerical improvements or comparative benchmarks mentioned. Similarly, procedural descriptions regarding cell specificity and the study design framework are categorized as self-reported methods. While acceptable for outlining the experimental approach, these classifications do not confirm the validity of the observed biological effects or the accuracy of the reported data. Beyond self-reported content, a substantial number of claims are entirely unsupported or unreferenced. Assertions concerning lead compound potency, mechanistic differentiation, and the specific actions of interventions like Metformin lack inline citations, creating a critical gap in the literature trail necessary for independent validation. The claim that Metformin acts as an AMPK activator is graded unreferenced because the source text provides no citations, leaving the specific mechanistic link unverified by external sources. This pattern extends to claims about NAD levels and autophagy dysfunction, where the text explicitly states facts but fails to provide accessible references. In one instance, a claim regarding NAD levels was graded as unverifiable because the cited references could not be retrieved from OpenAlex, highlighting a failure in citation quality even when sources are nominally present. The inability to access these underlying references prevents confirmation of their accuracy, context, or relevance to the specific assertions made in the manuscript. Consequently, the evidentiary foundation for key biological mechanisms, including the proposed novel pathways and potency increases, remains weak. The research demonstrates a heavy reliance on unverified internal assertions, with the absence of retrievable references undermining the transparency and reproducibility of the evidence presented. While the claims are internally consistent within the document, the total lack of external corroboration for the most relevant scientific assertions significantly limits the ability to assess whether the reported findings are distinct from prior work or reproducible by the broader scientific community.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.3608,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.3661,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 0.3565,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 0.4,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.25
+        }
+      ]
+    },
+    "financial_integrity": {
+      "score": 0.359,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 27,
+      "rationale": "Of 16 claims evaluated for Financial Integrity, 0 had strong or moderate external evidence support, 4 were self-reported findings or methodology, and 12 were unsupported or unreferenced. Across the entire set of claims regarding the project's governance, tokenomics, and fund allocation, there is a complete absence of strong or moderate external evidence. Every assertion concerning the token sale structure, IP-NFT distribution, vesting mechanisms, and specific governance powers relies entirely on the whitepaper's internal narrative without any inline citations to verify these statements against independent sources. While the document provides detailed descriptions of the genesis sale pricing, fixed vesting periods, and the proposed FAM Membership Agreement, these procedural details are classified as self-reported findings or methodology. This classification is appropriate for describing the project's own planned actions but inherently limits the ability to externally verify the feasibility or accuracy of these specific operational claims. Conversely, assertions regarding the broader governance model, the legitimacy of the Korolchuk Lab partnership, and the redirection of funds are marked as unsupported or unreferenced, indicating a significant gap where citations would typically be expected to substantiate such critical financial commitments. The pattern observed across both subsets reveals that while the internal logic of the project is consistent and the text explicitly supports every assertion, the lack of anchoring to established literature or third-party audits creates a substantial evidentiary void. Consequently, the document presents complex financial and scientific arrangements as unverified assertions rather than evidence-based conclusions. This total reliance on the authors' word, without corroborating data from external audits or referenced studies, significantly affects the perceived robustness of the project's economic design and the credibility of its claims regarding scientific democratization. Readers are unable to cross-check the specific details of the tokenomics or the operational legitimacy of the proposed governance structures, leaving the accuracy of these descriptions open to question. The evidence base for this dimension consists entirely of the project's own assertions, offering no independent validation of the token model or the feasibility of the proposed fund pathways. This critical weakness highlights that while the project outlines a clear internal vision, the absence of external documentation prevents an objective assessment of its financial integrity and the truthfulness of its stated mechanisms. Ultimately, the failure to provide necessary documentation to substantiate these claims for an external audience renders the financial and governance sections of the paper fundamentally unverifiable based on the current evidence.\n\n[Document screener \u2014 5 additional observation(s)]: The screener identifies a significant logical gap in the proposed incentive structure, noting that the document claims token vesting inherently prevents data falsification, a causal link that is unproven and non-standard for financial mechanisms. While the project attempts to align incentives by requiring existing tokenholders to stake assets to participate in the initial sale, this approach creates a closed-loop fundraising environment that excludes external investors and limits market validation. Furthermore, the primary allocation of raised funds is directed toward establishing secondary market liquidity rather than immediate research execution, which introduces specific risks for early-stage scientific development. The funding model also relies on non-standard 'fractionalization' mechanisms to support the Korolchuk Lab, adding complexity to resource tracking compared to traditional academic grant systems. These observations highlight a reliance on novel financial concepts that lack established precedents for ensuring scientific integrity or efficient resource allocation.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.5,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 0.3836,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.05
+        }
+      ]
+    },
+    "team_credibility": {
+      "score": 0.3642,
+      "score_method": "type_aware_weighted_mean",
+      "source_count": 4,
+      "total_claims": 14,
+      "rationale": "Of six claims in this subset relating to project overview and team objectives, zero had strong or moderate external evidence, zero were self-reported findings, and all six were unsupported or unreferenced. Every assertion in this chunk, despite being internally supported by the whitepaper text, lacks inline citations to external sources. This uniform absence of references creates a significant gap in verifying the accuracy of specific claims regarding the project's goals, the minting of IP-NFTs, and the research focus of Dr. Korolchuk. While the document explicitly states these facts, the lack of cited evidence prevents independent validation of the described activities and partnerships. Consequently, the evidence quality for this dimension is currently limited to the authors' own statements without corroboration from the broader scientific or financial literature. Readers cannot confirm if the described collaboration with Newcastle University or the specific use of funds aligns with publicly available records. The consistent grading of \"unreferenced\" across all claims indicates a systematic failure to provide external proof for the project's core assertions. This pattern suggests that while the whitepaper presents a coherent narrative, it does not currently meet the standard for high-quality external evidence required to substantiate its claims about the project's operational reality and scientific direction.\n\n[Document screener \u2014 5 additional observation(s)]: The team's credibility is anchored by the specific affiliation with the Korolchuk lab at Newcastle University, a recognized leader in autophagy research, which distinguishes the project from generic initiatives. However, the document relies on subjective descriptors like 'highly regarded' rather than providing objective evidence of the team's specific track record or prior success in drug discovery. While the project demonstrates self-awareness by acknowledging a gap in internal Structure-Activity Relationship (SAR) expertise and proposing a global pool to mitigate it, this admission highlights a reliance on external resources for critical technical capabilities. A significant concern arises regarding potential conflicts of interest, as key member J\u00f3hannes Reynisson holds a dual role as a research lead at VitaDAO while listing extensive past employment at major pharmaceutical companies like Novartis and AstraZeneca. Additionally, the principal investigator's involvement in various industry collaborations alongside the creation of a tokenized IP pool suggests that academic interests may align closely with commercial token holders. These factors collectively indicate that while the team possesses relevant institutional backing, the independence of their research and the transparency of their commercial incentives remain unclear.",
+      "sources": [
+        {
+          "doc": "Development Timeline & Milestones",
+          "score": 0.5,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "Molecules of Discovering Novel Autophagy Activators IP-NFT from Korolchuk Lab at Newcastle University",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "VDP-16_ Korolchuk Lab- Autophagy Activators Funding Proposal",
+          "score": 0.35,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        },
+        {
+          "doc": "VFDP-16 VITA-FAST_ From IP-NFT to Real-World Asset - Entity Formation for Equity Fundraising One-Liner",
+          "score": 0.3606,
+          "method": "evidence_grade_weighted",
+          "article_type": "empirical",
+          "type_weight": 0.1
+        }
+      ]
+    },
+    "synthesis_rationale": {
+      "rationale": "{\n  \"categories\": {\n    \"execution_credibility\": {\n      \"score\": 0.35,\n      \"rationale\": \"The project shows a significant gap between its high originality scores and its execution credibility, with per-document scores hovering around 0.36. The lack of external evidence supporting forward-looking claims and the absence of recent updates (43 days) suggest the team may be struggling to deliver on the proposed milestones. While the scientific foundation exists, the documentation fails to provide verifiable proof of progress consistent with the original proposal.\",\n      \"findings\": [\n        {\n          \"signal\": \"low_external_corroboration\",\n          \"severity\": \"concern\",\n          \"detail\": \"Per-document analysis reveals 0 claims with strong/moderate external evidence for execution credibility, with 7 unsupported or unreferenced.\"\n        },\n        {\n          \"signal\": \"update_lag\",\n          \"severity\": \"concern\",\n          \"detail\": \"No updates have been posted for 43 days, which is a prolonged silence for a project minted 819 days ago.\"\n        },\n        {\n          \"signal\": \"self_reported_methodology\",\n          \"severity\": \"info\",\n          \"detail\": \"Execution claims rely heavily on self-reported findings rather than third-party verification or completed milestones.\"\n        }\n      ]\n    },\n    \"financial_integrity\": {\n      \"score\": 0.36,\n      \"rationale\": \"The funding amount of $285,000 appears reasonable for early-stage drug discovery (TRL 2), but the financial documentation lacks external validation. The per-document scores indicate a pervasive absence of evidence regarding fund allocation and governance, with 12 out of 16 claims being unsupported. This creates uncertainty about whether the budget is being managed according to the stated research plan.\",\n      \"findings\": [\n        {\n          \"signal\": \"unsupported_funding_claims\",\n          \"severity\": \"concern\",\n          \"detail\": \"12 out of 16 claims regarding financial integrity were unsupported or unreferenced in the documentation.\"\n        },\n        {\n          \"signal\": \"self_reported_budget\",\n          \"severity\": \"info\",\n          \"detail\": \"Funding details are self-reported without external audit trails or detailed budget breakdowns in the provided documents.\"\n        },\n        {\n          \"signal\": \"reasonable_funding_scale\",\n          \"severity\": \"positive\",\n          \"detail\": \"The $285k funding level is appropriate for the TRL 2 stage and initial screening phases described.\"\n        }\n      ]\n    },\n    \"governance_accountability\": {\n      \"score\": 0.65,\n      \"rationale\": \"The project demonstrates partial adherence to Molecule platform best practices by including an Assignment Agreement, which is critical for IP tokenization. However, the absence of a Development Agreement is a notable gap, as this document typically outlines the specific deliverables and timelines between the researcher and the platform. While the legal framework is partially established, it is incomplete compared to exemplary projects.\",\n      \"findings\": [\n        {\n          \"signal\": \"missing_development_agreement\",\n          \"severity\": \"concern\",\n          \"detail\": \"The project lacks a Development Agreement, which is a standard requirement for defining project scope and deliverables on Molecule.\"\n        },\n        {\n          \"signal\": \"present_assignment_agreement\",\n          \"severity\": \"positive\",\n          \"detail\": \"An Assignment Agreement is present, ensuring proper IP transfer from Newcastle University to the project entity.\"\n        },\n        {\n          \"signal\": \"sponsored_research_present\",\n          \"severity\": \"positive\",\n          \"detail\": \"A Sponsored Research Agreement exists, indicating formal institutional backing and research structure.\"\n        }\n      ]\n    },\n    \"team_credibility\": {\n      \"score\": 0.36,\n      \"rationale\": \"While the research lead (Prof. Viktor Korolchuk) and organization (Newcastle University) are clearly identified, the documentation provides no external evidence to verify their specific contributions or the team's track record. The per-document analysis shows zero claims with external evidence for team objectives, relying entirely on self-reported text. This makes it difficult to assess the actual operational capacity of the team beyond their institutional affiliation.\",\n      \"findings\": [\n        {\n          \"signal\": \"identified_research_lead\",\n          \"severity\": \"positive\",\n          \"detail\": \"Research lead Viktor Korolchuk and organization Newcastle University are explicitly named.\"\n        },\n        {\n          \"signal\": \"zero_external_verification\",\n          \"severity\": \"concern\",\n          \"detail\": \"All six claims regarding team overview and objectives were unsupported or unreferenced; zero had external evidence.\"\n        },\n        {\n          \"signal\": \"institutional_affiliation\",\n          \"severity\": \"info\",\n          \"detail\": \"Team is affiliated with a reputable university, which provides a baseline of credibility despite lack of specific project verification.\"\n        }\n      ]\n    },\n    \"token_alignment\": {\n      \"score\": 0.55,\n      \"rationale\": \"The tokenomics show a healthy market cap relative to liquidity ($1.5M cap vs $108k liquidity), suggesting some market interest, but the holder distribution (341 holders) is relatively low for a project of this age. The IPT structure appears to exist, but without a Development Agreement, the alignment between token incentives and actual project delivery is legally ambiguous. The lack of external evidence for token utility claims further weakens confidence in the alignment.\",\n      \"findings\": [\n        {\n          \"signal\": \"healthy_liquidity_ratio\",\n          \"severity\": \"positive\",\n          \"detail\": \"Liquidity ($108k) represents a reasonable portion of the market cap ($1.5M), indicating some market depth.\"\n        },\n        {\n          \"signal\": \"low_holder_count\",\n          \"severity\": \"concern\",\n          \"detail\": \"Only 341 holders for a project minted 819 days ago suggests limited community adoption or distribution.\"\n        },\n        {\n          \"signal\": \"missing_legal_alignment\",\n          \"severity\": \"concern\",\n          \"detail\": \"Absence of a Development Agreement creates uncertainty regarding how token incentives are legally tied to project milestones.\"\n        }\n      ]\n    }\n  },\n  \"review_statement\": \"The Autophagy Activator Drug Discovery Platform presents a scientifically intriguing concept with a clear research lead from a reputable institution. However, the project suffers from significant credibility gaps, evidenced by a pervasive lack of external verification in its documentation and a prolonged absence of updates. While the presence of an Assignment Agreement provides a necessary legal foundation for IP tokenization, the missing Development Agreement and weak evidential support for financial and execution claims raise concerns about the project's ability to deliver on its promises.",
+      "score": null,
+      "score_method": "llm_narrative"
+    },
+    "token_alignment": {
+      "rationale": "```json\n{\n  \"score\": 0.75,\n  \"rationale\": \"The VITA-FAST token demonstrates strong structural alignment with healthy distribution (341 holders) and deep liquidity ($108k), significantly outperforming the typical minimums for DeSci projects. The liquidity-to-market-cap ratio is approximately 7%, indicating a balanced relationship between tradeable depth and valuation. However, the lack of a Development Agreement and the token's age relative to its last update suggest potential stagnation in active community engagement despite solid initial economics.\",\n  \"findings\": [\n    {\n      \"signal\": \"holder_distribution\",\n      \"severity\": \"positive\",\n      \"detail\": \"The token has 341 holders, which exceeds the healthy threshold of 200, indicating broad community buy-in rather than concentration.\"\n    },\n    {\n      \"signal\": \"liquidity_depth\",\n      \"severity\": \"positive\",\n      \"detail\": \"Liquidity stands at $108,309.66, well above the $50k benchmark for deep liquidity, ensuring meaningful price discovery.\"\n    },\n    {\n      \"signal\": \"liquidity_to_market_cap_ratio\",\n      \"severity\": \"positive\",\n      \"detail\": \"The ratio is approximately 7% ($108k / $1.54M), falling within the healthy range above 3% and below the speculative 10% ceiling.\"\n    },\n    {\n      \"signal\": \"governance_structure\",\n      \"severity\": \"concern\",\n      \"detail\": \"While a Sponsored Research Agreement exists, the absence of a Development Agreement may limit long-term incentive alignment for ongoing project execution.\"\n    },\n    {\n      \"signal\": \"activity_signals\",\n      \"severity\": \"info\",\n      \"detail\": \"The token is 819 days old with no specific 24h volume or price change data provided, suggesting potential low recent activity despite the token's age.",
+      "score": null,
+      "score_method": "llm_structured_data",
+      "findings": []
+    },
+    "cross_doc_consistency": {
+      "rationale": "The document set presents a coherent narrative regarding the project's early-stage research status, with all four documents consistently scoring low on scientific rigor, evidential strength, and execution credibility while uniformly claiming maximum originality. This alignment suggests that the team is accurately portraying their work as conceptually novel but currently lacking external validation or published data, which matches the stated TRL-2 level where work is primarily in vitro. However, a significant gap exists between the project's maturity claims and the available evidence, as the rationale notes completed synthesis and potency improvements, yet the aggregated scores reveal zero claims supported by strong or moderate external evidence across the entire dataset. Furthermore, while the timeline document and whitepaper agree on the scope, the absence of any lab reports or preclinical data in the reviewed files, despite the project's description of extensive experimental work, indicates a missing layer of empirical proof that would be expected for a project claiming to have identified 12 novel inducers. The consistent lack of financial integrity and team credibility scores across documents further highlights that while the scientific story is internally consistent, the supporting documentation required to substantiate those claims is either missing or not included in the current review set.",
+      "score_method": "llm_consistency_check"
+    }
+  },
+  "aggregated_scores": {
+    "scientific_rigor": 0.3652,
+    "originality": 1.0,
+    "real_world_traction": 0.3631,
+    "execution_credibility": 0.3603,
+    "evidential_strength": 0.3614,
+    "financial_integrity": 0.359,
+    "team_credibility": 0.3642
+  },
+  "structured_metadata": {
+    "ipnft_id": "2",
+    "ipnft_name": "Autophagy Activator Drug Discovery Platform",
+    "ipnft_symbol": "VITA-FAST",
+    "description": "Ageing is associated with the decline in the capacity of the autophagy pathway to degrade dysfunctional and damaging cellular components, such as protein aggregates and mitochondria. Dysfunctional autophagy, in turn, undermines other cellular functions including DNA repair, metabolism and survival. Therefore, activation of autophagy is considered a promising therapeutic approach to combat ageing and age-related diseases. A large number of screens has been performed and published to date, these have identified a wide range of small molecules that stimulate initiation of autophagy. Prof. Korolchuck lab proposes to initiate a drug discovery program with the aim of identifying novel bioactive autophagy inducers.",
+    "organization": "Newcastle University",
+    "topic": "Aging ",
+    "chain_id": 1,
+    "schema_version": "0.0.1",
+    "funding": {
+      "amount": 285000.0,
+      "currency": "USD",
+      "currency_type": "ISO4217"
+    },
+    "trl": {
+      "value": "trl-2",
+      "rationale": "The project has conducted extensive experimental work including high-throughput phenotypic screening across thousands of compounds, validation of screening platforms with FDA-approved drugs identifying 12 novel autophagy inducers, three rounds of NCE synthesis, and in vitro testing demonstrating 10-100x potency improvements. However, the work remains primarily in simplified in vitro cell models (Npc1-/- and Atg5-/- knockout cells). While worm healthspan studies are mentioned as 'ongoing,' no completed disease-relevant in vivo efficacy data in mammalian disease models is presented."
+    },
+    "team": {
+      "research_lead": {
+        "name": "Viktor Korolchuk",
+        "email": "viktor.korolchuk@newcastle.ac.uk"
+      },
+      "organization": "Newcastle University",
+      "owner_address": "0xF5307a74d1550739ef81c6488DC5C7a6a53e5Ac2"
+    },
+    "tokenomics": {
+      "symbol": "VITA-FAST",
+      "holder_count": 341,
+      "total_issued": "1000000000000000000000000",
+      "circulating_supply": "1000000000000000000000000",
+      "markets": [
+        {
+          "pair": "VITA-FAST / BIO 0.3%",
+          "chain_id": 1,
+          "usd_price": 1.5445623684,
+          "liquidity_usd": 108309.6607,
+          "volume_24h": 150.8094295135,
+          "market_cap_usd": 1544562.3684,
+          "price_change_24h_pct": -7.35
+        },
+        {
+          "pair": "VITA-FAST / VITA 1%",
+          "chain_id": 1,
+          "usd_price": 1.552270448,
+          "liquidity_usd": 51587.9378,
+          "volume_24h": 149.8228561844,
+          "market_cap_usd": 1552270.448,
+          "price_change_24h_pct": -5.26
+        },
+        {
+          "pair": "VITA-FAST / ETH 0.3%",
+          "chain_id": 1,
+          "usd_price": 4.6273639822,
+          "liquidity_usd": 2166.5152,
+          "volume_24h": 0,
+          "market_cap_usd": 4627363.9822,
+          "price_change_24h_pct": 0
+        }
+      ],
+      "primary_price_usd": 1.5445623684,
+      "primary_liquidity_usd": 108309.6607,
+      "primary_market_cap_usd": 1544562.3684
+    },
+    "governance": {
+      "agreement_count": 2,
+      "agreement_types": [
+        "Sponsored Research Agreement",
+        "Assignment Agreement"
+      ],
+      "has_assignment_agreement": true,
+      "has_development_agreement": false
+    },
+    "timeline": {
+      "created_at": "2025-05-02T19:30:07.086Z",
+      "updated_at": "2026-04-08T10:03:22.928Z",
+      "minted_at": "2024-02-22T06:53:00.000Z",
+      "age_days": 819,
+      "days_since_update": 43
+    }
+  },
+  "platform_context": {},
+  "review_statement": ""
+}

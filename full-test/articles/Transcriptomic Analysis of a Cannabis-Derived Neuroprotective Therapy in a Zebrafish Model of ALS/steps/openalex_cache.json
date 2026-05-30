@@ -1,0 +1,518 @@
+{
+  "10.1002/0471250953.bi1114s51": {
+    "doi": "10.1002/0471250953.bi1114s51",
+    "title": "Mapping RNA‐seq Reads with STAR",
+    "type": "review",
+    "cited_by_count": 1374,
+    "publication_year": 2015,
+    "status": "ok",
+    "abstract": "Mapping of large sets of high-throughput sequencing reads to a reference genome is one of the foundational steps in RNA-seq data analysis. The STAR software package performs this task with high levels of accuracy and speed. In addition to detecting annotated and novel splice junctions, STAR is capable of discovering more complex RNA sequence arrangements, such as chimeric and circular RNA. STAR can align spliced sequences of any length with moderate error rates, providing scalability for emerging sequencing technologies. STAR generates output files that can be used for many downstream analyses such as transcript/gene expression quantification, differential gene expression, novel isoform reconstruction, and signal visualization. In this unit, we describe computational protocols that produce various output files, use different RNA-seq datatypes, and utilize different mapping strategies. STAR is open source software that can be run on Unix, Linux, or Mac OS X systems."
+  },
+  "10.1002/pro.2554": {
+    "doi": "10.1002/pro.2554",
+    "title": "Uracil‐DNA glycosylases—Structural and functional perspectives on an essential family of DNA repair enzymes",
+    "type": "review",
+    "cited_by_count": 202,
+    "publication_year": 2014,
+    "status": "ok",
+    "abstract": "Uracil-DNA glycosylases (UDGs) are evolutionarily conserved DNA repair enzymes that initiate the base excision repair pathway and remove uracil from DNA. The UDG superfamily is classified into six families based on their substrate specificity. This review focuses on the family I enzymes since these are the most extensively studied members of the superfamily. The structural basis for substrate specificity and base recognition as well as for DNA binding, nucleotide flipping and catalytic mechanism is discussed in detail. Other topics include the mechanism of lesion search and molecular mimicry through interaction with uracil-DNA glycosylase inhibitors. The latest studies and findings detailing structure and function in the UDG superfamily are presented."
+  },
+  "10.1007/s00018-021-03872-0": {
+    "doi": "10.1007/s00018-021-03872-0",
+    "title": "DNA damage as a mechanism of neurodegeneration in ALS and a contributor to astrocyte toxicity",
+    "type": "review",
+    "cited_by_count": 77,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Increasing evidence supports the involvement of DNA damage in several neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS). Elevated levels of DNA damage are consistently observed in both sporadic and familial forms of ALS and may also play a role in Western Pacific ALS, which is thought to have an environmental cause. The cause of DNA damage in ALS remains unclear but likely differs between genetic subgroups. Repeat expansion in the C9ORF72 gene is the most common genetic cause of familial ALS and responsible for about 10% of sporadic cases. These genetic mutations are known to cause R-loops, thus increasing genomic instability and DNA damage, and generate dipeptide repeat proteins, which have been shown to lead to DNA damage and impairment of the DNA damage response. Similarly, several genes associated with ALS including TARDBP, FUS, NEK1, SQSTM1 and SETX are known to play a role in DNA repair and the DNA damage response, and thus may contribute to neuronal death via these pathways. Another consistent feature present in both sporadic and familial ALS is the ability of astrocytes to induce motor neuron death, although the factors causing this toxicity remain largely unknown. In this review, we summarise the evidence for DNA damage playing a causative or secondary role in the pathogenesis of ALS as well as discuss the possible mechanisms involved in different genetic subtypes with particular focus on the role of astrocytes initiating or perpetuating DNA damage in neurons."
+  },
+  "10.1007/s00213-019-05193-4": {
+    "doi": "10.1007/s00213-019-05193-4",
+    "title": "Functional characterization of the cannabinoid receptors 1 and 2 in zebrafish larvae using behavioral analysis",
+    "type": "article",
+    "cited_by_count": 26,
+    "publication_year": 2019,
+    "status": "ok",
+    "abstract": "The endocannabinoid system (ECS) comprises the cannabinoids anandamide and 2-arachidonoylglycerol and the cannabinoid receptors 1 and 2 (Cnr1 and Cnr2). The function of these receptors in relation to zebrafish larval behavior is poorly understood, even though the zebrafish larva has become a versatile animal model in biomedical research. The objective of the present study is to characterize the function of Cnr1 and Cnr2 in relation to behavior in zebrafish. Behavioral analysis of zebrafish larvae was performed using a visual motor response (VMR) test, which allows locomotor activity to be determined under basal conditions and upon a dark challenge. Treatment with the non-specific Cnr agonists WIN55,212-2 and CP55,940 resulted in a decrease in locomotion. This was observed for both basal and challenge-induced locomotion, although the potency for these two effects was different, which suggests different mechanisms of action. In addition, WIN55,212-2 increased the reaction time of the startle response after the dark challenge. Using the Cnr1 antagonist AM251 and a cnr1−/− mutant line, it was shown that the effects were mediated by Cnr1 and not Cnr2. Interestingly, administration of the antagonist AM251 alone does not have an effect on locomotion, which indicates that endogenous cannabinoid activity does not affect locomotor activity of zebrafish larvae. Upon repeated dark challenges, the WIN55,212-2 effect on the locomotor activity decreased, probably due to desensitization of Cnr1. Taken together, these results show that Cnr1 activation by exogenous endocannabinoids modulates both basal and challenge-induced locomotor activity in zebrafish larvae and that these behavioral effects can be used as a readout to monitor the Cnr1 responsiveness in the zebrafish larva model system."
+  },
+  "10.1007/s10571-013-9908-9": {
+    "doi": "10.1007/s10571-013-9908-9",
+    "title": "Neuroprotective Effects of Estradiol on Motoneurons in a Model of Rat Spinal Cord Embryonic Explants",
+    "type": "article",
+    "cited_by_count": 20,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1007/s12035-022-03013-z": {
+    "doi": "10.1007/s12035-022-03013-z",
+    "title": "Neuroprotective Effect of Sonic Hedgehog Mediated PI3K/AKT Pathway in Amyotrophic Lateral Sclerosis Model Mice",
+    "type": "article",
+    "cited_by_count": 18,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "The Sonic Hedgehog (SHH) signaling pathway is related to the progression of various tumors and nervous system diseases. Still, its specific role in neurodegenerative diseases, such as amyotrophic lateral sclerosis (ALS), remains studied. This research investigates the role of SHH and PI3K/AKT signaling pathway proteins on ALS development in a SOD1-G93A transgenic mouse model. After injection of SHH and PI3K/AKT signaling pathway inhibitors or agonists in hSOD1-G93A (9 weeks of age) transgenic mice, we studied skeletal muscle pathology using immunohistochemical staining and Western blot methods. In addition, recorded data on rotation time, weight, and survival were analyzed for these mice. Our study showed that the expression of SHH, Gli-1 and p-AKT in ALS mice decreased with the progression of the disease. The expression of p-AKT changed together with Gli-1 while injecting PI3K/AKT signaling pathway inhibitor or agonist; SHH and Gli-1 protein expression remained unchanged; p-AKT protein expression significantly decreased while injecting PI3K/AKT signaling pathway inhibitor. These results indicate that SHH has a regulatory effect on PI3K/AKT signaling pathway. In behavioral experiments, we found that the survival time of hSOD1-G93A mice was prolonged by injection of SHH agonist while shortened by injection of SHH inhibitor. In conclusion, we confirmed that the SHH pathway played a neuroprotective role in ALS by mediating PI3K/AKT signaling pathway."
+  },
+  "10.1007/s12640-019-0003-y": {
+    "doi": "10.1007/s12640-019-0003-y",
+    "title": "The Role of PI3K/Akt and ERK in Neurodegenerative Disorders",
+    "type": "review",
+    "cited_by_count": 483,
+    "publication_year": 2019,
+    "status": "no_abstract"
+  },
+  "10.1016/0006-2952(85)90325-9": {
+    "doi": "10.1016/0006-2952(85)90325-9",
+    "title": "Isolation from cannabis sativa L. of cannflavin—a novel inhibitor of prostaglandin production",
+    "type": "article",
+    "cited_by_count": 84,
+    "publication_year": 1985,
+    "status": "no_abstract"
+  },
+  "10.1016/j.arr.2023.102126": {
+    "doi": "10.1016/j.arr.2023.102126",
+    "title": "Genomic and transcriptomic advances in amyotrophic lateral sclerosis",
+    "type": "review",
+    "cited_by_count": 17,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder and the most common motor neuron disease. ALS shows substantial clinical and molecular heterogeneity. In vitro and in vivo models coupled with multiomic techniques have provided important contributions to unraveling the pathomechanisms underlying ALS. To date, despite promising results and accumulating knowledge, an effective treatment is still lacking. Here, we provide an overview of the literature on the use of genomics, epigenomics, transcriptomics and microRNAs to deeply investigate the molecular mechanisms developing and sustaining ALS. We report the most relevant genes implicated in ALS pathogenesis, discussing the use of different high-throughput sequencing techniques and the role of epigenomic modifications. Furthermore, we present transcriptomic studies discussing the most recent advances, from microarrays to bulk and single-cell RNA sequencing. Finally, we discuss the use of microRNAs as potential biomarkers and promising tools for molecular intervention. The integration of data from multiple omic approaches may provide new insights into pathogenic pathways in ALS by shedding light on diagnostic and prognostic biomarkers, helping to stratify patients into clinically relevant subgroups, revealing novel therapeutic targets and supporting the development of new effective therapies."
+  },
+  "10.1016/j.biocel.2013.02.019": {
+    "doi": "10.1016/j.biocel.2013.02.019",
+    "title": "The UDP-glucuronosyltransferases: Their role in drug metabolism and detoxification",
+    "type": "review",
+    "cited_by_count": 691,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.ceca.2009.12.002": {
+    "doi": "10.1016/j.ceca.2009.12.002",
+    "title": "Calcium dysregulation in amyotrophic lateral sclerosis",
+    "type": "review",
+    "cited_by_count": 282,
+    "publication_year": 2010,
+    "status": "no_abstract"
+  },
+  "10.1016/j.etap.2013.04.007": {
+    "doi": "10.1016/j.etap.2013.04.007",
+    "title": "β-N-methylamino-l-alanine causes neurological and pathological phenotypes mimicking Amyotrophic Lateral Sclerosis (ALS): The first step towards an experimental model for sporadic ALS",
+    "type": "article",
+    "cited_by_count": 73,
+    "publication_year": 2013,
+    "status": "no_abstract"
+  },
+  "10.1016/j.fitote.2020.104712": {
+    "doi": "10.1016/j.fitote.2020.104712",
+    "title": "Cannflavins – From plant to patient: A scoping review",
+    "type": "review",
+    "cited_by_count": 44,
+    "publication_year": 2020,
+    "status": "no_abstract"
+  },
+  "10.1016/j.j.ajpath.2014.07.016": {
+    "doi": "10.1016/j.j.ajpath.2014.07.016",
+    "status": "not_found"
+  },
+  "10.1016/j.nbd.2007.07.002": {
+    "doi": "10.1016/j.nbd.2007.07.002",
+    "title": "Altered calcium homeostasis in motor neurons following AMPA receptor but not voltage-dependent calcium channels’ activation in a genetic model of amyotrophic lateral sclerosis",
+    "type": "article",
+    "cited_by_count": 53,
+    "publication_year": 2007,
+    "status": "no_abstract"
+  },
+  "10.1016/j.neubiorev.2023.105138": {
+    "doi": "10.1016/j.neubiorev.2023.105138",
+    "title": "Swimming against ALS: How to model disease in zebrafish for pathophysiological and behavioral studies",
+    "type": "review",
+    "cited_by_count": 26,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a neurodegenerative disease that leads to progressive disability and motor impairment. Existing therapies provide modest improvements in patient survival, raising a need for new treatments for ALS. Zebrafish is a promising model animal for translational and fundamental research in ALS - it is an experimentally tractable vertebrate, with high homology to humans and an ample experimental toolbox. These advantages allow high-throughput study of behavioral and pathophysiological phenotypes. The last decade saw an increased interest in modelling ALS in zebrafish, leading to the current abundance and variety of available methods and models. Additionally, the rise of gene editing techniques and toxin combination studies has created novel opportunities for ALS studies in zebrafish. In this review, we address the relevance of zebrafish as a model animal for ALS studies, the strategies for model induction and key phenotypical evaluation. Furthermore, we discuss established and emerging zebrafish models of ALS, analyzing their validity, including their potential for drug testing, and highlighting research opportunities in this area."
+  },
+  "10.1016/j.scitotenv.2021.152504": {
+    "doi": "10.1016/j.scitotenv.2021.152504",
+    "title": "Systematic and state-of the science review of the role of environmental factors in Amyotrophic Lateral Sclerosis (ALS) or Lou Gehrig's Disease",
+    "type": "review",
+    "cited_by_count": 64,
+    "publication_year": 2021,
+    "status": "no_abstract"
+  },
+  "10.1016/j.steroids.2007.02.003": {
+    "doi": "10.1016/j.steroids.2007.02.003",
+    "title": "Neurotrophic and neuroprotective actions of estrogen: Basic mechanisms and clinical implications",
+    "type": "review",
+    "cited_by_count": 625,
+    "publication_year": 2007,
+    "status": "no_abstract"
+  },
+  "10.1016/j.toxicon.2012.07.169": {
+    "doi": "10.1016/j.toxicon.2012.07.169",
+    "title": "Excitotoxic potential of the cyanotoxin β-methyl-amino-l-alanine (BMAA) in primary human neurons",
+    "type": "article",
+    "cited_by_count": 83,
+    "publication_year": 2012,
+    "status": "no_abstract"
+  },
+  "10.1016/j.yfrne.2009.04.006": {
+    "doi": "10.1016/j.yfrne.2009.04.006",
+    "title": "Steroids and neuroprotection: New advances",
+    "type": "article",
+    "cited_by_count": 84,
+    "publication_year": 2009,
+    "status": "no_abstract"
+  },
+  "10.1016/s0166-445x(00)00085-0": {
+    "doi": "10.1016/s0166-445x(00)00085-0",
+    "title": "Cytochrome P450 enzymes in aquatic invertebrates: recent advances and future directions",
+    "type": "article",
+    "cited_by_count": 267,
+    "publication_year": 2000,
+    "status": "no_abstract"
+  },
+  "10.1038/s41573-021-00210-8": {
+    "doi": "10.1038/s41573-021-00210-8",
+    "title": "Zebrafish disease models in drug discovery: from preclinical modelling to clinical trials",
+    "type": "review",
+    "cited_by_count": 546,
+    "publication_year": 2021,
+    "status": "no_abstract"
+  },
+  "10.1039/c8ra06553e": {
+    "doi": "10.1039/c8ra06553e",
+    "title": "Functional metabolomics discover pentose and glucuronate interconversion pathways as promising targets for Yang Huang syndrome treatment with Yinchenhao Tang",
+    "type": "article",
+    "cited_by_count": 87,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "metabonomics, the underlying functional mechanisms are still not clear. Functional metabolomics aims at converting biomarkers derived from metabonomics into disease mechanisms. Here, an integrated non-target metabolomics and IPA strategy were used to investigate the YCHT intervention on YHS. Our metabolomics study has shown that the potential protective effect of YCHT on YHS mice leads to significant changes in the metabolic profile by modulating the biomarkers and regulating the metabolic disorders. Twenty two differential metabolite biomarkers and fifteen involved metabolic pathways were correlated with the regulation of YCHT treatment on YHS. Functional metabolomics identified a core biomarker, d-glucuronic acid in pentose and glucuronate interconversion pathways, which was directly related to the target prediction of UDP-glucuronosyltransferase 1A1 and eventually leaded to a series of disturbances. In conclusion, this study shows that functional metabolomics can discover metabolic pathways as promising targets."
+  },
+  "10.1073/pnas.1114639109": {
+    "doi": "10.1073/pnas.1114639109",
+    "title": "<scp>d</scp> -Amino acid oxidase controls motoneuron degeneration through <scp>d</scp> -serine",
+    "type": "article",
+    "cited_by_count": 202,
+    "publication_year": 2011,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder involving an extensive loss of motoneurons. Aberrant excitability of motoneurons has been implicated in the pathogenesis of selective motoneuronal death in ALS. D-serine, an endogenous coagonist of N-methyl-D-aspartate receptors, exacerbates motoneuronal death and is increased both in patients with sporadic/familial ALS and in a G93A-SOD1 mouse model of ALS (mSOD1 mouse). More recently, a unique mutation in the D-amino acid oxidase (DAO) gene, encoding a D-serine degrading enzyme, was reported to be associated with classical familial ALS. However, whether DAO affects the motoneuronal phenotype and D-serine increase in ALS remains uncertain. Here, we show that genetic inactivation of DAO in mice reduces the number and size of lower motoneurons with axonal degeneration, and that suppressed DAO activity in reactive astrocytes in the reticulospinal tract, one of the major inputs to the lower motoneurons, predominantly contributes to the D-serine increase in the mSOD1 mouse. The DAO inactivity resulted from expressional down-regulation, which was reversed by inhibitors of a glutamate receptor and MEK, but not by those of inflammatory stimuli. Our findings provide evidence that DAO has a pivotal role in motoneuron degeneration through D-serine regulation and that inactivity of DAO is a common feature between the mSOD1 ALS mouse model and the mutant DAO-associated familial ALS. The therapeutic benefit of reducing D-serine or controlling DAO activity in ALS should be tested in future studies."
+  },
+  "10.1073/pnas.2235808100": {
+    "doi": "10.1073/pnas.2235808100",
+    "title": "Biomagnification of cyanobacterial neurotoxins and neurodegenerative disease among the Chamorro people of Guam",
+    "type": "article",
+    "cited_by_count": 618,
+    "publication_year": 2003,
+    "status": "ok",
+    "abstract": "We here report biomagnification (the increasing accumulation of bioactive, often deleterious molecules through higher trophic levels of a food chain) of the neurotoxic nonprotein amino acid beta-methylamino-l-alanine (BMAA) in the Guam ecosystem. Free-living cyanobacteria produce 0.3 microg/g BMAA, but produce 2-37 microg/g as symbionts in the coralloid roots of cycad trees. BMAA is concentrated in the developing reproductive tissues of the cycad Cycas micronesica, averaging 9 microg/g in the fleshy seed sarcotesta and a mean of 1,161 microg/g BMAA in the outermost seed layer. Flying foxes (Pteropus mariannus), which forage on the seeds, accumulate a mean of 3,556 microg/g BMAA. Flying foxes are a prized food item of the indigenous Chamorro people who boil them in coconut cream and eat them whole. Chamorros who die of amyotrophic lateral sclerosis/parkinsonism-dementia complex (AL-SPDC), a neurodegenerative disease with symptoms similar to amyotrophic lateral sclerosis, Parkinson's disease, and Alzheimer's disease, have an average of 6.6 microg/g BMAA in their brain tissues. The biomagnification of BMAA through the Guam ecosystem fits a classic triangle of increasing concentrations of toxic compounds up the food chain. This may explain why the incidence of ALS-PDC among the Chamorro was 50-100 times the incidence of amyotrophic lateral sclerosis elsewhere. Biomagnification of cyanobacterial BMAA may not be unique to Guam; our discovery of BMAA in the brain tissue from Alzheimer's patients from Canada suggests alternative ecological pathways for the bioaccumulation of BMAA in aquatic or terrestrial ecosystems."
+  },
+  "10.1073/pnas.95.10.5779": {
+    "doi": "10.1073/pnas.95.10.5779",
+    "title": "Neurotrophins inhibit major histocompatibility class II inducibility of microglia: Involvement of the p75 neurotrophin receptor",
+    "type": "article",
+    "cited_by_count": 283,
+    "publication_year": 1998,
+    "status": "ok",
+    "abstract": "Major histocompatibility complex (MHC) molecules are rare in the healthy brain tissue, but are heavily expressed on microglial cells after inflammatory or neurodegenerative processes. We studied the conditions leading to the induction of MHC class II molecules in microglia by using explant cultures of neonatal rat hippocampus, a model of interacting neuronal networks. Interferon-γ (IFN-γ)-dependent MHC class II inducibility in microglia cells was very low, but strongly increased in the hippocampal slices after the blockade of neuronal activity by neurotoxins [tetrodotoxin (TTX), ω-conotoxin] or glutamate antagonists. None of these agents acted directly on isolated microglia cells. We found that neurotrophins modulate microglial MHC class II expression. MHC class II inducibility was enhanced by neutralization of neurotrophins produced locally within the cultured tissues and was inhibited by the addition of nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), or neurotrophin-3 (NT3). NGF and, to a lower extent, NT3 acted directly on isolated microglia via the p75 neurotrophin receptor and inhibited MHC class II inducibility as shown by blockade of the p75 neurotrophin receptor with antibodies. Our data suggest that neurotrophins secreted by electrically active neurons control the antigen-presenting potential of microglia cells, and indicate that this effect is mediated partly via the p75 neurotrophin receptor."
+  },
+  "10.1080/17460441.2024.2387791": {
+    "doi": "10.1080/17460441.2024.2387791",
+    "title": "Promising animal models for amyotrophic lateral sclerosis drug discovery: a comprehensive update",
+    "type": "review",
+    "cited_by_count": 12,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "INTRODUCTION: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by the progressive loss of motor neurons. Several animal models have been generated to understand ALS pathogenesis. They have provided valuable insight into disease mechanisms and the development of therapeutic strategies. AREAS COVERED: In this review, the authors provide a concise overview of simple genetic model organisms, including C. elegans, Drosophila, zebrafish, and mouse genetic models that have been generated to study ALS. They emphasize the benefits of each model and their application in translational research for discovering new chemicals, gene therapy approaches, and antibody-based strategies for treating ALS. EXPERT OPINION: Significant progress is being made in identifying new therapeutic targets for ALS. This progress is being enabled by promising animal models of the disease using increasingly effective genetic and pharmacological strategies. There are still challenges to be overcome in order to achieve improved success rates for translating drugs from animal models to clinics for treating ALS. Several promising future directions include the establishment of novel preclinical protocol standards, as well as the combination of animal models with human induced pluripotent stem cells (iPSCs)."
+  },
+  "10.1093/bioinformatics/bts635": {
+    "doi": "10.1093/bioinformatics/bts635",
+    "title": "STAR: ultrafast universal RNA-seq aligner",
+    "type": "article",
+    "cited_by_count": 55586,
+    "publication_year": 2012,
+    "status": "ok",
+    "abstract": "MOTIVATION: Accurate alignment of high-throughput RNA-seq data is a challenging and yet unsolved problem because of the non-contiguous transcript structure, relatively short read lengths and constantly increasing throughput of the sequencing technologies. Currently available RNA-seq aligners suffer from high mapping error rates, low mapping speed, read length limitation and mapping biases. RESULTS: To align our large (>80 billon reads) ENCODE Transcriptome RNA-seq dataset, we developed the Spliced Transcripts Alignment to a Reference (STAR) software based on a previously undescribed RNA-seq alignment algorithm that uses sequential maximum mappable seed search in uncompressed suffix arrays followed by seed clustering and stitching procedure. STAR outperforms other aligners by a factor of >50 in mapping speed, aligning to the human genome 550 million 2 × 76 bp paired-end reads per hour on a modest 12-core server, while at the same time improving alignment sensitivity and precision. In addition to unbiased de novo detection of canonical junctions, STAR can discover non-canonical splices and chimeric (fusion) transcripts, and is also capable of mapping full-length RNA sequences. Using Roche 454 sequencing of reverse transcription polymerase chain reaction amplicons, we experimentally validated 1960 novel intergenic splice junctions with an 80-90% success rate, corroborating the high precision of the STAR mapping strategy. AVAILABILITY AND IMPLEMENTATION: STAR is implemented as a standalone C++ code. STAR is free open source software distributed under GPLv3 license and can be downloaded from http://code.google.com/p/rna-star/."
+  },
+  "10.1093/brain/awab059": {
+    "doi": "10.1093/brain/awab059",
+    "title": "The extracellular matrix as modifier of neuroinflammation and remyelination in multiple sclerosis",
+    "type": "review",
+    "cited_by_count": 175,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Remyelination failure contributes to axonal loss and progression of disability in multiple sclerosis. The failed repair process could be due to ongoing toxic neuroinflammation and to an inhibitory lesion microenvironment that prevents recruitment and/or differentiation of oligodendrocyte progenitor cells into myelin-forming oligodendrocytes. The extracellular matrix molecules deposited into lesions provide both an altered microenvironment that inhibits oligodendrocyte progenitor cells, and a fuel that exacerbates inflammatory responses within lesions. In this review, we discuss the extracellular matrix and where its molecules are normally distributed in an uninjured adult brain, specifically at the basement membranes of cerebral vessels, in perineuronal nets that surround the soma of certain populations of neurons, and in interstitial matrix between neural cells. We then highlight the deposition of different extracellular matrix members in multiple sclerosis lesions, including chondroitin sulphate proteoglycans, collagens, laminins, fibronectin, fibrinogen, thrombospondin and others. We consider reasons behind changes in extracellular matrix components in multiple sclerosis lesions, mainly due to deposition by cells such as reactive astrocytes and microglia/macrophages. We next discuss the consequences of an altered extracellular matrix in multiple sclerosis lesions. Besides impairing oligodendrocyte recruitment, many of the extracellular matrix components elevated in multiple sclerosis lesions are pro-inflammatory and they enhance inflammatory processes through several mechanisms. However, molecules such as thrombospondin-1 may counter inflammatory processes, and laminins appear to favour repair. Overall, we emphasize the crosstalk between the extracellular matrix, immune responses and remyelination in modulating lesions for recovery or worsening. Finally, we review potential therapeutic approaches to target extracellular matrix components to reduce detrimental neuroinflammation and to promote recruitment and maturation of oligodendrocyte lineage cells to enhance remyelination."
+  },
+  "10.1096/fj.05-4743fje": {
+    "doi": "10.1096/fj.05-4743fje",
+    "title": "Increasing cannabinoid levels by pharmacological and genetic manipulation delays disease progression in SOD1 mice",
+    "type": "article",
+    "cited_by_count": 171,
+    "publication_year": 2006,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by the selective loss of motoneurons in the spinal cord, brain stem, and motor cortex. However, despite intensive research, an effective treatment for this disease remains elusive. In this study we show that treatment of postsymptomatic, 90-day-old SOD1G93A mice with a synthetic cannabinoid, WIN55,212-2, significantly delays disease progression. Furthermore, genetic ablation of the Faah enzyme, which results in raised levels of the endocannabinoid anandamide, prevented the appearance of disease signs in 90-day-old SOD1G93A mice. Surprisingly, elevation of cannabinoid levels with either WIN55,212-2 or Faah ablation had no effect on life span. Ablation of the CB1 receptor, in contrast, had no effect on disease onset in SOD1(G93A) mice but significantly extended life span. Together these results show that cannabinoids have significant neuroprotective effects in this model of ALS and suggest that these beneficial effects may be mediated by non-CB1 receptor mechanisms."
+  },
+  "10.1097/mjt.00000000000001742": {
+    "doi": "10.1097/MJT.00000000000001742",
+    "status": "not_found"
+  },
+  "10.1111/j.1365-2125.2012.04341.x": {
+    "doi": "10.1111/j.1365-2125.2012.04341.x",
+    "title": "Cannabidiol for neurodegenerative disorders: important new clinical applications for this phytocannabinoid?",
+    "type": "review",
+    "cited_by_count": 342,
+    "publication_year": 2012,
+    "status": "ok",
+    "abstract": "Cannabidiol (CBD) is a phytocannabinoid with therapeutic properties for numerous disorders exerted through molecular mechanisms that are yet to be completely identified. CBD acts in some experimental models as an anti-inflammatory, anticonvulsant, anti-oxidant, anti-emetic, anxiolytic and antipsychotic agent, and is therefore a potential medicine for the treatment of neuroinflammation, epilepsy, oxidative injury, vomiting and nausea, anxiety and schizophrenia, respectively. The neuroprotective potential of CBD, based on the combination of its anti-inflammatory and anti-oxidant properties, is of particular interest and is presently under intense preclinical research in numerous neurodegenerative disorders. In fact, CBD combined with Δ(9)-tetrahydrocannabinol is already under clinical evaluation in patients with Huntington's disease to determine its potential as a disease-modifying therapy. The neuroprotective properties of CBD do not appear to be exerted by the activation of key targets within the endocannabinoid system for plant-derived cannabinoids like Δ(9)-tetrahydrocannabinol, i.e. CB(1) and CB(2) receptors, as CBD has negligible activity at these cannabinoid receptors, although certain activity at the CB(2) receptor has been documented in specific pathological conditions (i.e. damage of immature brain). Within the endocannabinoid system, CBD has been shown to have an inhibitory effect on the inactivation of endocannabinoids (i.e. inhibition of FAAH enzyme), thereby enhancing the action of these endogenous molecules on cannabinoid receptors, which is also noted in certain pathological conditions. CBD acts not only through the endocannabinoid system, but also causes direct or indirect activation of metabotropic receptors for serotonin or adenosine, and can target nuclear receptors of the PPAR family and also ion channels."
+  },
+  "10.1111/j.1471-4159.2006.04346.x": {
+    "doi": "10.1111/j.1471-4159.2006.04346.x",
+    "title": "The CB2 cannabinoid agonist AM‐1241 prolongs survival in a transgenic mouse model of amyotrophic lateral sclerosis when initiated at symptom onset",
+    "type": "article",
+    "cited_by_count": 207,
+    "publication_year": 2007,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by progressive motor neuron loss, paralysis and death within 2-5 years of diagnosis. Currently, no effective pharmacological agents exist for the treatment of this devastating disease. Neuroinflammation may accelerate the progression of ALS. Cannabinoids produce anti-inflammatory actions via cannabinoid receptor 1 (CB1) and cannabinoid receptor 2 (CB2), and delay the progression of neuroinflammatory diseases. Additionally, CB2 receptors, which normally exist primarily in the periphery, are dramatically up-regulated in inflamed neural tissues associated with CNS disorders. In G93A-SOD1 mutant mice, the most well-characterized animal model of ALS, endogenous cannabinoids are elevated in spinal cords of symptomatic mice. Furthermore, treatment with non-selective cannabinoid partial agonists prior to, or upon, symptom appearance minimally delays disease onset and prolongs survival through undefined mechanisms. We demonstrate that mRNA, receptor binding and function of CB2, but not CB1, receptors are dramatically and selectively up-regulated in spinal cords of G93A-SOD1 mice in a temporal pattern paralleling disease progression. More importantly, daily injections of the selective CB2 agonist AM-1241, initiated at symptom onset, increase the survival interval after disease onset by 56%. Therefore, CB2 agonists may slow motor neuron degeneration and preserve motor function, and represent a novel therapeutic modality for treatment of ALS."
+  },
+  "10.1111/j.1476-5381.2011.01238.x": {
+    "doi": "10.1111/j.1476-5381.2011.01238.x",
+    "title": "Taming THC: potential cannabis synergy and phytocannabinoid‐terpenoid entourage effects",
+    "type": "review",
+    "cited_by_count": 1496,
+    "publication_year": 2011,
+    "status": "ok",
+    "abstract": "Tetrahydrocannabinol (THC) has been the primary focus of cannabis research since 1964, when Raphael Mechoulam isolated and synthesized it. More recently, the synergistic contributions of cannabidiol to cannabis pharmacology and analgesia have been scientifically demonstrated. Other phytocannabinoids, including tetrahydrocannabivarin, cannabigerol and cannabichromene, exert additional effects of therapeutic interest. Innovative conventional plant breeding has yielded cannabis chemotypes expressing high titres of each component for future study. This review will explore another echelon of phytotherapeutic agents, the cannabis terpenoids: limonene, myrcene, α-pinene, linalool, β-caryophyllene, caryophyllene oxide, nerolidol and phytol. Terpenoids share a precursor with phytocannabinoids, and are all flavour and fragrance components common to human diets that have been designated Generally Recognized as Safe by the US Food and Drug Administration and other regulatory agencies. Terpenoids are quite potent, and affect animal and even human behaviour when inhaled from ambient air at serum levels in the single digits ng·mL(-1) . They display unique therapeutic effects that may contribute meaningfully to the entourage effects of cannabis-based medicinal extracts. Particular focus will be placed on phytocannabinoid-terpenoid interactions that could produce synergy with respect to treatment of pain, inflammation, depression, anxiety, addiction, epilepsy, cancer, fungal and bacterial infections (including methicillin-resistant Staphylococcus aureus). Scientific evidence is presented for non-cannabinoid plant components as putative antidotes to intoxicating effects of THC that could increase its therapeutic index. Methods for investigating entourage effects in future experiments will be proposed. Phytocannabinoid-terpenoid synergy, if proven, increases the likelihood that an extensive pipeline of new therapeutic products is possible from this venerable plant. http://dx.doi.org/10.1111/bph.2011.163.issue-7."
+  },
+  "10.1111/jcmm.12953": {
+    "doi": "10.1111/jcmm.12953",
+    "title": "<scp>MXRA</scp>5 is a <scp>TGF</scp>‐β1‐regulated human protein with anti‐inflammatory and anti‐fibrotic properties",
+    "type": "article",
+    "cited_by_count": 79,
+    "publication_year": 2016,
+    "status": "ok",
+    "abstract": "Current therapy for chronic kidney disease (CKD) is unsatisfactory because of an insufficient understanding of its pathogenesis. Matrix remodelling-associated protein 5 (MXRA5, adlican) is a human protein of unknown function with high kidney tissue expression, not present in rodents. Given the increased expression of MXRA5 in injured tissues, including the kidneys, we have suggested that MXRA5 may modulate kidney injury. MXRA5 immunoreactivity was observed in tubular cells in human renal biopsies and in urine from CKD patients. We then explored factors regulating MXRA5 expression and MXRA5 function in cultured human proximal tubular epithelial cells and explored MXRA5 expression in kidney cancer cells and kidney tissue. The fibrogenic cytokine transforming growth factor-β1 (TGFβ1) up-regulated MXRA5 mRNA and protein expression. TGFβ1-induced MXRA5 up-regulation was prevented by either interference with TGFβ1 activation of the TGFβ receptor 1 (TGFBR1, ALK5) or by the vitamin D receptor agonist paricalcitol. By contrast, the pro-inflammatory cytokine TWEAK did not modulate MXRA5 expression. MXRA5 siRNA-induced down-regulation of constitutive MXRA5 expression resulted in higher TWEAK-induced expression of chemokines. In addition, MXRA5 down-regulation resulted in a magnified expression of genes encoding extracellular matrix proteins in response to TGFβ1. Furthermore, in clear cell renal cancer, von Hippel-Lindau (VHL) regulated MXRA5 expression. In conclusion, MXRA5 is a TGFβ1- and VHL-regulated protein and, for the first time, we identify MXRA5 functions as an anti-inflammatory and anti-fibrotic molecule. This information may yield clues to design novel therapeutic strategies in diseases characterized by inflammation and fibrosis."
+  },
+  "10.1155/2018/2906292": {
+    "doi": "10.1155/2018/2906292",
+    "title": "A Simple Guideline to Assess the Characteristics of RNA-Seq Data",
+    "type": "article",
+    "cited_by_count": 29,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Next-generation sequencing (NGS) techniques have been used to generate various molecular maps including genomes, epigenomes, and transcriptomes. Transcriptomes from a given cell population can be profiled via RNA-seq. However, there is no simple way to assess the characteristics of RNA-seq data systematically. In this study, we provide a simple method that can intuitively evaluate RNA-seq data using two different principal component analysis (PCA) plots. The gene expression PCA plot provides insights into the association between samples, while the transcript integrity number (TIN) score plot provides a quality map of given RNA-seq data. With this approach, we found that RNA-seq datasets deposited in public repositories often contain a few low-quality RNA-seq data that can lead to misinterpretations. The effect of sampling errors for differentially expressed gene (DEG) analysis was evaluated with ten RNA-seq data from invasive ductal carcinoma tissues and three RNA-seq data from adjacent normal tissues taken from a Korean breast cancer patient. The evaluation demonstrated that sampling errors, which select samples that do not represent a given population, can lead to different interpretations when conducting the DEG analysis. Therefore, the proposed approach can be used to avoid sampling errors prior to RNA-seq data analysis."
+  },
+  "10.1186/s12974-022-02565-0": {
+    "doi": "10.1186/s12974-022-02565-0",
+    "title": "Astrocytic and microglial cells as the modulators of neuroinflammation in Alzheimer’s disease",
+    "type": "review",
+    "cited_by_count": 505,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "Neuroinflammation is instigated by the misfiring of immune cells in the central nervous system (CNS) involving microglia and astrocytes as key cell-types. Neuroinflammation is a consequence of CNS injury, infection, toxicity, or autoimmunity. It is favorable as well as a detrimental process for neurodevelopment and associated processes. Transient activation of inflammatory response involving release of cytokines and growth factors positively affects the development and post-injury tissue. However, chronic or uncontrolled inflammatory responses may lead to various neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis, and multiple sclerosis. These diseases have variable clinical and pathological features, but are underlaid by the aggregation of misfolded proteins with a cytotoxic effect. Notably, abnormal activation of glial cells could mediate neuroinflammation, leading to the neurodegenerative condition. Microglia, a type of glial cell, a resident immune cell, form the forefront defense of the CNS immune system. Dysfunctional microglia and astrocyte, a different kind of glial cell with homeostatic function, impairs the protein aggregate (amyloid-beta plaque) clearance in AD. Studies have shown that microglia and astrocytes undergo alterations in their genetic profile, cellular and molecular responses, and thus promote dysfunctional immune cross-talk in AD. Hence, targeting microglia and astrocytes-driven molecular pathways could resolve the particular layers of neuroinflammation and set a reliable therapeutic intervention in AD progression."
+  },
+  "10.1186/s13018-020-01681-y": {
+    "doi": "10.1186/s13018-020-01681-y",
+    "title": "URG4 mediates cell proliferation and cell cycle in osteosarcoma via GSK3β/β-catenin/cyclin D1 signaling pathway",
+    "type": "article",
+    "cited_by_count": 13,
+    "publication_year": 2020,
+    "status": "ok",
+    "abstract": "BACKGROUND: Osteosarcoma is one of the most common malignant bone tumors with the annual global incidence of approximately four per million. Upregulated gene 4 (URG4) expression in the osteosarcoma tissue is closely associated with recurrence, metastasis, and poor prognosis of osteosarcoma. However, the biological function and underlying mechanisms of URG4 in osteosarcoma have not been elucidated. This study aimed to explore the expression and underlying mechanism of URG4 in osteosarcoma. METHODS: The expression level of URG4 in osteosarcoma and normal tissues was compared using immunohistochemistry (IHC). PCR and western blotting (WB) techniques are used to detect URG4 mRNA and protein levels. Wound healing and Transwell analysis to assess the effect of URG4 on osteosarcoma cell migration and invasion. Cell Counting Kit-8 assay and colony proliferation assay were performed to evaluate the effects of silencing URG4 on the inhibition of cell proliferation. The cell cycle distribution was detected by flow cytometry, and a xenograft mouse model was used to verify the function of URG4 in vivo. RESULTS: URG4 was found to be highly expressed in osteosarcoma tissues and cells, and its high expression was correlated with advanced Enneking stage, large tumor size, and tumor metastasis in osteosarcoma patients. The proliferation in osteosarcoma cell lines and cell cycle in the S phase was suppressed when siRNA was used to downregulate URG4. URG4 promoted cell proliferation and tumorigenesis in vitro and in vivo. WB verified that URG4 promotes cell proliferation in osteosarcoma via pGSK3β/β-catenin/cyclinD1 signaling. CONCLUSION: URG4, which is high-expressed in osteosarcoma, promotes cell cycle progression via GSK3β/β-catenin/cyclin D1 signaling pathway and may be a novel biomarker and potential target for the treatment of osteosarcoma."
+  },
+  "10.1186/s40035-021-00250-5": {
+    "doi": "10.1186/s40035-021-00250-5",
+    "title": "A perspective on therapies for amyotrophic lateral sclerosis: can disease progression be curbed?",
+    "type": "review",
+    "cited_by_count": 65,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease involving both upper and lower motor neurons, leading to paralysis and eventually death. Symptomatic treatments such as inhibition of salivation, alleviation of muscle cramps, and relief of spasticity and pain still play an important role in enhancing the quality of life. To date, riluzole and edaravone are the only two drugs approved by the Food and Drug Administration for the treatment of ALS in a few countries. While there is adequate consensus on the modest efficacy of riluzole, there are still open questions concerning the efficacy of edaravone in slowing the disease progression. Therefore, identification of novel therapeutic strategies is urgently needed. Impaired autophagic process plays a critical role in ALS pathogenesis. In this review, we focus on therapies modulating autophagy in the context of ALS. Furthermore, stem cell therapies, gene therapies, and newly-developed biomaterials have great potentials in alleviating neurodegeneration, which might halt the disease progression. In this review, we will summarize the current and prospective therapies for ALS."
+  },
+  "10.2741/e811": {
+    "doi": "10.2741/e811",
+    "title": "Transcriptomics in amyotrophic lateral sclerosis",
+    "type": "review",
+    "cited_by_count": 26,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is an adult-onset, incurable neurodegenerative disease characterized by the selective death of upper and lowers motor neurons in the spinal cord, brainstem and motor cortex, which ultimately leads to paralysis and death within 2-3 years of onset. ALS is poorly understood, although multiple studies have been proposed to explain the pathophysiological mechanisms of the disorder. The development of microarray technology, for simultaneous analysis of the transcriptional expression of thousands of genes, has provided new possibilities to get better insights into the pathogenesis of ALS, and most important, potential new candidate targets for novel treatments. The present review illustrates current evidences from transcriptomic studies in animal models and human samples, related to ALS pathogenesis in parallel to molecular targets associated with the disease progression. Additionally, alteration of RNA metabolism was identified as a major dysregulated pathway in ALS and via this study, new insights into the contribution of altered transcriptional profiles of microRNAs and ALS-associated ribosomal binding proteins have been investigated, in an effort to understand the functional consequences of widespread RNA dysregulation in the disease's pathological mechanism."
+  },
+  "10.3389/fendo.2011.00050": {
+    "doi": "10.3389/fendo.2011.00050",
+    "title": "Neuroprotective Actions of Neurosteroids",
+    "type": "article",
+    "cited_by_count": 101,
+    "publication_year": 2011,
+    "status": "ok",
+    "abstract": "Neurosteroids were initially defined as steroid hormones locally synthesized within the nervous tissue. Subsequently, they were described as steroid hormone derivatives that devoid hormonal action but still affect neuronal excitability through modulation of ionotropic receptors. Neurosteroids are further subdivided into natural (produced in the brain) and synthetic. Some authors distinguish between hormonal and regular neurosteroids in the group of natural ones. The latter group, including hormone metabolites like allopregnanolone or tetrahydrodeoxycorticosterone, is devoid of hormonal activity. Both hormones and their derivatives share, however, most of the physiological functions. It is usually very difficult to distinguish the effects of hormones and their metabolites. All these substances may influence seizure phenomena and exhibit neuroprotective effects. Neuroprotection offered by steroid hormones may be realized in both genomic and non-genomic mechanisms and involve regulation of the pro- and anti-apoptotic factors expression, intracellular signaling pathways, neurotransmission, oxidative, and inflammatory processes. Since regular neurosteroids show no affinity for steroid receptors, they may act only in a non-genomic mode. Multiple studies have been conducted so far to show efficacy of neurosteroids in the treatment of the central and peripheral nervous system injury, ischemia, neurodegenerative diseases, or seizures. In this review we focused primarily on neurosteroid mechanisms of action and their role in the process of neurodegeneration. Most of the data refers to results obtained in experimental studies. However, it should be realized that knowledge about neuroactive steroids remains still incomplete and requires confirmation in clinical conditions."
+  },
+  "10.3389/fevo.2022.716018": {
+    "doi": "10.3389/fevo.2022.716018",
+    "title": "New Insight on Vitality Differences for the Penaeid Shrimp, Fenneropenaeus chinensis, in Low Salinity Environment Through Transcriptomics",
+    "type": "article",
+    "cited_by_count": 9,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "Excessive rainfall changes salinity in shrimp farming ponds in short period and exerts low salinity stress on the outdoor breeding shrimp under global warming. Fenneropenaeus chinensis can have different performance on vitality in low salinity environments. To reveal mechanisms of vitality difference in shrimp living in low saline environments. This study based on the normal and moribund F. chinensis in 10 ppt salinity environment using high-throughput sequencing identifies 1,429 differentially expressed genes (DEGs), 586 of which are upregulated, while 843 of which are downregulated in the normal group (FCN10) as compared to the moribund group (FCM10). Meanwhile, another transcriptomic analysis is conducted on the normal and moribund shrimp from 25 ppt (FCN25 vs. FCM25) salinity environment as the control, in which 1,311 DEGs (upregulated: 327 genes, downregulated: 984 genes) are identified. In this study, intersective pathways, GO (Gene Ontology) categories and DEGs from the two groups of comparative transcriptome are investigated. The two intersective pathways (Metabolism of xenobiotics by cytochrome P450, Pentose, and glucuronate interconversions) significantly enriched by DEGs are related to detoxification. In these two pathways, there is one vitality regulation-related gene (VRRG), the Dhdh (dihydrodiol dehydrogenase), which is upregulated in both the groups of FCN10 and FCN25 as compared to the groups of FCM10 and FCM25, respectively. Similarly, in the 25 top intersective GO categories, four VRRGs are revealed. Three of them are upregulated ( Itgbl , kielin/chordin-like protein, Slc2a8 , solute carrier family 2, facilitated glucose transporter member 8-like protein and Cyp3a30 , cytochrome P450 3A30-like protein); one of them is downregulated ( Slc6a9 , sodium-dependent nutrient amino acid transporter 1-like protein isoform X2). These GO categories are related to transmembrane transporter activity of substance, enzyme inhibitor activity, monooxygenase activity. RT-qPCR analysis further verifies the VRRGs. The study gives new insight into understanding the vitality differences for F. chinensis , in low salinity environment. The pathways and DEGs in response to low salinity stress in modulating the vitality of F. chinensis that could serve as tools in future genetic studies and molecular breeding."
+  },
+  "10.3389/fimmu.2017.01005": {
+    "doi": "10.3389/fimmu.2017.01005",
+    "title": "Summary of Matter of Parental Rights as to A.J.G., 122 Nev. Adv. Op. No. 117",
+    "type": "article",
+    "cited_by_count": 0,
+    "publication_year": 2006,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that affects upper motor neurons (MNs) comprising the corticospinal tract and lower MNs arising from the brain stem nuclei and ventral roots of the spinal cord, leading to fatal paralysis. Currently, there are no effective therapies for ALS. Increasing evidence indicates that neuroinflammation plays an important role in ALS pathogenesis. The neuroinflammation in ALS is characterized by infiltration of lymphocytes and macrophages, activation of microglia and reactive astrocytes, as well as the involvement of complement. In this review, we focus on the key cellular players of neuroinflammation during the pathogenesis of ALS by discussing not only their detrimental roles but also their immunomodulatory actions. We will summarize the pharmacological therapies for ALS that target neuroinflammation, as well as recent advances in the field of stem cell therapy aimed at modulating the inflammatory environment to preserve the remaining MNs in ALS patients and animal models of the disease."
+  },
+  "10.3389/fmolb.2018.00008": {
+    "doi": "10.3389/fmolb.2018.00008",
+    "title": "Focus on the Role of D-serine and D-amino Acid Oxidase in Amyotrophic Lateral Sclerosis/Motor Neuron Disease (ALS)",
+    "type": "review",
+    "cited_by_count": 27,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "We have investigated a pathogenic mutation in D-amino acid oxidase (DAO), DAOR199W, associated with familial Amyotrophic Lateral Sclerosis (ALS) that impairs D-serine metabolism and causes protein aggregation, autophagy and cell death in motor neuron cell lines. These features are consistent with the pathogenic processes occurring in ALS but most importantly, we have demonstrated that activation of the formation of ubiquitinated protein inclusions, increased autophagosome production and apoptotic cell death caused by the mutation in cell lines are attenuated by 5,7-dichlorokynurenic acid (DCKA), a selective inhibitor of the glycine/D-serine binding site of the NMDA receptor. D-serine is an essential co-agonist at this glutamate receptor. This data provides insight into potential upstream mechanisms that involve the action of D-serine at the NMDA receptor and might contribute to neurodegeneration. This is highly relevant to sporadic ALS (SALS), familial ALS, as well as ALS models, where elevated levels of D-serine have been reported and hence has broader clinical therapeutic implications. In order to investigate this further, we have generated a transgenic line expressing the pathogenic mutation, in order to determine whether mice expressing DAOR199W develop a motor phenotype and whether crossing the SOD1G93A model of ALS with mice expressing DAOR199W affects disease progression. We found that heterozygous expression of DAOR199W led to a significant loss of spinal cord motor neurons at 14 months, which is similar to that found in homozygous mice expressing DAOG181R. We hypothesise that DAO has potential for development as a therapeutic agent in ALS."
+  },
+  "10.3389/fncel.2015.00225": {
+    "doi": "10.3389/fncel.2015.00225",
+    "title": "Calcium dysregulation links ALS defective proteins and motor neuron selective vulnerability",
+    "type": "review",
+    "cited_by_count": 90,
+    "publication_year": 2015,
+    "status": "ok",
+    "abstract": "More than 20 distinct gene loci have so far been implicated in amyotrophic lateral sclerosis (ALS), a fatal neurodegenerative disorder characterized by progressive neurodegeneration of motor neurons (MN) and death. Most of this distinct set of ALS-related proteins undergoes toxic deposition specifically in MN for reasons which remain unclear. Here we overview a recent body of evidence indicative that mutations in ALS-related proteins can disrupt fundamental Ca2+ signalling pathways in MN, and that Ca2+ itself impacts both directly or indirectly in many ALS critical proteins and cellular processes that result in MN neurodegeneration. We argue that the inherent vulnerability of MN to dysregulation of intracellular Ca2+ is deeply associated with discriminating pathogenicity and aberrant crosstalk of most of the critical proteins involved in ALS. Overall, Ca2+ deregulation in MN is at the cornerstone of different ALS processes and is likely one of the factors contributing to the selective susceptibility of these cells to this particular neurodegenerative disease."
+  },
+  "10.3389/fncel.2021.636176": {
+    "doi": "10.3389/fncel.2021.636176",
+    "title": "The Impact of Estrogen and Estrogen-Like Molecules in Neurogenesis and Neurodegeneration: Beneficial or Harmful?",
+    "type": "review",
+    "cited_by_count": 147,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "Estrogens and estrogen-like molecules can modify the biology of several cell types. Estrogen receptors alpha (ERα) and beta (ERβ) belong to the so-called classical family of estrogen receptors, while the G protein-coupled estrogen receptor 1 (GPER-1) represents a non-classical estrogen receptor mainly located in the plasma membrane. As estrogen receptors are ubiquitously distributed, they can modulate cell proliferation, differentiation, and survival in several tissues and organs, including the central nervous system (CNS). Estrogens can exert neuroprotective roles by acting as anti-oxidants, promoting DNA repair, inducing the expression of growth factors, and modulating cerebral blood flow. Additionally, estrogen-dependent signaling pathways are involved in regulating the balance between proliferation and differentiation of neural stem/progenitor cells (NSPCs), thus influencing neurogenic processes. Since several estrogen-based therapies are used nowadays and estrogen-like molecules, including phytoestrogens and xenoestrogens, are omnipresent in our environment, estrogen-dependent changes in cell biology and tissue homeostasis have gained attention in human health and disease. This article provides a comprehensive literature review on the current knowledge of estrogen and estrogen-like molecules and their impact on cell survival and neurodegeneration, as well as their role in NSPCs proliferation/differentiation balance and neurogenesis."
+  },
+  "10.3389/fneur.2023.1087011": {
+    "doi": "10.3389/fneur.2023.1087011",
+    "title": "Cannabidiol's neuroprotective properties and potential treatment of traumatic brain injuries",
+    "type": "review",
+    "cited_by_count": 36,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Cannabidiol (CBD) has numerous pharmacological targets that initiate anti-inflammatory, antioxidative, and antiepileptic properties. These neuroprotective benefits have generated interest in CBD's therapeutic potential against the secondary injury cascade from traumatic brain injury (TBI). There are currently no effective broad treatment strategies for combating the damaging mechanisms that follow the primary injury and lead to lasting neurological consequences or death. However, CBD's effects on different neurotransmitter systems, the blood brain barrier, oxidative stress mechanisms, and the inflammatory response provides mechanistic support for CBD's clinical utility in TBI. This review describes the cascades of damage caused by TBI and CBD's neuroprotective mechanisms to counter them. We also present challenges in the clinical treatment of TBI and discuss important future clinical research directions for integrating CBD in treatment protocols. The mechanistic evidence provided by pre-clinical research shows great potential for CBD as a much-needed improvement in the clinical treatment of TBI. Upcoming clinical trials sponsored by major professional sport leagues are the first attempts to test the efficacy of CBD in head injury treatment protocols and highlight the need for further clinical research."
+  },
+  "10.3389/fnmol.2018.00463": {
+    "doi": "10.3389/fnmol.2018.00463",
+    "title": "Transcriptomic Analysis of Zebrafish TDP-43 Transgenic Lines",
+    "type": "article",
+    "cited_by_count": 24,
+    "publication_year": 2018,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a late-onset progressive neurodegenerative disorder that affects both upper and lower motor neurons, leading to muscle atrophy with spasticity and eventual death in 3 to 5 years after the disease onset. More than 50 mutations linked to ALS have been found in the gene TARDBP, encoding the protein TDP-43 that is the predominant component of neuronal inclusions in ALS. TDP-43 is an RNA binding protein with glycine-rich domains that binds to more than 6,000 RNAs in the human brain. However, ALS-related mutations do not appear to affect the function of these genes, indicating that a toxic gain-of-function may occur. We generated transgenic zebrafish lines expressing human TDP-43, either the wild-type form or the ALS-causative G348C mutation identified in a subset of ALS patients, with the transgene expression driven by an inducible heat shock promoter in order to bypass a potential early mortality. The expression of the mutant but not the wild-type human TDP-43 in zebrafish embryos induced a reduction of the locomotor activity in response to touch compared to controls and moderate axonopathy of the motor neurons of the spinal cord, with premature branching of the main axonal branch, recapitulating previous results obtained by mRNA injections. We used these lines to investigate transcriptomic changes due to the presence of mutant TDP-43 using RNA sequencing and have found 159 genes that are differentially expressed compared to control, with 67 genes up-regulated and 94 genes down-regulated. These transcriptomic changes are in line with recent transcriptomic data obtained in mice models, indicating that these zebrafish transgenic lines are adequate to further study TDP-43-related ALS."
+  },
+  "10.3389/fnmol.2024.1427054": {
+    "doi": "10.3389/fnmol.2024.1427054",
+    "title": "Wnt signaling pathway in spinal cord injury: from mechanisms to potential applications",
+    "type": "review",
+    "cited_by_count": 14,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "Spinal cord injury (SCI) denotes damage to both the structure and function of the spinal cord, primarily manifesting as sensory and motor deficits caused by disruptions in neural transmission pathways, potentially culminating in irreversible paralysis. Its pathophysiological processes are complex, with numerous molecules and signaling pathways intricately involved. Notably, the pronounced upregulation of the Wnt signaling pathway post-SCI holds promise for neural regeneration and repair. Activation of the Wnt pathway plays a crucial role in neuronal differentiation, axonal regeneration, local neuroinflammatory responses, and cell apoptosis, highlighting its potential as a therapeutic target for treating SCI. However, excessive activation of the Wnt pathway can also lead to negative effects, highlighting the need for further investigation into its applicability and significance in SCI. This paper provides an overview of the latest research advancements in the Wnt signaling pathway in SCI, summarizing the recent progress in treatment strategies associated with the Wnt pathway and analyzing their advantages and disadvantages. Additionally, we offer insights into the clinical application of the Wnt signaling pathway in SCI, along with prospective avenues for future research direction."
+  },
+  "10.3389/fphar.2021.704197": {
+    "doi": "10.3389/fphar.2021.704197",
+    "title": "Therapeutic Applications of Terpenes on Inflammatory Diseases",
+    "type": "review",
+    "cited_by_count": 176,
+    "publication_year": 2021,
+    "status": "ok",
+    "abstract": "In the last decades, the search for natural products with biological applications as alternative treatments for several inflammatory diseases has increased. In this respect, terpenes are a family of organic compounds obtained mainly from plants and trees, such as tea, cannabis, thyme, and citrus fruits like lemon or mandarin. These molecules present attractive biological properties such as analgesic and anticonvulsant activities. Furthermore, several studies have demonstrated that certain terpenes could reduce inflammation symptoms by decreasing the release of pro-inflammatory cytokines for example, the nuclear transcription factor-kappa B, interleukin 1, and the tumor necrosis factor-alpha. Thus, due to various anti-inflammatory drugs provoking side effects, the search and analysis of novel therapeutics treatments are attractive. In this review, the analysis of terpenes' chemical structure and their mechanisms in anti-inflammatory functions are addressed. Additionally, we present a general analysis of recent investigations about their applications as an alternative treatment for inflammatory diseases. Furthermore, we focus on terpenes-based nanoformulations and employed dosages to offer a global perspective of the state-of-the-art."
+  },
+  "10.3389/fphar.2023.1134989": {
+    "doi": "10.3389/fphar.2023.1134989",
+    "title": "Editorial: Regulation of PI3K/Akt signaling pathway: A feasible approach for natural neuroprotective agents to treat various neuron injury-related diseases",
+    "type": "editorial",
+    "cited_by_count": 6,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Neuron injury is closely associated with the development of various diseases, such as Alzheimer's disease, spinal cord injury, ischemic stroke, and depression. The phosphoinositide-3-kinase (PI3K)/protein kinase B(Akt) signaling pathway is vital for neuron cell growth, development, and survival and can suppress cell apoptosis via downregulating proapoptosis proteins. In recent years, a growing body of research has suggested that natural agents are beneficial for preventing or treating neuron injury-related diseases via modulating the classical PI3K/Akt signaling pathway. This research topic \"Regulation of PI3K/Akt Signaling Pathway:"
+  },
+  "10.3390/ijms24076827": {
+    "doi": "10.3390/ijms24076827",
+    "title": "The Cannabinoids, CBDA and THCA, Rescue Memory Deficits and Reduce Amyloid-Beta and Tau Pathology in an Alzheimer’s Disease-like Mouse Model",
+    "type": "article",
+    "cited_by_count": 41,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "Most studies related to hemp are focused on Cannabidiol (CBD) and Tetrahydrocannabinol (THC); however, up to 120 types of phytocannabinoids are present in hemp. Hemp leaves contain large amounts of Cannabidiolic acid (CBDA) and Tetrahydrocannabinolic acid (THCA), which are acidic variants of CBD and THC and account for the largest proportion of CBDA. In recent studies, CBDA exhibited anti-hyperalgesia and anti-inflammatory effects. THCA also showed anti-inflammatory and neuroprotective effects that may be beneficial for treating neurodegenerative diseases. CBDA and THCA can penetrate the blood–brain barrier (BBB) and affect the central nervous system. The purpose of this study was to determine whether CBDA and THCA ameliorate Alzheimer’s disease (AD)-like features in vitro and in vivo. The effect of CBDA and THCA was evaluated in the Aβ1–42-treated mouse model. We observed that Aβ1–42-treated mice had more hippocampal Aβ and p-tau levels, pathological markers of AD, and loss of cognitive function compared with PBS-treated mice. However, CBDA- and THCA-treated mice showed decreased hippocampal Aβ and p-tau and superior cognitive function compared with Aβ1–42-treated mice. In addition, CBDA and THCA lowered Aβ and p-tau levels, alleviated calcium dyshomeostasis, and exhibited neuroprotective effects in primary neurons. Our results suggest that CBDA and THCA have anti-AD effects and mitigate memory loss and resilience to increased hippocampal Ca2+, Aβ, and p-tau levels. Together, CBDA and THCA may be useful therapeutic agents for treating AD."
+  },
+  "10.3390/ijms24109056": {
+    "doi": "10.3390/ijms24109056",
+    "title": "Neurosteroids Mediate Neuroprotection in an In Vitro Model of Hypoxic/Hypoglycaemic Excitotoxicity via δ-GABAA Receptors without Affecting Synaptic Plasticity",
+    "type": "article",
+    "cited_by_count": 2,
+    "publication_year": 2023,
+    "status": "ok",
+    "abstract": "receptors, thereby causing anxiolysis. Furthermore, benzodiazepines such as midazolam are known to cause adverse side-effects on cognition upon administration. We previously found that midazolam at nanomolar concentrations (10 nM) blocked long-term potentiation (LTP). Here, we aim to study the effect of neurosteroids and their synthesis using XBD173, which is a synthetic compound that promotes neurosteroidogenesis by binding to the translocator protein 18 kDa (TSPO), since they might provide anxiolytic activity with a favourable side-effect profile. By means of electrophysiological measurements and the use of mice with targeted genetic mutations, we revealed that XBD173, a selective ligand of the translocator protein 18 kDa (TSPO), induced neurosteroidogenesis. In addition, the exogenous application of potentially synthesised neurosteroids (THDOC and allopregnanolone) did not depress hippocampal CA1-LTP, the cellular correlate of learning and memory. This phenomenon was observed at the same concentrations that neurosteroids conferred neuroprotection in a model of ischaemia-induced hippocampal excitotoxicity. In conclusion, our results indicate that TSPO ligands are promising candidates for post-ischaemic recovery exerting neuroprotection, in contrast to midazolam, without detrimental effects on synaptic plasticity."
+  },
+  "10.3390/microorganisms10122418": {
+    "doi": "10.3390/microorganisms10122418",
+    "title": "Environmental Neurotoxin β-N-Methylamino-L-alanine (BMAA) as a Widely Occurring Putative Pathogenic Factor in Neurodegenerative Diseases",
+    "type": "review",
+    "cited_by_count": 25,
+    "publication_year": 2022,
+    "status": "ok",
+    "abstract": "-methylamino-L-alanine (BMAA) and its natural isomers, and the organisms and sample types in which the toxin(s) have been detected. Further, the review discusses general pathogenic mechanisms of neurodegenerative diseases, and how modes of action of BMAA fit in those mechanisms. The biogeography of BMAA occurrence presented here contributes to the planning of epidemiological research based on the geographical distribution of BMAA and human exposure. Analysis of BMAA mechanisms in relation to pathogenic processes of neurodegeneration is used to critically assess the potential significance of the amino acid as well as to identify gaps in our understanding. Taken together, these two approaches provide the basis for the discussion on the potential role of BMAA as a secondary factor in neurodegenerative diseases, the rationale for further research and possible directions the research can take, which are outlined in the conclusions."
+  },
+  "10.3390/molecules28248038": {
+    "doi": "10.3390/molecules28248038",
+    "title": "Family Role in Career Development. ERIC Digest No. 164.",
+    "type": "article",
+    "cited_by_count": 11,
+    "publication_year": 1995,
+    "status": "ok",
+    "abstract": "Drug bioavailability is a crucial aspect of pharmacology, affecting the effectiveness of drug therapy. Understanding how drugs are absorbed, distributed, metabolized, and eliminated in patients' bodies is essential to ensure proper and safe treatment. This publication aims to highlight the relevance of drug bioavailability research and its importance in therapy. In addition to biochemical activity, bioavailability also plays a critical role in achieving the desired therapeutic effects. This may seem obvious, but it is worth noting that a drug can only produce the expected effect if the proper level of concentration can be achieved at the desired point in a patient's body. Given the differences between patients, drug dosages, and administration forms, understanding and controlling bioavailability has become a priority in pharmacology. This publication discusses the basic concepts of bioavailability and the factors affecting it. We also looked at various methods of assessing bioavailability, both in the laboratory and in the clinic. Notably, the introduction of new technologies and tools in this field is vital to achieve advances in drug bioavailability research. This publication also discusses cases of drugs with poorly described bioavailability, providing a deeper understanding of the complex challenges they pose to medical researchers and practitioners. Simultaneously, the article focuses on the perspectives and trends that may shape the future of research regarding bioavailability, which is crucial to the development of modern pharmacology and drug therapy. In this context, the publication offers an essential, meaningful contribution toward understanding and highlighting bioavailability's role in reliable patient treatment. The text also identifies areas that require further research and exploration."
+  },
+  "10.3390/ph17111543": {
+    "doi": "10.3390/ph17111543",
+    "title": "The Entourage Effect in Cannabis Medicinal Products: A Comprehensive Review",
+    "type": "review",
+    "cited_by_count": 31,
+    "publication_year": 2024,
+    "status": "ok",
+    "abstract": "This study explores the complementary or synergistic effects of medicinal cannabis constituents, particularly terpenes, concerning their therapeutic potential, known as the entourage effect. A systematic review of the literature on cannabis “entourage effects” was conducted using the PRISMA model. Two research questions directed the review: (1) What are the physiological effects of terpenes and terpenoids found in cannabis? (2) What are the proven “entourage effects” of terpenes in cannabis? The initial approach involved an exploratory search in electronic databases using predefined keywords and Boolean phrases across PubMed/MEDLINE, Web of Science, and EBSCO databases using Medical Subject Headings (MeSH). Analysis of published studies shows no evidence of neuroprotective or anti-aggregatory effects of α-pinene and β-pinene against β-amyloid-mediated toxicity; however, modest lipid peroxidation inhibition by α-pinene, β pinene, and terpinolene may contribute to the multifaceted neuroprotection properties of these C. sativa L. prevalent monoterpenes and the triterpene friedelin. Myrcene demonstrated anti-inflammatory proprieties topically; however, in combination with CBD, it did not show significant additional differences. Exploratory evidence suggests various therapeutic benefits of terpenes, such as myrcene for relaxation; linalool as a sleep aid and to relieve exhaustion and mental stress; D-limonene as an analgesic; caryophyllene for cold tolerance and analgesia; valencene for cartilage protection; borneol for antinociceptive and anticonvulsant potential; and eucalyptol for muscle pain. While exploratory research suggests terpenes as influencers in the therapeutic benefits of cannabinoids, the potential for synergistic or additive enhancement of cannabinoid efficacy by terpenes remains unproven. Further clinical trials are needed to confirm any terpenes “entourage effects.”"
+  },
+  "10.3892/mmr.2015.3601": {
+    "doi": "10.3892/mmr.2015.3601",
+    "title": "G-protein-coupled receptor 30-mediated antiapoptotic effect of estrogen on spinal motor neurons following injury and its underlying mechanisms",
+    "type": "article",
+    "cited_by_count": 38,
+    "publication_year": 2015,
+    "status": "ok",
+    "abstract": "Spinal cord injury (SCI) may result in severe dysfunction of motor neurons. G-protein-coupled receptor 30 (GPR30) expression in the motor neurons of the ventral horn of the spinal cord mediates neuroprotection through estrogen signaling. The present study explored the antiapoptotic effect of estrogen, mediated by GPR30 following SCI, and the mechanisms underlying this effect. Spinal motor neurons from rats were cultured in vitro in order to establish cell models of oxygen and glucose deprivation (OGD). The effects of estrogen, the estrogen agonist, G1, and the estrogen inhibitor, G15, on motor neurons were observed using MTT assays. The effects of E2, G1 and G15 on spinal motor neuron apoptosis following OGD, were detected using flow cytometry. The role of the phosphatidylinositol 3-kinase/protein kinase B (PI3K/Akt) inhibitor, LY294002, was also determined using flow cytometry. Rat SCI models were established. E2, G1 and E2+LY294002 were administered in vivo. Motor function was scored at 3, 7, 14, 21 and 28 d following injury, using Basso-Beattie-Bresnahan (BBB) standards. Cell activity in the estrogen and G1 groups was higher than that in the solvent group, whereas cell activity in the E2+G15 group was lower than that in the E2 group (P<0.05). Following OGD, the proportion of apoptotic cells significantly increased (P<0.05). The proportion in the estrogen group was significantly lower than that in the solvent group, whereas the proportion of apoptotic cells in the E2+G15 and E2+LY294002 groups was higher than that in the E2 group (P<0.05). Treatment with E2 and G1 led to upregulation of P-Akt expression in normal cells and post-OGD cells. The BBB scores of rats in the E2 and G1 groups were higher than those in the placebo group (P<0.05). The BBB scores of the E2+LY294002 group were lower than those of the E2 group (P<0.05). Estrogen thus appears to exert a protective effect on spinal motor neurons following OGD, via GPR30. The PI3K/Akt pathway may be one of those involved in the estrogen‑related antiapoptotic effects mediated by GPR30."
+  },
+  "10.4049/jimmunol.158.5.2116": {
+    "doi": "10.4049/jimmunol.158.5.2116",
+    "title": "The nonpolymorphic MHC class II isotype, HLA-DQA2, is expressed on the surface of B lymphoblastoid cells",
+    "type": "article",
+    "cited_by_count": 22,
+    "publication_year": 1997,
+    "status": "ok",
+    "abstract": "The more centromeric of the two human MHC class II DQA genes, DQA2, has not previously been shown to express a protein product. However, its high degree of sequence similarity to DQA1, the fact that it is highly evolutionarily conserved, and the recent demonstration of its transcription in some cell lines suggest that a DQA2 alpha-chain may be expressed. Polyclonal anti-peptide antisera were generated and shown to be specific for DQA2 in Western blotting of Triton X-114 preparations of B lymphoblastoid cell lines. DQA2 expression is variable, although always at least threefold less than that of DQA1, and is found in all haplotypes examined. Immunoprecipitations of biotin-labeled cell surface proteins reveal that DQA2 appears at the cell surface. In keeping with others' findings, no evidence for an expressed DQB2 beta-chain was found, prompting investigation of the means by which DQA2 gains access to the cell surface. Antisera specific for allotypic and isotypic MHC class II beta-chains were used in sequential immunoprecipitation experiments to search for a beta-chain partner for DQA2, and a transfectant system was established in an attempt to promote pairing of DQA2 with a selected DQB1 (*0501) chain. In neither case was DQA2 found to dimerize with an MHC class II beta-chain. Despite this, DQA2 is capable of forming a complex with invariant chain."
+  },
+  "10.4103/pm.pm_475_16": {
+    "doi": "10.4103/pm.pm_475_16",
+    "title": "Toxicity and detoxification effects of herbal Caowu via ultra performance liquid chromatography/mass spectrometry metabolomics analyzed using pattern recognition method",
+    "type": "article",
+    "cited_by_count": 44,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "BACKGROUND: ., has widely used clinically in rheumatic arthritis, painful joints, and tumors for thousands of years. However, the toxicity of heart and central nervous system induced by CW still limited the application. MATERIALS AND METHODS: ) (CR) was also analyzed by pattern recognition methods. RESULTS: month. CONCLUSION: Metabolomics analyses coupled with pattern recognition methods in the evaluation of drug toxicity and finding detoxification methods were highlighted in this work. SUMMARY: and Renshen; QC: Quality control; UPLC: Ultra performance liquid chromatography; MS: Mass spectrometry; PCA: Principal component analysis; PLS-DA: Partial least squares-discriminant analysis; OPLS: Orthogonal projection to latent structures analysis."
+  },
+  "10.4252/wjsc.v9.i11.187": {
+    "doi": "10.4252/wjsc.v9.i11.187",
+    "title": "Amyotrophic lateral sclerosis as a protein level, non-genomic disease: Therapy with S2RM exosome released molecules",
+    "type": "review",
+    "cited_by_count": 20,
+    "publication_year": 2017,
+    "status": "ok",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a rapidly progressing neurodegenerative disease that leads to death. No effective treatments are currently available. Based on data from epidemiological, etiological, laboratory, and clinical studies, I offer a new way of thinking about ALS and its treatment. This paper describes a host of extrinsic factors, including the exposome, that disrupt the extracellular matrix and protein function such that a spreading, prion-like disease leads to neurodegeneration in the motor tracts. A treatment regimen is described using the stem cell released molecules from a number of types of adult stem cells to provide tissue dependent molecules that restore homeostasis, including proteostasis, in the ALS patient. Because stem cells themselves as a therapeutic are cumbersome and expensive, and when implanted in a host cause aging of the host tissue and often fail to engraft or remain viable, only the S2RM molecules are used. Rebuilding of the extracellular matrix and repair of the dysfunctional proteins in the ALS patient ensues."
+  }
+}

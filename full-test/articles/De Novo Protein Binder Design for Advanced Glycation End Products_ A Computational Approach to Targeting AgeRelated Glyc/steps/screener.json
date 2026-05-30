@@ -1,0 +1,111 @@
+{
+  "doc_name": "De Novo Protein Binder Design for Advanced Glycation End Products A Computational Approach to Targeting Age-Related Glyc",
+  "check_date": "May 21, 2026",
+  "windows_count": 4,
+  "total_findings_raw": 6,
+  "total_findings_deduped": 6,
+  "dimensions_with_findings": [
+    "financial_integrity",
+    "originality",
+    "scientific_rigor",
+    "team_credibility"
+  ],
+  "findings_by_dimension": {
+    "financial_integrity": [
+      {
+        "dimension": "financial_integrity",
+        "tags": [
+          "FundingSource"
+        ],
+        "severity": "concern",
+        "quote": "All computational designs, experimental protocols, and raw data will be made openly available.",
+        "observation": "While the paper promises open data, there is no explicit statement regarding funding sources, grants, or financial support in this window. For a project involving gene synthesis, yeast display, and BLI assays, the absence of a funding disclosure is notable.",
+        "section": "abstract",
+        "window_idx": 0
+      },
+      {
+        "dimension": "financial_integrity",
+        "tags": [
+          "FundingSource",
+          "BudgetAllocation"
+        ],
+        "severity": "concern",
+        "quote": "Cloud GPU computing costs (≈1,000 USD) will be funded from discretionary postdoctoral research funds. This work is also supported by a ResearchHub Foundation grant.",
+        "observation": "The project relies on 'discretionary postdoctoral research funds' for significant computational costs (~$1k) rather than dedicated grant funding. This suggests the work may be under-resourced or dependent on the PI's personal lab budget, which could limit the scale of the experimental campaign described.",
+        "section": "funding",
+        "window_idx": 2
+      }
+    ],
+    "originality": [
+      {
+        "dimension": "originality",
+        "tags": [
+          "NoveltyAssertion",
+          "GapStatement"
+        ],
+        "severity": "info",
+        "quote": "This work represents the first application of RFdiffusion All-Atom to AGE targeting and will establish whether computationally designed protein binders can serve as a new class of anti-glycation therapeutics.",
+        "observation": "The authors explicitly claim this is the first application of a specific deep learning tool (RFdiffusion All-Atom) to a specific target class (AGEs), positioning the work as a novel proof-of-concept rather than incremental optimization.",
+        "section": "abstract",
+        "window_idx": 0
+      }
+    ],
+    "scientific_rigor": [
+      {
+        "dimension": "scientific_rigor",
+        "tags": [
+          "Limitation",
+          "Hedge"
+        ],
+        "severity": "info",
+        "quote": "No wet laboratory pilot data has been generated, which is appropriate given the exploratory nature of this project",
+        "observation": "The authors admit to a lack of wet-lab pilot data, justifying it only by the 'exploratory nature' of the project. This is a significant methodological gap for a study claiming to validate a new computational pipeline against a specific target (AGEs), as wet-lab feasibility (e.g., expression, solubility) is often unpredictable and could invalidate the entire downstream experimental design.",
+        "section": "pilot data",
+        "window_idx": 1
+      },
+      {
+        "dimension": "scientific_rigor",
+        "tags": [
+          "Methodological"
+        ],
+        "severity": "concern",
+        "quote": "No covariates or regressors are anticipated for primary analyses.",
+        "observation": "The plan to perform no covariate adjustment in primary analyses is risky. In yeast display and BLI experiments, batch effects, instrument drift, or operator differences are common confounders. Failing to plan for these statistically could lead to false positives or inflated effect sizes in the hit rate analysis.",
+        "section": "sample and statistical power",
+        "window_idx": 1
+      }
+    ],
+    "team_credibility": [
+      {
+        "dimension": "team_credibility",
+        "tags": [
+          "Affiliation",
+          "Expertise"
+        ],
+        "severity": "info",
+        "quote": "Stanford University, Department of Neurology (Tony Wyss-Coray Lab). University of Washington, Institute for Protein Design (David Baker Lab)",
+        "observation": "The authors are affiliated with two of the most prominent labs in protein design and neurodegeneration research (Baker and Wyss-Coray). This signals high technical capability for the proposed computational pipeline and relevant domain expertise for the target disease area.",
+        "section": "author affiliations",
+        "window_idx": 0
+      }
+    ]
+  },
+  "writer_results": {
+    "team_credibility": {
+      "score": null,
+      "rationale": "The document lists affiliations with the Stanford University Department of Neurology (Tony Wyss-Coray Lab) and the University of Washington Institute for Protein Design (David Baker Lab). These institutions are recognized as prominent centers for neurodegeneration research and protein design, respectively. Such affiliations signal that the team possesses the necessary technical capability to execute the proposed computational pipeline and the relevant domain expertise for the target disease area. While the existing review notes a lack of external verification for specific author contributions, the institutional context provided here offers a strong baseline of credibility regarding the group's overall capacity. This information serves as neutral context that supports the feasibility of the research without directly confirming the specific claims made within the text."
+    },
+    "originality": {
+      "score": null,
+      "rationale": "The document explicitly frames its contribution as the first application of the RFdiffusion All-Atom tool to targeting advanced glycation end products (AGEs), positioning the study as a novel proof-of-concept rather than an incremental optimization. This assertion of novelty is grounded in the authors' claim that their work will establish whether computationally designed protein binders can function as a new class of anti-glycation therapeutics. While the underlying computational methods and biological context regarding AGEs are well-established, the specific combination of these tools to address small-molecule epitopes represents a distinct methodological advance. This finding reinforces the paper's status as a meaningful exploration of a previously untargeted niche within the field of therapeutic development."
+    },
+    "financial_integrity": {
+      "score": null,
+      "rationale": "The paper explicitly commits to making all computational designs, experimental protocols, and raw data openly available, which supports transparency in research outputs. However, a significant concern arises regarding the disclosure of funding sources, as the abstract lacks any explicit statement about grants or financial support despite the project's reliance on gene synthesis and yeast display techniques. Further investigation in the funding section reveals that approximately 1,000 USD in cloud GPU computing costs are covered by discretionary postdoctoral research funds rather than dedicated grant money. This reliance on personal lab budgets for substantial computational expenses suggests the project may be under-resourced or dependent on the principal investigator's available funds, potentially limiting the scale of the described experimental campaign. Additionally, the work is supported by a ResearchHub Foundation grant, but the absence of a comprehensive funding breakdown remains a notable gap in the financial documentation."
+    },
+    "scientific_rigor": {
+      "score": null,
+      "rationale": "The document explicitly acknowledges a lack of wet-laboratory pilot data, justifying this gap only by the exploratory nature of the project. This admission presents a significant methodological risk, as the feasibility of downstream experiments, such as protein expression and solubility, remains unverified and could invalidate the entire study design. Furthermore, the authors plan to perform primary analyses without adjusting for any covariates or regressors. Given that yeast display and BLI experiments are prone to batch effects, instrument drift, and operator differences, this absence of statistical controls creates a high risk of false positives or inflated effect sizes in the hit rate analysis. While the existing review noted a general reliance on self-reported workflows and mismatched citations, these specific findings highlight critical gaps in the experimental validation and statistical planning that undermine the careful execution of the proposed science."
+    }
+  }
+}

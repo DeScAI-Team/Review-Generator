@@ -1,0 +1,8 @@
+{
+  "pdf": "D:\\DeScAi\\Claim-extractor\\crawlers\\output\\molecule\\ipnfts\\CLAW\\percepta-human-trial-approved-by-the-irb.pdf",
+  "output_folder": "D:\\DeScAi\\Claim-extractor\\full-test\\daos\\CLAW\\docs\\percepta-human-trial-approved-by-the-irb",
+  "model": "nanonets/Nanonets-OCR2-3B",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "pages": 2,
+  "render_scale": 2.0
+}

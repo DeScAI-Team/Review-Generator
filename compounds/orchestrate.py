@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pump-science review orchestrator.
 
-Single compound  →  run_review.py (full pipeline including evidence audit)
+Single compound  →  run_review.py (discover → … → group_by_stance → openalex-risk → review → evidence audit)
 
 Multiple compounds → run_review.py per compound (unless ``--skip-individual``) with
                      reviews written under ``reviews/compounds/<combination-slug>/individual/<compound>/``
@@ -9,10 +9,15 @@ Multiple compounds → run_review.py per compound (unless ``--skip-individual``)
                      ``review-multiple.py``, per-compound ``evidence-doc.py``, and finally
                      combination ``evidence-doc.py`` (all audits deferred to the end).
 
+Each ``run_review.py`` invocation includes supplemental ``openalex_risk_search.py`` (step 5b) before
+``review.py`` unless ``--skip-openalex-risk`` is set. OpenAlex enriches risk rationales; it does not
+replace tag/group aggregate risk scoring.
+
 Usage:
   python orchestrate.py --compounds Doxycycline
   python orchestrate.py --compounds Omipalisib "Ginsenoside Rh2" "Urolithin A"
   python orchestrate.py --compounds Omipalisib "Ginsenoside Rh2" --skip-individual
+  python orchestrate.py --compounds Omipalisib --skip-discover --skip-openalex-risk
   python orchestrate.py --compounds Omipalisib "Ginsenoside Rh2" --model mixtral-8x7b
 """
 from __future__ import annotations
@@ -67,6 +72,11 @@ def main() -> int:
     ap.add_argument("--skip-discover", action="store_true")
     ap.add_argument("--skip-individual", action="store_true", help="Multi only: skip per-compound pipelines.")
     ap.add_argument("--skip-upload", action="store_true", help="Skip Arweave upload step.")
+    ap.add_argument(
+        "--skip-openalex-risk",
+        action="store_true",
+        help="Pass --skip-openalex-risk to run_review.py (skip supplemental OpenAlex safety literature).",
+    )
     args = ap.parse_args()
 
     py = sys.executable
@@ -80,6 +90,8 @@ def main() -> int:
             f.append("--skip-risk")
         if args.skip_discover:
             f.append("--skip-discover")
+        if args.skip_openalex_risk:
+            f.append("--skip-openalex-risk")
         return f
 
     if len(compounds) == 1:

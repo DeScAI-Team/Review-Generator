@@ -7,6 +7,7 @@ Steps (artifacts under ``compounds/data/<compound>/`` unless noted):
   3. list.py       → units.jsonl
   4. tag.py        → units_tagged.jsonl
   5. group_by_stance.py → grouped_by_stance.json
+  5b. openalex_risk_search.py → openalex_risk_context.json (supplemental; skip with ``--skip-openalex-risk``)
   6. review.py     → ``*-review.json`` (default: ``<repo>/reviews/compounds/<Compound>/``; override with ``--review-output``)
   7. evidence-doc.py → ``evidence_audit.md`` in compound data dir (skipped with ``--skip-evidence-audit``)
 
@@ -64,6 +65,7 @@ def main() -> int:
             "  python run_review.py --compound Metformin --model my-model-id\n"
             "  python run_review.py --compound Doxycycline --skip-risk\n"
             "  python run_review.py --compound Doxycycline --skip-discover\n"
+            "  python run_review.py --compound Omipalisib --skip-openalex-risk\n"
         ),
     )
     ap.add_argument("--compound", required=True, help="Compound name to review.")
@@ -87,6 +89,11 @@ def main() -> int:
         ),
     )
     ap.add_argument(
+        "--skip-openalex-risk",
+        action="store_true",
+        help="Skip step 5b (openalex_risk_search.py supplemental literature safety search).",
+    )
+    ap.add_argument(
         "--skip-evidence-audit",
         action="store_true",
         help="Skip step 7 (evidence-doc.py). Use when a parent orchestrator runs audits at the end.",
@@ -106,7 +113,8 @@ def main() -> int:
 
     py = sys.executable
     do_evidence = not args.skip_evidence_audit
-    n_steps = 6 + (1 if do_evidence else 0)
+    do_openalex = not args.skip_openalex_risk
+    n_steps = 6 + (1 if do_openalex else 0) + (1 if do_evidence else 0)
 
     def lab(step: int) -> str:
         return f"{step}/{n_steps}"
@@ -181,8 +189,27 @@ def main() -> int:
     )
     grouped_path = compound_dir / "grouped_by_stance.json"
 
+    step_num = 6
+
     # ------------------------------------------------------------------
-    # Step 6: Review (three LLM passes)
+    # Step 5b: Supplemental OpenAlex risk literature
+    # ------------------------------------------------------------------
+    if do_openalex:
+        oa_cmd: list[str | Path] = [
+            py,
+            _PUMP_SCIENCE_DIR / "openalex_risk_search.py",
+            "--compound",
+            compound,
+            "--compound-dir",
+            str(compound_dir),
+        ]
+        if args.model:
+            oa_cmd += ["--model", args.model]
+        _run(f"{lab(step_num)} openalex-risk", oa_cmd)
+        step_num += 1
+
+    # ------------------------------------------------------------------
+    # Review (three LLM passes)
     # ------------------------------------------------------------------
     review_cmd: list[str | Path] = [
         py, _PUMP_SCIENCE_DIR / "review.py", str(grouped_path),
@@ -191,7 +218,8 @@ def main() -> int:
         review_cmd += ["--model", args.model]
     if args.review_output is not None:
         review_cmd += ["-o", str(args.review_output.expanduser().resolve())]
-    _run(f"{lab(6)} review", review_cmd)
+    _run(f"{lab(step_num)} review", review_cmd)
+    step_num += 1
 
     repo_root = _DATA_DIR.parent.parent
     safe_name = re.sub(r'[<>:"/\\|?*]', "_", compound).strip()
@@ -212,7 +240,7 @@ def main() -> int:
         ]
         if review_path.is_file():
             evidence_cmd.extend(["--review", str(review_path)])
-        _run(f"{lab(7)} evidence audit", evidence_cmd)
+        _run(f"{lab(step_num)} evidence audit", evidence_cmd)
 
     print(f"\nPipeline complete.", flush=True)
     print(f"Review: {review_path}", flush=True)

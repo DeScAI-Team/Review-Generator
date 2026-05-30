@@ -35,11 +35,34 @@ export interface DataBundleOptions {
   skipFolderNames?: ReadonlySet<string>
 }
 
-function deriveFileName(filePath: string): string {
+/** MIME base type → file extension (without dot). */
+const CONTENT_TYPE_EXTENSION: Record<string, string> = {
+  "application/pdf": "pdf",
+  "application/x-pdf": "pdf",
+  "video/mp4": "mp4",
+  "video/quicktime": "mov",
+  "image/png": "png",
+  "image/jpeg": "jpg",
+  "image/gif": "gif",
+  "image/webp": "webp",
+}
+
+function extensionFromContentType(contentType: string): string | undefined {
+  const base = contentType.split(";")[0]?.trim().toLowerCase()
+  if (!base) return undefined
+  if (CONTENT_TYPE_EXTENSION[base]) return CONTENT_TYPE_EXTENSION[base]
+  const slash = base.indexOf("/")
+  if (slash === -1) return undefined
+  const subtype = base.slice(slash + 1).replace(/^x-/, "")
+  return /^[a-z0-9.+-]+$/.test(subtype) ? subtype : undefined
+}
+
+function deriveFileName(filePath: string, contentType: string): string {
   let name = filePath.replace(/^\/+/, "").replace(/\//g, "_")
   const hasExtension = /\.[a-zA-Z0-9]{1,10}$/.test(name)
   if (!hasExtension) {
-    name += ".pdf"
+    const ext = extensionFromContentType(contentType)
+    if (ext) name += `.${ext}`
   }
   return name
 }
@@ -149,7 +172,7 @@ export async function runDataBundle(opts: DataBundleOptions): Promise<void> {
 
     if (opts.dryRun) {
       for (const f of deduped) {
-        const fileName = deriveFileName(f.path)
+        const fileName = deriveFileName(f.path, f.contentType)
         manifest.push({
           description: f.description ?? "",
           path: f.path,
@@ -163,7 +186,7 @@ export async function runDataBundle(opts: DataBundleOptions): Promise<void> {
       )
     } else {
       for (const f of deduped) {
-        const fileName = deriveFileName(f.path)
+        const fileName = deriveFileName(f.path, f.contentType)
         const destPath = path.join(dir, fileName)
 
         let alreadyExists = false

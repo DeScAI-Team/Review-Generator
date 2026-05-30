@@ -1,0 +1,915 @@
+{
+  "search:Wyoming DUNA liability protection decentralized governance": [
+    {
+      "openalex_id": "https://openalex.org/W4414220462",
+      "doi": "https://doi.org/10.1093/cmlj/kmaf011",
+      "title": "Decentralized autonomous organizations: adapting legal structures and proposing a new model of DAOLLP",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 2,
+      "abstract": "Abstract This article examines the integration of Decentralized Autonomous Organizations (DAOs) into the existing legal framework of the United Kingdom, proposing a novel legal entity model termed the Decentralized Autonomous Organization Limited Liability Partnership (DAOLLP). It explores the distinctive characteristics of DAOs, including their decentralized governance, reliance on smart contracts operating on blockchain and the challenges they face under current UK law and underscores the necessity for legal adaptations that accommodate these innovative structures. The suggested model seeks to provide legal personhood, limited liability protection and a framework for compliance with existing laws and regulations while maintaining the core principles of decentralization and transparency. By comparative analysis of legislative approaches towards DAOs in jurisdictions such as Wyoming, Vermont and Malta, this article promotes a proactive regulatory framework for DAOs that fosters innovation and positions the UK as a leader in blockchain governance."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4405850660",
+      "doi": "https://doi.org/10.1017/err.2024.93",
+      "title": "DAO Token Transferability: Property, Contract, and Technology",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 3,
+      "abstract": "Abstract A Decentralised Autonomous Organisation (DAO) is a new form of digital enterprise that operates on blockchain networks. It enables a new model of collaboration through diverse capital contributions and equitable sharing of benefits and risks. This paper explores the legal dimensions of DAO token transferability, a vital aspect for the expansion of DAO operations. First, it evaluates how property law (including the proposal by the Law Commission of England and Wales for a third category of digital asset ownership) might apply to DAO tokens so as to mitigate legal risks and ensure smooth transferability. Secondly, it investigates the potential for DAO software protocols to implement contractual transferability restrictions and examines their technological design. Finally, it looks at the legal enforceability of such restrictions and the policies needed to support their legal recognition."
+    },
+    {
+      "openalex_id": "https://openalex.org/W7123755397",
+      "doi": "https://doi.org/10.55277/researchhub.leu54yop.1",
+      "title": "A Quantitative Taxonomy of Regulatory Frameworks for Decentralized Autonomous Organizations: Mathematical Characterization of Liability Distribution, Compliance Architecture, and Governance Optimization",
+      "type": "report",
+      "year": 2026,
+      "cited_by_count": 0,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W7120091365",
+      "doi": "https://doi.org/10.1515/9783839410974-007",
+      "title": "Cross-Chain Governance",
+      "type": "book-chapter",
+      "year": 2025,
+      "cited_by_count": 0,
+      "abstract": "The governance of blockchain-based decentralized autonomous organisations (DAOs) is shaped, in part, by the architecture of the underlying blockchain networks.This chapter examines the governance challenges posed by cross-chain blockchains -advanced technologies that enable interoperability between otherwise discrete blockchain ecosystems.Building on the normative and conceptual frameworks developed in earlier chapters on digital governance and trust in AI, we argue that effective cross-chain governance requires more than technical solutions.It must also address legal coordination, participant evaluative capacities, and the design of systems capable of fostering trust.Cross-chain technologies introduce novel complexities in managing decentralized interactions across heterogeneous networks, necessitating governance models that uphold standards of security, scalability, and decentralisation.Beyond these technical criteria, we argue that legitimate and trustworthy digital governance must also incorporate normative foundations such as agency, responsibility, and practical freedom."
+    }
+  ],
+  "search:Coin-to-Company model equity financing biomedical research": [
+    {
+      "openalex_id": "https://openalex.org/W2897623369",
+      "doi": "https://doi.org/10.1016/s0140-6736(18)31612-x",
+      "title": "The Lancet Commission on global mental health and sustainable development",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 3360,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3125283871",
+      "doi": "https://doi.org/10.1016/s0048-7333(01)00196-2",
+      "title": "Assessing the impact of organizational practices on the relative productivity of university technology transfer offices: an exploratory study",
+      "type": "article",
+      "year": 2002,
+      "cited_by_count": 1678,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2916719911",
+      "doi": "https://doi.org/10.1080/13691066.2018.1517430",
+      "title": "Unicorns, Cheshire cats, and the new dilemmas of entrepreneurial finance",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 182,
+      "abstract": "This essay examines the implications of the evolving environment for the formation and financing of new firms in the United States. After the dot.com crash of 2000, there was a regime change in new firm formation and the number of firms that exited through an initial public stock offering. This change was made possible by the decreased cost, increased speed, and ease of market entry due to availability of open source software, digital platforms, and cloud computing. This facilitated a proliferation of startups seeking to disrupt incumbent firms in a wide variety of business sectors. The contemporaneous growth in the number and size of private funding sources has resulted in a situation within which new firms can afford to run massive losses for long periods in an effort to dislodge incumbents or attempt to triumph over other lavishly funded startups. This has triggered remarkable turmoil in many formerly stable industrial sectors, as the new entrants fueled by capital investments undercut incumbents on price and service. The ultimate result is that new entrants with access to massive amounts of capital can survive losses for a sufficiently long period to displace existing firms and, thereby, transform earlier industrial ecosystems."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4223504512",
+      "doi": "https://doi.org/10.1007/s10796-022-10279-0",
+      "title": "Artificial Intelligence and Blockchain Integration in Business: Trends from a Bibliometric-Content Analysis",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 329,
+      "abstract": "Artificial intelligence (AI) and blockchain are the two disruptive technologies emerging from the Fourth Industrial Revolution (IR4.0) that have introduced radical shifts in the industry. The amalgamation of AI and blockchain holds tremendous potential to create new business models enabled through digitalization. Although research on the application and convergence of AI and blockchain exists, our understanding of the utility of its integration for business remains fragmented. To address this gap, this study aims to characterize the applications and benefits of integrated AI and blockchain platforms across different verticals of business. Using bibliometric analysis, this study reveals the most influential articles on the subject based on their publications, citations, and importance in the intellectual network. Using content analysis, this study sheds light on the subject's intellectual structure, which is underpinned by four major thematic clusters focusing on supply chains, healthcare, secure transactions, and finance and accounting. The study concludes with 10 application areas in business that can benefit from these technologies."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2906459005",
+      "doi": "https://doi.org/10.32859/era.15.2.001-295",
+      "title": "Medicinal plants of the Andes and the Amazon - The magic and medicinal flora of Northern Peru",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 661,
+      "abstract": "The north of Peru represents the \"Health Axis\" of the Central Andes, with the roots of traditional practices going back to the Cupisnique culture (1000 BC). During a decade of research semi-structured interviews of healers, collectors and sellers of medicinal plants were conducted. Bioassays were carried out to evaluate the effectiveness and toxicity of the plants found. The majority (83%) of the 510 species used were native to Peru. 50% of the plants used in the colonial era disappeared from the pharmacopoeia. In the markets, vendors were grouped: common and exotic plants, plants for common diseases, plants only used by healers, and plants with magical purposes. About 974 preparations with up to 29 ingredients treated 164 conditions. Nearly 65% of the medicinal flora are applied in mixtures. Antibacterial activity was confirmed in most plants used for infections. 24% aqueous extract and 76% ethanol extracts showed toxicity. Traditional methods of preparation take this into account when choosing the appropriate solvent for the preparation of a remedy. The growing demand did not increase the significant cultivation of medicinal plants. The majority represent plants collected in nature, causing doubts about the sustainability of trade.The focus of ethnobotanical studies and the participation of local stakeholders have changed a lot in recent decades. From the scientific point of view, the research has gone from simple inventories for example of mainly medicinal plants to detailed quantitative studies, often focused on all useful plants. However, the most important thing is that the research has finally moved away from colonial style research to modern ethnobotany based on the principles of the Nagoya Protocol. This is of great importance for the ethnobiological community. However, these changes have not been the same in all Latin American countries, and there are large regional differences.The objective of this publication is to provide examples of twenty-five years of global research, describing the change of attitude and methodology during that time, highlighting the increasing role of local actors in ethnobotanical research and contributing ideas for the future development of the discipline.With this special issue of Ethnobotany Research and Applications we try to bring 20 years of research in Northern Peru to a wider audience."
+    }
+  ],
+  "search:VitaFast LLC autophagy research commercialization": [],
+  "search:decentralized organization regulatory compliance U.S. biomedical": [
+    {
+      "openalex_id": "https://openalex.org/W3200840849",
+      "doi": "https://doi.org/10.1038/s41591-021-01506-3",
+      "title": "Federated learning for predicting clinical outcomes in patients with COVID-19",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 697,
+      "abstract": "Federated learning (FL) is a method used for training artificial intelligence models with data from multiple sources while maintaining data anonymity, thus removing many barriers to data sharing. Here we used data from 20 institutes across the globe to train a FL model, called EXAM (electronic medical record (EMR) chest X-ray AI model), that predicts the future oxygen requirements of symptomatic patients with COVID-19 using inputs of vital signs, laboratory data and chest X-rays. EXAM achieved an average area under the curve (AUC) >0.92 for predicting outcomes at 24 and 72 h from the time of initial presentation to the emergency room, and it provided 16% improvement in average AUC measured across all participating sites and an average increase in generalizability of 38% when compared with models trained at a single site using that site's data. For prediction of mechanical ventilation treatment or death at 24 h at the largest independent test site, EXAM achieved a sensitivity of 0.950 and specificity of 0.882. In this study, FL facilitated rapid data science collaboration without data exchange and generated a model that generalized across heterogeneous, unharmonized datasets for prediction of clinical outcomes in patients with COVID-19, setting the stage for the broader use of FL in healthcare."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4379470483",
+      "doi": "https://doi.org/10.3390/jpm13060951",
+      "title": "A Review of the Role of Artificial Intelligence in Healthcare",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 781,
+      "abstract": "Artificial intelligence (AI) applications have transformed healthcare. This study is based on a general literature review uncovering the role of AI in healthcare and focuses on the following key aspects: (i) medical imaging and diagnostics, (ii) virtual patient care, (iii) medical research and drug discovery, (iv) patient engagement and compliance, (v) rehabilitation, and (vi) other administrative applications. The impact of AI is observed in detecting clinical conditions in medical imaging and diagnostic services, controlling the outbreak of coronavirus disease 2019 (COVID-19) with early diagnosis, providing virtual patient care using AI-powered tools, managing electronic health records, augmenting patient engagement and compliance with the treatment plan, reducing the administrative workload of healthcare professionals (HCPs), discovering new drugs and vaccines, spotting medical prescription errors, extensive data storage and analysis, and technology-assisted rehabilitation. Nevertheless, this science pitch meets several technical, ethical, and social challenges, including privacy, safety, the right to decide and try, costs, information and consent, access, and efficacy, while integrating AI into healthcare. The governance of AI applications is crucial for patient safety and accountability and for raising HCPs' belief in enhancing acceptance and boosting significant health consequences. Effective governance is a prerequisite to precisely address regulatory, ethical, and trust issues while advancing the acceptance and implementation of AI. Since COVID-19 hit the global health system, the concept of AI has created a revolution in healthcare, and such an uprising could be another step forward to meet future healthcare needs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2936874037",
+      "doi": "https://doi.org/10.1186/s12916-019-1296-7",
+      "title": "‘Fit-for-purpose?’ – challenges and opportunities for applications of blockchain technology in the future of healthcare",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 322,
+      "abstract": "Blockchain is a shared distributed digital ledger technology that can better facilitate data management, provenance and security, and has the potential to transform healthcare. Importantly, blockchain represents a data architecture, whose application goes far beyond Bitcoin - the cryptocurrency that relies on blockchain and has popularized the technology. In the health sector, blockchain is being aggressively explored by various stakeholders to optimize business processes, lower costs, improve patient outcomes, enhance compliance, and enable better use of healthcare-related data. However, critical in assessing whether blockchain can fulfill the hype of a technology characterized as 'revolutionary' and 'disruptive', is the need to ensure that blockchain design elements consider actual healthcare needs from the diverse perspectives of consumers, patients, providers, and regulators. In addition, answering the real needs of healthcare stakeholders, blockchain approaches must also be responsive to the unique challenges faced in healthcare compared to other sectors of the economy. In this sense, ensuring that a health blockchain is 'fit-for-purpose' is pivotal. This concept forms the basis for this article, where we share views from a multidisciplinary group of practitioners at the forefront of blockchain conceptualization, development, and deployment."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2996758792",
+      "doi": "https://doi.org/10.3390/electronics9010094",
+      "title": "A Blockchain-Based Smart Contract System for Healthcare Management",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 499,
+      "abstract": "Blockchain is evolving to be a secure and reliable platform for secure data sharing in application areas such as the financial sector, supply chain management, food industry, energy sector, internet of things and healthcare. In this paper, we review existing literature and applications available for the healthcare system using blockchain technology. Besides, this work also proposes multiple workflows involved in the healthcare ecosystem using blockchain technology for better data management. Different medical workflows have been designed and implemented using the ethereum blockchain platform which involves complex medical procedures like surgery and clinical trials. This also includes accessing and managing a large amount of medical data. Within the implementation of the workflows of the medical smart contract system for healthcare management, the associated cost has been estimated for this system in terms of a feasibility study which has been comprehensively presented in this paper. This work would facilitate multiple stakeholders who are involved within the medical system to deliver better healthcare services and optimize cost."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2916717517",
+      "doi": "https://doi.org/10.1371/journal.pntd.0007059",
+      "title": "Strategy for a globally coordinated response to a priority neglected tropical disease: Snakebite envenoming",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 428,
+      "abstract": "In one of his final essays, statesman and former United Nations secretary general Kofi Annan said, ‘Snakebite is the most important tropical disease you’ve never heard of’ [1]. Mr. Annan firmly believed that victims of snakebite envenoming should be recognised and afforded greater efforts at improved prevention, treatment, and rehabilitation. During the last years of his life, he advocated strongly for the World Health Organisation (WHO) and the global community to give greater priority to this disease of poverty and its victims."
+    }
+  ],
+  "search:Coin-to-Company model securities compliance": [
+    {
+      "openalex_id": "https://openalex.org/W2171811563",
+      "doi": "https://doi.org/10.1136/bmj.e7586",
+      "title": "SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials",
+      "type": "article",
+      "year": 2013,
+      "cited_by_count": 7017,
+      "abstract": "High quality protocols facilitate proper conduct, reporting, and external review of clinical trials. However, the completeness of trial protocols is often inadequate. To help improve the content and quality of protocols, an international group of stakeholders developed the SPIRIT 2013 Statement (Standard Protocol Items: Recommendations for Interventional Trials). The SPIRIT Statement provides guidance in the form of a checklist of recommended items to include in a clinical trial protocol. This SPIRIT 2013 Explanation and Elaboration paper provides important information to promote full understanding of the checklist recommendations. For each checklist item, we provide a rationale and detailed description; a model example from an actual protocol; and relevant references supporting its importance. We strongly recommend that this explanatory paper be used in conjunction with the SPIRIT Statement. A website of resources is also available (www.spirit-statement.org). The SPIRIT 2013 Explanation and Elaboration paper, together with the Statement, should help with the drafting of trial protocols. Complete documentation of key trial elements can facilitate transparency and protocol review for the benefit of all stakeholders."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2981731882",
+      "doi": "https://doi.org/10.1016/j.inffus.2019.12.012",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 8740,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2899357412",
+      "doi": "https://doi.org/10.1016/j.rser.2018.10.014",
+      "title": "Blockchain technology in the energy sector: A systematic review of challenges and opportunities",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 2334,
+      "abstract": "Blockchains or distributed ledgers are an emerging technology that has drawn considerable interest from energy supply firms, startups, technology developers, financial institutions, national governments and the academic community. Numerous sources coming from these backgrounds identify blockchains as having the potential to bring significant benefits and innovation. Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as system architectures and distributed consensus algorithms. Next, we focus on blockchain solutions for the energy industry and inform the state-of-the-art by thoroughly reviewing the literature and current business cases. To our knowledge, this is one of the first academic, peer-reviewed works to provide a systematic review of blockchain activities and initiatives in the energy sector. Our study reviews 140 blockchain research projects and startups from which we construct a map of the potential and relevance of blockchains for energy applications. These initiatives were systematically classified into different groups according to the field of activity, implementation platform and consensus strategy used.1 Opportunities, potential challenges and limitations for a number of use cases are discussed, ranging from emerging peer-to-peer (P2P) energy trading and Internet of Things (IoT) applications, to decentralised marketplaces, electric vehicle charging and e-mobility. For each of these use cases, our contribution is twofold: first, in identifying the technical challenges that blockchain technology can solve for that application as well as its potential drawbacks, and second in briefly presenting the research and industrial projects and startups that are currently applying blockchain technology to that area. The paper ends with a discussion of challenges and market barriers the technology needs to overcome to get past the hype phase, prove its commercial viability and finally be adopted in the mainstream."
+    },
+    {
+      "openalex_id": "https://openalex.org/W1907293129",
+      "doi": "https://doi.org/10.1109/sp.2015.14",
+      "title": "SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 1227,
+      "abstract": "Bit coin has emerged as the most successful cryptographic currency in history. Within two years of its quiet launch in 2009, Bit coin grew to comprise billions of dollars of economic value despite only cursory analysis of the system's design. Since then a growing literature has identified hidden-but-important properties of the system, discovered attacks, proposed promising alternatives, and singled out difficult future challenges. Meanwhile a large and vibrant open-source community has proposed and deployed numerous modifications and extensions. We provide the first systematic exposition Bit coin and the many related crypto currencies or 'altcoins.' Drawing from a scattered body of knowledge, we identify three key components of Bit coin's design that can be decoupled. This enables a more insightful analysis of Bit coin's properties and future stability. We map the design space for numerous proposed modifications, providing comparative analyses for alternative consensus mechanisms, currency allocation mechanisms, computational puzzles, and key management tools. We survey anonymity issues in Bit coin and provide an evaluation framework for analyzing a variety of privacy-enhancing proposals. Finally we provide new insights on what we term disinter mediation protocols, which absolve the need for trusted intermediaries in an interesting set of applications. We identify three general disinter mediation strategies and provide a detailed comparison."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4360620450",
+      "doi": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+      "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 3554,
+      "abstract": "Transformative artificially intelligent tools, such as ChatGPT, designed to generate sophisticated text indistinguishable from that produced by a human, are applicable across a wide range of contexts. The technology presents opportunities as well as, often ethical and legal, challenges, and has the potential for both positive and negative impacts for organisations, society, and individuals. Offering multi-disciplinary insight into some of these, this article brings together 43 contributions from experts in fields such as computer science, marketing, information systems, education, policy, hospitality and tourism, management, publishing, and nursing. The contributors acknowledge ChatGPT’s capabilities to enhance productivity and suggest that it is likely to offer significant gains in the banking, hospitality and tourism, and information technology industries, and enhance business activities, such as management and marketing. Nevertheless, they also consider its limitations, disruptions to practices, threats to privacy and security, and consequences of biases, misuse, and misinformation. However, opinion is split on whether ChatGPT’s use should be restricted or legislated. Drawing on these contributions, the article identifies questions requiring further research across three thematic areas: knowledge, transparency, and ethics; digital transformation of organisations and societies; and teaching, learning, and scholarly research. The avenues for further research include: identifying skills, resources, and capabilities needed to handle generative AI; examining biases of generative AI attributable to training datasets and processes; exploring business and societal contexts best suited for generative AI implementation; determining optimal combinations of human and generative AI for various tasks; identifying ways to assess accuracy of text produced by generative AI; and uncovering the ethical and legal issues in using generative AI across different contexts."
+    }
+  ],
+  "search:DAO equity issuance Reg D exemptions": [
+    {
+      "openalex_id": "https://openalex.org/W2792731836",
+      "doi": "",
+      "title": "A Rule of Persons, Not Machines: The Limits of Legal Automation",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 78,
+      "abstract": "For many legal futurists, attorneys’ work is a prime target for automation. They view the legal practice of most businesses as algorithmic: data (such as facts) are transformed into outputs (agreements or litigation stances) via application of set rules (the law). These technophiles promote substituting computer code for contracts and descriptions of facts now written by humans. They point to early successes in legal automation as proof of concept. For example, TurboTax has helped millions of Americans file taxes, and algorithms have taken over certain aspects of stock trading. Corporate efforts to “formalize legal code” may bring new efficiencies in areas of practice characterized by both legal and factual clarity.\r\n\r\nLegal automation, however, can also elide or exclude important human values, necessary improvisations, and irreducibly deliberative governance. Due process depends on narratively intelligible communication from persons and for persons that are not reducible to software. Language is constitutive of these aspects of law. To preserve accountability and a humane legal order, these reasons must be expressed in language by a responsible person. This basic requirement for legitimacy limits legal automation in several contexts, including corporate compliance, property recordation, and contracting. A robust and ethical legal profession respects the flexibility and subtlety of legal language as a prerequisite for a just and accountable social order. It ensures a rule of persons, not machines."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3125519668",
+      "doi": "https://doi.org/10.36645/mtlr.26.2.from",
+      "title": "From Inactivity to Full Enforcement: The Implementation of the \"Do No Harm\" Approach in Initial Coin Offerings",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 16,
+      "abstract": "This Article analyzes the way the Securities and Exchange Commission (“SEC”) has enforced securities laws with regard to Initial Coin Offerings (“ICOs”). In a speech held in 2016, the U.S. Commodities Futures Trading Commission (“CFTC”) Chairman Christopher Giancarlo emphasized the similarities between the advent of the blockchain technology and the Internet era. He offered the “do no harm” approach as the best way to regulate blockchain technology. The Clinton administration implemented the “do no harm” approach at the beginning of the Internet Era in the 1990s when regulators sought to support technological innovations without stifling them with burdensome rules. This Article suggests that the SEC adopted a “do no harm approach” and successfully pursued two of its fundamental institutional goals when enforcing securities laws in the context of ICOs: investor protection and preservation of capital formation. After providing a brief description of the basics of ICOs and the way they have evolved in the last two years, this Article examines the transition into a new phase of full enforcement action implemented by the SEC. This shift from inactivity to enforcement was gradual, characterized by clearly identifiable steps. Data on ICOs demonstrates that this rigorous enforcement of securities laws has not damaged the industry in the United States and may suggest that entrepreneurs have adapted to this enforcement approach. By contrast, a lack of enforcement would have probably increased uncertainty to the detriment of investors and entrepreneurs and put the UNITED STATES at a disadvantage in the international arena. Furthermore, this paper emphasizes the importance of pursuing specific goals in the short-to-medium term, particularly in order to make securities regulation uniform and avoid differences at the state and federal levels, as well as to encourage industry authorities such as Self-Regulatory Organizations (SROs) to develop high standards for self-regulation."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2937383884",
+      "doi": "",
+      "title": "Crypto Securities: On the Risks of Investments in Blockchain-Based Assets and the Dilemmas of Securities Regulation",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 12,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2950862783",
+      "doi": "https://doi.org/10.17161/1808.27486",
+      "title": ",,,Initial Coin Offerings as Investment Contracts: Are Blockchain Utility Tokens Securities?",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 10,
+      "abstract": "Current American jurisprudence on digital assets (e.g. Bitcoin) is woefully underdeveloped due to the rapid development and adoption of blockchain technology-creating an intellectual gold rush with agencies, attorneys, and techies all shouting their positions (on securities laws, particularly) into the wind. This Comment enters the ether in an endeavor to counter prevailing federal agency narratives about the role of securities laws regarding \"ICOs\"-introducing the reader to the most pertinent features of blockchain technology and Initial Coin Offerings, introducing the U.S. Securities and Exchange Commission's (the \"SEC\") current regulatory approach, and applying the seminal Howey is-it-a-security test."
+    },
+    {
+      "openalex_id": "https://openalex.org/W7134907435",
+      "doi": "https://doi.org/10.2139/ssrn.6153830",
+      "title": "The Coin-to-Company Model: Reconciling Decentralized Governance with Securities Regulation Through Structural Separation and Complementary Exemptions Under U.S. Law",
+      "type": "preprint",
+      "year": 2026,
+      "cited_by_count": 0,
+      "abstract": null
+    }
+  ],
+  "search:Wyoming DUNA Act legal framework": [
+    {
+      "openalex_id": "https://openalex.org/W3158141435",
+      "doi": "",
+      "title": "A Road Map to Net-Zero Emissions for Fossil Fuel Development on Public Lands",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 4,
+      "abstract": "Almost one quarter of all U.S. carbon dioxide (CO2) emissions come from fossil fuels extracted from public lands, and these resources are managed by the Bureau of Land Management (BLM). The BLM has a statutory duty set forth in the Federal Land Policy and Management Act (FLPMA) to coordinate management of various resources “without permanent impairment of the productivity of the land and the quality of the environment.” Continuing to permit fossil fuel development without adhering to a carbon budget violates this statutory duty. This Article argues that the BLM must address climate change in its decisions. It also proposes a legal strategy for requiring that all new onshore oil and gas wells that tap federal resources, including those on existing leases, achieve net-zero GHG emissions (for upstream and downstream emissions) as a condition of operational approval. While the following discussion focuses on the oil and gas permitting process, the same principles could apply to other permitting decisions."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414220462",
+      "doi": "https://doi.org/10.1093/cmlj/kmaf011",
+      "title": "Decentralized autonomous organizations: adapting legal structures and proposing a new model of DAOLLP",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 2,
+      "abstract": "Abstract This article examines the integration of Decentralized Autonomous Organizations (DAOs) into the existing legal framework of the United Kingdom, proposing a novel legal entity model termed the Decentralized Autonomous Organization Limited Liability Partnership (DAOLLP). It explores the distinctive characteristics of DAOs, including their decentralized governance, reliance on smart contracts operating on blockchain and the challenges they face under current UK law and underscores the necessity for legal adaptations that accommodate these innovative structures. The suggested model seeks to provide legal personhood, limited liability protection and a framework for compliance with existing laws and regulations while maintaining the core principles of decentralization and transparency. By comparative analysis of legislative approaches towards DAOs in jurisdictions such as Wyoming, Vermont and Malta, this article promotes a proactive regulatory framework for DAOs that fosters innovation and positions the UK as a leader in blockchain governance."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4405850660",
+      "doi": "https://doi.org/10.1017/err.2024.93",
+      "title": "DAO Token Transferability: Property, Contract, and Technology",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 3,
+      "abstract": "Abstract A Decentralised Autonomous Organisation (DAO) is a new form of digital enterprise that operates on blockchain networks. It enables a new model of collaboration through diverse capital contributions and equitable sharing of benefits and risks. This paper explores the legal dimensions of DAO token transferability, a vital aspect for the expansion of DAO operations. First, it evaluates how property law (including the proposal by the Law Commission of England and Wales for a third category of digital asset ownership) might apply to DAO tokens so as to mitigate legal risks and ensure smooth transferability. Secondly, it investigates the potential for DAO software protocols to implement contractual transferability restrictions and examines their technological design. Finally, it looks at the legal enforceability of such restrictions and the policies needed to support their legal recognition."
+    },
+    {
+      "openalex_id": "https://openalex.org/W1580252472",
+      "doi": "https://doi.org/10.15779/z38rm0f",
+      "title": "Diverting the Danube: The Gabcikovo-Nagymaros Dispute and International Freshwater Law",
+      "type": "article",
+      "year": 1996,
+      "cited_by_count": 10,
+      "abstract": "Of course, it is possible that, even if an opinion is published, the Court will confine itself, as did the Permanent Court of International Justice in the Meuse case, infra note 264, to questions of treaty interpretation, and not apply or discuss customary international law.The Court could also, with the consent of the parties, decide the case ex aequo et bono, in accordance with Article 38(2) of 1996]Ukraine.The Danube has always divided this region as much as it has united it.In the time of Alexander, the Danube (then known as the Ister) formed the northern frontier of the Hellenistic empire, beyond which lay the Scythians. 4 Throughout most of the history of the Roman Empire and its Byzantine successor, the Danube (then Danuvius) formed the northern boundary of the Empire.Trajan campaigned against the Dacians in that area from 101 to 105 A.D., and Marcus Aurelius defeated the Marcomanni there in 181 A.D. 5 By about 600 A.D., the Danube formed the boundary between the Christian lands to the south and pagan Europe to the north.The Avars, Goths, and Huns crossed the Danube in a series of incursions, bringing about the eventual downfall of the Western Roman Empire.After the fall of Constantinople, the Danube separated the Ottoman Empire from its Orthodox vassal states to the north and marked the northern boundary of Muslim Europe. 6 From East to West, the Danube basin has historically been occupied by very different cultures and civilizations.After the fall of Constantinople, it flowed from the world of Christianity to the world of Islam.Later, it flowed from capitalist Western Europe to communist Eastern Europe.Today, it flows from the relatively stable, developed countries of the West to the emerging Eastern European nations.From Ulm to the Black Sea, the river is navigable year-round, except for the section between Bratislava, Slovakia and Nagymaros, Hungary, which is intermittently impassable during three months of the year.' Between Bratislava and Komarno, the river flows above an alluvial cone hundreds of meters deep. 8 The river cuts through multiple channels in a huge inland delta, 9 creating one of Central Europe's last remaining large wetlands and providing a habitat for what is estimated to be more than 5,000 animal species. 10 B. The Gabcikovo-Nagymaros ProjectThe Gabcikovo-Nagymaros project was first conceived in 1951,1 and its design reflects the industrial gigantism of the Stalinist era. 1 2 As originally con-4."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3121946082",
+      "doi": "",
+      "title": "The BLM’s Duty to Incorporate Climate Science into Permitting Practices and a Proposal for Implementing a Net Zero Requirement into Oil and Gas Permitting",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 2,
+      "abstract": "Almost one quarter of all U.S. carbon dioxide (CO2) emissions come from fossil fuels extracted from public lands, and these resources are managed by the Bureau of Land Management (BLM). This article argues that the BLM has a statutory duty to respond to climate change, which includes the duty to avoid exacerbating climate change. The article then moves the legal discussion from aspiration to action by proposing a legal strategy, using the existing legal framework, by which the BLM can achieve net zero emissions from all new mineral development activity. While the article focuses on oil and gas development, the same methodology could be applied to coal mining, tar sands, and other sources of GHG emissions."
+    }
+  ],
+  "search:dual-entity structure biomedical research financing": [
+    {
+      "openalex_id": "https://openalex.org/W3119952098",
+      "doi": "https://doi.org/10.1038/s41573-020-00114-z",
+      "title": "Natural products in drug discovery: advances and opportunities",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 4861,
+      "abstract": "Natural products and their structural analogues have historically made a major contribution to pharmacotherapy, especially for cancer and infectious diseases. Nevertheless, natural products also present challenges for drug discovery, such as technical barriers to screening, isolation, characterization and optimization, which contributed to a decline in their pursuit by the pharmaceutical industry from the 1990s onwards. In recent years, several technological and scientific developments - including improved analytical tools, genome mining and engineering strategies, and microbial culturing advances - are addressing such challenges and opening up new opportunities. Consequently, interest in natural products as drug leads is being revitalized, particularly for tackling antimicrobial resistance. Here, we summarize recent technological developments that are enabling natural product-based drug discovery, highlight selected applications and discuss key opportunities."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2266871031",
+      "doi": "https://doi.org/10.1016/s2215-0366(15)00505-2",
+      "title": "Estimating the true global burden of mental illness",
+      "type": "review",
+      "year": 2016,
+      "cited_by_count": 2476,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2969625533",
+      "doi": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 3950,
+      "abstract": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reached the limits of physical capacity. Artificial Intelligence (AI) offers this same transformative potential for the augmentation and potential replacement of human tasks and activities within a wide range of industrial, intellectual and social applications. The pace of change for this new AI technological age is staggering, with new breakthroughs in algorithmic machine learning and autonomous decision-making, engendering new opportunities for continued innovation. The impact of AI could be significant, with industries ranging from: finance, healthcare, manufacturing, retail, supply chain, logistics and utilities, all potentially disrupted by the onset of AI technologies. The study brings together the collective insight from a number of leading expert contributors to highlight the significant opportunities, realistic assessment of impact, challenges and potential research agenda posed by the rapid emergence of AI within a number of domains: business and management, government, public sector, and science and technology. This research offers significant and timely insight to AI technology and its impact on the future of industry and society in general, whilst recognising the societal and industrial influence on pace and direction of AI development."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3003667836",
+      "doi": "https://doi.org/10.1109/access.2020.2970143",
+      "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 1664,
+      "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avatar or a synchronized virtual prototype, there can be no doubt that a digital twin plays a transformative role not only in how we design and operate cyber-physical intelligent systems, but also in how we advance the modularity of multi-disciplinary systems to tackle fundamental barriers not addressed by the current, evolutionary modeling practices. In this work, we review the recent status of methodologies and techniques related to the construction of digital twins mostly from a modeling perspective. Our aim is to provide a detailed coverage of the current challenges and enabling technologies along with recommendations and reflections for various stakeholders."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2099531439",
+      "doi": "https://doi.org/10.1146/annurev-orgpsych-041015-062352",
+      "title": "How Technology Is Changing Work and Organizations",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 1085,
+      "abstract": "Given the rapid advances and the increased reliance on technology, the question of how it is changing work and employment is highly salient for scholars of organizational psychology and organizational behavior (OP/OB). This article attempts to interpret the progress, direction, and purpose of current research on the effects of technology on work and organizations. After a review of key breakthroughs in the evolution of technology, we consider the disruptive effects of emerging information and communication technologies. We then examine numbers and types of jobs affected by developments in technology, and how this will lead to significant worker dislocation. To illustrate technology's impact on work, work systems, and organizations, we present four popular technologies: electronic monitoring systems, robots, teleconferencing, and wearable computing devices. To provide insights regarding what we know about the effects of technology for OP/OB scholars, we consider the results of research conducted from four different perspectives on the role of technology in management. We also examine how that role is changing in the emerging world of technology. We conclude by considering approaches to six human resources (HR) areas supported by traditional and emerging technologies, identifying related research questions that should have profound implications both for research and for practice, and providing guidance for future research."
+    }
+  ],
+  "search:DUNA DAO liability shield governance token membership": [
+    {
+      "openalex_id": "https://openalex.org/W4416287836",
+      "doi": "https://doi.org/10.32612/uw.27201643.2025.18.3.pp.97-113",
+      "title": "THE LEGAL STATUS AND REGULATION OF DECENTRALIZED AUTONOMOUS ORGANIZATIONS (DAOS) IN PRIVATE INTERNATIONAL LAW",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 0,
+      "abstract": "Decentralized Autonomous Organizations (DAOs), novel organizational structures governed by smart contracts on a blockchain, present a profound challenge to established legal paradigms. Designed to be borderless, transparent, and autonomous, DAOs operate in inherent conflict with a global legal system predicated on territorial jurisdiction and centralized authority. This article provides an exhaustive analysis of the treatment of DAOs under private international law (PIL). It begins by examining the fundamental crisis of legal categorization, where „unwrapped” DAOs face a default classification as general partnerships, imposing unlimited personal liability on their members—a risk starkly illustrated by landmark litigation such as CFTC v. Ooki DAO. The analysis then delves into the core tenets of PIL, demonstrating the inadequacy of traditional connecting factors for determining jurisdiction and applicable law in a decentralized context and exploring the formidable challenges of enforcing judgments against on-chain assets. Through a comprehensive comparative analysis of emerging regulatory frameworks in the United States (Wyoming), the European Union (MiCA), Switzerland (DLT Act), Liechtenstein (Blockchain Act), and the United Kingdom (Law Commission proposals), this article maps the fragmented global response. It argues that the adoption of „legal wrappers” is not merely a corporate structuring choice but a strategic PIL maneuver to preempt legal uncertainty. The article concludes that the legal landscape is evolving from a simple question of „what is a DAO?” to a complex, second-generation PIL problem of „which DAO law applies?” It posits that the future lies not in the triumph of code over law, but in a hybrid synthesis, and calls for international cooperation to develop coherent principles that can guide the integration of these transformative entities into the global legal order."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414296414",
+      "doi": "https://doi.org/10.21564/2225-6555.2025.27.332083",
+      "title": "Genesis and legal nature of Decentralized Autonomous Organizations: personified purpose and algorithmic will",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 0,
+      "abstract": "The relevance of this article lies in the existence of over 13,000 decentralized autonomous organizations worldwide, with a total capitalization exceeding 23 billion USD. Numerous projects exploit this form to circumvent regulatory frameworks. At both the international and Ukrainian levels, a coherent understanding of the phenomenon of decentralized autonomous organizations, their objectives, genesis, and legal nature remains absent. The purpose of this article is to explore the genesis and legal nature of decentralized autonomous organizations – from the inception of the technical idea to their transformation into sui generis legal entities. Applying comparative and formal legal methods to examine the development of the legal understanding of these organizations, and employing case study methodology to assess their implementation in practice, the article investigates the main stages of the formation of the modern concept of decentralized autonomous organizations, their differentiation from adjacent constructs – decentralized applications, autonomous agents, and decentralized organizations – by highlighting criteria of autonomy and decentralization, along with case studies from Bitcoin to The DAO. On the basis of a comparative legal analysis of regulatory models in the United States, Europe, and offshore jurisdictions, a conceptual mismatch is identified between classical corporate forms and the ontology of decentralized autonomous organizations. A two-component qualification test is proposed, alongside a typology dividing them into genuine, hybrid, and quasi forms. The findings of the study, together with the identification of practical challenges faced by such projects, substantiate the possibility of recognizing decentralized autonomous organizations as legal persons under Ukrainian law by means of the doctrinal construct of the “personalized purpose” (Zweckvermögen) developed by A. von Brinz, potentially implemented in the form of a foundation. This approach permits the integration of algorithmic will with legal personality without undermining their decentralized nature. The article provides a foundation for further inquiries into specific legal characteristics of decentralized autonomous organizations, including the “sorites paradox” and the prospects for legislative regulation within the Ukrainian legal order based on the doctrine of personalized purpose."
+    }
+  ],
+  "search:VITA-FAST token holder automatic membership Snapshot voting": [
+    {
+      "openalex_id": "https://openalex.org/W3035928156",
+      "doi": "https://doi.org/10.3218/4017-3",
+      "title": "Blockchain: Capabilities, Economic Viability, and the Socio-Technical Environment",
+      "type": "book",
+      "year": 2020,
+      "cited_by_count": 10,
+      "abstract": "Blockchain is widely considered a new key technology. The Foundation for Technology Assessment (TA-SWISS) has proposed a comprehensive assessment of blockchain technologies. With this publication, TA-SWISS provides the much-needed social contextualisation of blockchain. The first, more technical part of the study takes an in-depth look at how blockchain functions and examines the economic potential of this technology. By analysing multiple real-world applications, the study sheds light on where the blockchain has advantages over traditional applications and where existing technologies continue to be the better solution. The second part of the study examines how blockchain became mainstream. It explores the origins of blockchain in the early history of information technology and computer networks. The study also reveals the impact blockchain has on industrial and public spaces. Finally, it discusses the social implications and challenges of blockchain against the background of a new socio-technical environment."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4395116447",
+      "doi": "https://doi.org/10.33140/jibf.01.01.06",
+      "title": "Decentralized Autonomous Organizations (DAO) A Market Meta-Analysis",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 1,
+      "abstract": "©2023 Wulf Kaal, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4394928989",
+      "doi": "https://doi.org/10.33140/jibf.01.01",
+      "title": "",
+      "type": "paratext",
+      "year": 2023,
+      "cited_by_count": 0,
+      "abstract": "Decentralized Autonomous Organizations (DAOs) enable unprecedented technology driven decentralized decision-making tools, transparent governance, and direct participation of stakeholders, making them highly adaptable to the evolving digital age. DAOs disrupt established centralized legacy models across industries. For example, DAOs provide alternatives to traditional banking and investment systems, allowing for decentralized asset management and peer-to-peer transactions. DAOs streamline claims processing, reduce fraud, and enable more accurate risk assessment. DAOs can address issues of misinformation and censorship by fostering community-driven news platforms.Yet, open questions and challenges for DAOs linger.Among those are the establishment of standardized governance mechanisms to ensure fairness, security, and accountability within DAOs.Additionally, scalability issues, legal frameworks, and interoperability between different DAOs are areas that require further exploration and development.The paper provides a dataset (N=[65]) analysis for the DAOs in the dataset selected by assets in DAO treasury across different industries.Descriptive statistics and a comprehensive analysis shows DAO industry trends and highlights governance and other shortcomings in the evolving DAO analysis.The paper provides a normative analysis and outlook."
+    }
+  ],
+  "search:decentralized autonomous organization no treasury securities classification": [
+    {
+      "openalex_id": "https://openalex.org/W2065401570",
+      "doi": "https://doi.org/10.1086/230786",
+      "title": "Recombinant Property in East European Capitalism",
+      "type": "article",
+      "year": 1996,
+      "cited_by_count": 977,
+      "abstract": "Recombinant property is a form of organizational hedging in which actors respond to uncertainty by diversifying assets, redefining and recombining resources. It is an attempt to hold resources that can be justified by more than one legitimating principle. Property transformation in postsocialist Hungary involves the decentralized reorganization of assets and the centralized management of liabilities. Together they blur the boundaries of public and private, the boundaries of enterprises, and the boundedness of justificatory principles. Enterprise-level field research, data on the ownership structure of Hungary's 220 largest enterprises and banks, and an examination of the government's recent debt consolidation programs suggest the emergence of a distinctively East European capitalism that will differ as much from West European capitalisms as do contemporary East Asian variants."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4319986684",
+      "doi": "https://doi.org/10.18235/0004708",
+      "title": "Outlook of Fiscal Relations among Government Levels in Latin America and the Caribbean",
+      "type": "report",
+      "year": 2023,
+      "cited_by_count": 389,
+      "abstract": "The Outlook of Fiscal Relations among Levels of Government in Latin America and the Caribbean is a joint publication by the Inter-American Development Bank (IDB) and Economic Commission for Latin America and the Caribbean (ECLAC). This first issue, considered a flagship publication for the subnational public finance sector in the region, analyzes recent trends in Latin American and Caribbean countries in fiscal relations among government levels and in particular the impact of COVID on subnational public finances. The original publication is in Spanish and includes a third chapter that details the subnational finance situation in each of the 26 IDB member countries."
+    },
+    {
+      "openalex_id": "https://openalex.org/W1606075474",
+      "doi": "https://doi.org/10.5089/9781557756978.084",
+      "title": "Transparency in Government Operations",
+      "type": "book",
+      "year": 1998,
+      "cited_by_count": 412,
+      "abstract": "1 1 The linkage between fiscal transparency and good governance is discussed, for example, in World Bank (1994)."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2985545178",
+      "doi": "https://doi.org/10.1093/rfs/hhz131",
+      "title": "Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 502,
+      "abstract": "Abstract Initial coin offerings (ICOs) have emerged as a new mechanism for entrepreneurial finance, with parallels to initial public offerings, venture capital, and presale crowdfunding. In a sample of more than 1,500 ICOs that collectively raise ${\\$}$12.9 billion, we examine which issuer and ICO characteristics predict successful real outcomes (increasing issuer employment and avoiding enterprise failure). Success is associated with disclosure, credible commitment to the project, and quality signals. An instrumental variables analysis finds that ICO token exchange listing causes higher future employment, indicating that access to token liquidity has important real consequences for the enterprise. Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2991932018",
+      "doi": "https://doi.org/10.1017/s0023879100024298",
+      "title": "The Politics of Decentralization in Latin America",
+      "type": "article",
+      "year": 1999,
+      "cited_by_count": 384,
+      "abstract": "Abstract One of the most significant developments in Latin American politics and political economy in the last two decades has been the increasing decentralization of government. This development has generated a substantial literature on the pros and cons of decentralization and on subnational politics but few attempts to explain differences in the pattern of decentralization across countries. Fiscal decentralization must be understood as a political bargain involving presidents, legislators, and subnational politicians, each having somewhat conflicting preferences. How these bargains are struck will depend heavily on the lines of accountability within political parties. In systems with centralized political parties, the central government has exercised greater control over resources and uses than in countries with decentralized parties, in which subnational politicians exercise strong influence over legislators. The article explores this hypothesis through a comparative analysis of decentralization in Brazil, Argentina, Colombia, Venezuela, and Mexico."
+    }
+  ],
+  "search:ministerial agent third party services DAO oversight": [
+    {
+      "openalex_id": "https://openalex.org/W4400154793",
+      "doi": "https://doi.org/10.1787/98e761e7-en",
+      "title": "Artificial Intelligence, Machine Learning and Big Data in Finance",
+      "type": "book",
+      "year": 2021,
+      "cited_by_count": 42,
+      "abstract": "The report can help policy makers to assess the implications of these new technologies and to identify the benefits and risks related to their use. It suggests policy responses that that are intended to support AI innovation in finance while ensuring that its use is consistent with promoting financial stability, market integrity and competition, while protecting financial consumers. Emerging risks from the deployment of AI techniques need to be identified and mitigated to support and promote the use of responsible AI. Existing regulatory and supervisory requirements may need to be clarified and sometimes adjusted, as appropriate, to address some of the perceived incompatibilities of existing arrangements with AI applications."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2199876979",
+      "doi": "https://doi.org/10.17875/gup2010-281",
+      "title": "Interests and power as drivers of community forestry",
+      "type": "book",
+      "year": 2010,
+      "cited_by_count": 37,
+      "abstract": "Special gratitude goes to all my family members, who have always supported, encouraged and blessed me to keep going on. I am notably indebted to my mother, who has"
+    },
+    {
+      "openalex_id": "https://openalex.org/W1531813409",
+      "doi": "https://doi.org/10.22201/iij.24485306e.2011.6.7752",
+      "title": "Criminal Justice Reform in Mexico:an Overview",
+      "type": "article",
+      "year": 2011,
+      "cited_by_count": 18,
+      "abstract": "This article examines the package of constitutional and legislative reforms approved in 2008 with the goal of improving the Mexican criminal justice system. These reforms included new criminal procedures (oral adversarial trials, alternative sentencing, and alternative dispute resolution mechanisms), stronger due process protections for the accused, police and prosecutorial reforms to strengthen public security, criminal investigations, and new measures to combat organized crime. The author explains the procedural and institutional changes involved in the reforms. He argues that, while there has been significant progress in several states, there are several challenges for judicial reform in Mexico over the short-term, medium-term, and longer term. These challenges include the need to better coordinate across branches of government to establish new regulations and statutes; the need to properly prepare a wide array of judicial sector personnel to implement the new system; the need to construct new physical infrastructure for live, video-recorded court proceedings; and the need to properly monitor and evaluate the performance of the new system."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2507423850",
+      "doi": "",
+      "title": "The political economy of avian influenza in Indonesia",
+      "type": "article",
+      "year": 2009,
+      "cited_by_count": 20,
+      "abstract": "Why is the response to H5N1 highly pathogenic avian influenza (HPAI) so challenged in Indonesia? Why did the virus spread so fast, and why has the disease persisted? Are there features of the country and its culture that encourage or inhibit the disease? Is the internationally led response appropriately sensitive to local contexts? This paper suggests that distinctive social, cultural, economic and political factors work against a technocratic response such as has been employed in Indonesia. The paper explores the interactions between global bio-medicine, a mesh of power relations linking health, industry, institutionalism and governance, and Indonesia’s diverse and complex political and social contexts. How is an infectious zoonotic disease controlled in a dynamic environment where modernist models of authority and rationality are unproven? &#13;\\n&#13;\\nSince H5N1 was first detected in central Java in mid-2003, it has spread to 31 of Indonesia’s 33 provinces, caused the death or destruction of at least 150 million poultry birds, and killed over 110 humans. The international response, which began in mid-2005, has focused on animal surveillance, control and vaccination, human health system capacity building, and information and behaviour change communications. The response is challenged by the size, geography and infrastructure of the country, an exuberant democracy and extensive decentralization. Other diseases, sectarian tensions and regular natural disasters overshadow the threat of HPAI to human health and food security. Nevertheless, issues of trust between science, government, business and civil society, and nationalism, are shown to be key, as are the varying constructions of risk, public goods and governance associated with the international organizations driving the response, and the people affected by the disease."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3092853663",
+      "doi": "",
+      "title": "China's Bank Non-Performing Loan Problem: Seriousness and Causes",
+      "type": "article",
+      "year": 2000,
+      "cited_by_count": 31,
+      "abstract": "A comprehensive understanding of the bank non-performing loan (NPL) problem is a prerequisite for any policy recommendations on NPL workout and prevention.This paper shows the seriousness of the NPL problem in China and analyzes its causes.Section H refers to different estimates of the total amount of China's NPLs and describes their negative effects on state banks, the entire banking system, economic reform, and real economic growth.In Section I, a theoretical framework is established-that the deterioration of market discipline is the ultimate cause of the NPL problem in China, followed by empirical analyses in Section IV.Market discipline failed in China due to the dominating role of state banks in China's financial markets, soft credit to state-owned enterprises (SOEs) by state banks, unnecessary administrative control of banks (credit plan and interest rate control), weak internal control systems within banks, and inappropriate banking regulations.The failure of these conditions led to the failure of market discipline of SOEs and state banks and, consequently, to ruthless lending and borrowing activities, resulting in accumulated NPLs on state bank balance sheets.Some policy recommendations on NPL workout and prevention are made in Section V. Hl. The Seriousness of the NPL Problem in ChinaA."
+    }
+  ],
+  "search:VitaFast LLC operating layer IP license treasury management": [],
+  "search:autophagy research IP commercialization perpetual worldwide license": [],
+  "search:Reg D Reg S Rule 701 compliant equity issuance pathways": [
+    {
+      "openalex_id": "https://openalex.org/W4410382128",
+      "doi": "https://doi.org/10.3389/fmedt.2025.1586070",
+      "title": "Regulatory landscape of accelerated approval pathways for medical devices in the United States and the European Union",
+      "type": "review",
+      "year": 2025,
+      "cited_by_count": 16,
+      "abstract": "The landscape of medical device regulation is rapidly evolving, driven by innovations and the need to bring these technologies to patients more efficiently. This review provides a comprehensive analysis of the accelerated access pathways for medical devices in the United States (US) and the European Union (EU), focusing on the Breakthrough Devices Program (BDP) in the US and the evolving regulatory framework within the EU. Analysis of Food and Drug Administration (FDA) data reveals that from 2015 to 2024, only 12.3% of the 1,041 BDP-designated devices received marketing authorization, with mean decision times of 152, 262, and 230 days for 510(k), de novo , and PMA pathways respectively—significantly faster than standard approvals for de novo (338 days) and PMA (399 days). In the EU, where no specific accelerated pathway exists, the recently implemented Medical Device Regulation and Health Technology Assessment Regulation aim to harmonize approval processes, with joint clinical assessments beginning in 2026. The analysis explores the interplay between regulatory approval, funding mechanisms, and coverage policies that collectively determine the accessibility of medical devices. The unique challenges associated with emerging technologies and the implementation of accelerated pathways are also discussed. We recommend global regulatory convergence through harmonized standards, mutual recognition agreements, and unified post-market surveillance systems to balance innovation with patient safety."
+    },
+    {
+      "openalex_id": "https://openalex.org/W7134907435",
+      "doi": "https://doi.org/10.2139/ssrn.6153830",
+      "title": "The Coin-to-Company Model: Reconciling Decentralized Governance with Securities Regulation Through Structural Separation and Complementary Exemptions Under U.S. Law",
+      "type": "preprint",
+      "year": 2026,
+      "cited_by_count": 0,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W4413308487",
+      "doi": "https://doi.org/10.3390/land14081672",
+      "title": "AI-Enhanced Remote Sensing of Land Transformations for Climate-Related Financial Risk Assessment in Housing Markets: A Review",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 4,
+      "abstract": "Amid accelerating climate change, climate-related hazards—such as floods, wildfires, hurricanes, and sea-level rise—increasingly drive land transformations and pose growing risks to housing markets by affecting property valuations, insurance availability, mortgage performance, and broader financial stability. This review synthesizes recent progress in two distinct domains and their linkage: (1) assessing climate-related financial risks in housing markets, and (2) applying AI-driven remote sensing for hazard detection and land transformation monitoring. While both areas have advanced significantly, important limitations remain. Existing housing finance studies often rely on static models and coarse spatial data, lacking integration with real-time environmental information, thereby reducing their predictive power and policy relevance. In parallel, remote sensing studies using AI primarily focus on detecting physical hazards and land surface changes, yet rarely connect these spatial transformations to financial outcomes. To address these gaps, this review proposes an integrative framework that combines AI-enhanced remote sensing technologies with financial econometric modeling to improve the accuracy, timeliness, and policy relevance of climate-related risk assessment in housing markets. By bridging environmental hazard data—including land-based indicators of exposure and damage—with financial indicators, the framework enables more granular, dynamic, and equitable assessments than conventional approaches. Nonetheless, its implementation faces technical and institutional barriers, including spatial and temporal mismatches between datasets, fragmented regulatory and behavioral inputs, and the limitations of current single-task AI models, which often lack transparency. Overcoming these challenges will require innovation in AI modeling, improved data-sharing infrastructures, and stronger cross-disciplinary collaboration."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2286193325",
+      "doi": "https://doi.org/10.2139/ssrn.2733138",
+      "title": "Regulate Thy Neighbour: Competition and Conflict in the Cross-Border Regulatory Space for OTC Derivatives",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 4,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W2126315861",
+      "doi": "",
+      "title": "Improving Tax Incentives for Wind Energy Production: The Case for a Refundable Production Tax Credit",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 4,
+      "abstract": "The purpose of this Article is to further our understanding of how the production tax credit works and does not work as a tax incentive to promote investment in renewable energy and to fight climate change. For reasons to be discussed, the tax incentives traditionally available present a number of transaction costs and limitations that make them less effective than alternative incentives. Specifically, this Article looks at the way the production tax credit is employed in the context of wind farm development. Because similar tax incentives and market conditions are relevant to other renewable energy industries, such as the solar energy industry, the wind industry was chosen as a representative case study within this context. Though the production tax credit has been important for encouraging growth throughout the renewable energy industry, it has been especially important in the context of wind energy."
+    }
+  ],
+  "search:QSBS eligible equity issuance VitaFast LLC shareholders": [],
+  "search:VITA-FAST DAO LLC treasury governance structure": [
+    {
+      "openalex_id": "https://openalex.org/W4395116447",
+      "doi": "https://doi.org/10.33140/jibf.01.01.06",
+      "title": "Decentralized Autonomous Organizations (DAO) A Market Meta-Analysis",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 1,
+      "abstract": "©2023 Wulf Kaal, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4394928989",
+      "doi": "https://doi.org/10.33140/jibf.01.01",
+      "title": "",
+      "type": "paratext",
+      "year": 2023,
+      "cited_by_count": 0,
+      "abstract": "Decentralized Autonomous Organizations (DAOs) enable unprecedented technology driven decentralized decision-making tools, transparent governance, and direct participation of stakeholders, making them highly adaptable to the evolving digital age. DAOs disrupt established centralized legacy models across industries. For example, DAOs provide alternatives to traditional banking and investment systems, allowing for decentralized asset management and peer-to-peer transactions. DAOs streamline claims processing, reduce fraud, and enable more accurate risk assessment. DAOs can address issues of misinformation and censorship by fostering community-driven news platforms.Yet, open questions and challenges for DAOs linger.Among those are the establishment of standardized governance mechanisms to ensure fairness, security, and accountability within DAOs.Additionally, scalability issues, legal frameworks, and interoperability between different DAOs are areas that require further exploration and development.The paper provides a dataset (N=[65]) analysis for the DAOs in the dataset selected by assets in DAO treasury across different industries.Descriptive statistics and a comprehensive analysis shows DAO industry trends and highlights governance and other shortcomings in the evolving DAO analysis.The paper provides a normative analysis and outlook."
+    }
+  ],
+  "search:Neuro Longevity LLC commercialization partnerships": [
+    {
+      "openalex_id": "https://openalex.org/W2124580044",
+      "doi": "https://doi.org/10.1155/2013/291903",
+      "title": "The Globalization of Traditional Medicine in Northern Peru: From Shamanism to Molecules",
+      "type": "review",
+      "year": 2013,
+      "cited_by_count": 79,
+      "abstract": "Northern Peru represents the center of the Andean \"health axis,\" with roots going back to traditional practices of Cupisnique culture (1000 BC). For more than a decade of research, semistructured interviews were conducted with healers, collectors, and sellers of medicinal plants. In addition, bioassays were carried out to evaluate the efficacy and toxicity of plants found. Most of the 510 species encountered were native to Peru (83%). Fifty percent of the plants used in colonial times have disappeared from the pharmacopoeia. Market vendors specialized either on common and exotic plants, plants for common ailments, and plants only used by healers or on plants with magical purposes. Over 974 preparations with up to 29 different ingredients were used to treat 164 health conditions. Almost 65% of the medicinal plants were applied in these mixtures. Antibacterial activity was confirmed in most plants used for infections. Twenty-four percent of the aqueous extracts and 76% of the ethanolic extracts showed toxicity. Traditional preparation methods take this into account when choosing the appropriate solvent for the preparation of a remedy. The increasing demand for medicinal species did not increase the cultivation of medicinal plants. Most species are wild collected, causing doubts about the sustainability of trade."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4214504943",
+      "doi": "https://doi.org/10.1186/s12974-022-02395-0",
+      "title": "Typical and atypical properties of peripheral nerve allografts enable novel strategies to repair segmental-loss injuries",
+      "type": "review",
+      "year": 2022,
+      "cited_by_count": 31,
+      "abstract": "We review data showing that peripheral nerve injuries (PNIs) that involve the loss of a nerve segment are the most common type of traumatic injury to nervous systems. Segmental-loss PNIs have a poor prognosis compared to other injuries, especially when one or more mixed motor/sensory nerves are involved and are typically the major source of disability associated with extremities that have sustained other injuries. Relatively little progress has been made, since the treatment of segmental loss PNIs with cable autografts that are currently the gold standard for repair has slow and incomplete (often non-existent) functional recovery. Viable peripheral nerve allografts (PNAs) to repair segmental-loss PNIs have not been experimentally or clinically useful due to their immunological rejection, Wallerian degeneration (WD) of anucleate donor graft and distal host axons, and slow regeneration of host axons, leading to delayed re-innervation and producing atrophy or degeneration of distal target tissues. However, two significant advances have recently been made using viable PNAs to repair segmental-loss PNIs: (1) hydrogel release of Treg cells that reduce the immunological response and (2) PEG-fusion of donor PNAs that reduce the immune response, reduce and/or suppress much WD, immediately restore axonal conduction across the donor graft and re-innervate many target tissues, and restore much voluntary behavioral functions within weeks, sometimes to levels approaching that of uninjured nerves. We review the rather sparse cellular/biochemical data for rejection of conventional PNAs and their acceptance following Treg hydrogel and PEG-fusion of PNAs, as well as cellular and systemic data for their acceptance and remarkable behavioral recovery in the absence of tissue matching or immune suppression. We also review typical and atypical characteristics of PNAs compared with other types of tissue or organ allografts, problems and potential solutions for PNA use and storage, clinical implications and commercial availability of PNAs, and future possibilities for PNAs to repair segmental-loss PNIs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4285684864",
+      "doi": "https://doi.org/10.1117/1.nph.9.s1.013001",
+      "title": "Neurophotonic Tools for Microscopic Measurements and Manipulation: Status Report",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 44,
+      "abstract": "Neurophotonics was launched in 2014 coinciding with the launch of the BRAIN Initiative focused on development of technologies for advancement of neuroscience. For the last seven years, Neurophotonics' agenda has been well aligned with this focus on neurotechnologies featuring new optical methods and tools applicable to brain studies. While the BRAIN Initiative 2.0 is pivoting towards applications of these novel tools in the quest to understand the brain, this status report reviews an extensive and diverse toolkit of novel methods to explore brain function that have emerged from the BRAIN Initiative and related large-scale efforts for measurement and manipulation of brain structure and function. Here, we focus on neurophotonic tools mostly applicable to animal studies. A companion report, scheduled to appear later this year, will cover diffuse optical imaging methods applicable to noninvasive human studies. For each domain, we outline the current state-of-the-art of the respective technologies, identify the areas where innovation is needed, and provide an outlook for the future directions."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4403110479",
+      "doi": "https://doi.org/10.1523/jneurosci.1237-24.2024",
+      "title": "Clinical Applications and Future Translation of Somatosensory Neuroprostheses",
+      "type": "review",
+      "year": 2024,
+      "cited_by_count": 10,
+      "abstract": "Somatosensory neuroprostheses restore, replace, or enhance tactile and proprioceptive feedback for people with sensory impairments due to neurological disorders or injury. Somatosensory neuroprostheses typically couple sensor inputs from a wearable device, prosthesis, robotic device, or virtual reality system with electrical stimulation applied to the somatosensory nervous system via noninvasive or implanted interfaces. While prior research has mainly focused on technology development and proof-of-concept studies, recent acceleration of clinical studies in this area demonstrates the translational potential of somatosensory neuroprosthetic systems. In this review, we provide an overview of neurostimulation approaches currently undergoing human testing and summarize recent clinical findings on the perceptual, functional, and psychological impact of somatosensory neuroprostheses. We also cover current work toward the development of advanced stimulation paradigms to produce more natural and informative sensory feedback. Finally, we provide our perspective on the remaining challenges that need to be addressed prior to translation of somatosensory neuroprostheses."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4406176039",
+      "doi": "https://doi.org/10.1002/admt.202401808",
+      "title": "Biological and Mechanical Limitations for Chronic Fast‐Scan Cyclic Voltammetry Sensor Design",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 3,
+      "abstract": "Fast scan cyclic voltammetry (FSCV) is a popular approach for real-time neurochemical sensing. Using a carbon-fiber microelectrode (CFME), sensitive neurochemical sensing can be achieved in the acute setting with sub-second resolution for monoamine neurotransmitters. However, to study neuropsychiatric conditions and neurological functions, it is often of interest to perform longitudinal monitoring of neurotransmitters over chronic timepoints. Despite notable successes, there remains substantial room for improvement in chronic neurochemical sensing performance. Electrode fouling and cellular encapsulation that can occur following surgical implantation can lead to diminished sensor performance over time. Additionally, working and reference electrodes can suffer from etching and polarization that can hinder their longevity and stability. Here, we review current challenges facing chronic neurochemical sensors and discuss state-of-the-art advancements in electrode material and device design choices. We cover how the biological environment can negatively affect sensing performance and how device design can mitigate these effects. We also provide examples of state-of-the-art electrode technologies that have been developed to improve chronic neurochemical sensing. Improvements in FSCV as a tool for chronic neurotransmitter sensing will open new opportunities to study neurodegenerative and neuropsychiatric diseases, develop feedback systems for neuromodulation, and explore the neurochemical underpinnings of normal brain function and behavior."
+    }
+  ],
+  "search:DUNA token utility versus equity securities classification": [
+    {
+      "openalex_id": "https://openalex.org/W7123755397",
+      "doi": "https://doi.org/10.55277/researchhub.leu54yop.1",
+      "title": "A Quantitative Taxonomy of Regulatory Frameworks for Decentralized Autonomous Organizations: Mathematical Characterization of Liability Distribution, Compliance Architecture, and Governance Optimization",
+      "type": "report",
+      "year": 2026,
+      "cited_by_count": 0,
+      "abstract": null
+    }
+  ],
+  "search:IP-NFT fractionalization funding neurodegenerative research": [
+    {
+      "openalex_id": "https://openalex.org/W3198052269",
+      "doi": "https://doi.org/10.1038/s41380-021-01249-0",
+      "title": "The Amyloid-β Pathway in Alzheimer’s Disease",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 1752,
+      "abstract": "Breakthroughs in molecular medicine have positioned the amyloid-β (Aβ) pathway at the center of Alzheimer's disease (AD) pathophysiology. While the detailed molecular mechanisms of the pathway and the spatial-temporal dynamics leading to synaptic failure, neurodegeneration, and clinical onset are still under intense investigation, the established biochemical alterations of the Aβ cycle remain the core biological hallmark of AD and are promising targets for the development of disease-modifying therapies. Here, we systematically review and update the vast state-of-the-art literature of Aβ science with evidence from basic research studies to human genetic and multi-modal biomarker investigations, which supports a crucial role of Aβ pathway dyshomeostasis in AD pathophysiological dynamics. We discuss the evidence highlighting a differentiated interaction of distinct Aβ species with other AD-related biological mechanisms, such as tau-mediated, neuroimmune and inflammatory changes, as well as a neurochemical imbalance. Through the lens of the latest development of multimodal in vivo biomarkers of AD, this cross-disciplinary review examines the compelling hypothesis- and data-driven rationale for Aβ-targeting therapeutic strategies in development for the early treatment of AD."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2904323618",
+      "doi": "https://doi.org/10.3390/ijms20010016",
+      "title": "Clinically Relevant Post-Translational Modification Analyses—Maturing Workflows and Bioinformatics Tools",
+      "type": "review",
+      "year": 2018,
+      "cited_by_count": 81,
+      "abstract": "Post-translational modifications (PTMs) can occur soon after translation or at any stage in the lifecycle of a given protein, and they may help regulate protein folding, stability, cellular localisation, activity, or the interactions proteins have with other proteins or biomolecular species. PTMs are crucial to our functional understanding of biology, and new quantitative mass spectrometry (MS) and bioinformatics workflows are maturing both in labelled multiplexed and label-free techniques, offering increasing coverage and new opportunities to study human health and disease. Techniques such as Data Independent Acquisition (DIA) are emerging as promising approaches due to their re-mining capability. Many bioinformatics tools have been developed to support the analysis of PTMs by mass spectrometry, from prediction and identifying PTM site assignment, open searches enabling better mining of unassigned mass spectra-many of which likely harbour PTMs-through to understanding PTM associations and interactions. The remaining challenge lies in extracting functional information from clinically relevant PTM studies. This review focuses on canvassing the options and progress of PTM analysis for large quantitative studies, from choosing the platform, through to data analysis, with an emphasis on clinically relevant samples such as plasma and other body fluids, and well-established tools and options for data interpretation."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4322495020",
+      "doi": "https://doi.org/10.1007/s10571-023-01330-y",
+      "title": "Advanced Overview of Biomarkers and Techniques for Early Diagnosis of Alzheimer’s Disease",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 39,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3210028685",
+      "doi": "https://doi.org/10.1186/s12974-021-02305-w",
+      "title": "Altered substrate metabolism in neurodegenerative disease: new insights from metabolic imaging",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 55,
+      "abstract": "Neurodegenerative diseases (NDs), such as Alzheimer's disease (AD), Parkinson's disease (PD) and multiple sclerosis (MS), are relatively common and devastating neurological disorders. For example, there are 6 million individuals living with AD in the United States, a number that is projected to grow to 14 million by the year 2030. Importantly, AD, PD and MS are all characterized by the lack of a true disease-modifying therapy that is able to reverse or halt disease progression. In addition, the existing standard of care for most NDs only addresses the symptoms of the disease. Therefore, alternative strategies that target mechanisms underlying the neuropathogenesis of disease are much needed. Recent studies have indicated that metabolic alterations in neurons and glia are commonly observed in AD, PD and MS and lead to changes in cell function that can either precede or protect against disease onset and progression. Specifically, single-cell RNAseq studies have shown that AD progression is tightly linked to the metabolic phenotype of microglia, the key immune effector cells of the brain. However, these analyses involve removing cells from their native environment and performing measurements in vitro, influencing metabolic status. Therefore, technical approaches that can accurately assess cell-specific metabolism in situ have the potential to be transformative to our understanding of the mechanisms driving AD. Here, we review our current understanding of metabolism in both neurons and glia during homeostasis and disease. We also evaluate recent advances in metabolic imaging, and discuss how emerging modalities, such as fluorescence lifetime imaging microscopy (FLIM) have the potential to determine how metabolic perturbations may drive the progression of NDs. Finally, we propose that the temporal, regional, and cell-specific characterization of brain metabolism afforded by FLIM will be a critical first step in the rational design of metabolism-focused interventions that delay or even prevent NDs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3109800898",
+      "doi": "https://doi.org/10.1515/almed-2020-0090",
+      "title": "Biomarkers in Alzheimer’s disease",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 23,
+      "abstract": "Background: Alzheimer's disease (AD) is a progressive neurodegenerative disease. AD is the main cause of dementia worldwide and aging is the main risk factor for developing the illness. AD classical diagnostic criteria rely on clinical data. However, the development of a biological definition of AD using biomarkers that reflect the underling neuropathology is needed. Content: The aim of this review is to describe the main outcomes when measuring classical and novel biomarkers in biological fluids or neuroimaging. Summary: Nowadays, there are three classical biomarkers for the diagnosis of AD: Aβ42, t-Tau and p-Tau. The diagnostic use of cerebrospinal fluid biomarkers is limited due to invasive collection by lumbar puncture with potential side effects. Plasma/serum measurements are the gold standard in clinics, because they are minimally invasive and, in consequence, easily collected and processed. The two main proteins implicated in the pathological process, Aβ and Tau, can be visualized using neuroimaging techniques, such as positron emission tomography. Outlook: As it is currently accepted that AD starts decades before clinical symptoms could be diagnosed, the opportunity to detect biological alterations prior to clinical symptoms would allow early diagnosis or even perhaps change treatment possibilities."
+    }
+  ],
+  "search:voluntary token lock KYC AML contributor equity": [
+    {
+      "openalex_id": "https://openalex.org/W3121502571",
+      "doi": "https://doi.org/10.1145/3359552",
+      "title": "Some simple economics of the blockchain",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 403,
+      "abstract": "Blockchain technology can shape innovation and competition in digital platforms, but under what conditions?"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3123130758",
+      "doi": "https://doi.org/10.3386/w22952",
+      "title": "Some Simple Economics of the Blockchain",
+      "type": "preprint",
+      "year": 2016,
+      "cited_by_count": 375,
+      "abstract": "We build on economic theory to discuss how blockchain technology can shape innovation and competition in digital platforms. We identify two key costs affected by the technology: the cost of verification and the cost of networking. The cost of verification relates to the ability to cheaply verify state, including information about past transactions and their attributes, and current ownership in a native digital asset. The cost of networking, instead, relates to the ability to bootstrap and operate a marketplace without assigning control to a centralized intermediary. This is achieved by combining the ability to cheaply verify state with economic incentives targeted at rewarding state transitions that are particularly valuable from a network perspective, such as the contribution of the resources needed to operate, scale, and secure a decentralized network. The resulting digital marketplaces allow participants to make joint investments in shared infrastructure and digital public utilities without assigning market power to a platform operator, and are characterized by increased competition, lower barriers to entry, and a lower privacy risk. Because of their decentralized nature, they also introduce new types of inefficiencies and governance challenges."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4205166511",
+      "doi": "https://doi.org/10.1007/s11408-020-00366-0",
+      "title": "ICO investors",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 46,
+      "abstract": "We conduct a detailed analysis of investors in successful initial coin offerings (ICOs). The average ICO has 4700 contributors. The median participant contributes small amounts and many investors sell their tokens before the underlying product is developed. Large presale investors obtain tokens at a discount and flip part of their allocation shortly after the ICO. ICO contributors lack the protections traditionally afforded to investors in early-stage financing. Nevertheless, returns 9 months after the ICO are positive on average, driven mostly by an increase in the value of the Ethereum cryptocurrency."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2943467878",
+      "doi": "https://doi.org/10.1007/978-3-030-02330-0",
+      "title": "Disrupting Finance",
+      "type": "book",
+      "year": 2018,
+      "cited_by_count": 70,
+      "abstract": "This open access book defines a fintech ecosystem for the 21st century, considering a range of technologies."
+    },
+    {
+      "openalex_id": "https://openalex.org/W3148707413",
+      "doi": "",
+      "title": "Some Simple Economics of the Blockchain",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 25,
+      "abstract": "We build on economic theory to discuss how blockchain technology can shape innovation and competition in digital platforms. We identify two key costs affected by the technology: the cost of verification and the cost of networking. The cost of verification relates to the ability to cheaply verify state, including information about past transactions and their attributes, and current ownership in a native digital asset. The cost of networking, instead, relates to the ability to bootstrap and operate a marketplace without assigning control to a centralized intermediary. This is achieved by combining the ability to cheaply verify state with economic incentives targeted at rewarding state transitions that are particularly valuable from a network perspective, such as the contribution of the resources needed to operate, scale, and secure a decentralized network. The resulting digital marketplaces allow participants to make joint investments in shared infrastructure and digital public utilities without assigning market power to a platform operator, and are characterized by increased competition, lower barriers to entry, and a lower privacy risk. Because of their decentralized nature, they also introduce new types of inefficiencies and governance challenges."
+    }
+  ],
+  "search:Reg D S CF A stock purchase agreement token perk": [
+    {
+      "openalex_id": "https://openalex.org/W3123326105",
+      "doi": "https://doi.org/10.1093/ajcl/53.1.31",
+      "title": "Taking Shareholder Protection Seriously? Corporate Governance in the United States and Germany",
+      "type": "article",
+      "year": 2005,
+      "cited_by_count": 59,
+      "abstract": "Journal Article Taking Shareholder Protection Seriously? Corporate Governance in the United States and Germany Get access Baums Theodor, Baums Theodor Search for other works by this author on: Oxford Academic Google Scholar Kenneth E. Scott Kenneth E. Scott Search for other works by this author on: Oxford Academic Google Scholar The American Journal of Comparative Law, Volume 53, Issue 1, Winter 2005, Pages 31–76, https://doi.org/10.1093/ajcl/53.1.31 Published: 01 January 2005"
+    },
+    {
+      "openalex_id": "https://openalex.org/W64345056",
+      "doi": "https://doi.org/10.2139/ssrn.473185",
+      "title": "Taking Shareholder Protection Seriously? Corporate Governance in the United States and Germany",
+      "type": "article",
+      "year": 2003,
+      "cited_by_count": 48,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3166297348",
+      "doi": "",
+      "title": "Securities Acts Amendments of 1964",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 4,
+      "abstract": "I recommend to the Congress legislation for Federal supervision of traffic in investment securities in interstate commerce.In spite of many State statutes the public in the past has sustained severe losses through practices neither ethical nor honest on the part of many persons and corporations selling securities . . .There is however, an obligation"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2917451424",
+      "doi": "",
+      "title": "A Skeptical View of Information Fiduciaries",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 16,
+      "abstract": "The concept of “information fiduciaries” has surged to the forefront of debates on online-platform regulation. Developed by Professor Jack Balkin, the concept is meant to rebalance the relationship between ordinary individuals and the digital companies that accumulate, analyze, and sell their personal data for profit. Just as the law imposes special duties of care, confidentiality, and loyalty on doctors, lawyers, and accountants vis-à-vis their patients and clients, Balkin argues, so too should it impose special duties on corporations such as Facebook, Google, and Twitter vis-à-vis their end users. Over the past several years, this argument has garnered remarkably broad support and essentially zero critical pushback.\\nThis Article seeks to disrupt the emerging consensus by identifying a number of lurking tensions and ambiguities in the theory of information fiduciaries, as well as a number of reasons to doubt the theory’s capacity to resolve them satisfactorily. Although we agree with Balkin that the harms stemming from dominant online platforms call for legal intervention, we question whether the concept of information fiduciaries is an adequate or apt response to the problems of information insecurity that he stresses, much less to more fundamental problems associated with outsized market share and business models built on pervasive surveillance. We also call attention to the potential costs of adopting an information-fiduciary framework – a framework that, we fear, invites an enervating complacency toward online platforms’ structural power and a premature abandonment of more robust visions of public regulation."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4285255015",
+      "doi": "https://doi.org/10.2139/ssrn.4121866",
+      "title": "The Slogans and Goals of Antitrust Law",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 6,
+      "abstract": null
+    }
+  ],
+  "search:Wyoming DUNA formation VITA-FAST governance mechanisms": [],
+  "search:multisig treasury transfer LLC governance Snapshot": [
+    {
+      "openalex_id": "https://openalex.org/W4401721107",
+      "doi": "https://doi.org/10.1109/icbc59979.2024.10634404",
+      "title": "Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 27,
+      "abstract": "Decentralized Autonomous Organizations (DAOs) have emerged as a novel way to coordinate a group of (pseudonymous) entities toward a shared vision (e.g., promoting sustainability). In just a few years, over 4,000 DAOs have been launched in various domains, such as investment, education, health, and research. Despite such rapid growth and diversity, it is unclear how these DAOs actually work in practice. Given this, we aim to unpack how (well) DAOs work in practice. We conducted an in-depth analysis of a diverse set of 10 DAOs of various categories and smart contracts, leveraging on-chain data and interviewing DAO members. Specifically, we define metrics to characterize key aspects of DAOs, such as the degrees of decentralization and autonomy. We observed some DAOs having poor decentralization in voting, while decentralization has improved over time for one-person-one-vote DAOs. Lastly, we offer a set of design implications for future DAOs based on our findings."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4389245955",
+      "doi": "https://doi.org/10.54934/ijlcw.v2i3.58",
+      "title": "NFTs, DAOs AND SMART CONTRACTS: WHERE IS THE DECENTRALISATION?",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 9,
+      "abstract": "DAOs, decentralised autonomous organisations, you have the power, right? Well, like most other matters now-a-days, it depends. Oftentimes, the relationship between NFTs and DAOs is intertwined as a DAO may be set up with the purpose of creating NFTs or else, one may buy an NFT to become a DAO member. Both DAOs and NFTs make use of smart contracts on a blockchain. Thepurpose of this paper is to answer the following questions:How decentralised is a DAO? What is the role of NFTs within a DAO?How can NFTs enhance the workings of a truly decentralised autonomous organisation? The author believes that decentralisation should stop being used as a hype word in the blockchain sphere and discussesaboutcertain problems regardingcentralised and decentralised points in a DAO, whether theyrealised or not. Both the Maltese Innovative Technology Arrangement and Services Act and the Wyoming Decentralized Autonomous Organizations Supplement will serve as focus as theselaws directly regulate DAOs and in turn serve as a means to protect the member and the client of the DAO, and their NFTs."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4388093245",
+      "doi": "https://doi.org/10.48550/arxiv.2310.19201",
+      "title": "Open Problems in DAOs",
+      "type": "preprint",
+      "year": 2023,
+      "cited_by_count": 10,
+      "abstract": "Decentralized autonomous organizations (DAOs) are a new, rapidly-growing class of organizations governed by smart contracts. Here we describe how researchers can contribute to the emerging science of DAOs and other digitally-constituted organizations. From granular privacy primitives to mechanism designs to model laws, we identify high-impact problems in the DAO ecosystem where existing gaps might be tackled through a new data set or by applying tools and ideas from existing research fields such as political science, computer science, economics, law, and organizational science. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the wider research community to join the global effort to invent the next generation of organizations."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4366566327",
+      "doi": "https://doi.org/10.48550/arxiv.2304.09822",
+      "title": "Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice",
+      "type": "preprint",
+      "year": 2023,
+      "cited_by_count": 2,
+      "abstract": "Decentralized Autonomous Organizations (DAOs) have emerged as a novel way to coordinate a group of (pseudonymous) entities towards a shared vision (e.g., promoting sustainability), utilizing self-executing smart contracts on blockchains to support decentralized governance and decision-making. In just a few years, over 4,000 DAOs have been launched in various domains, such as investment, education, health, and research. Despite such rapid growth and diversity, it is unclear how these DAOs actually work in practice and to what extent they are effective in achieving their goals. Given this, we aim to unpack how (well) DAOs work in practice. We conducted an in-depth analysis of a diverse set of 10 DAOs of various categories and smart contracts, leveraging on-chain (e.g., voting results) and off-chain data (e.g., community discussions) as well as our interviews with DAO organizers/members. Specifically, we defined metrics to characterize key aspects of DAOs, such as the degrees of decentralization and autonomy. We observed CompoundDAO, AssangeDAO, Bankless, and Krausehouse having poor decentralization in voting, while decentralization has improved over time for one-person-one-vote DAOs (e.g., Proof of Humanity). Moreover, the degree of autonomy varies among DAOs, with some (e.g., Compound and Krausehouse) relying more on third parties than others. Lastly, we offer a set of design implications for future DAO systems based on our findings."
+    }
+  ],
+  "search:multisig governance entity formation treasury transfer": [
+    {
+      "openalex_id": "https://openalex.org/W4388093245",
+      "doi": "https://doi.org/10.48550/arxiv.2310.19201",
+      "title": "Open Problems in DAOs",
+      "type": "preprint",
+      "year": 2023,
+      "cited_by_count": 10,
+      "abstract": "Decentralized autonomous organizations (DAOs) are a new, rapidly-growing class of organizations governed by smart contracts. Here we describe how researchers can contribute to the emerging science of DAOs and other digitally-constituted organizations. From granular privacy primitives to mechanism designs to model laws, we identify high-impact problems in the DAO ecosystem where existing gaps might be tackled through a new data set or by applying tools and ideas from existing research fields such as political science, computer science, economics, law, and organizational science. Our recommendations encompass exciting research questions as well as promising business opportunities. We call on the wider research community to join the global effort to invent the next generation of organizations."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4394982392",
+      "doi": "https://doi.org/10.1016/j.jbusres.2024.114672",
+      "title": "Decentralized autonomous organizations (DAOs): Stewardship talks but agency walks",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 15,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W4405479590",
+      "doi": "https://doi.org/10.3389/fbloc.2024.1481914",
+      "title": "Upgradeable diamond smart contracts in decentralized autonomous organizations",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 5,
+      "abstract": "Upgradeable smart contracts allow decentralized autonomous organizations (DAOs) to address bugs, enhance security, and expand functionality post-deployment. The proxy pattern enables smart contract upgradeability but introduces admin-centric governance, where power is concentrated in a single or small number of addresses. This paper explores the potential of decentralized smart contract governance to overcome admin centric governance while achieving flexibility in governing smart contracts. We investigate the Diamond Pattern as a flexible upgradeable contract framework that allows for modular smart contracts. Using the SecureSECO DAO as a case study, we examine how the diamond pattern can be configured for decentralized governance. The used architecture allows DAOs to upgrade smart contracts collectively through community consensus, and the implementation provides proposals, votes, and execution without requiring technical knowledge. The study highlights the benefits of this approach, namely, flexibility in smart contract governance, enhanced modularity, and a single point of interaction for governance. We also discuss limitations and challenges for upgradeable smart contracts such as the decision-making delays and potential vulnerabilities. To encourage adoption of consensus governance, we call for the creation of user-friendly tooling and smart contract facets."
+    },
+    {
+      "openalex_id": "https://openalex.org/W7117479179",
+      "doi": "https://doi.org/10.1140/epjds/s13688-025-00610-5",
+      "title": "Concentration in governance control across decentralised finance protocols",
+      "type": "article",
+      "year": 2025,
+      "cited_by_count": 1,
+      "abstract": "Abstract Blockchain-based systems are frequently governed through tokens that grant their holders voting rights over core protocol functions and funds. The centralisation occurring in Decentralised Finance (DeFi) protocols’ token-based voting systems is typically analysed by examining token holdings’ distribution across addresses. In this paper, we expand this perspective by exploring shared token holdings of addresses across multiple DeFi protocols. We construct a Statistically Validated Network (SVN) based on shared governance token holdings among addresses. Using the links within the SVN, we identify influential addresses that shape these connections and conduct a post-hoc analysis to examine their characteristics and behaviour. Our findings reveal persistent influential links over time, predominantly involving addresses associated with institutional actors or smart-contracts, which hold significant fractions of token supplies across the sampled protocols. Finally, we observe that token holding patterns and concentrations tend to shift in with protocol valuations and dollar denominated Total Value Locked."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4406785436",
+      "doi": "https://doi.org/10.48550/arxiv.2501.13377",
+      "title": "Concentration in Governance Control Across Decentralised Finance Protocols",
+      "type": "preprint",
+      "year": 2025,
+      "cited_by_count": 0,
+      "abstract": "Blockchain-based systems are frequently governed through tokens that grant their holders voting rights over core protocol functions and funds. The centralisation occurring in Decentralised Finance (DeFi) protocols' token-based voting systems is typically analysed by examining token holdings' distribution across addresses. In this paper, we expand this perspective by exploring shared token holdings of addresses across multiple DeFi protocols. We construct a Statistically Validated Network (SVN) based on shared governance token holdings among addresses. Using the links within the SVN, we identify influential addresses that shape these connections and we conduct a post-hoc analysis to examine their characteristics and behaviour. Our findings reveal persistent influential links over time, predominantly involving addresses associated with institutional investors who maintain significant token supplies across the sampled protocols. Finally, we observe that token holding patterns and concentrations tend to shift in response to speculative market cycles."
+    }
+  ],
+  "search:utility token equity separation LLC structure": [
+    {
+      "openalex_id": "https://openalex.org/W4400155176",
+      "doi": "https://doi.org/10.1787/ee35cc9a-en",
+      "title": "Initial Coin Offerings (ICOs) for SME Financing",
+      "type": "book",
+      "year": 2019,
+      "cited_by_count": 46,
+      "abstract": "This report analyses the emergence and potential of ICOs as a financing mechanism for start-ups and SMEs, examines the benefits and challenges of this mechanism for small businesses and investors, and discusses the policy implications of ICO activity for the inclusive financing of SMEs and the real economy."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4312313153",
+      "doi": "https://doi.org/10.17323/1996-7845-2022-03-04",
+      "title": "Crypto-assets: Economic Nature, Classification and Regulation of Turnover",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 29,
+      "abstract": "This article is devoted to the study of the economic nature of cryptoassets, the development of their original classification, and the determination of the main directions of regulation of their turnover. These topics are the objects of modern discourse of international organizations such as the International Monetary Fund (IMF), the World Bank (MB), the Group of 7 (G7), the Group of 20 (G20), the World Trade Organization (WTO), the Organisation for Economic Co-operation and Development (OECD), the Bank for International Settlements (BIS), and the Financial Stability Board (FSB). The study reviews the modern discourse of international organizations regarding cryptoassets, presents an interpretation of cryptoassets as a new class of financial assets, justifies the classification of cryptoassets, and identifies the main types and economic characteristics of digital assets. The study was conducted using a system-functional and system-structural method. As a result of this study, it is concluded that the activities of international organizations are focused on developing recommendations and principles for regulating transactions with cryptocurrencies and global stablecoins, prudential supervision of their issuers, unifying approaches to taxation, and countering illegal transactions using cryptoassets. The study concluded that crypto-assets are private digital assets that are recorded digitally in a distributed ledger and can be used as a means of exchange and/or investment tool and/or means of access to goods and services of issuer. According to the authorʼs classification crypto-assets are divided into two main types: virtual currencies and digital tokens. Virtual currencies are a means of exchange or payment as well as a means of saving. The two main subtypes of virtual currencies are cryptocurrencies and stablecoins. Digital tokens are issued for specific investment functions or consumer purposes. Tokens can be divided into investment tokens and utility tokens. The study also finds that there is no international regulation of cryptoassets turnover. National regulation is significantly differentiated between countries due to the lack of common interpretation and classification of cryptoassets and different assessments of economic risks of their turnover for national financial systems. In most developed countries: the USA, EU countries, UK, Switzerland, etc. – a flexible approach to regulating various types of cryptoassets and their issuers prevails. In emerging market countries such as China, Turkey, and Russia, regulation is more stringent and characterized by the widespread use of prohibitive measures. The main problem of the legal regulation of cryptoassets in Russia is its fragmentation and the predominance of a prohibitive bias. Modern regime of regulation of cryptoassets in Russia is weakly related to their economic nature and is not equivalent to the risks of turnover of cryptoassets."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2776390774",
+      "doi": "https://doi.org/10.2139/ssrn.3082915",
+      "title": "If Rockefeller Were a Coder",
+      "type": "article",
+      "year": 2017,
+      "cited_by_count": 32,
+      "abstract": null
+    },
+    {
+      "openalex_id": "https://openalex.org/W3122444104",
+      "doi": "",
+      "title": "The Paradox of Access Justice, and Its Application to Mandatory Arbitration",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 27,
+      "abstract": "Access justice is one of the most appealing and least contentious regulatory techniques in law's repertoire. It aspires to give people equal opportunity to utilize certain primary goods, and it does so by assuring opennessthat access to these goods is not allocated by markets and is not tilted in favor of wealth or privilege. But access justice often fails to meet its egalitarian aspirations, because groups that are not the intended targets of the intervention deploy access and its benefits dispropor tionately. Paradoxically, access justice often benefits various elites while paid for directly by taxpayers and indirectly by weaker groups. This Article brings to light this unintended and regressive crosssubsidy created by policies of access to information, compensation, insurance, accommodations, and more. It then examines in detail a specific contemporary access justice paradoxconsumers' access to courts and the impact of mandatory arbitration agreements that limit such access. This Article demonstrates that access to courts is a franchise of the elite and of little value to weak consumers. Nevertheless, it considers whether contractual waivers of access to courts hurt weak consumers by foreclosing effective access through classaction representatives. This concern has theoretical merit, but it, too, is limited in ways that are often unappreciated."
+    },
+    {
+      "openalex_id": "https://openalex.org/W4240422872",
+      "doi": "https://doi.org/10.2139/ssrn.2884978",
+      "title": "Distributed Governance",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 19,
+      "abstract": "Distributed ledger technology enables disruption of traditional business organizations by introducing new business entities without the directors and officers of traditional corporate entities. Although these emerging entities offer intriguing possibilities, distributed entities may suffer significant collective action problems and expose investors to catastrophic regulatory and governance risks. Our essay examines key considerations for stakeholders and argues that distributed entities must be carefully structured to function effectively."
+    }
+  ],
+  "search:decentralized autonomous organization commercialization research IP": [
+    {
+      "openalex_id": "https://openalex.org/W3144404977",
+      "doi": "https://doi.org/10.1109/ojcoms.2021.3071496",
+      "title": "Survey on 6G Frontiers: Trends, Applications, Requirements, Technologies and Future Research",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 760,
+      "abstract": "Emerging applications such as Internet of Everything, Holographic Telepresence, collaborative robots, and space and deep-sea tourism are already highlighting the limitations of existing fifth-generation (5G) mobile networks. These limitations are in terms of data-rate, latency, reliability, availability, processing, connection density and global coverage, spanning over ground, underwater and space. The sixth-generation (6G) of mobile networks are expected to burgeon in the coming decade to address these limitations. The development of 6G vision, applications, technologies and standards has already become a popular research theme in academia and the industry. In this paper, we provide a comprehensive survey of the current developments towards 6G. We highlight the societal and technological trends that initiate the drive towards 6G. Emerging applications to realize the demands raised by 6G driving trends are discussed subsequently. We also elaborate the requirements that are necessary to realize the 6G applications. Then we present the key enabling technologies in detail. We also outline current research projects and activities including standardization efforts towards the development of 6G. Finally, we summarize lessons learned from state-of-the-art research and discuss technical challenges that would shed a new light on future research directions towards 6G."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2771152181",
+      "doi": "https://doi.org/10.1109/access.2017.2779844",
+      "title": "A Survey on 5G Networks for the Internet of Things: Communication Technologies and Challenges",
+      "type": "article",
+      "year": 2017,
+      "cited_by_count": 1278,
+      "abstract": "The Internet of Things (IoT) is a promising technology which tends to revolutionize and connect the global world via heterogeneous smart devices through seamless connectivity. The current demand for machine-type communications (MTC) has resulted in a variety of communication technologies with diverse service requirements to achieve the modern IoT vision. More recent cellular standards like long-term evolution (LTE) have been introduced for mobile devices but are not well suited for low-power and low data rate devices such as the IoT devices. To address this, there is a number of emerging IoT standards. Fifth generation (5G) mobile network, in particular, aims to address the limitations of previous cellular standards and be a potential key enabler for future IoT. In this paper, the state-of-the-art of the IoT application requirements along with their associated communication technologies are surveyed. In addition, the third generation partnership project cellular-based low-power wide area solutions to support and enable the new service requirements for Massive to Critical IoT use cases are discussed in detail, including extended coverage global system for mobile communications for the Internet of Things, enhanced machine-type communications, and narrowband-Internet of Things. Furthermore, 5G new radio enhancements for new service requirements and enabling technologies for the IoT are introduced. This paper presents a comprehensive review related to emerging and enabling technologies with main focus on 5G mobile networks that is envisaged to support the exponential traffic growth for enabling the IoT. The challenges and open research directions pertinent to the deployment of massive to critical IoT applications are also presented in coming up with an efficient context-aware congestion control mechanism."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2993508366",
+      "doi": "https://doi.org/10.1109/access.2019.2957648",
+      "title": "A Survey on Green 6G Network: Architecture and Technologies",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 555,
+      "abstract": "While 5G is being commercialized worldwide, research institutions around the world have started to look beyond 5G and 6G is expected to evolve into green networks, which deliver high Quality of Service and energy efficiency. To meet the demands of future applications, significant improvements need to be made in mobile network architecture. We envision 6G undergoing unprecedented breakthrough and integrating traditional terrestrial mobile networks with emerging space, aerial and underwater networks to provide anytime anywhere network access. This paper presents a detailed survey on wireless evolution towards 6G networks. In this survey, the prime focus is on the new architectural changes associated with 6G networks, characterized by ubiquitous 3D coverage, introduction of pervasive AI and enhanced network protocol stack. Along with this, we discuss related potential technologies that are helpful in forming sustainable and socially seamless networks, encompassing terahertz and visible light communication, new communication paradigm, blockchain and symbiotic radio. Our work aims to provide enlightening guidance for subsequent research of green 6G."
+    },
+    {
+      "openalex_id": "https://openalex.org/W2157954477",
+      "doi": "https://doi.org/10.1109/access.2014.2332453",
+      "title": "Toward Scalable Systems for Big Data Analytics: A Technology Tutorial",
+      "type": "article",
+      "year": 2014,
+      "cited_by_count": 1094,
+      "abstract": "Recent technological advancements have led to a deluge of data from distinctive domains (e.g., health care and scientific sensors, user-generated data, Internet and financial companies, and supply chain systems) over the past two decades. The term big data was coined to capture the meaning of this emerging trend. In addition to its sheer volume, big data also exhibits other unique characteristics as compared with traditional data. For instance, big data is commonly unstructured and require more real-time analysis. This development calls for new system architectures for data acquisition, transmission, storage, and large-scale data processing mechanisms. In this paper, we present a literature survey and system tutorial for big data analytics platforms, aiming to provide an overall picture for nonexpert readers and instill a do-it-yourself spirit for advanced audiences to customize their own big-data solutions. First, we present the definition of big data and discuss big data challenges. Next, we present a systematic framework to decompose big data systems into four sequential modules, namely data generation, data acquisition, data storage, and data analytics. These four modules form a big data value chain. Following that, we present a detailed survey of numerous approaches and mechanisms from research and industry communities. In addition, we present the prevalent Hadoop framework for addressing big data challenges. Finally, we outline several evaluation benchmarks and potential research directions for big data systems."
+    },
+    {
+      "openalex_id": "https://openalex.org/W1904504745",
+      "doi": "https://doi.org/10.1109/tsipn.2015.2448520",
+      "title": "Joint Optimization of Radio and Computational Resources for Multicell Mobile-Edge Computing",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 914,
+      "abstract": "Migrating computational intensive tasks from mobile devices to more resourceful cloud servers is a promising technique to increase the computational capacity of mobile devices while saving their battery energy. In this paper, we consider an MIMO multicell system where multiple mobile users (MUs) ask for computation offloading to a common cloud server. We formulate the offloading problem as the joint optimization of the radio resources-the transmit precoding matrices of the MUs-and the computational resources-the CPU cycles/second assigned by the cloud to each MU-in order to minimize the overall users' energy consumption, while meeting latency constraints. The resulting optimization problem is nonconvex (in the objective function and constraints). Nevertheless, in the single-user case, we are able to compute the global optimal solution in closed form. In the more challenging multiuser scenario, we propose an iterative algorithm, based on a novel successive convex approximation technique, converging to a local optimal solution of the original nonconvex problem. We then show that the proposed algorithmic framework naturally leads to a distributed and parallel implementation across the radio access points, requiring only a limited coordination/signaling with the cloud. Numerical results show that the proposed schemes outperform disjoint optimization algorithms."
+    }
+  ]
+}

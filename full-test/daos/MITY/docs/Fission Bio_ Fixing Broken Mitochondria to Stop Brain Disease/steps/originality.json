@@ -1,0 +1,475 @@
+{
+  "doc_name": "fission-bio-fixing-broken-mitochondria-to-stop-brain-disease",
+  "check_date": "May 22, 2026",
+  "paper_abstract": "",
+  "search_terms": [
+    "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration",
+    "P110 peptide therapeutic potential Huntington's disease ALS",
+    "mitochondrial fission fusion balance Alzheimer's disease progression",
+    "SWAG binding site Drp1 inhibition peptide design",
+    "SC9 small molecule P110 mimic neuroprotection",
+    "IP-token funding preclinical drug development",
+    "community driven research valley of death",
+    "fractional patent ownership decentralized science",
+    "Drp1 inhibition mitochondrial fragmentation Huntington's disease neurodegeneration",
+    "Drp1 Fis1 interaction mitochondrial dysfunction ALS Alzheimer's cognitive decline",
+    "allosteric site dynamin-related protein 1 Fis1 mitochondrial dysfunction",
+    "ischemia-induced Drp1 Fis1 mitochondrial fission pulmonary hypertension"
+  ],
+  "related_works_count": 45,
+  "avg_similarity_score": 0.0,
+  "originality_score": 1.0,
+  "related_works": [
+    {
+      "openalex_id": "https://openalex.org/W4384818370",
+      "doi": "https://doi.org/10.1038/s41467-023-40043-0",
+      "title": "Targeting an allosteric site in dynamin-related protein 1 to inhibit Fis1-mediated mitochondrial dysfunction",
+      "type": "article",
+      "year": 2023,
+      "cited_by_count": 81,
+      "abstract": "The large cytosolic GTPase, dynamin-related protein 1 (Drp1), mediates both physiological and pathological mitochondrial fission. Cell stress triggers Drp1 binding to mitochondrial Fis1 and subsequently, mitochondrial fragmentation, ROS production, metabolic collapse, and cell death. Because Drp1 also mediates physiological fission by binding to mitochondrial Mff, therapeutics that inhibit pathological fission should spare physiological mitochondrial fission. P110, a peptide inhibitor of Drp1-Fis1 interaction, reduces pathology in numerous models of neurodegeneration, ischemia, and sepsis without blocking the physiological functions of Drp1. Since peptides have pharmacokinetic limitations, we set out to identify small molecules that mimic P110's benefit. We map the P110-binding site to a switch I-adjacent grove (SWAG) on Drp1. Screening for SWAG-binding small molecules identifies SC9, which mimics P110's benefits in cells and a mouse model of endotoxemia. We suggest that the SWAG-binding small molecules discovered in this study may reduce the burden of Drp1-mediated pathologies and potentially pathologies associated with other members of the GTPase family.",
+      "search_term": "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2105043890",
+      "doi": "https://doi.org/10.1093/hmg/ddp326",
+      "title": "Mitochondrial dynamics-fusion, fission, movement, and mitophagy-in neurodegenerative diseases",
+      "type": "review",
+      "year": 2009,
+      "cited_by_count": 1448,
+      "abstract": "Neurons are metabolically active cells with high energy demands at locations distant from the cell body. As a result, these cells are particularly dependent on mitochondrial function, as reflected by the observation that diseases of mitochondrial dysfunction often have a neurodegenerative component. Recent discoveries have highlighted that neurons are reliant particularly on the dynamic properties of mitochondria. Mitochondria are dynamic organelles by several criteria. They engage in repeated cycles of fusion and fission, which serve to intermix the lipids and contents of a population of mitochondria. In addition, mitochondria are actively recruited to subcellular sites, such as the axonal and dendritic processes of neurons. Finally, the quality of a mitochondrial population is maintained through mitophagy, a form of autophagy in which defective mitochondria are selectively degraded. We review the general features of mitochondrial dynamics, incorporating recent findings on mitochondrial fusion, fission, transport and mitophagy. Defects in these key features are associated with neurodegenerative disease. Charcot-Marie-Tooth type 2A, a peripheral neuropathy, and dominant optic atrophy, an inherited optic neuropathy, result from a primary deficiency of mitochondrial fusion. Moreover, several major neurodegenerative diseases--including Parkinson's, Alzheimer's and Huntington's disease--involve disruption of mitochondrial dynamics. Remarkably, in several disease models, the manipulation of mitochondrial fusion or fission can partially rescue disease phenotypes. We review how mitochondrial dynamics is altered in these neurodegenerative diseases and discuss the reciprocal interactions between mitochondrial fusion, fission, transport and mitophagy.",
+      "search_term": "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2089141103",
+      "doi": "https://doi.org/10.1523/jneurosci.1357-09.2009",
+      "title": "Impaired Balance of Mitochondrial Fission and Fusion in Alzheimer's Disease",
+      "type": "article",
+      "year": 2009,
+      "cited_by_count": 1205,
+      "abstract": "Mitochondrial dysfunction is a prominent feature of Alzheimer's disease (AD) neurons. In this study, we explored the involvement of an abnormal mitochondrial dynamics by investigating the changes in the expression of mitochondrial fission and fusion proteins in AD brain and the potential cause and consequence of these changes in neuronal cells. We found that mitochondria were redistributed away from axons in the pyramidal neurons of AD brain. Immunoblot analysis revealed that levels of DLP1 (also referred to as Drp1), OPA1, Mfn1, and Mfn2 were significantly reduced whereas levels of Fis1 were significantly increased in AD. Despite their differential effects on mitochondrial morphology, manipulations of these mitochondrial fission and fusion proteins in neuronal cells to mimic their expressional changes in AD caused a similar abnormal mitochondrial distribution pattern, such that mitochondrial density was reduced in the cell periphery of M17 cells or neuronal process of primary neurons and correlated with reduced spine density in the neurite. Interestingly, oligomeric amyloid-beta-derived diffusible ligands (ADDLs) caused mitochondrial fragmentation and reduced mitochondrial density in neuronal processes. More importantly, ADDL-induced synaptic change (i.e., loss of dendritic spine and postsynaptic density protein 95 puncta) correlated with abnormal mitochondrial distribution. DLP1 overexpression, likely through repopulation of neuronal processes with mitochondria, prevented ADDL-induced synaptic loss, suggesting that abnormal mitochondrial dynamics plays an important role in ADDL-induced synaptic abnormalities. Based on these findings, we suggest that an altered balance in mitochondrial fission and fusion is likely an important mechanism leading to mitochondrial and neuronal dysfunction in AD brain.",
+      "search_term": "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4386448978",
+      "doi": "https://doi.org/10.1038/s41392-023-01547-9",
+      "title": "Mitochondrial dynamics in health and disease: mechanisms and potential targets",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 1078,
+      "abstract": "Mitochondria are organelles that are able to adjust and respond to different stressors and metabolic needs within a cell, showcasing their plasticity and dynamic nature. These abilities allow them to effectively coordinate various cellular functions. Mitochondrial dynamics refers to the changing process of fission, fusion, mitophagy and transport, which is crucial for optimal function in signal transduction and metabolism. An imbalance in mitochondrial dynamics can disrupt mitochondrial function, leading to abnormal cellular fate, and a range of diseases, including neurodegenerative disorders, metabolic diseases, cardiovascular diseases and cancers. Herein, we review the mechanism of mitochondrial dynamics, and its impacts on cellular function. We also delve into the changes that occur in mitochondrial dynamics during health and disease, and offer novel perspectives on how to target the modulation of mitochondrial dynamics.",
+      "search_term": "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2750514629",
+      "doi": "https://doi.org/10.1038/nrneph.2017.107",
+      "title": "Mitochondrial energetics in the kidney",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 1275,
+      "abstract": null,
+      "search_term": "Drp1-Fis1 interaction mitochondrial fragmentation neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2135662322",
+      "doi": "https://doi.org/10.1038/sj.cdd.4400598",
+      "title": "Caspase structure, proteolytic substrates, and function during apoptotic cell death",
+      "type": "review",
+      "year": 1999,
+      "cited_by_count": 1541,
+      "abstract": null,
+      "search_term": "P110 peptide therapeutic potential Huntington's disease ALS"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2046250764",
+      "doi": "https://doi.org/10.1152/physrev.00030.2009",
+      "title": "Regulation of Mammalian Autophagy in Physiology and Pathophysiology",
+      "type": "review",
+      "year": 2010,
+      "cited_by_count": 1713,
+      "abstract": "(Macro)autophagy is a bulk degradation process that mediates the clearance of long-lived proteins and organelles. Autophagy is initiated by double-membraned structures, which engulf portions of cytoplasm. The resulting autophagosomes ultimately fuse with lysosomes, where their contents are degraded. Although the term autophagy was first used in 1963, the field has witnessed dramatic growth in the last 5 years, partly as a consequence of the discovery of key components of its cellular machinery. In this review we focus on mammalian autophagy, and we give an overview of the understanding of its machinery and the signaling cascades that regulate it. As recent studies have also shown that autophagy is critical in a range of normal human physiological processes, and defective autophagy is associated with diverse diseases, including neurodegeneration, lysosomal storage diseases, cancers, and Crohn's disease, we discuss the roles of autophagy in health and disease, while trying to critically evaluate if the coincidence between autophagy and these conditions is causal or an epiphenomenon. Finally, we consider the possibility of autophagy upregulation as a therapeutic approach for various conditions.",
+      "search_term": "P110 peptide therapeutic potential Huntington's disease ALS"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3130500589",
+      "doi": "https://doi.org/10.3389/fnagi.2021.617588",
+      "title": "Mitochondrial Dysfunction and Oxidative Stress in Alzheimer’s Disease",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 582,
+      "abstract": "Mitochondria play a pivotal role in bioenergetics and respiratory functions, which are essential for the numerous biochemical processes underpinning cell viability. Mitochondrial morphology changes rapidly in response to external insults and changes in metabolic status via fission and fusion processes (so-called mitochondrial dynamics) that maintain mitochondrial quality and homeostasis. Damaged mitochondria are removed by a process known as mitophagy, which involves their degradation by a specific autophagosomal pathway. Over the last few years, remarkable efforts have been made to investigate the impact on the pathogenesis of Alzheimer’s disease (AD) of various forms of mitochondrial dysfunction, such as excessive reactive oxygen species (ROS) production, mitochondrial Ca 2+ dyshomeostasis, loss of ATP, and defects in mitochondrial dynamics and transport, and mitophagy. Recent research suggests that restoration of mitochondrial function by physical exercise, an antioxidant diet, or therapeutic approaches can delay the onset and slow the progression of AD. In this review, we focus on recent progress that highlights the crucial role of alterations in mitochondrial function and oxidative stress in the pathogenesis of AD, emphasizing a framework of existing and potential therapeutic approaches.",
+      "search_term": "P110 peptide therapeutic potential Huntington's disease ALS"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2911237161",
+      "doi": "https://doi.org/10.3389/fnmol.2019.00025",
+      "title": "Molecular Mechanisms of TDP-43 Misfolding and Pathology in Amyotrophic Lateral Sclerosis",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 768,
+      "abstract": "TAR DNA binding protein 43 (TDP-43) is a versatile RNA/DNA binding protein involved in RNA-related metabolism. Hyper-phosphorylated and ubiquitinated TDP-43 deposits act as inclusion bodies in the brain and spinal cord of patients with the motor neuron diseases: amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration (FTLD). While the majority of ALS cases (90-95%) are sporadic (sALS), among familial ALS cases 5-10% involve the inheritance of mutations in the TARDBP gene and the remaining (90-95%) are due to mutations in other genes such as: C9ORF72, SOD1, FUS, and NEK1 etc. Strikingly however, the majority of sporadic ALS patients (up to 97%) also contain the TDP-43 protein deposited in the neuronal inclusions, which suggests of its pivotal role in the ALS pathology. Thus, unraveling the molecular mechanisms of the TDP-43 pathology seems central to the ALS therapeutics, hence, we comprehensively review the current understanding of the TDP-43's pathology in ALS. We discuss the roles of TDP-43's mutations, its cytoplasmic mis-localization and aberrant post-translational modifications in ALS. Also, we evaluate TDP-43's amyloid-like in vitro aggregation, its physiological vs. pathological oligomerization in vivo, liquid-liquid phase separation (LLPS), and potential prion-like propagation propensity of the TDP-43 inclusions. Finally, we describe the various evolving TDP-43-induced toxicity mechanisms, such as the impairment of endocytosis and mitotoxicity etc. and also discuss the emerging strategies toward TDP-43 disaggregation and ALS therapeutics.",
+      "search_term": "P110 peptide therapeutic potential Huntington's disease ALS"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4313578986",
+      "doi": "https://doi.org/10.7150/thno.79876",
+      "title": "Cellular mitophagy: Mechanism, roles in diseases and small molecule pharmacological regulation",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 603,
+      "abstract": "Cellular mitophagy means that cells selectively wrap and degrade damaged mitochondria through an autophagy mechanism, thus maintaining mitochondria and intracellular homeostasis. In recent years, mitophagy has received increasing attention as a research hotspot related to the pathogenesis of clinical diseases, such as neurodegenerative diseases, cardiovascular diseases, cancer, metabolic diseases, and so on. It has been found that the regulation of mitophagy may become a new direction for the treatment of some diseases. In addition, numerous small molecule modulators of mitophagy have also been reported, which provides new opportunities to comprehend the procedure and potential of therapeutic development. Taken together, in this review, we summarize current understanding of the mechanism of mitophagy, discuss the roles of mitophagy and its relationship with diseases, introduce the existing small-molecule pharmacological modulators of mitophagy and further highlight the significance of their development.",
+      "search_term": "P110 peptide therapeutic potential Huntington's disease ALS"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4400919363",
+      "doi": "https://doi.org/10.3390/ijms25147952",
+      "title": "Targeting Mitochondrial Dysfunction and Reactive Oxygen Species for Neurodegenerative Disease Treatment",
+      "type": "review",
+      "year": 2024,
+      "cited_by_count": 76,
+      "abstract": "Alzheimer's disease (AD) and Parkinson's disease (PD) are the most common neurodegenerative diseases, and they affect millions of people worldwide, particularly older individuals. Therefore, there is a clear need to develop novel drug targets for the treatment of age-related neurodegenerative diseases. Emerging evidence suggests that mitochondrial dysfunction and reactive oxygen species (ROS) generation play central roles in the onset and progression of neurodegenerative diseases. Mitochondria are key regulators of respiratory function, cellular energy adenosine triphosphate production, and the maintenance of cellular redox homeostasis, which are essential for cell survival. Mitochondrial morphology and function are tightly regulated by maintaining a balance among mitochondrial fission, fusion, biogenesis, and mitophagy. In this review, we provide an overview of the main functions of mitochondria, with a focus on recent progress highlighting the critical role of ROS-induced oxidative stress, dysregulated mitochondrial dynamics, mitochondrial apoptosis, mitochondria-associated inflammation, and impaired mitochondrial function in the pathogenesis of age-related neurodegenerative diseases, such as AD and PD. We also discuss the potential of mitochondrial fusion and biogenesis enhancers, mitochondrial fission inhibitors, and mitochondria-targeted antioxidants as novel drugs for the treatment of these diseases.",
+      "search_term": "mitochondrial fission fusion balance Alzheimer's disease progression"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2061527930",
+      "doi": "https://doi.org/10.2165/11532140-000000000-00000",
+      "title": "Mitochondrial Dynamics in Alzheimerʼs Disease",
+      "type": "review",
+      "year": 2010,
+      "cited_by_count": 105,
+      "abstract": null,
+      "search_term": "mitochondrial fission fusion balance Alzheimer's disease progression"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3005296102",
+      "doi": "https://doi.org/10.1016/j.biomaterials.2020.119844",
+      "title": "Neuronal mitochondria-targeted micelles relieving oxidative stress for delayed progression of Alzheimer's disease",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 130,
+      "abstract": null,
+      "search_term": "mitochondrial fission fusion balance Alzheimer's disease progression"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4407516967",
+      "doi": "https://doi.org/10.3390/cells14040276",
+      "title": "Mitochondrial Dysfunction in Neurodegenerative Diseases",
+      "type": "review",
+      "year": 2025,
+      "cited_by_count": 45,
+      "abstract": "Mitochondrial dysfunction represents a pivotal characteristic of numerous neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. These conditions, distinguished by unique clinical and pathological features, exhibit shared pathways leading to neuronal damage, all of which are closely associated with mitochondrial dysfunction. The high metabolic requirements of neurons make even minor mitochondrial deficiencies highly impactful, driving oxidative stress, energy deficits, and aberrant protein processing. Growing evidence from genetic, biochemical, and cellular investigations associates impaired electron transport chain activity and disrupted quality-control mechanisms, such as mitophagy, with the initial phases of disease progression. Furthermore, the overproduction of reactive oxygen species and persistent neuroinflammation can establish feedforward cycles that exacerbate neuronal deterioration. Recent clinical research has increasingly focused on interventions aimed at enhancing mitochondrial resilience-through antioxidants, small molecules that modulate the balance of mitochondrial fusion and fission, or gene-based therapeutic strategies. Concurrently, initiatives to identify dependable mitochondrial biomarkers seek to detect pathological changes prior to the manifestation of overt symptoms. By integrating the current body of knowledge, this review emphasizes the critical role of preserving mitochondrial homeostasis as a viable therapeutic approach. It also addresses the complexities of translating these findings into clinical practice and underscores the potential of innovative strategies designed to delay or potentially halt neurodegenerative processes.",
+      "search_term": "mitochondrial fission fusion balance Alzheimer's disease progression"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2925543913",
+      "doi": "https://doi.org/10.1007/s12035-019-1544-z",
+      "title": "Synergy in Disruption of Mitochondrial Dynamics by Aβ (1-42) and Glia Maturation Factor (GMF) in SH-SY5Y Cells Is Mediated Through Alterations in Fission and Fusion Proteins",
+      "type": "article",
+      "year": 2019,
+      "cited_by_count": 33,
+      "abstract": null,
+      "search_term": "mitochondrial fission fusion balance Alzheimer's disease progression"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4385754313",
+      "doi": "https://doi.org/10.3389/fcell.2023.1244313",
+      "title": "Unveiling the potential of mitochondrial dynamics as a therapeutic strategy for acute kidney injury",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 18,
+      "abstract": "Acute Kidney Injury (AKI), a critical clinical syndrome, has been strongly linked to mitochondrial malfunction. Mitochondria, vital cellular organelles, play a key role in regulating cellular energy metabolism and ensuring cell survival. Impaired mitochondrial function in AKI leads to decreased energy generation, elevated oxidative stress, and the initiation of inflammatory cascades, resulting in renal tissue damage and functional impairment. Therefore, mitochondria have gained significant research attention as a potential therapeutic target for AKI. Mitochondrial dynamics, which encompass the adaptive shifts of mitochondria within cellular environments, exert significant influence on mitochondrial function. Modulating these dynamics, such as promoting mitochondrial fusion and inhibiting mitochondrial division, offers opportunities to mitigate renal injury in AKI. Consequently, elucidating the mechanisms underlying mitochondrial dynamics has gained considerable importance, providing valuable insights into mitochondrial regulation and facilitating the development of innovative therapeutic approaches for AKI. This comprehensive review aims to highlight the latest advancements in mitochondrial dynamics research, provide an exhaustive analysis of existing studies investigating the relationship between mitochondrial dynamics and acute injury, and shed light on their implications for AKI. The ultimate goal is to advance the development of more effective therapeutic interventions for managing AKI.",
+      "search_term": "SWAG binding site Drp1 inhibition peptide design"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4385636731",
+      "doi": "https://doi.org/10.3390/biom13081225",
+      "title": "Mechanisms of Modulation of Mitochondrial Architecture",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 15,
+      "abstract": "Mitochondrial network architecture plays a critical role in cellular physiology. Indeed, alterations in the shape of mitochondria upon exposure to cellular stress can cause the dysfunction of these organelles. In this scenario, mitochondrial dynamics proteins and the phospholipid composition of the mitochondrial membrane are key for fine-tuning the modulation of mitochondrial architecture. In addition, several factors including post-translational modifications such as the phosphorylation, acetylation, SUMOylation, and o-GlcNAcylation of mitochondrial dynamics proteins contribute to shaping the plasticity of this architecture. In this regard, several studies have evidenced that, upon metabolic stress, mitochondrial dynamics proteins are post-translationally modified, leading to the alteration of mitochondrial architecture. Interestingly, several proteins that sustain the mitochondrial lipid composition also modulate mitochondrial morphology and organelle communication. In this context, pharmacological studies have revealed that the modulation of mitochondrial shape and function emerges as a potential therapeutic strategy for metabolic diseases. Here, we review the factors that modulate mitochondrial architecture.",
+      "search_term": "SWAG binding site Drp1 inhibition peptide design"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3153931447",
+      "doi": "https://doi.org/10.1016/s2213-2600(21)00103-x",
+      "title": "Interleukin-6: obstacles to targeting a complex cytokine in critical illness",
+      "type": "review",
+      "year": 2021,
+      "cited_by_count": 264,
+      "abstract": null,
+      "search_term": "IP-token funding preclinical drug development"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4396768244",
+      "doi": "https://doi.org/10.1016/j.fmre.2024.04.021",
+      "title": "Role of artificial intelligence in revolutionizing drug discovery",
+      "type": "review",
+      "year": 2024,
+      "cited_by_count": 112,
+      "abstract": "The application of artificial intelligence (AI) in medicine, particularly through machine learning (ML), marked a significant progression in drug discovery. AI acts as a powerful catalyst in narrowing the gap between disease understanding and the identification of potential therapeutic agents. This review provides an inclusive summary of the latest advancements in AI and its application in drug discovery. We examine the various stages of the drug discovery process, starting from disease identification and encompassing diagnosis, target identification, screening, and lead discovery. AI's capability to analyze extensive datasets and discern patterns is essential in these stages, enhancing predictions and efficiencies in disease identification, drug discovery, and clinical trial management. The role of AI in expediting drug development is emphasized, highlighting its potential to analyze vast data volumes, thus reducing the time and costs associated with new drug market introduction. The importance of data quality, algorithm training, and ethical considerations, especially in patient data handling during clinical trials, is addressed. By considering these factors, AI promises to transform drug development, offering significant benefits to patients and society.",
+      "search_term": "IP-token funding preclinical drug development"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2192486264",
+      "doi": "https://doi.org/10.1371/journal.pgen.1005713",
+      "title": "Hnrnph1 Is A Quantitative Trait Gene for Methamphetamine Sensitivity",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 63,
+      "abstract": "Psychostimulant addiction is a heritable substance use disorder; however its genetic basis is almost entirely unknown. Quantitative trait locus (QTL) mapping in mice offers a complementary approach to human genome-wide association studies and can facilitate environment control, statistical power, novel gene discovery, and neurobiological mechanisms. We used interval-specific congenic mouse lines carrying various segments of chromosome 11 from the DBA/2J strain on an isogenic C57BL/6J background to positionally clone a 206 kb QTL (50,185,512-50,391,845 bp) that was causally associated with a reduction in the locomotor stimulant response to methamphetamine (2 mg/kg, i.p.; DBA/2J < C57BL/6J)-a non-contingent, drug-induced behavior that is associated with stimulation of the dopaminergic reward circuitry. This chromosomal region contained only two protein coding genes-heterogeneous nuclear ribonucleoprotein, H1 (Hnrnph1) and RUN and FYVE domain-containing 1 (Rufy1). Transcriptome analysis via mRNA sequencing in the striatum implicated a neurobiological mechanism involving a reduction in mesolimbic innervation and striatal neurotransmission. For instance, Nr4a2 (nuclear receptor subfamily 4, group A, member 2), a transcription factor crucial for midbrain dopaminergic neuron development, exhibited a 2.1-fold decrease in expression (DBA/2J < C57BL/6J; p 4.2 x 10-15). Transcription activator-like effector nucleases (TALENs)-mediated introduction of frameshift deletions in the first coding exon of Hnrnph1, but not Rufy1, recapitulated the reduced methamphetamine behavioral response, thus identifying Hnrnph1 as a quantitative trait gene for methamphetamine sensitivity. These results define a novel contribution of Hnrnph1 to neurobehavioral dysfunction associated with dopaminergic neurotransmission. These findings could have implications for understanding the genetic basis of methamphetamine addiction in humans and the development of novel therapeutics for prevention and treatment of substance abuse and possibly other psychiatric disorders.",
+      "search_term": "IP-token funding preclinical drug development"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3128984016",
+      "doi": "https://doi.org/10.3389/fbloc.2021.631648",
+      "title": "Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 34,
+      "abstract": "Since its launch just over a decade ago by the cryptocurrency Bitcoin, the distributed ledger technology (DLT) blockchain has followed a breathtaking trajectory into manifold application spaces. This study aper analyses how key factors underpinning the success of this ground-breaking “Internet of value” technology, such as staking of collateral (“skin in the game”), competitive crowdsourcing, crowdfunding, and prediction markets, can be applied to substantially innovate the legacy organization of science, research, and technology development (RTD). Here, we elaborate a highly integrative, community-based strategy where a token-based crypto-economy supports finding best possible consensus, trust, and truth by adding unconventional elements known from reputation systems, betting, secondary markets, and social networking. These tokens support the holder’s formalized reputation and are used in liquid-democracy style governance and arbitration within projects or community-driven initiatives. This participatory research model serves as a solid basis for comprehensively leveraging collective intelligence by effectively incentivizing contributions from the crowd, such as intellectual property work, validation, assessment, infrastructure, education, assessment, governance, publication, and promotion of projects. On the analogy of its current blockbusters like peer-to-peer structured decentralized finance (“DeFi”), blockchain technology can seminally enhance the efficiency of science and RTD initiatives, even permitting to fully stage operations as a chiefless decentralized autonomous organization (DAOs).",
+      "search_term": "IP-token funding preclinical drug development"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2621879909",
+      "doi": "https://doi.org/10.1007/s11095-017-2192-5",
+      "title": "Reflections on the Future of Pharmaceutical Public-Private Partnerships: From Input to Impact",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 58,
+      "abstract": "Public Private Partnerships (PPPs) are multiple stakeholder partnerships designed to improve research efficacy. We focus on PPPs in the biomedical/pharmaceutical field, which emerged as a logical result of the open innovation model. Originally, a typical PPP was based on an academic and an industrial pillar, with governmental or other third party funding as an incentive. Over time, other players joined in, often health foundations, patient organizations, and regulatory scientists. This review discusses reasons for initiating a PPP, focusing on precompetitive research. It looks at typical expectations and challenges when starting such an endeavor, the characteristics of PPPs, and approaches to assessing the success of the concept. Finally, four case studies are presented, of PPPs differing in size, geographical spread, and research focus.",
+      "search_term": "IP-token funding preclinical drug development"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2917837889",
+      "doi": "https://doi.org/10.3322/caac.21262",
+      "title": "Global cancer statistics, 2012",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 27346,
+      "abstract": "Cancer constitutes an enormous burden on society in more and less economically developed countries alike. The occurrence of cancer is increasing because of the growth and aging of the population, as well as an increasing prevalence of established risk factors such as smoking, overweight, physical inactivity, and changing reproductive patterns associated with urbanization and economic development. Based on GLOBOCAN estimates, about 14.1 million new cancer cases and 8.2 million deaths occurred in 2012 worldwide. Over the years, the burden has shifted to less developed countries, which currently account for about 57% of cases and 65% of cancer deaths worldwide. Lung cancer is the leading cause of cancer death among males in both more and less developed countries, and has surpassed breast cancer as the leading cause of cancer death among females in more developed countries; breast cancer remains the leading cause of cancer death among females in less developed countries. Other leading causes of cancer death in more developed countries include colorectal cancer among males and females and prostate cancer among males. In less developed countries, liver and stomach cancer among males and cervical cancer among females are also leading causes of cancer death. Although incidence rates for all cancers combined are nearly twice as high in more developed than in less developed countries in both males and females, mortality rates are only 8% to 15% higher in more developed countries. This disparity reflects regional differences in the mix of cancers, which is affected by risk factors and detection practices, and/or the availability of treatment. Risk factors associated with the leading causes of cancer death include tobacco use (lung, colorectal, stomach, and liver cancer), overweight/obesity and physical inactivity (breast and colorectal cancer), and infection (liver, stomach, and cervical cancer). A substantial portion of cancer cases and deaths could be prevented by broadly applying effective prevention measures, such as tobacco control, vaccination, and the use of early detection tests.",
+      "search_term": "community driven research valley of death"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2899736836",
+      "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
+      "title": "Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 8621,
+      "abstract": "BACKGROUND: Global development goals increasingly rely on country-specific estimates for benchmarking a nation's progress. To meet this need, the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2016 estimated global, regional, national, and, for selected locations, subnational cause-specific mortality beginning in the year 1980. Here we report an update to that study, making use of newly available data and improved methods. GBD 2017 provides a comprehensive assessment of cause-specific mortality for 282 causes in 195 countries and territories from 1980 to 2017. METHODS: The causes of death database is composed of vital registration (VR), verbal autopsy (VA), registry, survey, police, and surveillance data. GBD 2017 added ten VA studies, 127 country-years of VR data, 502 cancer-registry country-years, and an additional surveillance country-year. Expansions of the GBD cause of death hierarchy resulted in 18 additional causes estimated for GBD 2017. Newly available data led to subnational estimates for five additional countries-Ethiopia, Iran, New Zealand, Norway, and Russia. Deaths assigned International Classification of Diseases (ICD) codes for non-specific, implausible, or intermediate causes of death were reassigned to underlying causes by redistribution algorithms that were incorporated into uncertainty estimation. We used statistical modelling tools developed for GBD, including the Cause of Death Ensemble model (CODEm), to generate cause fractions and cause-specific death rates for each location, year, age, and sex. Instead of using UN estimates as in previous versions, GBD 2017 independently estimated population size and fertility rate for all locations. Years of life lost (YLLs) were then calculated as the sum of each death multiplied by the standard life expectancy at each age. All rates reported here are age-standardised. FINDINGS: At the broadest grouping of causes of death (Level 1), non-communicable diseases (NCDs) comprised the greatest fraction of deaths, contributing to 73·4% (95% uncertainty interval [UI] 72·5-74·1) of total deaths in 2017, while communicable, maternal, neonatal, and nutritional (CMNN) causes accounted for 18·6% (17·9-19·6), and injuries 8·0% (7·7-8·2). Total numbers of deaths from NCD causes increased from 2007 to 2017 by 22·7% (21·5-23·9), representing an additional 7·61 million (7·20-8·01) deaths estimated in 2017 versus 2007. The death rate from NCDs decreased globally by 7·9% (7·0-8·8). The number of deaths for CMNN causes decreased by 22·2% (20·0-24·0) and the death rate by 31·8% (30·1-33·3). Total deaths from injuries increased by 2·3% (0·5-4·0) between 2007 and 2017, and the death rate from injuries decreased by 13·7% (12·2-15·1) to 57·9 deaths (55·9-59·2) per 100 000 in 2017. Deaths from substance use disorders also increased, rising from 284 000 deaths (268 000-289 000) globally in 2007 to 352 000 (334 000-363 000) in 2017. Between 2007 and 2017, total deaths from conflict and terrorism increased by 118·0% (88·8-148·6). A greater reduction in total deaths and death rates was observed for some CMNN causes among children younger than 5 years than for older adults, such as a 36·4% (32·2-40·6) reduction in deaths from lower respiratory infections for children younger than 5 years compared with a 33·6% (31·2-36·1) increase in adults older than 70 years. Globally, the number of deaths was greater for men than for women at most ages in 2017, except at ages older than 85 years. Trends in global YLLs reflect an epidemiological transition, with decreases in total YLLs from enteric infections, respiratory infections and tuberculosis, and maternal and neonatal disorders between 1990 and 2017; these were generally greater in magnitude at the lowest levels of the Socio-demographic Index (SDI). At the same time, there were large increases in YLLs from neoplasms and cardiovascular diseases. YLL rates decreased across the five leading Level 2 causes in all SDI quintiles. The leading causes of YLLs in 1990-neonatal disorders, lower respiratory infections, and diarrhoeal diseases-were ranked second, fourth, and fifth, in 2017. Meanwhile, estimated YLLs increased for ischaemic heart disease (ranked first in 2017) and stroke (ranked third), even though YLL rates decreased. Population growth contributed to increased total deaths across the 20 leading Level 2 causes of mortality between 2007 and 2017. Decreases in the cause-specific mortality rate reduced the effect of population growth for all but three causes: substance use disorders, neurological disorders, and skin and subcutaneous diseases. INTERPRETATION: Improvements in global health have been unevenly distributed among populations. Deaths due to injuries, substance use disorders, armed conflict and terrorism, neoplasms, and cardiovascular disease are expanding threats to global health. For causes of death such as lower respiratory and enteric infections, more rapid progress occurred for children than for the oldest adults, and there is continuing disparity in mortality rates by sex across age groups. Reductions in the death rate of some common diseases are themselves slowing or have ceased, primarily for NCDs, and the death rate for selected causes has increased in the past decade. FUNDING: Bill & Melinda Gates Foundation.",
+      "search_term": "community driven research valley of death"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3047144258",
+      "doi": "https://doi.org/10.1038/s41586-020-2521-4",
+      "title": "Factors associated with COVID-19-related death using OpenSAFELY",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 6714,
+      "abstract": null,
+      "search_term": "community driven research valley of death"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2139923324",
+      "doi": "https://doi.org/10.1016/j.diabres.2013.11.002",
+      "title": "Global estimates of diabetes prevalence for 2013 and projections for 2035",
+      "type": "article",
+      "year": 2013,
+      "cited_by_count": 4689,
+      "abstract": null,
+      "search_term": "community driven research valley of death"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2899773405",
+      "doi": "https://doi.org/10.1016/s0140-6736(18)32225-6",
+      "title": "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 4999,
+      "abstract": "BACKGROUND: The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2017 comparative risk assessment (CRA) is a comprehensive approach to risk factor quantification that offers a useful tool for synthesising evidence on risks and risk-outcome associations. With each annual GBD study, we update the GBD CRA to incorporate improved methods, new risks and risk-outcome pairs, and new data on risk exposure levels and risk-outcome associations. METHODS: We used the CRA framework developed for previous iterations of GBD to estimate levels and trends in exposure, attributable deaths, and attributable disability-adjusted life-years (DALYs), by age group, sex, year, and location for 84 behavioural, environmental and occupational, and metabolic risks or groups of risks from 1990 to 2017. This study included 476 risk-outcome pairs that met the GBD study criteria for convincing or probable evidence of causation. We extracted relative risk and exposure estimates from 46 749 randomised controlled trials, cohort studies, household surveys, census data, satellite data, and other sources. We used statistical models to pool data, adjust for bias, and incorporate covariates. Using the counterfactual scenario of theoretical minimum risk exposure level (TMREL), we estimated the portion of deaths and DALYs that could be attributed to a given risk. We explored the relationship between development and risk exposure by modelling the relationship between the Socio-demographic Index (SDI) and risk-weighted exposure prevalence and estimated expected levels of exposure and risk-attributable burden by SDI. Finally, we explored temporal changes in risk-attributable DALYs by decomposing those changes into six main component drivers of change as follows: (1) population growth; (2) changes in population age structures; (3) changes in exposure to environmental and occupational risks; (4) changes in exposure to behavioural risks; (5) changes in exposure to metabolic risks; and (6) changes due to all other factors, approximated as the risk-deleted death and DALY rates, where the risk-deleted rate is the rate that would be observed had we reduced the exposure levels to the TMREL for all risk factors included in GBD 2017. FINDINGS: In 2017, 34·1 million (95% uncertainty interval [UI] 33·3-35·0) deaths and 1·21 billion (1·14-1·28) DALYs were attributable to GBD risk factors. Globally, 61·0% (59·6-62·4) of deaths and 48·3% (46·3-50·2) of DALYs were attributed to the GBD 2017 risk factors. When ranked by risk-attributable DALYs, high systolic blood pressure (SBP) was the leading risk factor, accounting for 10·4 million (9·39-11·5) deaths and 218 million (198-237) DALYs, followed by smoking (7·10 million [6·83-7·37] deaths and 182 million [173-193] DALYs), high fasting plasma glucose (6·53 million [5·23-8·23] deaths and 171 million [144-201] DALYs), high body-mass index (BMI; 4·72 million [2·99-6·70] deaths and 148 million [98·6-202] DALYs), and short gestation for birthweight (1·43 million [1·36-1·51] deaths and 139 million [131-147] DALYs). In total, risk-attributable DALYs declined by 4·9% (3·3-6·5) between 2007 and 2017. In the absence of demographic changes (ie, population growth and ageing), changes in risk exposure and risk-deleted DALYs would have led to a 23·5% decline in DALYs during that period. Conversely, in the absence of changes in risk exposure and risk-deleted DALYs, demographic changes would have led to an 18·6% increase in DALYs during that period. The ratios of observed risk exposure levels to exposure levels expected based on SDI (O/E ratios) increased globally for unsafe drinking water and household air pollution between 1990 and 2017. This result suggests that development is occurring more rapidly than are changes in the underlying risk structure in a population. Conversely, nearly universal declines in O/E ratios for smoking and alcohol use indicate that, for a given SDI, exposure to these risks is declining. In 2017, the leading Level 4 risk factor for age-standardised DALY rates was high SBP in four super-regions: central Europe, eastern Europe, and central Asia; north Africa and Middle East; south Asia; and southeast Asia, east Asia, and Oceania. The leading risk factor in the high-income super-region was smoking, in Latin America and Caribbean was high BMI, and in sub-Saharan Africa was unsafe sex. O/E ratios for unsafe sex in sub-Saharan Africa were notably high, and those for alcohol use in north Africa and the Middle East were notably low. INTERPRETATION: By quantifying levels and trends in exposures to risk factors and the resulting disease burden, this assessment offers insight into where past policy and programme efforts might have been successful and highlights current priorities for public health action. Decreases in behavioural, environmental, and occupational risks have largely offset the effects of population growth and ageing, in relation to trends in absolute burden. Conversely, the combination of increasing metabolic risks and population ageing will probably continue to drive the increasing trends in non-communicable diseases at the global level, which presents both a public health challenge and opportunity. We see considerable spatiotemporal heterogeneity in levels of risk exposure and risk-attributable burden. Although levels of development underlie some of this heterogeneity, O/E ratios show risks for which countries are overperforming or underperforming relative to their level of development. As such, these ratios provide a benchmarking tool to help to focus local decision making. Our findings reinforce the importance of both risk exposure monitoring and epidemiological research to assess causal connections between risks and health outcomes, and they highlight the usefulness of the GBD study in synthesising data to draw comprehensive and robust conclusions that help to inform good policy and strategic health planning. FUNDING: Bill & Melinda Gates Foundation.",
+      "search_term": "community driven research valley of death"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4210861214",
+      "doi": "https://doi.org/10.1038/s41598-022-05920-6",
+      "title": "Patents and intellectual property assets as non-fungible tokens; key technologies and challenges",
+      "type": "article",
+      "year": 2022,
+      "cited_by_count": 250,
+      "abstract": "With the explosive development of decentralized finance, we witness a phenomenal growth in tokenization of all kinds of assets, including equity, funds, debt, and real estate. By taking advantage of blockchain technology, digital assets are broadly grouped into fungible and non-fungible tokens (NFT). Here non-fungible tokens refer to those with unique and non-substitutable properties. NFT has widely attracted attention, and its protocols, standards, and applications are developing exponentially. It has been successfully applied to digital fantasy artwork, games, collectibles, etc. However, there is a lack of research in utilizing NFT in issues such as Intellectual Property. Applying for a patent and trademark is not only a time-consuming and lengthy process but also costly. NFT has considerable potential in the intellectual property domain. It can promote transparency and liquidity and open the market to innovators who aim to commercialize their inventions efficiently. The main objective of this paper is to examine the requirements of presenting intellectual property assets, specifically patents, as NFTs. Hence, we offer a layered conceptual NFT-based patent framework. Furthermore, a series of open challenges about NFT-based patents and the possible future directions are highlighted. The proposed framework provides fundamental elements and guidance for businesses in taking advantage of NFTs in real-world problems such as grant patents, funding, biotechnology, and so forth.",
+      "search_term": "fractional patent ownership decentralized science"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3003667836",
+      "doi": "https://doi.org/10.1109/access.2020.2970143",
+      "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+      "type": "article",
+      "year": 2020,
+      "cited_by_count": 1664,
+      "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avatar or a synchronized virtual prototype, there can be no doubt that a digital twin plays a transformative role not only in how we design and operate cyber-physical intelligent systems, but also in how we advance the modularity of multi-disciplinary systems to tackle fundamental barriers not addressed by the current, evolutionary modeling practices. In this work, we review the recent status of methodologies and techniques related to the construction of digital twins mostly from a modeling perspective. Our aim is to provide a detailed coverage of the current challenges and enabling technologies along with recommendations and reflections for various stakeholders.",
+      "search_term": "fractional patent ownership decentralized science"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3210183926",
+      "doi": "https://doi.org/10.3390/app11219931",
+      "title": "Crypto Collectibles, Museum Funding and OpenGLAM: Challenges, Opportunities and the Potential of Non-Fungible Tokens (NFTs)",
+      "type": "article",
+      "year": 2021,
+      "cited_by_count": 223,
+      "abstract": "Non-fungible tokens (NFTs) make it technically possible for digital assets to be owned and traded, introducing the concept of scarcity in the digital realm for the first time. Resulting from this technical development, this paper asks the question, do they provide an opportunity for fundraising for galleries, libraries, archives and museums (GLAM), by selling ownership of digital copies of their collections? Although NFTs in their current format were first invented in 2017 as a means for game players to trade virtual goods, they reached the mainstream in 2021, when the auction house Christie’s held their first-ever sale exclusively for an NFT of a digital image, that was eventually sold for a record 69 million USD. The potential of NFTs to generate significant revenue for artists and museums by selling effectively a cryptographically signed copy of a digital image (similar to real-world limited editions, which are signed and numbered copies of a given artwork), has sparked the interest of the financially deprived museum and heritage sector with world-renowned institutions such as the Uffizi Gallery and the Hermitage Museum, having already employed NFTs in order to raise funds. Concerns surrounding the environmental impact of blockchain technology and the rise of malicious projects, exploiting previously digitised heritage content made available through OpenGLAM licensing, have attracted criticism over the speculative use of the technology. In this paper, we present the current state of affairs in relation to NFTs and the cultural heritage sector, identifying challenges, whilst highlighting opportunities that they create for revenue generation, in order to help address the ever-increasing financial challenges of galleries and museums.",
+      "search_term": "fractional patent ownership decentralized science"
+    },
+    {
+      "openalex_id": "https://openalex.org/W1541250240",
+      "doi": "https://doi.org/10.1109/jbhi.2015.2450362",
+      "title": "Big Data for Health",
+      "type": "review",
+      "year": 2015,
+      "cited_by_count": 679,
+      "abstract": "This paper provides an overview of recent developments in big data in the context of biomedical and health informatics. It outlines the key characteristics of big data and how medical and health informatics, translational bioinformatics, sensor informatics, and imaging informatics will benefit from an integrated approach of piecing together different aspects of personalized information from a diverse range of data sources, both structured and unstructured, covering genomics, proteomics, metabolomics, as well as imaging, clinical diagnosis, and long-term continuous physiological sensing of an individual. It is expected that recent advances in big data will expand our knowledge for testing new hypotheses about disease management from diagnosis to prevention to personalized treatment. The rise of big data, however, also raises challenges in terms of privacy, security, data ownership, data stewardship, and governance. This paper discusses some of the existing activities and future opportunities related to big data for health, outlining some of the key underlying issues that need to be tackled.",
+      "search_term": "fractional patent ownership decentralized science"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2559876587",
+      "doi": "https://doi.org/10.14763/2016.3.427",
+      "title": "The invisible politics of Bitcoin: governance crisis of a decentralised infrastructure",
+      "type": "article",
+      "year": 2016,
+      "cited_by_count": 290,
+      "abstract": "A trustless technology, Bitcoin tries to solve issues of social coordination and economic exchange by relying exclusively on technological means. Is technology alone able to resolve the social and political concerns affecting the Bitcoin network?",
+      "search_term": "fractional patent ownership decentralized science"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2792287788",
+      "doi": "https://doi.org/10.1016/j.bbrc.2018.01.114",
+      "title": "Drp1 phosphorylation by MAPK1 causes mitochondrial dysfunction in cell culture model of Huntington's disease",
+      "type": "article",
+      "year": 2018,
+      "cited_by_count": 69,
+      "abstract": "Mitochondrial dysfunction is a major cytopathology in Huntington's disease (HD), a fatal and inherited neurodegenerative disease. However, the molecular mechanisms by which the disease-causing gene, mutant Huntingtin (mtHtt), affects mitochondrial function remains elusive. This study aims to determine the role that Mitogen-activated protein kinase 1 (MAPK1) plays in the over-activation of Dynamin-related protein 1 (Drp1), the mitochondrial fission protein, which leads to mitochondrial dysfunction and neurodegeneration seen in HD. We show that MAPK1 binds to and phosphorylates Drp1 in vitro. Drp1 phosphorylation at serine 616 is increased in HD knock-in mouse derived striatal cells, which is abolished by treatment with U0126, a potent inhibitor of MEK1/2. A phosphorylation-deficient mutant of Drp1, Drp1S616A, corrects mitochondrial fragmentation associated with HD. Treatment with U0126 also reduces mitochondrial fragmentation, but has no additional effect in correcting aberrant mitochondrial morphology in cells expressing Drp1S616A. Finally, treatment with U0126 reduces mitochondrial depolarization and mitochondrial superoxide production in HD mutant striatal cells when compared to wildtype cells. This study suggests that in HD, MAPK1 activation leads to the aberrant mitochondrial fission and mitochondrial function by phosphorylating Drp1. Therefore, inhibition of Drp1-mediated excessive mitochondrial fission might be a strategy for development of therapy for treating HD.",
+      "search_term": "Drp1 inhibition mitochondrial fragmentation Huntington's disease neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W844912995",
+      "doi": "https://doi.org/10.1016/j.bbadis.2015.06.025",
+      "title": "Cdk5-mediated mitochondrial fission: A key player in dopaminergic toxicity in Huntington's disease",
+      "type": "article",
+      "year": 2015,
+      "cited_by_count": 36,
+      "abstract": null,
+      "search_term": "Drp1 inhibition mitochondrial fragmentation Huntington's disease neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2049016912",
+      "doi": "https://doi.org/10.1038/cdd.2012.81",
+      "title": "The pathways of mitophagy for quality control and clearance of mitochondria",
+      "type": "review",
+      "year": 2012,
+      "cited_by_count": 1823,
+      "abstract": null,
+      "search_term": "Drp1 inhibition mitochondrial fragmentation Huntington's disease neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3029234273",
+      "doi": "https://doi.org/10.1186/s13024-020-00376-6",
+      "title": "Mitochondria dysfunction in the pathogenesis of Alzheimer’s disease: recent advances",
+      "type": "review",
+      "year": 2020,
+      "cited_by_count": 1213,
+      "abstract": "Alzheimer's disease (AD) is one of the most prevalent neurodegenerative diseases, characterized by impaired cognitive function due to progressive loss of neurons in the brain. Under the microscope, neuronal accumulation of abnormal tau proteins and amyloid plaques are two pathological hallmarks in affected brain regions. Although the detailed mechanism of the pathogenesis of AD is still elusive, a large body of evidence suggests that damaged mitochondria likely play fundamental roles in the pathogenesis of AD. It is believed that a healthy pool of mitochondria not only supports neuronal activity by providing enough energy supply and other related mitochondrial functions to neurons, but also guards neurons by minimizing mitochondrial related oxidative damage. In this regard, exploration of the multitude of mitochondrial mechanisms altered in the pathogenesis of AD constitutes novel promising therapeutic targets for the disease. In this review, we will summarize recent progress that underscores the essential role of mitochondria dysfunction in the pathogenesis of AD and discuss mechanisms underlying mitochondrial dysfunction with a focus on the loss of mitochondrial structural and functional integrity in AD including mitochondrial biogenesis and dynamics, axonal transport, ER-mitochondria interaction, mitophagy and mitochondrial proteostasis.",
+      "search_term": "Drp1 inhibition mitochondrial fragmentation Huntington's disease neurodegeneration"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2586594127",
+      "doi": "https://doi.org/10.1016/j.tins.2017.01.002",
+      "title": "Mitophagy and Alzheimer’s Disease: Cellular and Molecular Mechanisms",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 862,
+      "abstract": null,
+      "search_term": "Drp1 Fis1 interaction mitochondrial dysfunction ALS Alzheimer's cognitive decline"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4385828734",
+      "doi": "https://doi.org/10.1038/s41392-023-01503-7",
+      "title": "The mitophagy pathway and its implications in human diseases",
+      "type": "review",
+      "year": 2023,
+      "cited_by_count": 720,
+      "abstract": "Mitochondria are dynamic organelles with multiple functions. They participate in necrotic cell death and programmed apoptotic, and are crucial for cell metabolism and survival. Mitophagy serves as a cytoprotective mechanism to remove superfluous or dysfunctional mitochondria and maintain mitochondrial fine-tuning numbers to balance intracellular homeostasis. Growing evidences show that mitophagy, as an acute tissue stress response, plays an important role in maintaining the health of the mitochondrial network. Since the timely removal of abnormal mitochondria is essential for cell survival, cells have evolved a variety of mitophagy pathways to ensure that mitophagy can be activated in time under various environments. A better understanding of the mechanism of mitophagy in various diseases is crucial for the treatment of diseases and therapeutic target design. In this review, we summarize the molecular mechanisms of mitophagy-mediated mitochondrial elimination, how mitophagy maintains mitochondrial homeostasis at the system levels and organ, and what alterations in mitophagy are related to the development of diseases, including neurological, cardiovascular, pulmonary, hepatic, renal disease, etc., in recent advances. Finally, we summarize the potential clinical applications and outline the conditions for mitophagy regulators to enter clinical trials. Research advances in signaling transduction of mitophagy will have an important role in developing new therapeutic strategies for precision medicine.",
+      "search_term": "Drp1 Fis1 interaction mitochondrial dysfunction ALS Alzheimer's cognitive decline"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2734651019",
+      "doi": "https://doi.org/10.1038/aps.2017.28",
+      "title": "Amyloid beta: structure, biology and structure-based therapeutic development",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 1925,
+      "abstract": null,
+      "search_term": "allosteric site dynamin-related protein 1 Fis1 mitochondrial dysfunction"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2124105006",
+      "doi": "https://doi.org/10.1042/bj20111451",
+      "title": "Autophagy, mitochondria and oxidative stress: cross-talk and redox signalling",
+      "type": "review",
+      "year": 2011,
+      "cited_by_count": 1421,
+      "abstract": "Reactive oxygen and nitrogen species change cellular responses through diverse mechanisms that are now being defined. At low levels, they are signalling molecules, and at high levels, they damage organelles, particularly the mitochondria. Oxidative damage and the associated mitochondrial dysfunction may result in energy depletion, accumulation of cytotoxic mediators and cell death. Understanding the interface between stress adaptation and cell death then is important for understanding redox biology and disease pathogenesis. Recent studies have found that one major sensor of redox signalling at this switch in cellular responses is autophagy. Autophagic activities are mediated by a complex molecular machinery including more than 30 Atg (AuTophaGy-related) proteins and 50 lysosomal hydrolases. Autophagosomes form membrane structures, sequester damaged, oxidized or dysfunctional intracellular components and organelles, and direct them to the lysosomes for degradation. This autophagic process is the sole known mechanism for mitochondrial turnover. It has been speculated that dysfunction of autophagy may result in abnormal mitochondrial function and oxidative or nitrative stress. Emerging investigations have provided new understanding of how autophagy of mitochondria (also known as mitophagy) is controlled, and the impact of autophagic dysfunction on cellular oxidative stress. The present review highlights recent studies on redox signalling in the regulation of autophagy, in the context of the basic mechanisms of mitophagy. Furthermore, we discuss the impact of autophagy on mitochondrial function and accumulation of reactive species. This is particularly relevant to degenerative diseases in which oxidative stress occurs over time, and dysfunction in both the mitochondrial and autophagic pathways play a role.",
+      "search_term": "allosteric site dynamin-related protein 1 Fis1 mitochondrial dysfunction"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2945779890",
+      "doi": "https://doi.org/10.3390/cells8050488",
+      "title": "Amyloid Beta and Phosphorylated Tau-Induced Defective Autophagy and Mitophagy in Alzheimer’s Disease",
+      "type": "review",
+      "year": 2019,
+      "cited_by_count": 467,
+      "abstract": "Alzheimer’s disease (AD) is a progressive neurodegenerative disease characterized by memory loss and multiple cognitive impairments. Several decades of intense research have revealed that multiple cellular changes are implicated in the development and progression of AD, including mitochondrial damage, synaptic dysfunction, amyloid beta (Aβ) formation and accumulation, hyperphosphorylated tau (P-Tau) formation and accumulation, deregulated microRNAs, synaptic damage, and neuronal loss in patients with AD. Among these, mitochondrial dysfunction and synaptic damage are early events in the disease process. Recent research also revealed that Aβ and P-Tau-induced defective autophagy and mitophagy are prominent events in AD pathogenesis. Age-dependent increased levels of Aβ and P-Tau reduced levels of several autophagy and mitophagy proteins. In addition, abnormal interactions between (1) Aβ and mitochondrial fission protein Drp1; (2) P-Tau and Drp1; and (3) Aβ and PINK1/parkin lead to an inability to clear damaged mitochondria and other cellular debris from neurons. These events occur selectively in affected AD neurons. The purpose of our article is to highlight recent developments of a Aβ and P-Tau-induced defective autophagy and mitophagy in AD. This article also summarizes several aspects of mitochondrial dysfunction, including abnormal mitochondrial dynamics (increased fission and reduced fusion), defective mitochondrial biogenesis, reduced ATP, increased free radicals and lipid peroxidation, and decreased cytochrome c oxidase (COX) activity and calcium dyshomeostasis in AD pathogenesis. Our article also discusses how reduced levels of Drp1, Aβ, and P-Tau can enhance the clearance of damaged mitochondria and other cellular debris by autophagy and mitophagy mechanisms.",
+      "search_term": "allosteric site dynamin-related protein 1 Fis1 mitochondrial dysfunction"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2765579241",
+      "doi": "https://doi.org/10.1534/genetics.117.300262",
+      "title": "Cell Biology of the Mitochondrion",
+      "type": "review",
+      "year": 2017,
+      "cited_by_count": 386,
+      "abstract": "Abstract Mitochondria are best known for harboring pathways involved in ATP synthesis through the tricarboxylic acid cycle and oxidative phosphorylation. Major advances in understanding these roles were made with Caenorhabditiselegans mutants affecting key components of the metabolic pathways. These mutants have not only helped elucidate some of the intricacies of metabolism pathways, but they have also served as jumping off points for pharmacology, toxicology, and aging studies. The field of mitochondria research has also undergone a renaissance, with the increased appreciation of the role of mitochondria in cell processes other than energy production. Here, we focus on discoveries that were made using C. elegans, with a few excursions into areas that were studied more thoroughly in other organisms, like mitochondrial protein import in yeast. Advances in mitochondrial biogenesis and membrane dynamics were made through the discoveries of novel functions in mitochondrial fission and fusion proteins. Some of these functions were only apparent through the use of diverse model systems, such as C. elegans. Studies of stress responses, exemplified by mitophagy and the mitochondrial unfolded protein response, have also benefitted greatly from the use of model organisms. Recent developments include the discoveries in C. elegans of cell autonomous and nonautonomous pathways controlling the mitochondrial unfolded protein response, as well as mechanisms for degradation of paternal mitochondria after fertilization. The evolutionary conservation of many, if not all, of these pathways ensures that results obtained with C. elegans are equally applicable to studies of human mitochondria in health and disease.",
+      "search_term": "allosteric site dynamin-related protein 1 Fis1 mitochondrial dysfunction"
+    },
+    {
+      "openalex_id": "https://openalex.org/W2591928386",
+      "doi": "https://doi.org/10.1007/s00109-017-1522-8",
+      "title": "Ischemia-induced Drp1 and Fis1-mediated mitochondrial fission and right ventricular dysfunction in pulmonary hypertension",
+      "type": "article",
+      "year": 2017,
+      "cited_by_count": 118,
+      "abstract": null,
+      "search_term": "ischemia-induced Drp1 Fis1 mitochondrial fission pulmonary hypertension"
+    },
+    {
+      "openalex_id": "https://openalex.org/W4396936983",
+      "doi": "https://doi.org/10.1038/s41392-024-01839-8",
+      "title": "Mitochondrial dysfunction: mechanisms and advances in therapy",
+      "type": "article",
+      "year": 2024,
+      "cited_by_count": 923,
+      "abstract": "Mitochondria, with their intricate networks of functions and information processing, are pivotal in both health regulation and disease progression. Particularly, mitochondrial dysfunctions are identified in many common pathologies, including cardiovascular diseases, neurodegeneration, metabolic syndrome, and cancer. However, the multifaceted nature and elusive phenotypic threshold of mitochondrial dysfunction complicate our understanding of their contributions to diseases. Nonetheless, these complexities do not prevent mitochondria from being among the most important therapeutic targets. In recent years, strategies targeting mitochondrial dysfunction have continuously emerged and transitioned to clinical trials. Advanced intervention such as using healthy mitochondria to replenish or replace damaged mitochondria, has shown promise in preclinical trials of various diseases. Mitochondrial components, including mtDNA, mitochondria-located microRNA, and associated proteins can be potential therapeutic agents to augment mitochondrial function in immunometabolic diseases and tissue injuries. Here, we review current knowledge of mitochondrial pathophysiology in concrete examples of common diseases. We also summarize current strategies to treat mitochondrial dysfunction from the perspective of dietary supplements and targeted therapies, as well as the clinical translational situation of related pharmacology agents. Finally, this review discusses the innovations and potential applications of mitochondrial transplantation as an advanced and promising treatment.",
+      "search_term": "ischemia-induced Drp1 Fis1 mitochondrial fission pulmonary hypertension"
+    },
+    {
+      "openalex_id": "https://openalex.org/W3084673165",
+      "doi": "https://doi.org/10.1038/s41401-020-00518-y",
+      "title": "Drp1-dependent mitochondrial fission in cardiovascular disease",
+      "type": "review",
+      "year": 2020,
+      "cited_by_count": 361,
+      "abstract": null,
+      "search_term": "ischemia-induced Drp1 Fis1 mitochondrial fission pulmonary hypertension"
+    }
+  ],
+  "originality_statement": ""
+}
