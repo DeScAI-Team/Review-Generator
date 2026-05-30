@@ -67,3 +67,7 @@ ocr-test.py
 pape-manual.py
 
 articles/article_uploader/test.txt
+
+test-data/
+
+full-test/ 
